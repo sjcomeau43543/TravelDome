@@ -3,6 +3,7 @@ import json
 # scrapers
 from scraper_yelp import Yelp
 yelpscraper = Yelp()
+import scraper_tripadvisor
 
 # activity
 from activity import Activity
@@ -12,10 +13,8 @@ def main():
     with open("locations.txt", "r") as locations_file:
         locations = locations_file.readlines()
 
-
     for location in locations:
-        [city, state] = location.split(',')
-
+        [city, state] = location.strip('\n').split(',')
 
         # Yelp
         print("Scraping Yelp for", city, state)
@@ -26,5 +25,9 @@ def main():
                 json.dump(activity.encode(), outfile, indent=1)
             outfile.write("]\n")
 
+        # TripAdvisor
+        print("Scraping TripAdvisor for", city, state)
+        activities = scraper_tripadvisor.tripadvisor_scrape(city, state)
 
-main()
+if __name__ == '__main__':
+    main()
