@@ -56,7 +56,7 @@ def main():
 
         if args.maps:
             # Google maps
-            print("Scraping TripAdvisor for", city, state)
+            print("Scraping GoogleMaps for", city, state)
 
 if __name__ == '__main__':
     main()
