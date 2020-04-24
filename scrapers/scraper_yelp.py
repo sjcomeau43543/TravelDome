@@ -1,6 +1,5 @@
 '''
-@author Samantha Comeau
-@email  sjcomeau@wpi.edu
+Since writing this we have discovered that Yelp does not permit scraping of it's site. 
 '''
 
 import requests
@@ -16,7 +15,9 @@ class Yelp:
 
 
     def build_url(self, city, state, start=0):
-        return "https://yelp.com/search?find_desc=things%20to%20do&find_loc="+city+"%2C%20"+state+"&start="+str(start)
+        url = "https://yelp.com/search?find_desc=things%20to%20do&find_loc="+city+"%2C%20"+state+"&start="+str(start)
+        
+        return url
 
     
     def scrape(self, city, state, num_results=100):
