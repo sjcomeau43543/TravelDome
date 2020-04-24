@@ -56,7 +56,7 @@ def scrape(city, state, code_1, code_2):
             _, review_site = url_to_json('https://www.tripadvisor.com' + review_link)
             review_text.append(review_site['reviewBody'])
 
-        a = Activity(activity['name'], address, rating, None, photo, "TripAdvisor")
+        a = Activity(activity['name'], address, rating, None, photo, "TripAdvisor", review_text)
         a.set_tags(review_text)
         activities_info.append(a)
 
