@@ -55,6 +55,8 @@ def main():
                 outfile.write("[\n")
                 for activity in activities:
                     json.dump(activity.encode(), outfile, indent=1)
+                    if activity != activities[-1]:
+                        outfile.write(",")
                 outfile.write("]\n")
 
         if args.tripadvisor:
