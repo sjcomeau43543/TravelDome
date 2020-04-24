@@ -43,7 +43,7 @@ def main():
 
             # Scrape
             activities = yelpscraper.scrape(city, state)
-            with open("../data/Yelp/results_"+city+state+".json", "w") as outfile:
+            with open("../data/Yelp/"+city+state+".json", "w") as outfile:
                 outfile.write("[\n")
                 for activity in activities:
                     json.dump(activity.encode(), outfile, indent=1)
