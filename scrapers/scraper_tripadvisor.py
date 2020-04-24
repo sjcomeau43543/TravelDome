@@ -3,6 +3,7 @@ Author:        Eda
 Last modified: 4.24.2020 by ez
 Status:        ??
 
+TODO: return activities list and handle file writing in the maine scrape.py
 '''
 import os, json, requests, re
 import bs4 as BeautifulSoup

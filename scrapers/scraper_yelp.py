@@ -4,6 +4,7 @@ Last modified: 4.24.2020 by sjc
 Status:        Depricated
 
 Since writing this we have discovered that Yelp does not permit scraping of it's site. 
+https://www.yelp-support.com/article/Can-I-copy-or-scrape-data-from-the-Yelp-site?l=en_US
 '''
 
 import requests
@@ -23,8 +24,14 @@ class Yelp:
         
         return url
 
+    def build_api_url(self, city, state, start=0):
+
+        pass
     
     def scrape(self, city, state, num_results=100):
+        pass
+
+    def scrape_old(self, city, state, num_results=100):
         activities = []
 
         for block in range(int(num_results/10)):
