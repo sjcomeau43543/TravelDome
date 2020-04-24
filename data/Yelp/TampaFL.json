@@ -1,2 +1,826 @@
 [
-]
+{
+ "name": "The Tampa Riverwalk",
+ "address": "200 N Ashley Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Big Cat Rescue",
+ "address": "12802 Easy St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Nude Nite",
+ "address": "6818 S Manhattan Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Croc Encounters",
+ "address": "8703 Bowles Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Manatee Viewing Center",
+ "address": "6990 Dickman Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Florida Aquarium",
+ "address": "701 Channelside Dr",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Murder House",
+ "address": "1400 N Channelside Dr",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "International Plaza and Bay Street",
+ "address": "2223 N Westshore Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Florida State Fair",
+ "address": "4800 US Hwy 301 N",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "ZooTampa at Lowry Park",
+ "address": "1101 W Sligh Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Bay Water Bike Company",
+ "address": "333 S Franklin St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "CineBistro at Hyde Park Village",
+ "address": "1609 W Swann Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Geek Out",
+ "address": "10630 N 56th St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Ybor Ghost Tour",
+ "address": "",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Lettuce Lake Park",
+ "address": "6920 E Fletcher Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Whiskey Joe\u2019s - Tampa",
+ "address": "7720 W Courtney Campbell Causeway",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Hyde Park Village",
+ "address": "744 South Village Cir",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Historic Ybor City District",
+ "address": "",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Pier 60 Sugar Sand Festival",
+ "address": "7 Causeway Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sunken Gardens",
+ "address": "1825 4th St N",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Alligator Attraction",
+ "address": "12973 Village Blvd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Dali Museum",
+ "address": "1 Dali Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Epperson Lagoon",
+ "address": "31885 Overpass Rd",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Replay Amusement Museum",
+ "address": "119 E Tarpon Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sparkman Wharf",
+ "address": "615 Channelside Dr",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "iFLY Indoor Skydiving - Tampa",
+ "address": "10654 Palm River Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Island Boat Adventures",
+ "address": "6800 Sunshine Skyway Ln S",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Curtis Hixon Waterfront Park",
+ "address": "600 N Ashley Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Great Escape Room",
+ "address": "300 E Madison St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Axe Throwing Tampa",
+ "address": "5811 Memorial Hwy",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Trinity Transportation",
+ "address": "",
+ "avg_visitor_review": 0,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "CPonies",
+ "address": "8410 Manatee Ave W",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Theatre",
+ "address": "711 N Franklin St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Empower Adventures Tampa Bay",
+ "address": "423 Lafayette Blvd",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sunsets at Pier 60",
+ "address": "10 Pier 60 Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "GameTime",
+ "address": "1600 E 8th Ave",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Florida Strawberry Festival",
+ "address": "303  Berryfest Place",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Beach Tampa At The Amalie Arena",
+ "address": "401 Channelside Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Saturday Morning Market",
+ "address": "101 1st St S",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "MOSI - Museum of Science &amp; Industry",
+ "address": "4801 E Fowler Ave",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Odessa Wildlife Rescue and Sanctuary",
+ "address": "18404 Rustic Woods Trl",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Acting Studio of Lutz",
+ "address": "122 Flagship Dr",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Caladesi Island State Park",
+ "address": "1 Causeway Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sweetwater Kayaks Rentals at Weedon Island",
+ "address": "1800 Weedon Dr NE",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Skydive City",
+ "address": "4241 Sky Dive Ln",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Clearwater Beach",
+ "address": "419 E Shore Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "eBOATS Tampa",
+ "address": "333 S  Franklin St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Dinosaur World",
+ "address": "5145 Harvey Tew Rd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Brew Bus Brewing",
+ "address": "4101 N Florida Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Can You Escape?",
+ "address": "5811 Memorial Hwy",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Bayshore Linear Park Trail",
+ "address": "312 Bayshore Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Gigglewaters",
+ "address": "737 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Trinity Transportation",
+ "address": "",
+ "avg_visitor_review": 0,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Mixon Fruit Farms",
+ "address": "2525 27th St E",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Flatwoods Park",
+ "address": "42540 Bruce B Downs Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Cheese Please",
+ "address": "3225 S MacDill Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Vertical Ventures",
+ "address": "5402 Pioneer Park Blvd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Airosphere",
+ "address": "622 Ware Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Weedon Island Preserve",
+ "address": "1800 Weedon Dr NE",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "A Boat Day",
+ "address": "",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Bay Grand Prix",
+ "address": "3404 Cragmont Dr",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Odyssey Cruises",
+ "address": "776 Dodecanese Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Clearwater Marine Aquarium",
+ "address": "249 Windward Passage",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "PedalPub St Petersburg",
+ "address": "1975 3rd Ave S",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Raider Axe Lodge",
+ "address": "5018 N Coolidge Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Henry B. Plant Museum",
+ "address": "401 W Kennedy Blvd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Florida Orange Groves Winery",
+ "address": "1500 Pasadena Ave S",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Improv Comedy Club",
+ "address": "1600 E 8th Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Bay Grand Prix",
+ "address": "12350 Automobile Blvd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Bury the Hatchet",
+ "address": "939 Oakfield Dr",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Captain Memo\u2019s Pirate Cruise",
+ "address": "25 Causeway Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Ruskin Family Drive-In Theater",
+ "address": "5011 US Hwy 41 N",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Cracker Country",
+ "address": "4800 Hwy 301 N",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Florida Botanical Gardens",
+ "address": "12520 Ulmerton Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Brew Tours By Thirsty Pelican",
+ "address": "7701 Blind Pass Rd",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Shops at Wiregrass",
+ "address": "28211 Paseo Dr",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Trey Rod Fishing Charters",
+ "address": "5108 W Gandy Blvd Tampa",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Museum of Art",
+ "address": "120 W Gasparilla Plz",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Bay Sup Stand Up Paddleboarding &amp; Kayaking",
+ "address": "110 Veterans Memorial Ln",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Bay Area Renaissance Festival",
+ "address": "11315 N 46th St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Capt Jared",
+ "address": "",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sarasota Jungle Gardens",
+ "address": "3701 Bay Shore Rd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Glazer Children\u2019s Museum",
+ "address": "110 W Gasparilla Plz",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Cypress Breeze Farm",
+ "address": "8690 60th St N",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Julian B. Lane Riverfront Park",
+ "address": "1001 N Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Vertical Ventures",
+ "address": "116 18th St S",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Dancing Goat",
+ "address": "12502 Maverick Ct",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Gasparilla Pirate Festival",
+ "address": "Bayshore Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Parkesdale Farm Market",
+ "address": "3702 W Baker St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Worlds Largest Food Truck Rally EVER",
+ "address": "4800 US Hwy 301 N",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Electric Glide Tours",
+ "address": "1805 E 9th Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tarpon Springs Aquarium",
+ "address": "850 Dodecanese Blvd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Philippe Park",
+ "address": "2525 Philippe Pkwy",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Carrollwood Village Park",
+ "address": "4680 W Village Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Coconut Kayak Tours",
+ "address": "719 Gulf Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Dolphin Racer Speedboat",
+ "address": "3400 Pasadena Ave S",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sam\u2019s Beach Bar",
+ "address": "6325 Clark St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Indian Rocks Beach",
+ "address": "1700 Gulf Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Horse Power for Kids",
+ "address": "8005 Race Track Rd S",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "PK\u2019s PlayZone &amp; Grille",
+ "address": "10019 W Hillsborough Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Ballast Point Park",
+ "address": "5300 Interbay Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "On Swann",
+ "address": "1501 W Swann Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tampa Bay History Center",
+ "address": "801 Water St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+}]

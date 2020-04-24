@@ -1,9 +1,12 @@
 '''
 Author:        Samantha
 Last modified: 4.24.2020 by sjc
-Status:        Need to add Google Maps
+Status:        In Progress
 
 The purpose of this is to integrate all the scrapers
+
+TODO: fix filewriting
+TODO: add google maps
 '''
 
 import json

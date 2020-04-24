@@ -1,2 +1,818 @@
 [
-]
+{
+ "name": "Providence River Boat",
+ "address": "525 S Water St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Roger Williams Park Botanical Center",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "La Gondola",
+ "address": "1 Citizens Plz",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "WaterFire Providence",
+ "address": "4 North Main St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Freeplay Bar &amp; Arcade",
+ "address": "182 Pine St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Hope Street Farmers\u2019 Market",
+ "address": "1015 Hope St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "RISD Museum",
+ "address": "224 Benefit St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Escape Rhode Island",
+ "address": "385 S Main St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Ghost Tour",
+ "address": "60 Congdon St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Movies On The Block",
+ "address": "260 Westmister St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Kayak",
+ "address": "10 Memorial Blvd",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Jack-O-Lantern Spectacular",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Monster Mini Golf",
+ "address": "140 Taunton Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Blackstone Boulevard Walking Path",
+ "address": "Blackstone Blvd &amp;amp; Hope St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "City of Providence",
+ "address": "",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Shunned House",
+ "address": "135 Benefit St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Museum of Natural History and Planetarium",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Muse Paintbar",
+ "address": "117 N Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Roger Williams Park",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Children\u2019s Museum",
+ "address": "100 South St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rhode Island Red Food Tours",
+ "address": "",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Boston Chocolate School &amp; Tours",
+ "address": "",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Box Office",
+ "address": "460 Harris Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Lock &amp; Clue Escape Rooms",
+ "address": "1005 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rock Spot Climbing",
+ "address": "100 Higginson Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Lincoln Woods State Park",
+ "address": "2 Manchester Print Works Rd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Pawtucket Wintertime Farmers Market",
+ "address": "1005 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Barnaby castle",
+ "address": "299 Broadway",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Providence Rink",
+ "address": "2 Kennedy Plz",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "India Point Park",
+ "address": "India St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rhode Island State House",
+ "address": "82 Smith St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Great Escape Room",
+ "address": "146 Westminster St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "R1 Indoor Karting",
+ "address": "100 Higginson Ave",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Axe Bar",
+ "address": "100 Higginson Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Fargnoli Park",
+ "address": "945 Smith Street",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Devon Point Farm",
+ "address": "54 Jeremy Hill Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Tiny Bar",
+ "address": "377 Richmond St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Newport Classic Car Tours",
+ "address": "",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Seekonk Grand Prix",
+ "address": "1098 Fall River Ave",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Roger Williams Park Zoo - Temp. CLOSED",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Mulberry Vineyard",
+ "address": "95 Pound Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Gather Glass",
+ "address": "521 Atwells Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence River Pedestrian Bridge",
+ "address": "335 S Water St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rail Explorers Rhode Island Division - Temp. CLOSED",
+ "address": "1 Alexander Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Ladd Observatory",
+ "address": "210 Doyle Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Four Town Farm",
+ "address": "90 George St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Avon Cinema",
+ "address": "260 Thayer St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Prospect Park",
+ "address": "Congdon St At Bowen St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "John Brown House Museum",
+ "address": "52 Power St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Waterplace Park",
+ "address": "",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Carmelan Limo Service",
+ "address": "",
+ "avg_visitor_review": 0,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Comedy Connection Rhode Island",
+ "address": "39 Warren Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Place",
+ "address": "One Providence Place",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sky Zone Trampoline Park",
+ "address": "70 Pawtucket Ave",
+ "avg_visitor_review": 3,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Dave Marchetti\u2019s Animal Experiences",
+ "address": "29 Argyle Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Kayak Centre",
+ "address": "70 Brown St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Neutaconkanut Park",
+ "address": "675 Plainfield St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Paint and Vino",
+ "address": "150 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Slater Memorial Park",
+ "address": "Newport Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Narragansett Sailing Charters",
+ "address": "101 Narragansett Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Blue Hill Helicopters",
+ "address": "125 Access Rd",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Riffraff Bookstore and Bar",
+ "address": "60 Valley St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "BLR Scooter",
+ "address": "12 Plainfield St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Hope Artiste Village",
+ "address": "1005 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Massimo Restaurant",
+ "address": "134 Atwells Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Parlour",
+ "address": "1119 N Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Julians",
+ "address": "318 Broadway",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rogue Island Local Kitchen &amp; Bar",
+ "address": "65 Weybosset St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Argia Mystic Cruises",
+ "address": "12 Steamboat Wharf",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Mayflower Brewing Company",
+ "address": "12 Resnik Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Mokban Korean Bistro",
+ "address": "217 Westminster St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence French Film Festival",
+ "address": "154 Angell St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "RISD Nature Lab",
+ "address": "13 Waterman St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Garden City Center",
+ "address": "100 Midway Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Independence Trail",
+ "address": "44 Custom House St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Ogie\u2019s Trailer Park",
+ "address": "1155 Westminster St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Mystery Room",
+ "address": "400 Reservoir Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Breaktime Bowl and Bar",
+ "address": "999 Main St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Grange",
+ "address": "166 Broadway",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Governor Notte Park",
+ "address": "1160 Douglas Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "F\u00eate Music Hall",
+ "address": "103 Dike St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Picture Frame",
+ "address": "1350 Mineral Spring Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Malted Barley",
+ "address": "334 Westminster St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Trinity Rep",
+ "address": "201 Washington St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "K R Baseball Academy",
+ "address": "100 Higginson Ave",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rondeaus Kickboxing",
+ "address": "609 Killingly St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Rhode Island Seafood Festival",
+ "address": "201 India St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Sura Korean BBQ",
+ "address": "300 George Waterman Rd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "The Arcade Providence",
+ "address": "65 Weybosset St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Osamequin Wildlife Sanctuary",
+ "address": "Wampanoag Trl",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Brass Monkey",
+ "address": "800 Allens Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Farm Fresh Rhode Island",
+ "address": "1005 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Twin River Casino Hotel",
+ "address": "100 Twin River Rd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Providence Oyster Bar",
+ "address": "283 Atwells Ave",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Pinwheel Tourism",
+ "address": "1 Sabin St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Brown Design Workshop",
+ "address": "355 Brook St",
+ "avg_visitor_review": 5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "LaMei Hot Pot",
+ "address": "256 Broadway",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Haunted Labyrinth",
+ "address": "804 Dyer Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Annmary Brown Memorial",
+ "address": "21 Brown St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Y Noodle &amp; Bar",
+ "address": "425 W Fountain St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Troop PVD",
+ "address": "60 Valley St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+},{
+ "name": "Harry\u2019s Bar &amp; Burger",
+ "address": "121 N Main St",
+ "avg_visitor_review": 4,
+ "avg_time_spent": null,
+ "photo_location": null,
+ "tags": "[]",
+ "source": "Yelp"
+}]
