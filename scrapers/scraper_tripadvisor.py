@@ -1,6 +1,8 @@
 '''
-@author Eda Zhou
-@email  ezhou@wpi.edu
+Author:        Eda
+Last modified: 4.24.2020 by ez
+Status:        ??
+
 '''
 import os, json, requests, re
 import bs4 as BeautifulSoup

@@ -1,3 +1,11 @@
+'''
+Author:        Samantha
+Last modified: 4.24.2020 by sjc
+Status:        Need to add Google Maps
+
+The purpose of this is to integrate all the scrapers
+'''
+
 import json
 import argparse
 import os

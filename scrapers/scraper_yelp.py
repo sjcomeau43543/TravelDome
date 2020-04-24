@@ -1,4 +1,8 @@
 '''
+Author:        Samantha
+Last modified: 4.24.2020 by sjc
+Status:        Depricated
+
 Since writing this we have discovered that Yelp does not permit scraping of it's site. 
 '''
 

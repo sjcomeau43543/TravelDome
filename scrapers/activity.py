@@ -1,3 +1,11 @@
+'''
+Author:        Samantha
+Last modified: 4.24.2020 by sjc
+Status:        Need tags function
+
+This holds an activity and can translate it to a json string
+'''
+
 import json
 
 class Activity:
