@@ -1,10 +1,12 @@
 '''
 Author:        Samantha
 Last modified: 4.24.2020 by sjc
-Status:        Depricated
+Status:        In Progress
 
 Since writing this we have discovered that Yelp does not permit scraping of it's site. 
 https://www.yelp-support.com/article/Can-I-copy-or-scrape-data-from-the-Yelp-site?l=en_US
+
+TODO Attempt REST API implementation
 '''
 
 import requests
