@@ -1,15 +1,18 @@
 '''
 Author:        Samantha
 Last modified: 4.24.2020 by sjc
-Status:        Need tags function
+Status:        In progress
 
 This holds an activity and can translate it to a json string
+
+# TODO tagging function
 '''
 
 import json
 
 class Activity:
     # Not sure we need these static members..? - Eda
+    # this is so when people are writing scrapers they know what to store and what type / location is should be in
     name = ""
     address = ""
     avg_visitor_review = 0.0
@@ -21,7 +24,7 @@ class Activity:
     def __init__(self):
         pass
 
-    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[]):
+    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[], tags=[]):
         self.name = name
         self.address = address
         self.avg_visitor_review = avg_visitor_review
@@ -29,6 +32,7 @@ class Activity:
         self.photo_location = photo_location
         self.source = source
         self.reviews = reviews
+        self.tags = tags
 
     # pass in top reviews
     # TODO
@@ -42,6 +46,6 @@ class Activity:
                 "avg_visitor_review":self.avg_visitor_review,
                 "avg_time_spent":self.avg_time_spent,
                 "photo_location":self.photo_location,
-                "tags":str(self.tags),
+                "tags":self.tags,
                 "source":self.source,
                 "reviews":self.reviews}
