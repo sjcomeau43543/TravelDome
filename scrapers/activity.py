@@ -9,7 +9,7 @@ This holds an activity and can translate it to a json string
 import json
 
 class Activity:
-    
+    # Not sure we need these static members..? - Eda
     name = ""
     address = ""
     avg_visitor_review = 0.0
@@ -21,13 +21,14 @@ class Activity:
     def __init__(self):
         pass
 
-    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source):
+    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[]):
         self.name = name
         self.address = address
         self.avg_visitor_review = avg_visitor_review
         self.avg_time_spent = avg_time_spent
         self.photo_location = photo_location
         self.source = source
+        self.reviews = reviews
 
     # pass in top reviews
     # TODO
@@ -42,4 +43,5 @@ class Activity:
                 "avg_time_spent":self.avg_time_spent,
                 "photo_location":self.photo_location,
                 "tags":str(self.tags),
-                "source":self.source}
+                "source":self.source,
+                "reviews":self.reviews}
