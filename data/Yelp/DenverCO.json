@@ -1,834 +1,652 @@
 [
 {
- "name": "Joyous Chinese Cultural School",
- "address": "6940 S Holly Cir",
- "avg_visitor_review": 0,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "International Church of Cannabis",
- "address": "400 S Logan St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Selfie Museum",
- "address": "1525 Market St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Upstairs Circus Lower Downtown - LoDo",
- "address": "1500 Wynkoop St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Botanic Gardens",
- "address": "1007 York St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "TheBigWonderful",
- "address": "4400 Fox St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Red Rocks Amphitheatre",
- "address": "18300 W Alameda Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Boulder Flatirons",
- "address": "50 Baseline Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Stanley Marketplace",
- "address": "2501 Dallas St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Hammond\u2019s Candies Factory",
- "address": "5735 N Washington St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Chautauqua Park",
- "address": "9TH St And Baseline Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Museum of Nature and Science",
- "address": "2001 Colorado Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Zoo",
- "address": "2300 Steele St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Dinosaur Ridge",
- "address": "16831 W Alameda Pkwy",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Coors Brewery Tour",
- "address": "13th St &amp;amp; Ford St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Microbrew Tour",
- "address": "2220 Blake St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Washington Park",
- "address": "S Downing St &amp;amp; E Louisiana Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Denver Free Walking Tours",
- "address": "200 E Colfax Ave",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Urban Putt",
- "address": "1201 18th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Dark Side of Denver Ghost Tours",
- "address": "1701 Wynkoop St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Rocky Mountain Arsenal",
- "address": "6550 Gateway Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The Downtown Denver Rink At Skyline Park",
- "address": "1611 Arapahoe St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Lookout Mountain Park",
- "address": "987 Lookout Mountain Road",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Pearl Street Mall",
- "address": "1420 Pearl St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Downtown Aquarium",
- "address": "700 Water St",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
  "name": "Tiny Town",
  "address": "6249 S Turkey Creek Rd",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The 1UP Arcade Bar - LoDo",
- "address": "1925 Blake St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Molly Brown House Museum",
- "address": "1340 Pennsylvania St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_qI2KIOeh7982CPx_LrGS-g.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I haven't been to Tiny Town since I was a kid, and my son and I were super bored yesterday, so I thought, why not??  \n\nIt took me back to when I was a kid,...",
+  "Another one of these odd Colorado \"historical\" obsessions. As a Colorado native who was born here and lived a majority of my life here, I have to say that I...",
+  "My 10 year old son and daughter loved it, especially the tiny buildings they could go into. They didn't play at the playground, mainly cause it was swarmed..."
+ ]
 },{
  "name": "Denver Adventures - Zipline Tours",
  "address": "26267 Conifer Rd",
- "avg_visitor_review": 5,
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_otitP19qVfjUQFY1jOjXxw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Wear layers!!!! A lot a lot.. maybe I'm just always cold but I wish I would've wore even more layers! Super fun and exhilarating adventure through the...",
+  "It would be tough to hurt yourself, and plenty exciting. \n\nSafe and exciting way to explore the trees and parkland of Colorado. \n\n35 miles from the airport,...",
+  "Just did the 6 line tour. My boyfriend and I only remember Abby'a name (we are jerks I know). There was also Tom? Maybe? Some kid called one Vin Diesel,..."
+ ]
 },{
- "name": "Red Fox Alpaca Ranch",
- "address": "7542 Red Fox Dr",
- "avg_visitor_review": 5,
+ "name": "Children's Museum of Denver at Marsico Campus",
+ "address": "2121 Childrens Museum Dr",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_NqkblxIwviVB17Qscv8v8A.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Children's museum is such a fun and unique venue to host your event! Think outside the box, and you can do fun fundraisers, weddings and even corporate...",
+  "We had our wedding and ceremony here at the skyline gallery and it was amazing! Ryan Ting was the coordinator and contact for the museum, and Ryan along...",
+  "Okay so the place is super cool and fun, but it's 14 per person. So to take my five year old, it was 42 for him, me and my husband...that's expensive! Also..."
+ ]
 },{
- "name": "ScooTours Denver Scooter Rental",
- "address": "1417 California St",
- "avg_visitor_review": 5,
+ "name": "Denver Art Museum",
+ "address": "100 W 14th Ave Pkwy",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_P_jFGrrz_aOYEmakW3NKjQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Thanks to the calling from the painter gods, I was blessed with an once-in-a-lifetime opportunity to see all of Claude Monet's paintings at this exquisite...",
+  "The only reason I can't rate DAM higher is because a large portion of it was closed for remodeling when I visited. There were four floors open in the newer...",
+  "This review is NOT for the Monet works themselves that were being exhibited. Rather, it is about rude customer service and the pathetic gift shop at the end..."
+ ]
 },{
- "name": "Joyous Chinese Cultural School",
- "address": "6940 S Holly Cir",
- "avg_visitor_review": 0,
+ "name": "Blue Sushi Sake Grill",
+ "address": "1616 16th St",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Larimer Square",
- "address": "1430 Larimer St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Liquid Descent",
- "address": "1896 Stanley Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "City Sessions Denver",
- "address": "3377 Blake St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Fair Winds Hot Air Balloon Rides",
- "address": "2140 North 107th St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Axe Whooping",
- "address": "437 N Broadway",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The Money Museum",
- "address": "1020 16th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Butterfly Pavilion",
- "address": "6252 W 104th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Great American Beer Festival",
- "address": "700 14th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Old South Pearl Street Farmers Market",
- "address": "1500 S Pearl St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Board Game Republic",
- "address": "900 W 1st Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Bacon Social House",
- "address": "2434 W 44th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Millennium Bridge",
- "address": "16TH St Mall And Chestnut St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_BKRLsUCryeR1JJtyGVWW_g.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Omg this place is to die for!!!!!! They have a salmon plate that is drizzled in truffle sauce and it melts in your mouth. Everything we ordered was...",
+  "Solid spot for sushi on Denver's famous 16th St. mall.  I enjoyed the atmosphere and food, not one of my faves but good enough. \n\nNot a whole lot to report...",
+  "Blue Sushi is one of my go to places to escape the office for lunch. Great lunch specials, but their full menu is also available (thursdays they have a..."
+ ]
 },{
  "name": "Belleview Park",
  "address": "5001 S Inca Dr",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_Kiwpo1BeBZ423ZkaQoG2jQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Another favorite park! Tennis courts... Basketball courts... Lots of grassy areas/trees. Big Plus are the Playgrounds! If you have kiddos that are climbers,...",
+  "There should be more reviews for this park. All 5s. The only drawbacks are that it shares parking with the water park next door, and it's on Belleview - a...",
+  "This review is short and sweet! What more can you say about a park then...relaxing and fun! Mom and Dad relaxing while the kids play in the..."
+ ]
 },{
- "name": "Bad Axe Throwing",
- "address": "7338 Washington St",
- "avg_visitor_review": 4,
+ "name": "Axe Whooping",
+ "address": "437 N Broadway",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_TKl2I1RdyIZHpFTWAPIwCQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Checked this place out for the first time today after wanting to go down for several months. \n\nIt's a beautiful facility that is open, spacious and quieter...",
+  "I came here with my coworkers and other partners as a team builder. We had the place to ourselves as it was early and they opened just for us. The...",
+  "Our team came here for some pre-happy hour fun without really knowing what to expect and, I've got to say, this was such a blast! The staff was very..."
+ ]
 },{
- "name": "Wings Over the Rockies Air &amp; Space Museum",
- "address": "7711 E Academy Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Coors Field",
- "address": "2001 Blake St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "I See What You Mean by Lawrence Argent",
- "address": "700 14th St",
+ "name": "Cheesman Park",
+ "address": "Franklin St & 8th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_zw0r0ZkS4xO_gzl2BtnfOQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Look no further for an urban park in Denver. Surrounds with trees, buildings, downtown and mountain views. The park is centrally located is the...",
+  "Cheesman is my favorite Denver park. I'm prejudiced--if I go down the staircase behind my townhouse and open the gate, I'm standing in the park and just...",
+  "Cheesman Park is so convenient to where I like to stay when I am visiting Denver. The park has lots of energy with people walking, twirling fire batons,..."
+ ]
 },{
- "name": "Banjo Billy\u2019s Bus Tours",
- "address": "14TH And California St",
+ "name": "Cherry Cricket",
+ "address": "2641 E 2nd Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_JJiugrBcZrNpX0ueUBuvrg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "There are times when you want a good burger and nothing else will suffice. Even if that means calling in an order and picking up. \n\nThat was my big Saturday...",
+  "Miss the in person experience but to-go here is a good option. Got a lil cricket burger with american cheese and frings. Did not disappoint. Ordering and...",
+  "I am in Denver to see my bf and I found this place online. We went there and I have to say this was the best hamburger I have EVER eaten. It was phenomenal!..."
+ ]
+},{
+ "name": "Work & Class",
+ "address": "2500 Larimer St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_svJWwW0ilssyqk_UML0mUg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I want to cry out of happiness because the food and drinks at Work & Class were phenomenal. I came here with a group of friends, and it was the perfect...",
+  "Truly grateful to dine. I came here for dinner last Friday night with my sisters. At that time, the place was pretty full and much occupied by a lot of...",
+  "I had an unexpectedly awesome time here. We walked past this place, and it seemed busy so we thought we would give it a go.\n\nI thought it would be expensive..."
+ ]
 },{
- "name": "Great Divide Brewing Company",
- "address": "2201 Arapahoe St",
- "avg_visitor_review": 4.5,
+ "name": "Platform Strength",
+ "address": "3198 Blake St",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Historic Downtown Golden",
- "address": "Washington Ave &amp;amp; 12th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Puzzah!",
- "address": "1440 Blake St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Nightly Spirits",
- "address": "1400 Market St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The Infinite Monkey Theorem",
- "address": "3200 Larimer St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The Clue Room",
- "address": "7286 S Yosemite St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "The DIA Giant Blue Bronco",
- "address": "8500 Pena Blvd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Four Mile Historic Park",
- "address": "715 S Forest St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Film on the Rocks",
- "address": "18300 W Alameda Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Fiske Planetarium",
- "address": "2414 Regent Dr",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "16th Street Mall",
- "address": "1515 Arapahoe St",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Peter Pan Park",
- "address": "4800 W 92nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Grand Adventures",
- "address": "78311 US Hwy 40",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_OrJhLmdE09puDoRu2Z5gKg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Great gym. Strong community. Amazing coaches. Platform makes my day better regardless of the workout :)\n\nHighly recommend.",
+  "Do your own thing, do a group thing, do a coached thing...do it all?! You've got options, and if that's overwhelming, they offer a free week for you to...",
+  "I've been waiting a long time for a place like this to open! I've never seen a gym that has classes that are super focused on the barbell and heavy lifting..."
+ ]
 },{
  "name": "Water World",
  "address": "8801 N Pecos St",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Sloan\u2019s Lake Park",
- "address": "Sheridan Blvd &amp;amp; W 17th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "88 Drive In Theatre",
- "address": "8780 Rosemary St",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Royal Arch",
- "address": "Royal Arch Trl",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Mile High Adventure Rentals",
- "address": "1044 S Grapevine Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "United States Mint",
- "address": "320 W Colfax Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Monster Mini Golf",
- "address": "8227 S Holly St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Unser Karting &amp; Events",
- "address": "7300 Broadway",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Mt. Sanitas Trail",
- "address": "4TH St And Mapleton Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Joyous Chinese Cultural School",
- "address": "6940 S Holly Cir",
- "avg_visitor_review": 0,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Puzzle Effect - Denver",
- "address": "11674 Huron St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Cherry Creek Arts Festival",
- "address": "2 Steele St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Class Axe Throwing",
- "address": "3400 E 52nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Centennial Center Park",
- "address": "13050 E Peakview Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_4oJRL2XxKJDs0ezAoUrTsg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I came to Colorado for a wedding but I always make sure to make some time for a waterpark or theme park. I decided on this place because I heard so many...",
+  "Your typical Water World experience happens here. Lots of rides and slides to choose from and most are worth the wait. However, take note that most lines...",
+  "I took my children to Water World on September 2. \nWhile swimming in the wave pool my son and I were pulled out to far. The lifeguards  were not watching..."
+ ]
 },{
  "name": "Museum of Contemporary Art Denver",
  "address": "1485 Delgany St",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_k7zoKFP3BbTsU0Z4Y0m6Sw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Three floors of gallery space in a unique floor plan that allows room for wall space, open areas and interesting vistas - interior and gazing out into...",
+  "I'd give this a 2.5. While there is so much potential for this museum, it was a disappointment to my family. The space is either nearly empty or far too...",
+  "I'm particular about my art museums, my taste trends more contemporary but I really love sculpture. While there is little to no sculpture at the current..."
+ ]
 },{
- "name": "Mile High Flea Market",
- "address": "7007 E 88th Ave",
- "avg_visitor_review": 2.5,
+ "name": "City of Denver",
+ "address": "",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_8y-dMLmtSjUIlohx_otPTA.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This is a great city. I could definitely see myself living here one day and totally get why people love living here. It's a mild weather all year in the...",
+  "Several moons ago I got real tired of my home state of Florida. I needed a change and had always been fascinated by Denver and was craving cold weather. I...",
+  "Ahh, Denver--At last!\n\nI finally made it to the High Mile state and honestly, this has to be the BEST state I've been to so far. Like, I'm honestly thinking..."
+ ]
 },{
- "name": "Dangerous Theatre",
- "address": "2620 W 2nd Ave",
+ "name": "Class Axe Throwing",
+ "address": "3400 E 52nd Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_Ou_zP0h_TJ2kUrAEbU-BOw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "We went here for a team-building activity on a Tuesday afternoon. For the first 2 hours, we had the whole place to ourself which was awesome. I could see...",
+  "Updating my review because the morning after I visited, my coach trash-talked me on social media. Completely unprofessional and uncool. I traded my...",
+  "Came here from a groupon (as of posting right now they still have it on groupons website so make sure to scoop it up!) and we didn't know what we were..."
+ ]
 },{
- "name": "Bookbar",
- "address": "4280 Tennyson St",
+ "name": "The Hornet",
+ "address": "76 Broadway",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_QmgLDVzZl_91e3-GceV-5w.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "In recent years I haven't been too impressed with the food at The Hornet, which is centrally located in the thriving SOBO/Baker neighborhood. So when...",
+  "Not sure why I haven't ventured here sooner! I thought it was a bar due to location, but my friend suggested we have dinner there.\n\nStill being on a health...",
+  "I just found my go-to, pre-show grub pub on S. Broadway!\n\nThe Hornet has been open since '95 and in my opinion, will be cranking out delicious food and..."
+ ]
+},{
+ "name": "Root Down - Denver International Airport",
+ "address": "9100 Pe\u00f1a Blvd",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_wVKt2_DR_p2ayqRtdzGJPQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "its hard to find good quality food options in any airport, let alone vegan options. Well Root Down (a staple in Denver) has a location in DIA and it is...",
+  "This salad was recommended to me from the server and I have to say.. it was not that great.\n\nIf you are obsessed with beets and you are into sweeter salads,...",
+  "This is one of the best airport food options I've seen for people with food allergies. 100% recommend! Most of the menu can be made gluten-free or vegan and..."
+ ]
 },{
- "name": "Lower Maxwell Falls Trail Head",
- "address": "S Brook Forest Rd",
- "avg_visitor_review": 4,
+ "name": "Forest Room 5",
+ "address": "2532 15th St",
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_Ft2XeH0TNB3y7YW5mmYPUA.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Forest Room 5. 5 stars. This outdoorsy themed bar was just the spot to top off our wilderness adventure. \n\nIt was a nice night, so we enjoyed our bevvys in...",
+  "Quirky cool bar. They have indoor and outdoor seating in a low lit environment. There is an array of odd furniture that makes the place quite unique....",
+  "Ah, Forest Room 5, what a funky and unique spot, if only your staff were the tiniest bit nicer.  The bar has taxidermized animals, mini dioramas, hidden..."
+ ]
 },{
- "name": "Clear Creek Whitewater Park",
- "address": "1201 10th St",
+ "name": "City Park",
+ "address": "17TH Ave Colorado Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_kmR72csienO4Tu4bkMeoYg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "No matter the time of year, a stroll through City Park makes the day just a little bit better. Kind of like a glass of milk - it does a body...",
+  "Beautiful park to take a walk, boat ride or hear a concert. Lots of open space for picnics and lounging. \n\nI have only been here to walk so I don't know...",
+  "City Park is large park within the city to Denver. If you need to get away from the hustle and bustle for a while without going too far, this is a good..."
+ ]
+},{
+ "name": "Hops & Pie",
+ "address": "3920 Tennyson St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_7Wb-Y0dxakfRkLTAIG4Bmw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Little spot that gets bumpin on a Friday night!\nWe chose to make our own pie. It has a Very good crust and all the toppings were plentiful as well- we chose...",
+  "If there was a way to give more than five stars for Hops & Pie I would! This was my second time dining here. The first was during GABF and although the beer...",
+  "This place is SO good!! We came on a Friday night around 8pm and were seated within 10 minutes. They had a good selection of beer on draft and in a can and..."
+ ]
 },{
- "name": "The Colorado Sightseer",
- "address": "469 S Cherry St",
- "avg_visitor_review": 4.5,
+ "name": "City Sessions Denver",
+ "address": "3377 Blake St",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Canvas and Cocktails",
- "address": "6862 S University Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "EscapeWorks Denver",
- "address": "1529 Champa St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Cherry Creek Trail",
- "address": "2200 15th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Bear Mountain Stables",
- "address": "11778 Wonder Dr",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Adventure Golf and Raceway",
- "address": "9650 Sheridan Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Cheesman Park",
- "address": "Franklin St &amp;amp; 8th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "E.B. Rains Park",
- "address": "11801 Community Ctr Dr",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Conflict Colorado",
- "address": "355 S Teller St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Delicious Denver Food Tours",
- "address": "2129 Larimer St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Joyous Chinese Cultural School",
- "address": "6940 S Holly Cir",
- "avg_visitor_review": 0,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Family Shooting Center at Cherry Creek State Park",
- "address": "4201 S Parker Rd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Nickel-A-Play",
- "address": "15201 E Mississippi Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Maize in the City",
- "address": "10451 McKay Rd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "SeaQuest Littleton",
- "address": "8501 W Bowles Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_ulc3uPBryRnoQOKShU2cjQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "So we set-up 2 months in advance with Goldie, but endured nothing but calamity at the airport and missed our tour!!! She's still 5 star in our book... She...",
+  "My friend and I had a private 3 hr tour with an emphasis on learning about medical marijuana use. Clayton was fabulous- made us feel very comfortable to ask...",
+  "This review is looooooonnnggg overdue. However that speaks volumes to the service I received when I took my tour of wonderful Colorado with Goldie. \nHer..."
+ ]
 },{
  "name": "Denver Zoo Lights",
  "address": "2900 E 23rd Ave",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_B6A_ULTEt6fs4430FC2mBQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Thank you so much for the low sensory night at Zoo Lights! 12.31.19\nAs an adult with multiple brain injuries,  I really enjoyed being able to enjoy this...",
+  "It can be a little sad seeing the animals are in cages at night, but the lights really are beautiful. Seeing some of the animals is optional. I recommend...",
+  "So glad we decided to do this on New Year's Eve. We were on a ski trip in Colorado & had Denver as our home base and for people like us that don't really..."
+ ]
 },{
- "name": "The Denver Flea",
- "address": "1399 35th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
-},{
- "name": "Discovery Park",
- "address": "38TH Ave And Kipling St",
+ "name": "Historic Downtown Golden",
+ "address": "Washington Ave & 12th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_wR3-yKmbaM6KUodjZGO7rw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This town is quite cute. Unfortunately, it was raining when we visited so we couldn't fully experience the place. From what we saw it was awesome with many...",
+  "No trip to Colorado is complete without visiting Golden.  The historic downtown area has a wide variety of shops, restaurants and places to enjoy a cold...",
+  "An awesome little downtown for an afternoon stroll with all the obligatory tourist shops; candy stores, tee-shirt shops, restaurants, bars.... Something for..."
+ ]
 },{
- "name": "African Grill And Bar",
- "address": "18601 Green Valley Ranch Blvd",
+ "name": "Centennial Center Park",
+ "address": "13050 E Peakview Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image__BrVKOsOx0_tEKFTpVYBwA.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Centennial did a great job with this park. There's plenty of space here with a giant playground and even a splash pad going in the summer. My favorite part...",
+  "This is the flagship playground for the South metro area and boasts the largest sprayground in town, a huge climbing net, a stage for events, and a young...",
+  "This place probably has the best splash area around. Gets busy quickly. The playground is enormous. Great place for parties. They have events here all..."
+ ]
 },{
- "name": "Cherry Creek State Park",
- "address": "4201 S Parker Rd",
+ "name": "Colorado State Government: Capitol Building",
+ "address": "200 E Colfax Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_lzjoyf-Z0b4LwQzF0dtLrQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Early in the morning, my mom and I visited the one mile above sea level stairs, and decided to go into the building and look at it. We found out there were...",
+  "I did a really bad job at planning my Denver trip. Had I done a better job, I would've found out that the Capitol is closed on weekends (as is expected from...",
+  "Tips!\n\n1) Be prepared to go through a metal detector\n2)The last tour ended at 3PM\n3)The stairs to the top of the dome closed at 4PM.\n4) Bring some quarters..."
+ ]
+},{
+ "name": "Citron Bistro",
+ "address": "3535 S Yosemite St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_uFS6icNrfhdJfgktv2Nhzg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "One of our favorite \"go to\" places when we are craving greek. We love the gyro platter. Salads are amazing too. All the ingredients are fresh, homemade, and...",
+  "Yummy....delicious heathy food....for your tummy! Greek meets Mexican (?) cousine and conceptually procreates some of the best food you can find!\n\nMy bestie...",
+  "Food: Delicious, Service: Bad.\n\nLet me preface this review by saying that I am what I like to call a burger purist.  I enjoy the meat flavor and order my..."
+ ]
+},{
+ "name": "Film on the Rocks",
+ "address": "18300 W Alameda Pkwy",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_4FfQvQP1oSkCHqNsombq1A.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Film on the Rocks is def one of my FAVORITE summer happenings! A local band (sometimes even a comedy act) and a movie in the best outdoor venue for a mere...",
+  "Of course growing up in the 80's and 90's - we had to go see Heathers! Film On The Rocks! Always a gamble with Mother Nature, and last this movie was no...",
+  "Doors open at 630pm with music bands staring at 7pm but the movie don't start till around 9pm. Awesome event but prepare to sit on rock hard surface with no..."
+ ]
+},{
+ "name": "Grand Adventures",
+ "address": "78311 US Hwy 40",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_xwEnM4zvEdasGO8hvfBvzQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Putt Putt was the business! Great guide and a super nice guy. We did a two hour guided tour. I could have gone for two more if I wasn't so damn hungry! \n\nWe...",
+  "We had a group of five that did the Continental Divide snowmobile tour on Tuesday, February 18th 2020. This was our first time snowmobiling and for the most...",
+  "Very disappointed with this company. \n1. The snow mobile tour left 20 minutes late\n2. The whole trail was surrounded by trees with very little sight..."
+ ]
+},{
+ "name": "Vesta",
+ "address": "1822 Blake St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_UTV40d3C0P7vfUUqmPl3vA.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Vesta is my favorite place in the city for a special occasion dinner or nice date night. The food is exceptional and the service is AMAZING. I first went...",
+  "Love love love the ambiance of Vesta. My boyfriend and I came here for a nice date night that happened to fall on Valentine's Day. The restaurant was full...",
+  "Vesta. Is. Amazing. \nReally, that's all you need to know, but I'll divulge a little further.\n\nMy husband and I came to Vesta for the first time on a Monday..."
+ ]
+},{
+ "name": "Puzzle Effect - Denver",
+ "address": "11674 Huron St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_g0xBysiOo57Dfg-3Grshuw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "WOW! Puzzle Effect (Formerly Denver Escape Room) is a WONDERFUL place to do escape rooms. I am a veteran. After the first time, I was hooked and couldn't...",
+  "I have come back twice and have done Curse of the Emerald Seas with 4 adults and Grim Stacks with 2 adults. One GREAT thing about Puzzle Effect is that you...",
+  "Came for the painting, stayed for the escape room! We came to this place because artist Kelsey Montague did a mural of a boom box here. So glad we came!..."
+ ]
+},{
+ "name": "Rioja",
+ "address": "1431 Larimer St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_ywFvkNZVJoXUQbZoq7fr1w.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I knew that the other restaurants by this group (Bistro Vendome, Ultreia, Stoic & Genuine, Euclid Hall) have been great, so when I saw that they had \"feasts...",
+  "Even if you can't go to Rioja during the COVID stay at home order, Rioja is continuing to crush delicious food (and presentation!) with their to go orders....",
+  "I gotta admit, Rioja is in a perfect spot to have an ostentatious happy hour. It's located on Larimer square, so after happy hour, you can go strolling..."
+ ]
+},{
+ "name": "Boondocks Northglenn",
+ "address": "11425 Community Center Dr",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_Eo-5z5Nt3d0HrKfq_SLOJQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "We had a good time here but not without problems. The timeout feature used in the bowling scoreboards makes no sense at all. We bowled at a normal pace and...",
+  "Met a group of friends here for some Sunday fun. I have to say the laser tag, race cars and ropes course are very fun. I tried to play a few of the indoor...",
+  "Not that great. All arcade games at this location cost $. My gaming-wiz of a 7 year old played for 15 min and didn't get a single ticket in any game. \n\nThe..."
+ ]
+},{
+ "name": "88 Drive In Theatre",
+ "address": "8780 Rosemary St",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_Fsv7RrGNkJk2YY5NbCaf0Q.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "What a gem!! We had a great experience here. We showed up roughly 30 minutes before the first showing on a weeknight and we got a great spot and never had a...",
+  "This is one of the last drive-ins in the country and I think we should totally keep it - however, there are definitely areas of improvement. \n\nPRICE\n+ It's...",
+  "For the price, you really can't complain too much about this place. I've never been to a drive  and this was quite he adventure.  This reminded me of a..."
+ ]
+},{
+ "name": "The Clue Room",
+ "address": "7286 S Yosemite St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_xcIHEcPEp93E_xjRODI6Xw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "My family and I had a blast here! We had researched several options in the area and this was by far the best price and best experience! We called ahead of...",
+  "I had a blast! I had never tried a clue or escape room, but it's all about keeping an open and curious mind and encouraging your team. \n\nThe event took an...",
+  "Decided to come here when looking for an activity to do together as a group on a gloomy day. We were able to book in advance a few hours before our time..."
+ ]
+},{
+ "name": "Sloan's Lake Park",
+ "address": "Sheridan Blvd & W 17th Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_MFTPNon25FnYkEtqJ79XOg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I agree with some of the others...do NOT, I repeat, do NOT use the restrooms.  I have never seen a women's restroom so disgusting.  No TP was the least of...",
+  "Really good to walk/run around or bike or skate... whatever your mode of transportation may be at the time, yes the park is great for this reason! \n\nThe...",
+  "I love Sloan's Lake Park. It's a beautiful oasis in the middle of Denver. Despite being born and raised in such a landlocked state (I didn't know what a..."
+ ]
+},{
+ "name": "Unser Karting & Events",
+ "address": "7300 Broadway",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image__OILVkGVtbsYP0ObP3u5Hg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Unser is a fun place! If you've never been, go! You need a valid driver's license and required to watch a safety video beforehand. My hubby and I went for...",
+  "Been wanting to do this for the longest time! The experience was AWESOME the karts are so fast and everyone is very friendly. \n\nBasically just a heads up we...",
+  "This place is very cool. I'd never been indoor racing before but I gotta say I definitely had fun. Once things go back to normal I look forward to kicking..."
+ ]
 },{
- "name": "JungleQuest",
- "address": "8000 S Lincoln St",
- "avg_visitor_review": 4,
+ "name": "Scratch Burrito & Happy Tap",
+ "address": "4262 Lowell Blvd",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": null,
- "tags": "[]",
- "source": "Yelp"
+ "photo_location": "../data/Photographs/yelp_image_u8Ux0Ym_V2HgG38mckFbGg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Here's the thing about Scratch, you have to get the right stuff:\n\nAmazing breakfast burrito for just $5. Served all day. Get it for dinner. \nWings are top...",
+  "This was my second time going to scratch burrito and the first time was a much better experience. They have a great looking menu, and I decided to go with...",
+  "I've been to scratch burrito once before and I loved it the first time so I was pretty excited to go back. It is the perfect spot for a quick, easy and..."
+ ]
+},{
+ "name": "The Clocktower Cabaret",
+ "address": "1601 Arapahoe St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_LmiieWKBQwbXnDXWquLtSg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Sooooo much fun!!!! Great atmosphere and wonderful performers! Came for a surprise birthday for a lady on my hockey team and she had a great time being on...",
+  "Had the best time at this venue last night. We attended a Burlesque show. I've only been to one before but was unimpressed. This was beautiful, funny and...",
+  "Me and my colleagues were in town for a conference and wanted to do something fun and different. We found the Thursday night burlesque show and were..."
+ ]
+},{
+ "name": "Mayan Theatre",
+ "address": "110 Broadway",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_U6y1yz1gVQ5dpa4-tLImQg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Great little theater located in Southwest broadway. This was my first experience at The Mayan Theater. The ticket booth outside was charming and walking in...",
+  "I like this little nostalgic theater a lot. While, at times I have to go to the more commercialized theaters, I really do prefer the smaller ones. It's just...",
+  "This theater is phenomenal! I love art deco. I m not an expert, but this theater seems to be well preserved! \n\nI loved the fact that one of the managers..."
+ ]
+},{
+ "name": "Epic Escape Game",
+ "address": "1750 N Gilpin St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_K5Om2BiUZWQeEe9SDbFMCw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Took the family for a birthday good time. Had a blast, did the dorm of doom and really enjoyed the puzzle. we did not finish, it was very well done and...",
+  "Participated in their Fantasy Escape Room - \"The Assassin\" over the weekend and had a really fun time!  We had one other friend remote in and Madison from...",
+  "Andrew was a super fun host and helped us understand the game rules! We chose the wizard room and were all pleasantly surprised! My family of 6 tackles the..."
+ ]
+},{
+ "name": "Nick's Garden Center & Farm Market",
+ "address": "2001 S Chambers Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_j7NJAZPqMuFjC0kU5ime5A.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Love this olace. They have everything. I think people work here for free as it seems like people are willing to give their day iff to do what they love!!",
+  "Just moved into a new apartment so was looking to load up on some new plants  and let me just say love the variety that they have here it's like nothing...",
+  "They have literally every plant you can imagine lol. It's a huge space densely packed with all kinds of plants! Prices are on the higher side but they look..."
+ ]
+},{
+ "name": "The Infinite Monkey Theorem",
+ "address": "3200 Larimer St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_NH5lTGAbsOa7tjKiacZeOQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I think I like this place. Super cute wine bar with not many choices but definitely a good selection of wines. \nIf you're a beer aficionados they have a...",
+  "Writing this from the great quarantine of 2020, so this time it was just a pick up to-go order, but that doesn't change the fact that TIMT has a good...",
+  "the wine is amazing, not a lot of options but thats because everything they serve is made there!\n\nthe vibe is amazing. we went during winter and the inside..."
+ ]
+},{
+ "name": "Shells & Sauce",
+ "address": "2600 E 12th Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_7UWt_282vPsGQPtrquRR9Q.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Came here for Valentine's Day and booked thru open table-very convenient! I was about 20 min late for my reservation but low and behold they were still so...",
+  "Shells & Sauce get a 5 star review simply for the their BBQ shrimp and grits brunch dish. The dish was simply amazing. It had a slight sweet flavor and the...",
+  "I've been coming to Shells & Sauce for a few years and it is always a treat. This most recent outing was an 8 person dinner so thank goodness for..."
+ ]
+},{
+ "name": "Cherry Creek Arts Festival",
+ "address": "2 Steele St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_1IZMYPM9ldo2Ao1zjn96gw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Dealing with difficulty things in life can take over in ones spiritual mind. That's why the art festival in Cherry Creek shopping center can certainly...",
+  "The Cheery Creek Arts Festival is the premiere arts festival in Denver.  It takes place in early July and includes blocks and blocks of artists from...",
+  "A little warm today but still a great time. Awesome art, food vendors and restaurants (slinging terrific food and beverages) and the the crowd couldn't be..."
+ ]
+},{
+ "name": "Dangerous Theatre",
+ "address": "2620 W 2nd Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_iyU1_azGFG4Mgxes7dbkBg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This is a hidden gem! What a great venue for a small intimate crowd and such a welcoming host. She invited us in cheerfully and made a delicious breakfast....",
+  "Last night we went to see \"Adulting Sucks\". I didn't really know what to expect but definitely thought it would be funny. It was not really \"funny\" though...",
+  "We were welcomed and offered snacks and pot( oh you said pop) There was a good variety of choices both of cold or hot drinks and chips, crackers or cookies..."
+ ]
+},{
+ "name": "Pepsi Center",
+ "address": "1000 Chopper Cir",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_QwSxTqOBY-Nmaf_Ime5Tgg.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "New Year's Eve with the Colorado Avalanche and Indoor Fireworks!\nWhat a fun way to spend New Year's Eve.\nThe AV's fans are very Family Friendly and the...",
+  "Came here to watch the Leafs play the Avalanche and had a great time!  Very comfortable arena with friendly fans.  Seems very family-oriented so there...",
+  "Oh Pepsi Center,  what has happened to you in the last couple years?  I understand that you're a bit high maintenance, but you could at least act as though..."
+ ]
+},{
+ "name": "Osteria Marco",
+ "address": "1453 Larimer St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_jx5kzkP_9zwh9BW0WVPAWw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This is my favorite restaurant in Denver. It is basement-level, but it doesn't feel cramped at all. It's a large space with high ceilings and there are...",
+  "I enjoyed my lunch experience here and would recommend for business meals or social outings. You walk downstairs where the atmosphere feels like a wine...",
+  "Business lunch\n\nEasy to Cary on a conversation\n\nFood was good for lunch\n\nWait staff was distracted / not engaged \n\nSeems to be more a dinner place - filling..."
+ ]
+},{
+ "name": "Bluebird Theater",
+ "address": "3317 E Colfax Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_oAWkAw_C5ByIZQubcVgIBw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This is my favorite concert venue in Denver.\n\nI've been lucky enough to see a handful of shows, including a few bands that mean a lot to me. Contrary to the...",
+  "If you've been to shows in Denver than you know. This is the best intimate venue in the entire city. Its leveled.. so the view from any part of the venue is...",
+  "This venue's security check is a breeze to get through and the staff is friendly. It looks like an old performance theater, as the venue has tiered sections..."
+ ]
+},{
+ "name": "Delicious Denver Food Tours",
+ "address": "2129 Larimer St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_J1ZYh6oZ75PGRzsf2lKhGQ.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "We did the Food Tour with Jill this past weekend and had some great food!  Jill was super friendly, threw in interesting facts about the city, and showed us...",
+  "We opted for Cocktails & Tastes expecting great drinks with a few nibbles on the side. Surprise! The food turned out to be as outstanding as the...",
+  "Great afternoon on a Denver Food Tour with our guide, Bonnie!  We enjoyed 6 foodie locations in the LoDo area of downtown Denver and this proved to be a fun..."
+ ]
+},{
+ "name": "Bonfire Burritos",
+ "address": "2221 Ford St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "../data/Photographs/yelp_image_9cwMGGtkdAPBoPGO33MPAw.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I am going to give this place a five star for two very specific reasons. First, the hype... I have heard raves about this place and how much I needed to try...",
+  "Lunch review\nPros: the staff was nice and attentive. The kitchen, lobby and bathroom clean. We got our burritos fast. They had a nice little beer...",
+  "Great for breakfast but just okay for lunch. The hot is hot!! I will not be back for lunch seeing as majority of the burrito was just rice and bean filler...."
+ ]
 }]

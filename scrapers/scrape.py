@@ -36,7 +36,7 @@ def main():
     # manage imports
     if args.yelp:
         # get credentials
-        with open(args.yelp_config, "r") as config:
+        with open(args.yelpconfig, "r") as config:
             creds = json.load(config)
             api_key = creds["APIKey"]
 
@@ -60,6 +60,7 @@ def main():
 
             # Scrape
             activities = yelpscraper.scrape(city, state)
+
             with open("../data/Yelp/"+city+state+".json", "w") as outfile:
                 outfile.write("[\n")
                 for activity in activities:
