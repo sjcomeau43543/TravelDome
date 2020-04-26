@@ -18,7 +18,7 @@ from activity import Activity
 
 
 '''
-adj   |    {act1    |    act2    |   etc}
+adj   |    [act1    |    act2    |   etc]
 '''
 
 class Storage:
@@ -46,9 +46,6 @@ class Storage:
 
                                 for tag in actobj.tags:
                                     self.inverted_index[tag].append(actobj.name)
-
-
-
 
     def add_all(self, list_of_locations, adjectives):
         self.inverted_index = {}

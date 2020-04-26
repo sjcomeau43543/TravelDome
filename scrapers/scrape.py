@@ -25,6 +25,7 @@ def main():
     parser.add_argument("-t", "--tripadvisor", action="store_true", default=False, help="Scrape TripAdvisor")
     parser.add_argument("-l", "--locations", help="locations.txt file", required=True)
 
+    parser.add_argument("-c", "--yelpconfig", help="Yelp API config")
 
     args = parser.parse_args()
 
@@ -34,9 +35,14 @@ def main():
 
     # manage imports
     if args.yelp:
+        # get credentials
+        with open(args.yelp_config, "r") as config:
+            creds = json.load(config)
+            api_key = creds["APIKey"]
+
         # import YelpScraper
         from scraper_yelp import Yelp 
-        yelpscraper = Yelp()
+        yelpscraper = Yelp(api_key)
 
     if args.tripadvisor:
         import scraper_tripadvisor

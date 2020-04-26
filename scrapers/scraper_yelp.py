@@ -16,9 +16,11 @@ from lxml import html
 from activity import Activity
 
 class Yelp:
+
+    self.api_key = ""
     
-    def __init__(self):
-        pass
+    def __init__(self, api_key):
+        self.api_key = api_key
 
 
     def build_url(self, city, state, start=0):
