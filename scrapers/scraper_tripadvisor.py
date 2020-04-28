@@ -1,26 +1,14 @@
 '''
 Author:        Eda
-Last modified: 4.24.2020 by ez
-Status:        ??
+Last modified: 4.28.2020 by ez
+Status:        Done?
 
-TODO: return activities list and handle file writing in the maine scrape.py
-TODO: download the photos from the site
+TODO: download the photos from the site  <-- I feel like it's better to leave as links so we don't need to store as much data?
 '''
 import os, json, requests, re
 import bs4 as BeautifulSoup
 
 from activity import Activity
-
-def save_json(filename, data):
-    i = 0
-    while os.path.exists('../data/TripAdvisor/{0}{1}.json'.format(filename, i)): # increment file name
-        i += 1
-    with open('../data/TripAdvisor/{0}{1}.json'.format(filename, i),
-              'a+', encoding='utf-8') as f:
-        f.write("[\n")
-        for activity in data:
-            json.dump(activity.encode(), f, indent=1)
-        f.write("]\n")
 
 # takes url, finds <script type="application/ld+json"> and returns contents the soup and json
 def url_to_json(url):
@@ -61,7 +49,6 @@ def scrape(city, state, code_1, code_2):
             review_text.append(review_site['reviewBody'])
 
         a = Activity(activity['name'], address, rating, None, photo, "TripAdvisor", review_text)
-        a.set_tags(review_text)
         activities_info.append(a)
 
     return activities_info
@@ -69,7 +56,7 @@ def scrape(city, state, code_1, code_2):
 def tripadvisor_scrape(city, state):
     codes = get_code(city, state)
     results = scrape(city, state, codes[0], codes[1])
-    save_json(city + state, results)
+    return results
 
 # Returns special TripAdvisor codes given city and state
 # TODO: find a better way than hardcoding the codes..?
@@ -91,7 +78,7 @@ def main():
     locations = [("Boston", "MA", "g60745", "oa60"), ("NYC", "NY", "g60763", "oa270")] # list of (city, state, loc_code, code) tuples
     for loc in locations:
         results = scrape(loc[0], loc[1], loc[2], loc[3])
-        save_json(loc[0] + loc[1], results)
+        #save_json(loc[0] + loc[1], results)
     return
 
 if __name__ == '__main__':

@@ -1,6 +1,6 @@
 '''
 Author:        Samantha
-Last modified: 4.24.2020 by sjc
+Last modified: 4.28.2020 by ez
 Status:        In Progress
 
 The purpose of this is to integrate all the scrapers
@@ -41,12 +41,12 @@ def main():
             api_key = creds["APIKey"]
 
         # import YelpScraper
-        from scraper_yelp import Yelp 
+        from scraper_yelp import Yelp
         yelpscraper = Yelp(api_key)
 
     if args.tripadvisor:
         import scraper_tripadvisor
-    
+
     if args.maps:
         import scraper_googlemaps
 
@@ -73,6 +73,18 @@ def main():
             # TripAdvisor
             print("Scraping TripAdvisor for", city, state)
             activities = scraper_tripadvisor.tripadvisor_scrape(city, state)
+            filename = city + state
+            i = 0
+            while os.path.exists('../data/TripAdvisor/{0}{1}.json'.format(filename, i)): # increment file name to create new file
+                i += 1
+            with open('../data/TripAdvisor/{0}{1}.json'.format(filename, i),
+                      'a+', encoding='utf-8') as f:
+                f.write("[\n")
+                for activity in activities:
+                    json.dump(activity.encode(), f, indent=1)
+                    if activity != activities[-1]:
+                        outfile.write(",")
+                f.write("]\n")
 
         if args.maps:
             # Google maps

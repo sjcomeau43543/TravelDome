@@ -1,11 +1,10 @@
 '''
 Author:        Samantha
-Last modified: 4.24.2020 by sjc
+Last modified: 4.28.2020 by ez
 Status:        In progress
 
 This holds an activity and can translate it to a json string
 
-# TODO tagging function
 '''
 
 import json
@@ -33,12 +32,6 @@ class Activity:
         self.source = source
         self.reviews = reviews
         self.tags = tags
-
-    # pass in top reviews
-    # TODO
-    def set_tags(self, reviews):
-        for review in reviews:
-            pass
 
     def encode(self):
         return {"name":self.name,
