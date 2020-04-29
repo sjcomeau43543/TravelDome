@@ -31,7 +31,7 @@ class Merger:
 
         # Walk directory
         for root,dir,files in os.walk("../data"):
-            if root != "../data" and root != "../data/Merged" and root != "../data/Photographs" and root != "../data/InvertedIndex":
+            if root != "../data" and root != "../data/Merged" and root != "../data/Photographs" and root != "../data/InvertedIndex" and root != "../data/Cluster":
                 # get the files for each location
                 for file in files:
                     location = file.strip(".json")

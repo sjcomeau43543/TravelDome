@@ -1,0 +1,10254 @@
+{
+ "Fenway Park": [
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   1.0
+  ],
+  [
+   "Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "North End",
+   1.4142135623730951
+  ],
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ]
+ ],
+ "Freedom Trail": [
+  [
+   "Castle Island",
+   0.0
+  ],
+  [
+   "Harvard Square",
+   0.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.0
+  ],
+  [
+   "Grand Central Terminal",
+   1.0
+  ]
+ ],
+ "Museum of Fine Arts": [
+  [
+   "Denver Museum of Nature & Science",
+   0.0
+  ],
+  [
+   "Molly Brown House Museum",
+   0.0
+  ],
+  [
+   "National Ballpark Museum",
+   0.0
+  ],
+  [
+   "Sam Houston Boat Tour",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Boston Tea Party Ships & Museum": [
+  [
+   "Skywalk Observatory",
+   2.0
+  ],
+  [
+   "Intrepid Sea, Air & Space Museum",
+   2.0
+  ],
+  [
+   "Wings Over the Rockies Air & Space Museum",
+   2.0
+  ],
+  [
+   "Glazer Children's Museum",
+   2.0
+  ],
+  [
+   "The Mapparium",
+   2.23606797749979
+  ]
+ ],
+ "North End": [
+  [
+   "Grand Central Terminal",
+   1.0
+  ],
+  [
+   "Providence Performing Arts Center",
+   1.0
+  ],
+  [
+   "Fenway Park",
+   1.4142135623730951
+  ],
+  [
+   "Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Castle Island",
+   1.4142135623730951
+  ]
+ ],
+ "Boston Public Garden": [
+  [
+   "Newbury Street",
+   1.0
+  ],
+  [
+   "Rice University Campus",
+   1.0
+  ],
+  [
+   "Belvedere Castle",
+   1.4142135623730951
+  ],
+  [
+   "Colorado State Capitol",
+   1.4142135623730951
+  ],
+  [
+   "City Park",
+   1.4142135623730951
+  ]
+ ],
+ "John F. Kennedy Presidential Museum & Library": [
+  [
+   "Museum of Fine Arts",
+   1.0
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.0
+  ],
+  [
+   "Denver Museum of Nature & Science",
+   1.0
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.0
+  ],
+  [
+   "Molly Brown House Museum",
+   1.0
+  ]
+ ],
+ "Samuel Adams Brewery": [
+  [
+   "Yuengling Brewery",
+   0.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ],
+  [
+   "Larimer Square",
+   1.0
+  ],
+  [
+   "Bayou Bend Collection and Gardens",
+   1.0
+  ]
+ ],
+ "Boston Public Library": [
+  [
+   "New England Holocaust Memorial",
+   1.4142135623730951
+  ],
+  [
+   "Bayou Bend Collection and Gardens",
+   1.4142135623730951
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.7320508075688772
+  ],
+  [
+   "Boston Common",
+   1.7320508075688772
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.7320508075688772
+  ]
+ ],
+ "Museum of Science": [
+  [
+   "Boston Children's Museum",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ],
+  [
+   "Liberty Science Center",
+   1.4142135623730951
+  ],
+  [
+   "Providence Athenaeum",
+   1.4142135623730951
+  ],
+  [
+   "Pedal Party",
+   1.4142135623730951
+  ]
+ ],
+ "Isabella Stewart Gardner Museum": [
+  [
+   "VR World NYC",
+   1.0
+  ],
+  [
+   "Somerville Theatre",
+   1.4142135623730951
+  ],
+  [
+   "Saus",
+   1.4142135623730951
+  ],
+  [
+   "Empire State Building",
+   1.4142135623730951
+  ],
+  [
+   "Manhattan Skyline",
+   1.4142135623730951
+  ]
+ ],
+ "Boston Common": [
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   0.0
+  ],
+  [
+   "Fenway Park",
+   1.0
+  ],
+  [
+   "Freedom Trail",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ]
+ ],
+ "USS Constitution": [
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ],
+  [
+   "Quincy Market",
+   1.4142135623730951
+  ],
+  [
+   "Larimer Square",
+   1.4142135623730951
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.7320508075688772
+  ],
+  [
+   "Boston Common",
+   1.7320508075688772
+  ]
+ ],
+ "Beacon Hill": [
+  [
+   "Quincy Market",
+   0.0
+  ],
+  [
+   "Larimer Square",
+   0.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Brooklyn Bridge",
+   1.0
+  ]
+ ],
+ "USS Constitution Museum": [
+  [
+   "Bunker Hill Monument",
+   1.0
+  ],
+  [
+   "United States Mint",
+   1.4142135623730951
+  ],
+  [
+   "Bayou Bend Collection and Gardens",
+   1.4142135623730951
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.7320508075688772
+  ],
+  [
+   "Boston Common",
+   1.7320508075688772
+  ]
+ ],
+ "Quincy Market": [
+  [
+   "Quincy Market",
+   0.0
+  ],
+  [
+   "Larimer Square",
+   0.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Brooklyn Bridge",
+   1.0
+  ]
+ ],
+ "Faneuil Hall Marketplace": [
+  [
+   "Freedom Trail",
+   1.0
+  ],
+  [
+   "Castle Island",
+   1.0
+  ],
+  [
+   "Harvard Square",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Grand Central Terminal",
+   1.4142135623730951
+  ]
+ ],
+ "Newbury Street": [
+  [
+   "Boston Public Garden",
+   1.0
+  ],
+  [
+   "Belvedere Castle",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ]
+ ],
+ "Back Bay": [
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   1.0
+  ],
+  [
+   "Fenway Park",
+   1.4142135623730951
+  ],
+  [
+   "Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ]
+ ],
+ "New England Aquarium": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Mapparium": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   1.0
+  ],
+  [
+   "Cockrell Butterfly Center",
+   1.0
+  ],
+  [
+   "Space Montrose",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.4142135623730951
+  ]
+ ],
+ "Boston Children's Museum": [
+  [
+   "Radio City Music Hall",
+   1.0
+  ],
+  [
+   "Museum of Science",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ],
+  [
+   "Liberty Science Center",
+   1.4142135623730951
+  ],
+  [
+   "Levi\u2019s Store American Dream",
+   1.4142135623730951
+  ]
+ ],
+ "Old North Church & Historic Site": [
+  [
+   "Tampa Theatre",
+   1.0
+  ],
+  [
+   "VR World NYC",
+   1.4142135623730951
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.4142135623730951
+  ],
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   1.4142135623730951
+  ],
+  [
+   "Historic Downtown Golden",
+   1.4142135623730951
+  ]
+ ],
+ "HarborWalk": [
+  [
+   "Boston Common",
+   1.7320508075688772
+  ],
+  [
+   "Greenwich Village",
+   1.7320508075688772
+  ],
+  [
+   "Swan Point Cemetery",
+   1.7320508075688772
+  ],
+  [
+   "McGovern Centennial Gardens",
+   1.7320508075688772
+  ],
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   1.7320508075688772
+  ]
+ ],
+ "Castle Island": [
+  [
+   "Castle Island",
+   0.0
+  ],
+  [
+   "Harvard Square",
+   0.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.0
+  ],
+  [
+   "Grand Central Terminal",
+   1.0
+  ]
+ ],
+ "Skywalk Observatory": [
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.0
+  ],
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   1.0
+  ],
+  [
+   "Roger Williams Park",
+   1.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   1.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.4142135623730951
+  ]
+ ],
+ "Bunker Hill Monument": [
+  [
+   "USS Constitution Museum",
+   1.0
+  ],
+  [
+   "Bayou Bend Collection and Gardens",
+   1.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.4142135623730951
+  ],
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ]
+ ],
+ "New England Holocaust Memorial": [
+  [
+   "The Met Cloisters",
+   1.0
+  ],
+  [
+   "Staten Island Ferry",
+   1.0
+  ],
+  [
+   "Rhode Island State House",
+   1.0
+  ],
+  [
+   "Water Wall",
+   1.0
+  ],
+  [
+   "Ybor City",
+   1.0
+  ]
+ ],
+ "Arnold Arboretum": [
+  [
+   "Brooklyn Bridge",
+   1.4142135623730951
+  ],
+  [
+   "The Roosevelt Island Tramway",
+   1.4142135623730951
+  ],
+  [
+   "City Park - Denver",
+   1.4142135623730951
+  ],
+  [
+   "Osteria Marco",
+   1.4142135623730951
+  ],
+  [
+   "Flatwoods Park",
+   1.4142135623730951
+  ]
+ ],
+ "Charles River Esplanade": [
+  [
+   "St. Patrick's Cathedral",
+   1.0
+  ],
+  [
+   "City Park - Denver",
+   1.0
+  ],
+  [
+   "Flatwoods Park",
+   1.0
+  ],
+  [
+   "Broadway",
+   1.4142135623730951
+  ],
+  [
+   "Colorado State Capitol",
+   1.4142135623730951
+  ]
+ ],
+ "Aeronaut Brewing Company": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Friendly Toast": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Somerville Theatre": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Saus": [
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   0.0
+  ],
+  [
+   "Space Montrose",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "The Mapparium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Shojo": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Sky Zone Trampoline Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Gaslight": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Old Town Trolley Tours of Boston": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Wilson Farm": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "X1 Boston": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Copley Square Farmers Market": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Museum Of Fine Arts": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Craigie On Main": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Boston Segway Tours": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Harvard Square": [
+  [
+   "Castle Island",
+   0.0
+  ],
+  [
+   "Harvard Square",
+   0.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.0
+  ],
+  [
+   "Grand Central Terminal",
+   1.0
+  ]
+ ],
+ "Boston Foodie Tours": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "Haunted Boston Ghost Tours": [
+  [
+   "Sacco's Bowl Haven",
+   0.0
+  ],
+  [
+   "Segway Tours of Houston",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Saltie Girl": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Rabia's": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Kings Dining & Entertainment": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Blue Man Group": [
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ],
+  [
+   "One World Observatory",
+   1.0
+  ],
+  [
+   "The Daily Show",
+   1.0
+  ]
+ ],
+ "Copley Square": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Picco Pizza & Ice Cream": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   0.0
+  ],
+  [
+   "Parkside Rotisserie & Bar",
+   0.0
+  ],
+  [
+   "Ivy Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Bully Boy Distillers": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Maggiano's Little Italy": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Bites of Boston Food Tours": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "The North End": [
+  [
+   "Thayer Street",
+   0.0
+  ],
+  [
+   "Liberty Science Center",
+   1.0
+  ],
+  [
+   "Roger Williams Park Zoo",
+   1.0
+  ],
+  [
+   "Providence Athenaeum",
+   1.0
+  ],
+  [
+   "Rodeo Houston or Houston Livestock Show and Rodeo",
+   1.0
+  ]
+ ],
+ "Giacomo's": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Union Oyster House": [
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.0
+  ],
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   1.0
+  ],
+  [
+   "Roger Williams Park",
+   1.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   1.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.4142135623730951
+  ]
+ ],
+ "Sacco's Bowl Haven": [
+  [
+   "Sacco's Bowl Haven",
+   0.0
+  ],
+  [
+   "Segway Tours of Houston",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Tipsy Chocolate Tours": [
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Picco Pizza & Ice Cream",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "Dangerous Theatre",
+   1.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   1.0
+  ]
+ ],
+ "Rock Spot Climbing": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "South End Buttery": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Encore Boston Harbor": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Museum of Bad Art": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "Tours of The Freedom Trail": [
+  [
+   "Downtown Aquarium",
+   0.0
+  ],
+  [
+   "Curtis Hixon Waterfront Park",
+   0.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ]
+ ],
+ "East Boston Piers Park": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Urban AdvenTours": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "The Original Tremont Tearoom": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Publick House": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "VinKari Safari": [
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Broadway",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ],
+  [
+   "Slater Memorial Park",
+   1.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   1.0
+  ]
+ ],
+ "Barking Crab": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Bow Market": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Ruth's Chris Steak House": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "A4cade by Area Four": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Deep Ellum": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Prudential Center": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The National 9/11 Memorial & Museum": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Metropolitan Museum of Art": [
+  [
+   "Statue of Liberty",
+   0.0
+  ],
+  [
+   "The Oculus",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ]
+ ],
+ "Central Park": [
+  [
+   "Colorado Convention Center",
+   0.0
+  ],
+  [
+   "Tampa Riverwalk",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ]
+ ],
+ "Empire State Building": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Top of the Rock": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Statue of Liberty": [
+  [
+   "Statue of Liberty",
+   0.0
+  ],
+  [
+   "The Oculus",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ]
+ ],
+ "Brooklyn Bridge": [
+  [
+   "The Roosevelt Island Tramway",
+   0.0
+  ],
+  [
+   "Osteria Marco",
+   0.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ]
+ ],
+ "Manhattan Skyline": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "The High Line": [
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Bryant Park",
+   1.4142135623730951
+  ],
+  [
+   "The Providence Flea",
+   1.4142135623730951
+  ],
+  [
+   "Wickenden Street",
+   1.4142135623730951
+  ],
+  [
+   "Troop PVD",
+   1.4142135623730951
+  ]
+ ],
+ "One World Observatory": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Grand Central Terminal": [
+  [
+   "Providence Performing Arts Center",
+   0.0
+  ],
+  [
+   "Freedom Trail",
+   1.0
+  ],
+  [
+   "North End",
+   1.0
+  ],
+  [
+   "Castle Island",
+   1.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ]
+ ],
+ "The Met Cloisters": [
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.4142135623730951
+  ],
+  [
+   "The Metropolitan Museum of Art",
+   1.4142135623730951
+  ],
+  [
+   "Statue of Liberty",
+   1.4142135623730951
+  ],
+  [
+   "Brooklyn Bridge",
+   1.4142135623730951
+  ]
+ ],
+ "Rockefeller Center": [
+  [
+   "TECO Line Streetcar System",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ]
+ ],
+ "Radio City Music Hall": [
+  [
+   "Boston Children's Museum",
+   1.0
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.0
+  ],
+  [
+   "The Clue Room",
+   1.0
+  ],
+  [
+   "Gather Glass",
+   1.0
+  ],
+  [
+   "NRG Stadium",
+   1.0
+  ]
+ ],
+ "Bryant Park": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ],
+ "Staten Island Ferry": [
+  [
+   "Rhode Island State House",
+   0.0
+  ],
+  [
+   "Water Wall",
+   0.0
+  ],
+  [
+   "Ybor City",
+   0.0
+  ],
+  [
+   "Seminole Hard Rock Casino Tampa",
+   0.0
+  ],
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ]
+ ],
+ "New York Public Library": [
+  [
+   "The Stephen Hopkins House",
+   0.0
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "The Museum of Modern Art (MoMA)",
+   1.0
+  ]
+ ],
+ "Intrepid Sea, Air & Space Museum": [
+  [
+   "Wings Over the Rockies Air & Space Museum",
+   0.0
+  ],
+  [
+   "Levi\u2019s Store American Dream",
+   1.0
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.0
+  ],
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   1.0
+  ],
+  [
+   "Roger Williams Park",
+   1.0
+  ]
+ ],
+ "The Oculus": [
+  [
+   "Statue of Liberty",
+   0.0
+  ],
+  [
+   "The Oculus",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ]
+ ],
+ "Ellis Island": [
+  [
+   "Boston Foodie Tours",
+   1.4142135623730951
+  ],
+  [
+   "Grand Central Terminal",
+   1.4142135623730951
+  ],
+  [
+   "Kings County Distillery",
+   1.4142135623730951
+  ],
+  [
+   "KGB Espionage Museum",
+   1.4142135623730951
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.4142135623730951
+  ]
+ ],
+ "St. Patrick's Cathedral": [
+  [
+   "Charles River Esplanade",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   1.0
+  ]
+ ],
+ "Madison Square Garden": [
+  [
+   "Chelsea Market",
+   1.0
+  ],
+  [
+   "Toyota Center",
+   1.0
+  ],
+  [
+   "The Florida Aquarium",
+   1.0
+  ],
+  [
+   "George M. Steinbrenner Field",
+   1.0
+  ],
+  [
+   "Circles Waterfront at Lands End Marina",
+   1.0
+  ]
+ ],
+ "Broadway": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "Times Square": [
+  [
+   "Samuel Adams Brewery",
+   1.4142135623730951
+  ],
+  [
+   "Newbury Street",
+   1.4142135623730951
+  ],
+  [
+   "The Metropolitan Museum of Art",
+   1.4142135623730951
+  ],
+  [
+   "Statue of Liberty",
+   1.4142135623730951
+  ],
+  [
+   "Brooklyn Bridge",
+   1.4142135623730951
+  ]
+ ],
+ "American Museum of Natural History": [
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ],
+  [
+   "Quincy Market",
+   1.4142135623730951
+  ],
+  [
+   "Skywalk Observatory",
+   1.4142135623730951
+  ],
+  [
+   "Larimer Square",
+   1.4142135623730951
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.7320508075688772
+  ]
+ ],
+ "Greenwich Village": [
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ],
+  [
+   "India Point Park",
+   1.0
+  ]
+ ],
+ "Chelsea Market": [
+  [
+   "Madison Square Garden",
+   1.0
+  ],
+  [
+   "The Providence Flea",
+   1.0
+  ],
+  [
+   "Wickenden Street",
+   1.0
+  ],
+  [
+   "Rhode Island School of Design Museum of Art",
+   1.4142135623730951
+  ],
+  [
+   "Toyota Center",
+   1.4142135623730951
+  ]
+ ],
+ "Gulliver's Gate": [
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Beat The Bomb",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ],
+  [
+   "Slater Memorial Park",
+   1.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   1.0
+  ]
+ ],
+ "The Museum of Modern Art (MoMA)": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "The Roosevelt Island Tramway": [
+  [
+   "The Roosevelt Island Tramway",
+   0.0
+  ],
+  [
+   "Osteria Marco",
+   0.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ]
+ ],
+ "The Daily Show": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Bohemian Hall & Beer Garden": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "New York Transit Museum": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Liberty Science Center": [
+  [
+   "Providence Athenaeum",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "The North End",
+   1.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ]
+ ],
+ "Governors Island National Monument": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "Madame Tussauds New York": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Beat The Bomb": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "The New York Aquarium": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Levi\u2019s Store American Dream": [
+  [
+   "Captain Memo's Pirate Cruise",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ]
+ ],
+ "Shipwrecked": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Dinosaur Bar-B-Que": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Astoria Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Kings County Distillery": [
+  [
+   "KGB Espionage Museum",
+   0.0
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "United States Mint",
+   1.0
+  ],
+  [
+   "Segway Tours of Houston",
+   1.0
+  ]
+ ],
+ "Belvedere Castle": [
+  [
+   "Newbury Street",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ]
+ ],
+ "Flushing Meadows-Corona Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Classic Harbor Line": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Jump into the Light": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Topgolf": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "Hayden Planetarium": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Rooftop Reds": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "National Geographic Encounter": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Yankee Stadium": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Zombie Hut": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Ros\u00e9 Mansion": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Angel's Share": [
+  [
+   "Providence Train Station",
+   0.0
+  ],
+  [
+   "Prospect Park",
+   0.0
+  ],
+  [
+   "Lowry Parcade & Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Mission Escape Games": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Sleep No More": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Ellis Island Immigration Museum": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Frying Pan": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Intrepid Sea Air & Space Museum": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Pro Line Archery Lanes": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "Tarot NYC": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "KGB Espionage Museum": [
+  [
+   "KGB Espionage Museum",
+   0.0
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "United States Mint",
+   1.0
+  ],
+  [
+   "Segway Tours of Houston",
+   1.0
+  ]
+ ],
+ "Gotham Archery": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Challenge Escape Rooms": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "The City Reliquary": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "BATSU! New York City": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Brooklyn Escape Room": [
+  [
+   "Denver Zoo Lights",
+   0.0
+  ],
+  [
+   "Shells & Sauce",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ]
+ ],
+ "Citi Field": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Ripley's Believe It or Not! Time Square": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "The Wrecking Club": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "The Funplex": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Russian Baths on Neck Road": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Bushwick Collective": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "UCB Theatre": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "VR World NYC": [
+  [
+   "Isabella Stewart Gardner Museum",
+   1.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ]
+ ],
+ "Clue Chase": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "MoMA PS1": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Painting Lounge": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Denver Botanic Gardens": [
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Gather Glass",
+   0.0
+  ],
+  [
+   "NRG Stadium",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Mount Evans": [
+  [
+   "Brooklyn Escape Room",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Denver Zoo Lights",
+   1.0
+  ],
+  [
+   "Shells & Sauce",
+   1.0
+  ]
+ ],
+ "Denver Union Station": [
+  [
+   "Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ],
+  [
+   "Quincy Market",
+   1.4142135623730951
+  ],
+  [
+   "Castle Island",
+   1.4142135623730951
+  ],
+  [
+   "Harvard Square",
+   1.4142135623730951
+  ]
+ ],
+ "Coors Field": [
+  [
+   "Museum of Fine Arts",
+   1.4142135623730951
+  ],
+  [
+   "Tipsy Chocolate Tours",
+   1.4142135623730951
+  ],
+  [
+   "Grand Central Terminal",
+   1.4142135623730951
+  ],
+  [
+   "Denver Museum of Nature & Science",
+   1.4142135623730951
+  ],
+  [
+   "Molly Brown House Museum",
+   1.4142135623730951
+  ]
+ ],
+ "Mount Evans Scenic Byway": [
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ],
+  [
+   "One World Observatory",
+   1.0
+  ],
+  [
+   "The Daily Show",
+   1.0
+  ]
+ ],
+ "Denver Museum of Nature & Science": [
+  [
+   "Denver Museum of Nature & Science",
+   0.0
+  ],
+  [
+   "Molly Brown House Museum",
+   0.0
+  ],
+  [
+   "National Ballpark Museum",
+   0.0
+  ],
+  [
+   "Sam Houston Boat Tour",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Denver Art Museum": [
+  [
+   "Museum of Fine Arts",
+   1.7320508075688772
+  ],
+  [
+   "Bunker Hill Monument",
+   1.7320508075688772
+  ],
+  [
+   "Rockefeller Center",
+   1.7320508075688772
+  ],
+  [
+   "New York Public Library",
+   1.7320508075688772
+  ],
+  [
+   "Liberty Science Center",
+   1.7320508075688772
+  ]
+ ],
+ "Stranahan's Colorado Whiskey Tour": [
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   0.0
+  ],
+  [
+   "Roger Williams Park",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ]
+ ],
+ "Denver Zoo": [
+  [
+   "Downtown Aquarium",
+   0.0
+  ],
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Levi\u2019s Store American Dream",
+   1.0
+  ],
+  [
+   "Providence Place Mall",
+   1.0
+  ],
+  [
+   "Bacaro",
+   1.0
+  ]
+ ],
+ "Molly Brown House Museum": [
+  [
+   "Denver Museum of Nature & Science",
+   0.0
+  ],
+  [
+   "Molly Brown House Museum",
+   0.0
+  ],
+  [
+   "National Ballpark Museum",
+   0.0
+  ],
+  [
+   "Sam Houston Boat Tour",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Forney Museum of Transportation": [
+  [
+   "Benefit Street",
+   0.0
+  ],
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Bunker Hill Monument",
+   1.4142135623730951
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ]
+ ],
+ "Larimer Square": [
+  [
+   "Quincy Market",
+   0.0
+  ],
+  [
+   "Larimer Square",
+   0.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Brooklyn Bridge",
+   1.0
+  ]
+ ],
+ "Sports Authority Field at Mile High": [
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Providence Place Mall",
+   1.0
+  ],
+  [
+   "Bacaro",
+   1.0
+  ],
+  [
+   "Ladder 133 Sports Kitchen & Social",
+   1.0
+  ],
+  [
+   "Steak 48",
+   1.0
+  ]
+ ],
+ "Washington Park": [
+  [
+   "Raymond James Stadium",
+   1.0
+  ],
+  [
+   "The North End",
+   1.4142135623730951
+  ],
+  [
+   "Thayer Street",
+   1.4142135623730951
+  ],
+  [
+   "George M. Steinbrenner Field",
+   1.4142135623730951
+  ],
+  [
+   "Bunker Hill Monument",
+   1.7320508075688772
+  ]
+ ],
+ "History Colorado Center": [
+  [
+   "Museum of Fine Arts",
+   1.4142135623730951
+  ],
+  [
+   "Rockefeller Center",
+   1.4142135623730951
+  ],
+  [
+   "New York Public Library",
+   1.4142135623730951
+  ],
+  [
+   "Denver Museum of Nature & Science",
+   1.4142135623730951
+  ],
+  [
+   "Molly Brown House Museum",
+   1.4142135623730951
+  ]
+ ],
+ "Kirkland Museum of Fine & Decorative Art": [
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   0.0
+  ],
+  [
+   "Roger Williams Park",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ]
+ ],
+ "Downtown Aquarium": [
+  [
+   "Downtown Aquarium",
+   0.0
+  ],
+  [
+   "Curtis Hixon Waterfront Park",
+   0.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ]
+ ],
+ "Colorado State Capitol": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Wings Over the Rockies Air & Space Museum": [
+  [
+   "Wings Over the Rockies Air & Space Museum",
+   0.0
+  ],
+  [
+   "Levi\u2019s Store American Dream",
+   1.0
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
+   1.0
+  ],
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   1.0
+  ],
+  [
+   "Roger Williams Park",
+   1.0
+  ]
+ ],
+ "16th Street Mall": [
+  [
+   "George M. Steinbrenner Field",
+   1.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.4142135623730951
+  ],
+  [
+   "The Metropolitan Museum of Art",
+   1.4142135623730951
+  ],
+  [
+   "Central Park",
+   1.4142135623730951
+  ],
+  [
+   "Statue of Liberty",
+   1.4142135623730951
+  ]
+ ],
+ "Denver Mountain Parks": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "National Ballpark Museum": [
+  [
+   "Denver Museum of Nature & Science",
+   0.0
+  ],
+  [
+   "Molly Brown House Museum",
+   0.0
+  ],
+  [
+   "National Ballpark Museum",
+   0.0
+  ],
+  [
+   "Sam Houston Boat Tour",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "LoDo": [
+  [
+   "Dunkin' Donuts Center",
+   0.0
+  ],
+  [
+   "Bryant Park",
+   1.0
+  ],
+  [
+   "Troop PVD",
+   1.0
+  ],
+  [
+   "Ladder 133 Sports Kitchen & Social",
+   1.0
+  ],
+  [
+   "KG Kitchen Bar",
+   1.0
+  ]
+ ],
+ "Cathedral of the Immaculate Conception": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   1.0
+  ],
+  [
+   "Space Montrose",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.4142135623730951
+  ],
+  [
+   "The Mapparium",
+   1.4142135623730951
+  ]
+ ],
+ "City Park - Denver": [
+  [
+   "Flatwoods Park",
+   0.0
+  ],
+  [
+   "Charles River Esplanade",
+   1.0
+  ],
+  [
+   "Broadway",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ]
+ ],
+ "Clyfford Still Museum": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "United States Mint": [
+  [
+   "Kings County Distillery",
+   1.0
+  ],
+  [
+   "KGB Espionage Museum",
+   1.0
+  ],
+  [
+   "USS Constitution Museum",
+   1.4142135623730951
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.4142135623730951
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.4142135623730951
+  ]
+ ],
+ "Balistreri Vineyards": [
+  [
+   "Pizza J",
+   0.0
+  ],
+  [
+   "The Original Greek Festival",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ]
+ ],
+ "Colorado Convention Center": [
+  [
+   "Colorado Convention Center",
+   0.0
+  ],
+  [
+   "Tampa Riverwalk",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ]
+ ],
+ "Cheesman Park": [
+  [
+   "Saus",
+   1.4142135623730951
+  ],
+  [
+   "Broadway",
+   1.4142135623730951
+  ],
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   1.4142135623730951
+  ],
+  [
+   "Space Montrose",
+   1.4142135623730951
+  ],
+  [
+   "Empower Adventures Tampa Bay",
+   1.4142135623730951
+  ]
+ ],
+ "Tiny Town": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Denver Adventures - Zipline Tours": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Children's Museum of Denver at Marsico Campus": [
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   0.0
+  ],
+  [
+   "Space Montrose",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "The Mapparium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Blue Sushi Sake Grill": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Belleview Park": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Axe Whooping": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Cherry Cricket": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Work & Class": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Platform Strength": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "Water World": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Museum of Contemporary Art Denver": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Topgolf",
+   1.0
+  ]
+ ],
+ "City of Denver": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Class Axe Throwing": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Hornet": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Root Down - Denver International Airport": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Forest Room 5": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Brooklyn Escape Room",
+   1.0
+  ],
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   1.0
+  ],
+  [
+   "Denver Zoo Lights",
+   1.0
+  ],
+  [
+   "Shells & Sauce",
+   1.0
+  ]
+ ],
+ "City Park": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Hops & Pie": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "City Sessions Denver": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Denver Zoo Lights": [
+  [
+   "Denver Zoo Lights",
+   0.0
+  ],
+  [
+   "Shells & Sauce",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ]
+ ],
+ "Historic Downtown Golden": [
+  [
+   "The Vets",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ],
+  [
+   "One World Observatory",
+   1.0
+  ]
+ ],
+ "Centennial Center Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Colorado State Government: Capitol Building": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Citron Bistro": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Film on the Rocks": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Grand Adventures": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Vesta": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Puzzle Effect - Denver": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Rioja": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Boondocks Northglenn": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "88 Drive In Theatre": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "The Clue Room": [
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Gather Glass",
+   0.0
+  ],
+  [
+   "NRG Stadium",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Sloan's Lake Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Unser Karting & Events": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Scratch Burrito & Happy Tap": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "The Clocktower Cabaret": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Mayan Theatre": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Epic Escape Game": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Nick's Garden Center & Farm Market": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "The Infinite Monkey Theorem": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Shells & Sauce": [
+  [
+   "Denver Zoo Lights",
+   0.0
+  ],
+  [
+   "Shells & Sauce",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ]
+ ],
+ "Cherry Creek Arts Festival": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Dangerous Theatre": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   0.0
+  ],
+  [
+   "Parkside Rotisserie & Bar",
+   0.0
+  ],
+  [
+   "Ivy Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Pepsi Center": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Osteria Marco": [
+  [
+   "The Roosevelt Island Tramway",
+   0.0
+  ],
+  [
+   "Osteria Marco",
+   0.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ]
+ ],
+ "Bluebird Theater": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Delicious Denver Food Tours": [
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   1.0
+  ]
+ ],
+ "Bonfire Burritos": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Roger Williams Park Zoo": [
+  [
+   "Adventure Island",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ]
+ ],
+ "Rhode Island School of Design Museum of Art": [
+  [
+   "Central Park",
+   1.0
+  ],
+  [
+   "Colorado Convention Center",
+   1.0
+  ],
+  [
+   "Museum of Contemporary Art Denver",
+   1.0
+  ],
+  [
+   "Wickenden Street",
+   1.0
+  ],
+  [
+   "Tampa Riverwalk",
+   1.0
+  ]
+ ],
+ "Historic Federal Hill": [
+  [
+   "The Florida Aquarium",
+   1.0
+  ],
+  [
+   "Boston Foodie Tours",
+   1.4142135623730951
+  ],
+  [
+   "Brooklyn Bridge",
+   1.4142135623730951
+  ],
+  [
+   "Bryant Park",
+   1.4142135623730951
+  ],
+  [
+   "Madison Square Garden",
+   1.4142135623730951
+  ]
+ ],
+ "Rhode Island State House": [
+  [
+   "Rhode Island State House",
+   0.0
+  ],
+  [
+   "Water Wall",
+   0.0
+  ],
+  [
+   "Ybor City",
+   0.0
+  ],
+  [
+   "Seminole Hard Rock Casino Tampa",
+   0.0
+  ],
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ]
+ ],
+ "Water Place Park": [
+  [
+   "Picco Pizza & Ice Cream",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Dangerous Theatre",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ]
+ ],
+ "Brown University": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Roger Williams Park": [
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   0.0
+  ],
+  [
+   "Roger Williams Park",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ]
+ ],
+ "Providence Performing Arts Center": [
+  [
+   "Providence Performing Arts Center",
+   0.0
+  ],
+  [
+   "Freedom Trail",
+   1.0
+  ],
+  [
+   "North End",
+   1.0
+  ],
+  [
+   "Castle Island",
+   1.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ]
+ ],
+ "Benefit Street": [
+  [
+   "Benefit Street",
+   0.0
+  ],
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Bunker Hill Monument",
+   1.4142135623730951
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ]
+ ],
+ "The Stephen Hopkins House": [
+  [
+   "The Stephen Hopkins House",
+   0.0
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "The Museum of Modern Art (MoMA)",
+   1.0
+  ]
+ ],
+ "Providence Children's Museum": [
+  [
+   "Museum of Science",
+   2.23606797749979
+  ],
+  [
+   "VinKari Safari",
+   2.23606797749979
+  ],
+  [
+   "Balistreri Vineyards",
+   2.23606797749979
+  ],
+  [
+   "Ladder 133 Sports Kitchen & Social",
+   2.23606797749979
+  ],
+  [
+   "Pizza J",
+   2.23606797749979
+  ]
+ ],
+ "Providence Train Station": [
+  [
+   "Providence Train Station",
+   0.0
+  ],
+  [
+   "Prospect Park",
+   0.0
+  ],
+  [
+   "Lowry Parcade & Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "DePasquale Plaza": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Providence Athenaeum": [
+  [
+   "Providence Athenaeum",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "The North End",
+   1.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ]
+ ],
+ "Seastreak Ferry": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Swan Point Cemetery": [
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.4142135623730951
+  ],
+  [
+   "Greenwich Village",
+   1.4142135623730951
+  ],
+  [
+   "John Brown House Museum",
+   1.4142135623730951
+  ],
+  [
+   "First Baptist Church in America",
+   1.4142135623730951
+  ]
+ ],
+ "Providence Place Mall": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "John Brown House Museum": [
+  [
+   "Museum of Fine Arts",
+   1.4142135623730951
+  ],
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Faneuil Hall Marketplace",
+   1.4142135623730951
+  ],
+  [
+   "Central Park",
+   1.4142135623730951
+  ],
+  [
+   "Denver Museum of Nature & Science",
+   1.4142135623730951
+  ]
+ ],
+ "Thayer Street": [
+  [
+   "Thayer Street",
+   0.0
+  ],
+  [
+   "Liberty Science Center",
+   1.0
+  ],
+  [
+   "Roger Williams Park Zoo",
+   1.0
+  ],
+  [
+   "Providence Athenaeum",
+   1.0
+  ],
+  [
+   "Rodeo Houston or Houston Livestock Show and Rodeo",
+   1.0
+  ]
+ ],
+ "India Point Park": [
+  [
+   "Bryant Park",
+   1.0
+  ],
+  [
+   "Greenwich Village",
+   1.0
+  ],
+  [
+   "Troop PVD",
+   1.0
+  ],
+  [
+   "KG Kitchen Bar",
+   1.0
+  ],
+  [
+   "Memorial City Mall",
+   1.0
+  ]
+ ],
+ "Roger Williams National Memorial": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Roger Williams Park Botanical Center": [
+  [
+   "Bayshore Boulevard",
+   1.0
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ],
+  [
+   "Mount Evans",
+   1.4142135623730951
+  ],
+  [
+   "Forney Museum of Transportation",
+   1.4142135623730951
+  ]
+ ],
+ "The Providence Flea": [
+  [
+   "Chelsea Market",
+   1.0
+  ],
+  [
+   "The Florida Aquarium",
+   1.0
+  ],
+  [
+   "Boston Foodie Tours",
+   1.4142135623730951
+  ],
+  [
+   "Brooklyn Bridge",
+   1.4142135623730951
+  ],
+  [
+   "The High Line",
+   1.4142135623730951
+  ]
+ ],
+ "Prospect Terrace": [
+  [
+   "Boston Common",
+   1.4142135623730951
+  ],
+  [
+   "Forney Museum of Transportation",
+   1.4142135623730951
+  ],
+  [
+   "City Park - Denver",
+   1.4142135623730951
+  ],
+  [
+   "Benefit Street",
+   1.4142135623730951
+  ],
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   1.4142135623730951
+  ]
+ ],
+ "Wickenden Street": [
+  [
+   "Chelsea Market",
+   1.0
+  ],
+  [
+   "Rhode Island School of Design Museum of Art",
+   1.0
+  ],
+  [
+   "Central Park",
+   1.4142135623730951
+  ],
+  [
+   "The High Line",
+   1.4142135623730951
+  ],
+  [
+   "Bryant Park",
+   1.4142135623730951
+  ]
+ ],
+ "Providence Art Club": [
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   1.0
+  ]
+ ],
+ "The Vets": [
+  [
+   "The Vets",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ],
+  [
+   "One World Observatory",
+   1.0
+  ]
+ ],
+ "Providence College": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "Dunkin' Donuts Center": [
+  [
+   "Dunkin' Donuts Center",
+   0.0
+  ],
+  [
+   "Bryant Park",
+   1.0
+  ],
+  [
+   "Troop PVD",
+   1.0
+  ],
+  [
+   "Ladder 133 Sports Kitchen & Social",
+   1.0
+  ],
+  [
+   "KG Kitchen Bar",
+   1.0
+  ]
+ ],
+ "First Baptist Church in America": [
+  [
+   "Haunted Boston Ghost Tours",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "Segway Tours of Houston",
+   1.0
+  ],
+  [
+   "Henry B. Plant Museum",
+   1.0
+  ],
+  [
+   "Tampa Theatre",
+   1.0
+  ]
+ ],
+ "The Providence Rink": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Annmary Brown Memorial": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Pawtucket Wintertime Farmers Market": [
+  [
+   "Picco Pizza & Ice Cream",
+   1.0
+  ],
+  [
+   "Brooklyn Escape Room",
+   1.0
+  ],
+  [
+   "Denver Zoo Lights",
+   1.0
+  ],
+  [
+   "Shells & Sauce",
+   1.0
+  ],
+  [
+   "Dangerous Theatre",
+   1.0
+  ]
+ ],
+ "Bayberry Beer Hall": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Brass Monkey": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Rhode Island Red Food Tours": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Seekonk Grand Prix": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Venda Ravioli": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "The Avery": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Parlour": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Loie Fullers": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "The Eddy": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Bacaro": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "The Abbey": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Twin River Casino Hotel": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Riffraff Bookstore and Bar": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   0.0
+  ],
+  [
+   "Parkside Rotisserie & Bar",
+   0.0
+  ],
+  [
+   "Ivy Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Troop PVD": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ],
+ "Rondeaus Kickboxing": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Shunned House": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "The Slow Rhode": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Museum of Natural History and Planetarium": [
+  [
+   "F\u00eate Music Hall",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ]
+ ],
+ "Fleming's Prime Steakhouse- Providence": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Federal Taphouse & Kitchen": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Hot Club": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Providence Byblos": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Slater Memorial Park": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Ladder 133 Sports Kitchen & Social": [
+  [
+   "The Bricks",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ]
+ ],
+ "F\u00eate Music Hall": [
+  [
+   "F\u00eate Music Hall",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ]
+ ],
+ "Pizza J": [
+  [
+   "Pizza J",
+   0.0
+  ],
+  [
+   "The Original Greek Festival",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ]
+ ],
+ "Rooftop at the Providence G": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Lovecraft Arts & Sciences Council": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "KG Kitchen Bar": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ],
+ "Ten Prime Steak & Sushi": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Paint and Vino": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Parkside Rotisserie & Bar": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   0.0
+  ],
+  [
+   "Parkside Rotisserie & Bar",
+   0.0
+  ],
+  [
+   "Ivy Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Newport Classic Car Tours": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Snookers": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Ivy Tavern": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   0.0
+  ],
+  [
+   "Parkside Rotisserie & Bar",
+   0.0
+  ],
+  [
+   "Ivy Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "Prospect Park": [
+  [
+   "Providence Train Station",
+   0.0
+  ],
+  [
+   "Prospect Park",
+   0.0
+  ],
+  [
+   "Lowry Parcade & Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Open Circle": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Tavern in the Square": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Barnaby's Public House": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Gather Glass": [
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Gather Glass",
+   0.0
+  ],
+  [
+   "NRG Stadium",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "The Boombox Karaoke": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Avon Cinema": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Barnaby castle": [
+  [
+   "Angel's Share",
+   1.0
+  ],
+  [
+   "Providence Train Station",
+   1.0
+  ],
+  [
+   "Prospect Park",
+   1.0
+  ],
+  [
+   "Lowry Parcade & Tavern",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.4142135623730951
+  ]
+ ],
+ "Craft Burgers and Beer": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "The Stable": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "The Houston Museum of Natural Science": [
+  [
+   "Rodeo Houston or Houston Livestock Show and Rodeo",
+   1.4142135623730951
+  ],
+  [
+   "The North End",
+   1.7320508075688772
+  ],
+  [
+   "Denver Zoo",
+   1.7320508075688772
+  ],
+  [
+   "Washington Park",
+   1.7320508075688772
+  ],
+  [
+   "Downtown Aquarium",
+   1.7320508075688772
+  ]
+ ],
+ "Minute Maid Park": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Museum of Fine Arts, Houston": [
+  [
+   "Kirkland Museum of Fine & Decorative Art",
+   0.0
+  ],
+  [
+   "Roger Williams Park",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts, Houston",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ]
+ ],
+ "Children's Museum of Houston": [
+  [
+   "The Metropolitan Museum of Art",
+   1.4142135623730951
+  ],
+  [
+   "Statue of Liberty",
+   1.4142135623730951
+  ],
+  [
+   "The Oculus",
+   1.4142135623730951
+  ],
+  [
+   "Levi\u2019s Store American Dream",
+   1.4142135623730951
+  ],
+  [
+   "Lone Star Flight Museum",
+   1.4142135623730951
+  ]
+ ],
+ "Houston Zoo": [
+  [
+   "Sports Authority Field at Mile High",
+   1.4142135623730951
+  ],
+  [
+   "Boston Foodie Tours",
+   1.7320508075688772
+  ],
+  [
+   "The Metropolitan Museum of Art",
+   1.7320508075688772
+  ],
+  [
+   "Statue of Liberty",
+   1.7320508075688772
+  ],
+  [
+   "The Oculus",
+   1.7320508075688772
+  ]
+ ],
+ "Space Center Houston": [
+  [
+   "Roger Williams Park Zoo",
+   1.4142135623730951
+  ],
+  [
+   "Boheme",
+   1.4142135623730951
+  ],
+  [
+   "Adventure Island",
+   1.4142135623730951
+  ],
+  [
+   "Shojo",
+   1.7320508075688772
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.7320508075688772
+  ]
+ ],
+ "The Galleria": [
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Providence Place Mall",
+   1.0
+  ],
+  [
+   "Bacaro",
+   1.0
+  ],
+  [
+   "Steak 48",
+   1.0
+  ],
+  [
+   "Indika",
+   1.0
+  ]
+ ],
+ "Cockrell Butterfly Center": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "The Mapparium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ]
+ ],
+ "Toyota Center": [
+  [
+   "Circles Waterfront at Lands End Marina",
+   0.0
+  ],
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Madison Square Garden",
+   1.0
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.0
+  ],
+  [
+   "The Clue Room",
+   1.0
+  ]
+ ],
+ "Rodeo Houston or Houston Livestock Show and Rodeo": [
+  [
+   "The North End",
+   1.0
+  ],
+  [
+   "Denver Zoo",
+   1.0
+  ],
+  [
+   "Downtown Aquarium",
+   1.0
+  ],
+  [
+   "Thayer Street",
+   1.0
+  ],
+  [
+   "Toyota Center",
+   1.0
+  ]
+ ],
+ "Water Wall": [
+  [
+   "Rhode Island State House",
+   0.0
+  ],
+  [
+   "Water Wall",
+   0.0
+  ],
+  [
+   "Ybor City",
+   0.0
+  ],
+  [
+   "Seminole Hard Rock Casino Tampa",
+   0.0
+  ],
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ]
+ ],
+ "NRG Stadium": [
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Gather Glass",
+   0.0
+  ],
+  [
+   "NRG Stadium",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Discovery Green": [
+  [
+   "Boston Children's Museum",
+   1.7320508075688772
+  ],
+  [
+   "Radio City Music Hall",
+   2.0
+  ],
+  [
+   "Lettuce Lake Regional Park",
+   2.0
+  ],
+  [
+   "Museum of Science",
+   2.23606797749979
+  ],
+  [
+   "Arnold Arboretum",
+   2.23606797749979
+  ]
+ ],
+ "National Museum of Funeral History": [
+  [
+   "Isabella Stewart Gardner Museum",
+   1.4142135623730951
+  ],
+  [
+   "Old North Church & Historic Site",
+   1.7320508075688772
+  ],
+  [
+   "Ellis Island",
+   1.7320508075688772
+  ],
+  [
+   "Kings County Distillery",
+   1.7320508075688772
+  ],
+  [
+   "KGB Espionage Museum",
+   1.7320508075688772
+  ]
+ ],
+ "Bayou Bend Collection and Gardens": [
+  [
+   "Samuel Adams Brewery",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "Bunker Hill Monument",
+   1.0
+  ],
+  [
+   "Staten Island Ferry",
+   1.0
+  ],
+  [
+   "New York Public Library",
+   1.0
+  ]
+ ],
+ "The Menil Collection": [
+  [
+   "The Museum of Modern Art (MoMA)",
+   0.0
+  ],
+  [
+   "Governors Island National Monument",
+   0.0
+  ],
+  [
+   "The Wrecking Club",
+   0.0
+  ],
+  [
+   "Bushwick Collective",
+   0.0
+  ],
+  [
+   "Platform Strength",
+   0.0
+  ]
+ ],
+ "The Music Box Theater": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Buffalo Bayou Park": [
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   1.0
+  ],
+  [
+   "Fenway Park",
+   1.4142135623730951
+  ],
+  [
+   "Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Beacon Hill",
+   1.4142135623730951
+  ]
+ ],
+ "Houston Museum District": [
+  [
+   "Newbury Street",
+   1.4142135623730951
+  ],
+  [
+   "Staten Island Ferry",
+   1.4142135623730951
+  ],
+  [
+   "Times Square",
+   1.4142135623730951
+  ],
+  [
+   "Rhode Island State House",
+   1.4142135623730951
+  ],
+  [
+   "Water Wall",
+   1.4142135623730951
+  ]
+ ],
+ "Saint Arnold Brewing Company": [
+  [
+   "Sports Authority Field at Mile High",
+   1.4142135623730951
+  ],
+  [
+   "The Galleria",
+   1.4142135623730951
+  ],
+  [
+   "Boston Foodie Tours",
+   1.7320508075688772
+  ],
+  [
+   "The Hornet",
+   1.7320508075688772
+  ],
+  [
+   "Rioja",
+   1.7320508075688772
+  ]
+ ],
+ "Lone Star Flight Museum": [
+  [
+   "Intrepid Sea, Air & Space Museum",
+   1.0
+  ],
+  [
+   "Wings Over the Rockies Air & Space Museum",
+   1.0
+  ],
+  [
+   "Samuel Adams Brewery",
+   1.4142135623730951
+  ],
+  [
+   "Bunker Hill Monument",
+   1.4142135623730951
+  ],
+  [
+   "The Metropolitan Museum of Art",
+   1.4142135623730951
+  ]
+ ],
+ "Rice University Campus": [
+  [
+   "Boston Public Garden",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ],
+  [
+   "Providence College",
+   1.0
+  ]
+ ],
+ "Houston Arboretum & Nature Center": [
+  [
+   "Staten Island Ferry",
+   1.4142135623730951
+  ],
+  [
+   "Rhode Island State House",
+   1.4142135623730951
+  ],
+  [
+   "Water Wall",
+   1.4142135623730951
+  ],
+  [
+   "Houston Museum District",
+   1.4142135623730951
+  ],
+  [
+   "Ybor City",
+   1.4142135623730951
+  ]
+ ],
+ "Houston Graffiti Building": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Smither Park": [
+  [
+   "VR World NYC",
+   1.0
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.0
+  ],
+  [
+   "Museum of Contemporary Art Denver",
+   1.0
+  ],
+  [
+   "The Clue Room",
+   1.0
+  ],
+  [
+   "Gather Glass",
+   1.0
+  ]
+ ],
+ "Memorial City Mall": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ],
+ "Holocaust Museum Houston": [
+  [
+   "Children's Museum of Houston",
+   1.4142135623730951
+  ],
+  [
+   "Lone Star Flight Museum",
+   1.4142135623730951
+  ],
+  [
+   "USS Constitution Museum",
+   1.7320508075688772
+  ],
+  [
+   "Intrepid Sea, Air & Space Museum",
+   1.7320508075688772
+  ],
+  [
+   "Wings Over the Rockies Air & Space Museum",
+   1.7320508075688772
+  ]
+ ],
+ "Glenwood Cemetery": [
+  [
+   "New York Public Library",
+   1.4142135623730951
+  ],
+  [
+   "The Stephen Hopkins House",
+   1.4142135623730951
+  ],
+  [
+   "Swan Point Cemetery",
+   1.4142135623730951
+  ],
+  [
+   "First Baptist Church in America",
+   1.4142135623730951
+  ],
+  [
+   "Boston Public Library",
+   1.7320508075688772
+  ]
+ ],
+ "Karbach Brewing": [
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Picco Pizza & Ice Cream",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Topgolf",
+   1.0
+  ]
+ ],
+ "The Secret Group": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Burke Baker Planetarium": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Neil's Bahr": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Pro Line Archery Lanes",
+   1.0
+  ],
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   1.0
+  ],
+  [
+   "Space Montrose",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.4142135623730951
+  ]
+ ],
+ "benjy's": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Urban Air Adventure Park - Houston": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Go-Kart Raceway": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Steak 48": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "Sam Houston Boat Tour": [
+  [
+   "Denver Museum of Nature & Science",
+   0.0
+  ],
+  [
+   "Molly Brown House Museum",
+   0.0
+  ],
+  [
+   "National Ballpark Museum",
+   0.0
+  ],
+  [
+   "Sam Houston Boat Tour",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Empire Cafe": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Contemporary Arts Museum Houston": [
+  [
+   "Saus",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "The Museum of Modern Art (MoMA)",
+   1.0
+  ],
+  [
+   "Governors Island National Monument",
+   1.0
+  ],
+  [
+   "The Wrecking Club",
+   1.0
+  ]
+ ],
+ "Moon Tower Inn": [
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "The Museum of Modern Art (MoMA)",
+   1.0
+  ],
+  [
+   "Governors Island National Monument",
+   1.0
+  ],
+  [
+   "Angel's Share",
+   1.0
+  ],
+  [
+   "The Wrecking Club",
+   1.0
+  ]
+ ],
+ "SPJST Lodge 88": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Improv Comedy Club": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Memorial City": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "King's Bierhaus": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Cypress Trails Equestrian Center": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Studio Movie Grill": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Game Preserve NASA": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Bayou Wildlife Zoo": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Orange Show": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Siphon Coffee": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Pedal Party": [
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Radio City Music Hall",
+   1.0
+  ],
+  [
+   "Broadway",
+   1.0
+  ]
+ ],
+ "Houston Panic Room": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Washington Gym": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "AMC Houston 8": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Lupe Tortilla": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Levy Park": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Waugh Drive Bat Colony": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Segway Tours of Houston": [
+  [
+   "Sacco's Bowl Haven",
+   0.0
+  ],
+  [
+   "Segway Tours of Houston",
+   0.0
+  ],
+  [
+   "Museum of Fine Arts",
+   1.0
+  ],
+  [
+   "Boston Common",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ]
+ ],
+ "McGovern Centennial Gardens": [
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ],
+  [
+   "Brown University",
+   1.0
+  ],
+  [
+   "India Point Park",
+   1.0
+  ]
+ ],
+ "Space Montrose": [
+  [
+   "Children's Museum of Denver at Marsico Campus",
+   0.0
+  ],
+  [
+   "Space Montrose",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "The Mapparium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Lei Low": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Cipher Escape Rooms": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Putt Putt Fun House": [
+  [
+   "Cigar City Brewing",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ]
+ ],
+ "Houston Livestock Show and Rodeo": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Indika": [
+  [
+   "Providence Place Mall",
+   0.0
+  ],
+  [
+   "Bacaro",
+   0.0
+  ],
+  [
+   "Steak 48",
+   0.0
+  ],
+  [
+   "Indika",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ]
+ ],
+ "Taste Bar + Kitchen": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Zoo Lights": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Houston Dynamo": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Original Greek Festival": [
+  [
+   "Pizza J",
+   0.0
+  ],
+  [
+   "The Original Greek Festival",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ]
+ ],
+ "Free Press Summerfest": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Tantrums": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "City of Houston": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Escape Again Rooms": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "El Big Bad": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Boheme": [
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   1.0
+  ]
+ ],
+ "Yard House - Takeout & Delivery Available": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "MAX's Wine Dive": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Wooster's Garden": [
+  [
+   "Picco Pizza & Ice Cream",
+   1.0
+  ],
+  [
+   "Angel's Share",
+   1.0
+  ],
+  [
+   "Dangerous Theatre",
+   1.0
+  ],
+  [
+   "Providence Train Station",
+   1.0
+  ],
+  [
+   "Riffraff Bookstore and Bar",
+   1.0
+  ]
+ ],
+ "Sunshine Skyway Bridge": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Big Cat Rescue": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "Tampa Riverwalk": [
+  [
+   "Colorado Convention Center",
+   0.0
+  ],
+  [
+   "Tampa Riverwalk",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ]
+ ],
+ "ZooTampa at Lowry Park": [
+  [
+   "Gulliver's Gate",
+   1.0
+  ],
+  [
+   "Putt Putt Fun House",
+   1.0
+  ],
+  [
+   "Cigar City Brewing",
+   1.0
+  ],
+  [
+   "Shojo",
+   1.4142135623730951
+  ],
+  [
+   "Gaslight",
+   1.4142135623730951
+  ]
+ ],
+ "The Florida Aquarium": [
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Brooklyn Bridge",
+   1.0
+  ],
+  [
+   "Bryant Park",
+   1.0
+  ],
+  [
+   "Madison Square Garden",
+   1.0
+  ],
+  [
+   "The Roosevelt Island Tramway",
+   1.0
+  ]
+ ],
+ "Busch Gardens": [
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "The High Line",
+   1.4142135623730951
+  ],
+  [
+   "Bryant Park",
+   1.4142135623730951
+  ],
+  [
+   "Troop PVD",
+   1.4142135623730951
+  ],
+  [
+   "KG Kitchen Bar",
+   1.4142135623730951
+  ]
+ ],
+ "Lettuce Lake Regional Park": [
+  [
+   "Central Park",
+   1.7320508075688772
+  ],
+  [
+   "City Park - Denver",
+   1.7320508075688772
+  ],
+  [
+   "Colorado Convention Center",
+   1.7320508075688772
+  ],
+  [
+   "Prospect Terrace",
+   1.7320508075688772
+  ],
+  [
+   "Pedal Party",
+   1.7320508075688772
+  ]
+ ],
+ "Ybor City": [
+  [
+   "Rhode Island State House",
+   0.0
+  ],
+  [
+   "Water Wall",
+   0.0
+  ],
+  [
+   "Ybor City",
+   0.0
+  ],
+  [
+   "Seminole Hard Rock Casino Tampa",
+   0.0
+  ],
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ]
+ ],
+ "Bayshore Boulevard": [
+  [
+   "Mount Evans",
+   1.0
+  ],
+  [
+   "City Park - Denver",
+   1.0
+  ],
+  [
+   "Roger Williams Park Botanical Center",
+   1.0
+  ],
+  [
+   "Flatwoods Park",
+   1.0
+  ],
+  [
+   "Charles River Esplanade",
+   1.4142135623730951
+  ]
+ ],
+ "Amalie Arena": [
+  [
+   "Denver Zoo",
+   1.4142135623730951
+  ],
+  [
+   "Downtown Aquarium",
+   1.4142135623730951
+  ],
+  [
+   "The Florida Aquarium",
+   1.4142135623730951
+  ],
+  [
+   "Boston Foodie Tours",
+   1.7320508075688772
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.7320508075688772
+  ]
+ ],
+ "TECO Line Streetcar System": [
+  [
+   "TECO Line Streetcar System",
+   0.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Museum of Bad Art",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ]
+ ],
+ "Glazer Children's Museum": [
+  [
+   "Levi\u2019s Store American Dream",
+   1.0
+  ],
+  [
+   "Captain Memo's Pirate Cruise",
+   1.0
+  ],
+  [
+   "Skywalk Observatory",
+   1.4142135623730951
+  ],
+  [
+   "Somerville Theatre",
+   1.4142135623730951
+  ],
+  [
+   "East Boston Piers Park",
+   1.4142135623730951
+  ]
+ ],
+ "Henry B. Plant Museum": [
+  [
+   "Kings County Distillery",
+   1.0
+  ],
+  [
+   "KGB Espionage Museum",
+   1.0
+  ],
+  [
+   "First Baptist Church in America",
+   1.0
+  ],
+  [
+   "Cracker Country",
+   1.0
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.4142135623730951
+  ]
+ ],
+ "Yuengling Brewery": [
+  [
+   "Yuengling Brewery",
+   0.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ],
+  [
+   "Larimer Square",
+   1.0
+  ],
+  [
+   "Bayou Bend Collection and Gardens",
+   1.0
+  ]
+ ],
+ "Tampa Bay History Center": [
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ],
+  [
+   "Museum of Fine Arts",
+   1.4142135623730951
+  ],
+  [
+   "Blue Man Group",
+   1.4142135623730951
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.4142135623730951
+  ],
+  [
+   "Denver Museum of Nature & Science",
+   1.4142135623730951
+  ]
+ ],
+ "Raymond James Stadium": [
+  [
+   "The North End",
+   1.0
+  ],
+  [
+   "Washington Park",
+   1.0
+  ],
+  [
+   "Thayer Street",
+   1.0
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.4142135623730951
+  ],
+  [
+   "Central Park",
+   1.4142135623730951
+  ]
+ ],
+ "George M. Steinbrenner Field": [
+  [
+   "Madison Square Garden",
+   1.0
+  ],
+  [
+   "16th Street Mall",
+   1.0
+  ],
+  [
+   "Chelsea Market",
+   1.4142135623730951
+  ],
+  [
+   "Washington Park",
+   1.4142135623730951
+  ],
+  [
+   "Toyota Center",
+   1.4142135623730951
+  ]
+ ],
+ "Seminole Hard Rock Casino Tampa": [
+  [
+   "Rhode Island State House",
+   0.0
+  ],
+  [
+   "Water Wall",
+   0.0
+  ],
+  [
+   "Ybor City",
+   0.0
+  ],
+  [
+   "Seminole Hard Rock Casino Tampa",
+   0.0
+  ],
+  [
+   "New England Holocaust Memorial",
+   1.0
+  ]
+ ],
+ "International Plaza and Bay Street": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ],
+ "Adventure Island": [
+  [
+   "Adventure Island",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ]
+ ],
+ "Courtney Campbell Trail": [
+  [
+   "City Park",
+   0.0
+  ],
+  [
+   "Brown University",
+   0.0
+  ],
+  [
+   "Annmary Brown Memorial",
+   0.0
+  ],
+  [
+   "Loie Fullers",
+   0.0
+  ],
+  [
+   "The Shunned House",
+   0.0
+  ]
+ ],
+ "Cigar City Brewing": [
+  [
+   "Cigar City Brewing",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ]
+ ],
+ "Tampa Bay Downs": [
+  [
+   "Rockefeller Center",
+   1.4142135623730951
+  ],
+  [
+   "Moon Tower Inn",
+   1.4142135623730951
+  ],
+  [
+   "TECO Line Streetcar System",
+   1.4142135623730951
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.7320508075688772
+  ],
+  [
+   "X1 Boston",
+   1.7320508075688772
+  ]
+ ],
+ "Tampa Theatre": [
+  [
+   "Old North Church & Historic Site",
+   1.0
+  ],
+  [
+   "First Baptist Church in America",
+   1.0
+  ],
+  [
+   "Fenway Park",
+   1.4142135623730951
+  ],
+  [
+   "North End",
+   1.4142135623730951
+  ],
+  [
+   "Saus",
+   1.4142135623730951
+  ]
+ ],
+ "Curtis Hixon Waterfront Park": [
+  [
+   "Downtown Aquarium",
+   0.0
+  ],
+  [
+   "Curtis Hixon Waterfront Park",
+   0.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ]
+ ],
+ "Museum of Science and Industry": [
+  [
+   "Gulliver's Gate",
+   1.4142135623730951
+  ],
+  [
+   "East Boston Piers Park",
+   1.7320508075688772
+  ],
+  [
+   "Beat The Bomb",
+   1.7320508075688772
+  ],
+  [
+   "Belleview Park",
+   1.7320508075688772
+  ],
+  [
+   "Slater Memorial Park",
+   1.7320508075688772
+  ]
+ ],
+ "SS American Victory Mariners' Memorial and Museum Ship": [
+  [
+   "SS American Victory Mariners' Memorial and Museum Ship",
+   0.0
+  ],
+  [
+   "Fenway Park",
+   1.0
+  ],
+  [
+   "Freedom Trail",
+   1.0
+  ],
+  [
+   "Beacon Hill",
+   1.0
+  ],
+  [
+   "Quincy Market",
+   1.0
+  ]
+ ],
+ "Croc Encounters": [
+  [
+   "Denver Botanic Gardens",
+   1.4142135623730951
+  ],
+  [
+   "The Clue Room",
+   1.4142135623730951
+  ],
+  [
+   "Gather Glass",
+   1.4142135623730951
+  ],
+  [
+   "NRG Stadium",
+   1.4142135623730951
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   1.4142135623730951
+  ]
+ ],
+ "Sacred Heart Catholic Church": [
+  [
+   "Greenwich Village",
+   1.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.4142135623730951
+  ],
+  [
+   "City Park",
+   1.4142135623730951
+  ],
+  [
+   "Brown University",
+   1.4142135623730951
+  ]
+ ],
+ "Wat Mongkolrata Temple": [
+  [
+   "Roger Williams Park Zoo",
+   1.0
+  ],
+  [
+   "Adventure Island",
+   1.0
+  ],
+  [
+   "Shojo",
+   1.4142135623730951
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.4142135623730951
+  ],
+  [
+   "Gaslight",
+   1.4142135623730951
+  ]
+ ],
+ "PK's PlayZone & Grille": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Bayshore Linear Park Trail": [
+  [
+   "Greenwich Village",
+   1.0
+  ],
+  [
+   "City Park - Denver",
+   1.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   1.0
+  ],
+  [
+   "Flatwoods Park",
+   1.0
+  ],
+  [
+   "Charles River Esplanade",
+   1.4142135623730951
+  ]
+ ],
+ "Pier 60 Sugar Sand Festival": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Tampa Bay Grand Prix": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "On Swann": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Sunsets at Pier 60": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Sarasota Jungle Gardens": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Tampa Museum of Art": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Cooper's Hawk Winery & Restaurants - Tampa": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Julian B. Lane Riverfront Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Cheese Please": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Green Lemon": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Empower Adventures Tampa Bay": [
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ],
+  [
+   "The Friendly Toast",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Wilson Farm",
+   1.0
+  ]
+ ],
+ "Coppertail Brewing Co": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "eBOATS Tampa": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Flatwoods Park": [
+  [
+   "Flatwoods Park",
+   0.0
+  ],
+  [
+   "Charles River Esplanade",
+   1.0
+  ],
+  [
+   "Broadway",
+   1.0
+  ],
+  [
+   "Colorado State Capitol",
+   1.0
+  ],
+  [
+   "City Park",
+   1.0
+  ]
+ ],
+ "Edison: Food+Drink Lab": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Horse Power for Kids": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Fun Lan Drive In Theatre": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Lowry Parcade & Tavern": [
+  [
+   "Providence Train Station",
+   0.0
+  ],
+  [
+   "Prospect Park",
+   0.0
+  ],
+  [
+   "Lowry Parcade & Tavern",
+   0.0
+  ],
+  [
+   "New England Aquarium",
+   1.0
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.0
+  ]
+ ],
+ "Murder House": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Gigglewaters": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Altitude Trampoline Park": [
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Slater Memorial Park",
+   0.0
+  ],
+  [
+   "Urban Air Adventure Park - Houston",
+   0.0
+  ],
+  [
+   "PK's PlayZone & Grille",
+   0.0
+  ],
+  [
+   "Sarasota Jungle Gardens",
+   0.0
+  ]
+ ],
+ "Bay Area Renaissance Festival": [
+  [
+   "Rioja",
+   0.0
+  ],
+  [
+   "Ten Prime Steak & Sushi",
+   0.0
+  ],
+  [
+   "Taste Bar + Kitchen",
+   0.0
+  ],
+  [
+   "Edison: Food+Drink Lab",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ]
+ ],
+ "Captain Memo's Pirate Cruise": [
+  [
+   "Captain Memo's Pirate Cruise",
+   0.0
+  ],
+  [
+   "Somerville Theatre",
+   1.0
+  ],
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "Empire State Building",
+   1.0
+  ],
+  [
+   "Manhattan Skyline",
+   1.0
+  ]
+ ],
+ "Florida Orange Groves Winery": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "The C House": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "EG Simmons Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Odyssey Cruises": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Villagio Cinemas": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Capt Jared": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Social House": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "George Steinbrenner Field": [
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   1.0
+  ]
+ ],
+ "Besito Mexican Restaurant": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "Boca - Tampa": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "The Tropics Boat Tours": [
+  [
+   "X1 Boston",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   0.0
+  ],
+  [
+   "Topgolf",
+   0.0
+  ],
+  [
+   "Gotham Archery",
+   0.0
+  ],
+  [
+   "Ripley's Believe It or Not! Time Square",
+   0.0
+  ]
+ ],
+ "The Shops at Wiregrass": [
+  [
+   "Gaslight",
+   0.0
+  ],
+  [
+   "Craigie On Main",
+   0.0
+  ],
+  [
+   "Rabia's",
+   0.0
+  ],
+  [
+   "Maggiano's Little Italy",
+   0.0
+  ],
+  [
+   "Bites of Boston Food Tours",
+   0.0
+  ]
+ ],
+ "The Bricks": [
+  [
+   "The Bricks",
+   0.0
+  ],
+  [
+   "Shojo",
+   1.0
+  ],
+  [
+   "Gaslight",
+   1.0
+  ],
+  [
+   "Craigie On Main",
+   1.0
+  ],
+  [
+   "Rabia's",
+   1.0
+  ]
+ ],
+ "Vertical Ventures": [
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "X1 Boston",
+   1.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Topgolf",
+   1.0
+  ],
+  [
+   "Gotham Archery",
+   1.0
+  ]
+ ],
+ "Circles Waterfront at Lands End Marina": [
+  [
+   "Circles Waterfront at Lands End Marina",
+   0.0
+  ],
+  [
+   "Boston Foodie Tours",
+   1.0
+  ],
+  [
+   "Madison Square Garden",
+   1.0
+  ],
+  [
+   "Denver Botanic Gardens",
+   1.0
+  ],
+  [
+   "The Clue Room",
+   1.0
+  ]
+ ],
+ "Cracker Country": [
+  [
+   "Henry B. Plant Museum",
+   1.0
+  ],
+  [
+   "New England Aquarium",
+   1.4142135623730951
+  ],
+  [
+   "Aeronaut Brewing Company",
+   1.4142135623730951
+  ],
+  [
+   "The Friendly Toast",
+   1.4142135623730951
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.4142135623730951
+  ]
+ ],
+ "Parkesdale Farm Market": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Philippe Park": [
+  [
+   "Aeronaut Brewing Company",
+   0.0
+  ],
+  [
+   "The Friendly Toast",
+   0.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   0.0
+  ],
+  [
+   "Wilson Farm",
+   0.0
+  ],
+  [
+   "Copley Square Farmers Market",
+   0.0
+  ]
+ ],
+ "Mixon Fruit Farms": [
+  [
+   "Empire State Building",
+   0.0
+  ],
+  [
+   "Manhattan Skyline",
+   0.0
+  ],
+  [
+   "One World Observatory",
+   0.0
+  ],
+  [
+   "The Daily Show",
+   0.0
+  ],
+  [
+   "New York Transit Museum",
+   0.0
+  ]
+ ],
+ "Ruskin Family Drive-In Theater": [
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Gather Glass",
+   0.0
+  ],
+  [
+   "NRG Stadium",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "John F. Kennedy Presidential Museum & Library",
+   1.0
+  ]
+ ],
+ "Mermaid Tavern": [
+  [
+   "Troop PVD",
+   0.0
+  ],
+  [
+   "KG Kitchen Bar",
+   0.0
+  ],
+  [
+   "Memorial City Mall",
+   0.0
+  ],
+  [
+   "International Plaza and Bay Street",
+   0.0
+  ],
+  [
+   "Mermaid Tavern",
+   0.0
+  ]
+ ]
+}

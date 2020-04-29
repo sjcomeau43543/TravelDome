@@ -6,10 +6,8 @@ Status:        In Progress
 this will cluster the activities so that we can recommend new activities based on positive feedback
 
 example run:
-    python3 clustering.py -...
+    python3 clustering.py -
 
-TODO cluster
-TODO storage
 
 '''
 
@@ -26,7 +24,7 @@ from sklearn.cluster import KMeans
 
 class Clustering:
 
-    def __init__(self, adjectives=[]):
+    def __init__(self, adjectives=[], number_neigbors=5):
         self.adjectives = adjectives
         self.activities = []
         self.vectors = []
@@ -41,7 +39,10 @@ class Clustering:
         # self.cluster()
 
         # querying KNN
-        self.KNN(self.vectors[0][1], 5)
+        # self.KNN(self.vectors[0][1])
+
+        # store the nearest neighbors
+        self.store_KNN(number_neigbors)
 
 
     def get_data(self):
@@ -70,7 +71,7 @@ class Clustering:
             dist += (row1[i] - row2[i]) ** 2
         return sqrt(dist)
 
-    def KNN(self, vector, num_nay):
+    def KNN(self, vector, num_nay=5):
         # calculate distances
         dists = []
         for vect in self.vectors:
@@ -80,11 +81,21 @@ class Clustering:
 
         # get neighbors
         neighbors = []
-        for i in range(num_nay):
+        for i in range(1, 1+num_nay):
             neighbors.append(dists[i])
 
         return neighbors
 
+    def store_KNN(self, num_nay=5):
+        self.all_neighbors = {}
+
+        # for every activity
+        for (name, vector) in self.vectors:
+            self.all_neighbors[name] = self.KNN(vector, num_nay)
+
+        # export
+        with open("../data/Cluster/neighbors.json", "w") as cluster_file:
+            json.dump(self.all_neighbors, cluster_file, indent=1)
 
         
 
@@ -92,18 +103,19 @@ class Clustering:
 def main():
     # parser
     parser = argparse.ArgumentParser()
-    parser.add_argument("-a", "--adjectives", help="adjectives.txt file", required=True)
     parser.add_argument("-e", "--adjectivesext", help="adjectives_extended.txt file", required=True)
+    parser.add_argument("-n", "--number_neigbors", help="the number of neighbors for each activity to generate", type=int)
     args = parser.parse_args()
 
-    with open(args.adjectives, "r") as adjectives_file:
-        adjectives = adjectives_file.readlines()
-        adjectives = [act.strip('\n') for act in adjectives]
 
+    # get adjectives
     with open(args.adjectivesext, 'r') as f:
         adjectives_ext = [adj.strip(',') for adj in f.read().split()]
 
-    # 
-    cluster = Clustering(adjectives_ext)
+    # cluster
+    if args.number_neigbors:
+        cluster = Clustering(adjectives_ext, number_neigbors)
+    else:
+        cluster = Clustering(adjectives_ext)
     
 main()
