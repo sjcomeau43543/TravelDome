@@ -2,20 +2,17 @@
 {
  "name": "Denver Botanic Gardens",
  "address": "1007 York Street",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0b/98/6d/74/denver-botanic-gardens.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/98/6d/74/denver-botanic-gardens.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "family"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -26,7 +23,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/ac/db/70/on-the-sawtooth.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "low",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -39,7 +40,14 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/16/44/17/57/travel-by-train.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "walk",
+  "food",
+  "experience",
+  "drink",
+  "food"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -47,20 +55,22 @@
 },{
  "name": "Coors Field",
  "address": "2001 Blake St At 20th St",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/14/11/a0/d8/imag1087-largejpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/11/a0/d8/imag1087-largejpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "food",
+  "family",
+  "delicious",
+  "food",
+  "food",
+  "history"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -71,7 +81,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/9f/58/e5/photo0jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "wander"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -84,7 +97,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/20/5b/4c/front-of-the-museum.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "family",
+  "family"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -92,14 +109,26 @@
 },{
  "name": "Denver Art Museum",
  "address": "13th Avenue Between Broadway and Bannock Streets",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": 4.25,
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/35/6f/3b/dam-looking-north-up.jpg"
+  [
+   "https://media-cdn.tripadvisor.com/media/photo-s/01/35/6f/3b/dam-looking-north-up.jpg"
+  ],
+  "../data/Photographs/yelp_image_P_jFGrrz_aOYEmakW3NKjQ.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "family",
+  "kids",
+  "daring",
+  "free"
+ ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
@@ -110,7 +139,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/10/21/9e/d7/first-distilling-pots.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -118,39 +150,35 @@
 },{
  "name": "Denver Zoo",
  "address": "2300 N Steele St Denver City Park",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/04/57/fc/6a/denver-zoo.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/57/fc/6a/denver-zoo.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "kids",
+  "food"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Molly Brown House Museum",
  "address": "1340 N Pennsylvania St",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/18/88/0e/fb/photo1jpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/88/0e/fb/photo1jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "history",
+  "history"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -161,7 +189,12 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/dd/70/be/forney-transportation.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "run",
+  "history",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -169,20 +202,18 @@
 },{
  "name": "Larimer Square",
  "address": "1430 Larimer St",
- "avg_visitor_review": 4.0,
+ "avg_visitor_review": "4.0",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0b/d8/0f/c7/larimer-square.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/d8/0f/c7/larimer-square.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "history",
+  "walk"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -193,28 +224,35 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/d6/42/92/2015.jpg"
  ],
- "tags": [],
+ "tags": [
+  "drink",
+  "food",
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Washington Park",
- "address": "S Downing St &amp;amp; E Louisiana Ave",
- "avg_visitor_review": 4.5,
+ "address": "S. Downing St. & E. Louisiana Ave",
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/10/fe/db/67/photo0jpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/fe/db/67/photo0jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "family",
+  "walk",
+  "kids",
+  "free",
+  "walk",
+  "walk",
+  "food"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -225,7 +263,14 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/06/b6/71/0b/history-colorado-center.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "interactive",
+  "history",
+  "family",
+  "free",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -238,7 +283,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/11/46/46/77/kirkland-museum-s-new.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -246,20 +294,19 @@
 },{
  "name": "Downtown Aquarium",
  "address": "700 Water St",
- "avg_visitor_review": 3.5,
+ "avg_visitor_review": "4.0",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/01/50/6b/ff/downtown-aquarium.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/50/6b/ff/downtown-aquarium.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "experience",
+  "kids",
+  "food"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -270,7 +317,9 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/36/b6/66/colorado-state-capitol.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -283,28 +332,34 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/b7/f0/bd/wings-over-the-rockies.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "kids",
+  "kids",
+  "experience",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "16th Street Mall",
- "address": "1515 Arapahoe St",
- "avg_visitor_review": 3.5,
+ "address": "16th St",
+ "avg_visitor_review": "4.0",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/01/44/03/e8/denver-s-sixteenth-street.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/44/03/e8/denver-s-sixteenth-street.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "family",
+  "free",
+  "experience",
+  "family"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -315,7 +370,9 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/35/1d/1f/denver-mountain-parks.jpg"
  ],
- "tags": [],
+ "tags": [
+  "hike"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -328,7 +385,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/dc/aa/f1/b-s-ballpark-museum.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "family",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -341,7 +402,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/39/e1/1d/lodo.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "drink",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -354,7 +419,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/59/db/cathedral-from-the-outside.jpg"
  ],
- "tags": [],
+ "tags": [
+  "unique",
+  "peaceful"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -367,7 +435,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/59/72/04/lake-and-mountains.jpg"
  ],
- "tags": [],
+ "tags": [
+  "run",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -380,7 +451,9 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/1a/71/3a/90/clyfford-still-museum.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -388,20 +461,19 @@
 },{
  "name": "United States Mint",
  "address": "West Colfax & West 14th Street",
- "avg_visitor_review": 3.75,
+ "avg_visitor_review": "4.0",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/c0/98/us-mint-in-denver.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/c0/98/us-mint-in-denver.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "history",
+  "history",
+  "learn"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -412,7 +484,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/7c/35/84/balistreri-vineyards.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free",
+  "food"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -425,23 +500,30 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/76/46/2f/the-big-bear-at-the-colorado.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "family"
+ ],
  "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Cheesman Park",
- "address": "Franklin St &amp;amp; 8th St",
+ "address": "8th Ave & Franklin St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
   [
    "https://media-cdn.tripadvisor.com/media/photo-s/00/18/6a/fe/gorgeous-fall-foliage.jpg"
   ],
-  null
+  "../data/Photographs/yelp_image_zw0r0ZkS4xO_gzl2BtnfOQ.jpg"
  ],
- "tags": [],
+ "tags": [
+  "energy",
+  "run",
+  "unique"
+ ],
  "source": [
   [
    "TripAdvisor"
@@ -450,316 +532,12 @@
  ],
  "reviews": []
 },{
- "name": "Joyous Chinese Cultural School",
- "address": "6940 S Holly Cir",
- "avg_visitor_review": 0.0,
- "avg_time_spent": null,
- "photo_location": [
-  [
-   [
-    [
-     null
-    ],
-    null
-   ],
-   null
-  ],
-  null
- ],
- "tags": [],
- "source": [
-  [
-   [
-    [
-     "Yelp"
-    ],
-    "Yelp"
-   ],
-   "Yelp"
-  ],
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "International Church of Cannabis",
- "address": "400 S Logan St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Selfie Museum",
- "address": "1525 Market St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Upstairs Circus Lower Downtown - LoDo",
- "address": "1500 Wynkoop St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "TheBigWonderful",
- "address": "4400 Fox St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Red Rocks Amphitheatre",
- "address": "18300 W Alameda Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Boulder Flatirons",
- "address": "50 Baseline Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Stanley Marketplace",
- "address": "2501 Dallas St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Hammond\u2019s Candies Factory",
- "address": "5735 N Washington St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Chautauqua Park",
- "address": "9TH St And Baseline Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Museum of Nature and Science",
- "address": "2001 Colorado Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dinosaur Ridge",
- "address": "16831 W Alameda Pkwy",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Coors Brewery Tour",
- "address": "13th St &amp;amp; Ford St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Microbrew Tour",
- "address": "2220 Blake St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Free Walking Tours",
- "address": "200 E Colfax Ave",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Urban Putt",
- "address": "1201 18th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dark Side of Denver Ghost Tours",
- "address": "1701 Wynkoop St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rocky Mountain Arsenal",
- "address": "6550 Gateway Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Downtown Denver Rink At Skyline Park",
- "address": "1611 Arapahoe St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lookout Mountain Park",
- "address": "987 Lookout Mountain Road",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Pearl Street Mall",
- "address": "1420 Pearl St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Tiny Town",
  "address": "6249 S Turkey Creek Rd",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The 1UP Arcade Bar - LoDo",
- "address": "1925 Blake St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
+  "../data/Photographs/yelp_image_qI2KIOeh7982CPx_LrGS-g.jpg"
  ],
  "tags": [],
  "source": [
@@ -769,10 +547,10 @@
 },{
  "name": "Denver Adventures - Zipline Tours",
  "address": "26267 Conifer Rd",
- "avg_visitor_review": 5,
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_otitP19qVfjUQFY1jOjXxw.jpg"
  ],
  "tags": [],
  "source": [
@@ -780,170 +558,31 @@
  ],
  "reviews": []
 },{
- "name": "Red Fox Alpaca Ranch",
- "address": "7542 Red Fox Dr",
- "avg_visitor_review": 5,
+ "name": "Children's Museum of Denver at Marsico Campus",
+ "address": "2121 Childrens Museum Dr",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_NqkblxIwviVB17Qscv8v8A.jpg"
  ],
- "tags": [],
+ "tags": [
+  "unique"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "ScooTours Denver Scooter Rental",
- "address": "1417 California St",
- "avg_visitor_review": 5,
+ "name": "Blue Sushi Sake Grill",
+ "address": "1616 16th St",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_BKRLsUCryeR1JJtyGVWW_g.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "food"
  ],
- "reviews": []
-},{
- "name": "Liquid Descent",
- "address": "1896 Stanley Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "City Sessions Denver",
- "address": "3377 Blake St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fair Winds Hot Air Balloon Rides",
- "address": "2140 North 107th St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Axe Whooping",
- "address": "437 N Broadway",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Money Museum",
- "address": "1020 16th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Butterfly Pavilion",
- "address": "6252 W 104th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Great American Beer Festival",
- "address": "700 14th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Old South Pearl Street Farmers Market",
- "address": "1500 S Pearl St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Board Game Republic",
- "address": "900 W 1st Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bacon Social House",
- "address": "2434 W 44th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Millennium Bridge",
- "address": "16TH St Mall And Chestnut St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -954,20 +593,22 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_Kiwpo1BeBZ423ZkaQoG2jQ.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Bad Axe Throwing",
- "address": "7338 Washington St",
- "avg_visitor_review": 4,
+ "name": "Axe Whooping",
+ "address": "437 N Broadway",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_TKl2I1RdyIZHpFTWAPIwCQ.jpg"
  ],
  "tags": [],
  "source": [
@@ -975,196 +616,46 @@
  ],
  "reviews": []
 },{
- "name": "Wings Over the Rockies Air &amp; Space Museum",
- "address": "7711 E Academy Blvd",
- "avg_visitor_review": 4,
+ "name": "Cherry Cricket",
+ "address": "2641 E 2nd Ave",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_JJiugrBcZrNpX0ueUBuvrg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "I See What You Mean by Lawrence Argent",
- "address": "700 14th St",
+ "name": "Work & Class",
+ "address": "2500 Larimer St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_svJWwW0ilssyqk_UML0mUg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Banjo Billy\u2019s Bus Tours",
- "address": "14TH And California St",
- "avg_visitor_review": 4.5,
+ "name": "Platform Strength",
+ "address": "3198 Blake St",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_OrJhLmdE09puDoRu2Z5gKg.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "free"
  ],
- "reviews": []
-},{
- "name": "Great Divide Brewing Company",
- "address": "2201 Arapahoe St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Historic Downtown Golden",
- "address": "Washington Ave &amp;amp; 12th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Puzzah!",
- "address": "1440 Blake St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nightly Spirits",
- "address": "1400 Market St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Infinite Monkey Theorem",
- "address": "3200 Larimer St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Clue Room",
- "address": "7286 S Yosemite St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The DIA Giant Blue Bronco",
- "address": "8500 Pena Blvd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Four Mile Historic Park",
- "address": "715 S Forest St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Film on the Rocks",
- "address": "18300 W Alameda Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fiske Planetarium",
- "address": "2414 Regent Dr",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Peter Pan Park",
- "address": "4800 W 92nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Grand Adventures",
- "address": "78311 US Hwy 40",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -1172,127 +663,41 @@
 },{
  "name": "Water World",
  "address": "8801 N Pecos St",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_4oJRL2XxKJDs0ezAoUrTsg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Sloan\u2019s Lake Park",
- "address": "Sheridan Blvd &amp;amp; W 17th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "88 Drive In Theatre",
- "address": "8780 Rosemary St",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Royal Arch",
- "address": "Royal Arch Trl",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mile High Adventure Rentals",
- "address": "1044 S Grapevine Rd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Monster Mini Golf",
- "address": "8227 S Holly St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Unser Karting &amp; Events",
- "address": "7300 Broadway",
+ "name": "Museum of Contemporary Art Denver",
+ "address": "1485 Delgany St",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_k7zoKFP3BbTsU0Z4Y0m6Sw.jpg"
  ],
- "tags": [],
+ "tags": [
+  "unique",
+  "family"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Mt. Sanitas Trail",
- "address": "4TH St And Mapleton Ave",
- "avg_visitor_review": 4.5,
+ "name": "City of Denver",
+ "address": "",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Puzzle Effect - Denver",
- "address": "11674 Huron St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cherry Creek Arts Festival",
- "address": "2 Steele St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
+  "../data/Photographs/yelp_image_8y-dMLmtSjUIlohx_otPTA.jpg"
  ],
  "tags": [],
  "source": [
@@ -1305,7 +710,7 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_Ou_zP0h_TJ2kUrAEbU-BOw.jpg"
  ],
  "tags": [],
  "source": [
@@ -1313,51 +718,77 @@
  ],
  "reviews": []
 },{
- "name": "Centennial Center Park",
- "address": "13050 E Peakview Ave",
+ "name": "The Hornet",
+ "address": "76 Broadway",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_QmgLDVzZl_91e3-GceV-5w.jpg"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Root Down - Denver International Airport",
+ "address": "9100 Pe\u00f1a Blvd",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_wVKt2_DR_p2ayqRtdzGJPQ.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "food"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Museum of Contemporary Art Denver",
- "address": "1485 Delgany St",
- "avg_visitor_review": 3.5,
+ "name": "Forest Room 5",
+ "address": "2532 15th St",
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_Ft2XeH0TNB3y7YW5mmYPUA.jpg"
  ],
- "tags": [],
+ "tags": [
+  "low",
+  "unique",
+  "unique"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Mile High Flea Market",
- "address": "7007 E 88th Ave",
- "avg_visitor_review": 2.5,
+ "name": "City Park",
+ "address": "17TH Ave Colorado Blvd",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_kmR72csienO4Tu4bkMeoYg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Dangerous Theatre",
- "address": "2620 W 2nd Ave",
+ "name": "Hops & Pie",
+ "address": "3920 Tennyson St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_7Wb-Y0dxakfRkLTAIG4Bmw.jpg"
  ],
  "tags": [],
  "source": [
@@ -1365,207 +796,12 @@
  ],
  "reviews": []
 },{
- "name": "Bookbar",
- "address": "4280 Tennyson St",
- "avg_visitor_review": 4.5,
+ "name": "City Sessions Denver",
+ "address": "3377 Blake St",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lower Maxwell Falls Trail Head",
- "address": "S Brook Forest Rd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Clear Creek Whitewater Park",
- "address": "1201 10th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Colorado Sightseer",
- "address": "469 S Cherry St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Canvas and Cocktails",
- "address": "6862 S University Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "EscapeWorks Denver",
- "address": "1529 Champa St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cherry Creek Trail",
- "address": "2200 15th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bear Mountain Stables",
- "address": "11778 Wonder Dr",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Adventure Golf and Raceway",
- "address": "9650 Sheridan Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "E.B. Rains Park",
- "address": "11801 Community Ctr Dr",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Conflict Colorado",
- "address": "355 S Teller St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Delicious Denver Food Tours",
- "address": "2129 Larimer St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Family Shooting Center at Cherry Creek State Park",
- "address": "4201 S Parker Rd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nickel-A-Play",
- "address": "15201 E Mississippi Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Maize in the City",
- "address": "10451 McKay Rd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SeaQuest Littleton",
- "address": "8501 W Bowles Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
+  "../data/Photographs/yelp_image_ulc3uPBryRnoQOKShU2cjQ.jpg"
  ],
  "tags": [],
  "source": [
@@ -1578,46 +814,38 @@
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_B6A_ULTEt6fs4430FC2mBQ.jpg"
  ],
- "tags": [],
+ "tags": [
+  "low"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "The Denver Flea",
- "address": "1399 35th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Discovery Park",
- "address": "38TH Ave And Kipling St",
+ "name": "Historic Downtown Golden",
+ "address": "Washington Ave & 12th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_wR3-yKmbaM6KUodjZGO7rw.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "historic"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "African Grill And Bar",
- "address": "18601 Green Valley Ranch Blvd",
+ "name": "Centennial Center Park",
+ "address": "13050 E Peakview Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image__BrVKOsOx0_tEKFTpVYBwA.jpg"
  ],
  "tags": [],
  "source": [
@@ -1625,12 +853,197 @@
  ],
  "reviews": []
 },{
- "name": "Cherry Creek State Park",
- "address": "4201 S Parker Rd",
+ "name": "Colorado State Government: Capitol Building",
+ "address": "200 E Colfax Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_lzjoyf-Z0b4LwQzF0dtLrQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Citron Bistro",
+ "address": "3535 S Yosemite St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_uFS6icNrfhdJfgktv2Nhzg.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Film on the Rocks",
+ "address": "18300 W Alameda Pkwy",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_4FfQvQP1oSkCHqNsombq1A.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Adventures",
+ "address": "78311 US Hwy 40",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_xwEnM4zvEdasGO8hvfBvzQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Vesta",
+ "address": "1822 Blake St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_UTV40d3C0P7vfUUqmPl3vA.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Puzzle Effect - Denver",
+ "address": "11674 Huron St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_g0xBysiOo57Dfg-3Grshuw.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Rioja",
+ "address": "1431 Larimer St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_ywFvkNZVJoXUQbZoq7fr1w.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Boondocks Northglenn",
+ "address": "11425 Community Center Dr",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_Eo-5z5Nt3d0HrKfq_SLOJQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "88 Drive In Theatre",
+ "address": "8780 Rosemary St",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_Fsv7RrGNkJk2YY5NbCaf0Q.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Clue Room",
+ "address": "7286 S Yosemite St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_xcIHEcPEp93E_xjRODI6Xw.jpg"
+ ],
+ "tags": [
+  "experience",
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sloan's Lake Park",
+ "address": "Sheridan Blvd & W 17th Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_MFTPNon25FnYkEtqJ79XOg.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Unser Karting & Events",
+ "address": "7300 Broadway",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image__OILVkGVtbsYP0ObP3u5Hg.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Scratch Burrito & Happy Tap",
+ "address": "4262 Lowell Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_u8Ux0Ym_V2HgG38mckFbGg.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Clocktower Cabaret",
+ "address": "1601 Arapahoe St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_LmiieWKBQwbXnDXWquLtSg.jpg"
  ],
  "tags": [],
  "source": [
@@ -1638,12 +1051,175 @@
  ],
  "reviews": []
 },{
- "name": "JungleQuest",
- "address": "8000 S Lincoln St",
- "avg_visitor_review": 4,
+ "name": "Mayan Theatre",
+ "address": "110 Broadway",
+ "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_U6y1yz1gVQ5dpa4-tLImQg.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Epic Escape Game",
+ "address": "1750 N Gilpin St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_K5Om2BiUZWQeEe9SDbFMCw.jpg"
+ ],
+ "tags": [
+  "family",
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Nick's Garden Center & Farm Market",
+ "address": "2001 S Chambers Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_j7NJAZPqMuFjC0kU5ime5A.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Infinite Monkey Theorem",
+ "address": "3200 Larimer St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_NH5lTGAbsOa7tjKiacZeOQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Shells & Sauce",
+ "address": "2600 E 12th Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_7UWt_282vPsGQPtrquRR9Q.jpg"
+ ],
+ "tags": [
+  "low"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cherry Creek Arts Festival",
+ "address": "2 Steele St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_1IZMYPM9ldo2Ao1zjn96gw.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dangerous Theatre",
+ "address": "2620 W 2nd Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_iyU1_azGFG4Mgxes7dbkBg.jpg"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Pepsi Center",
+ "address": "1000 Chopper Cir",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_QwSxTqOBY-Nmaf_Ime5Tgg.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Osteria Marco",
+ "address": "1453 Larimer St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_jx5kzkP_9zwh9BW0WVPAWw.jpg"
+ ],
+ "tags": [
+  "experience",
+  "walk"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bluebird Theater",
+ "address": "3317 E Colfax Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_oAWkAw_C5ByIZQubcVgIBw.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Delicious Denver Food Tours",
+ "address": "2129 Larimer St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_J1ZYh6oZ75PGRzsf2lKhGQ.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "foodie"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bonfire Burritos",
+ "address": "2221 Ford St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_9cwMGGtkdAPBoPGO33MPAw.jpg"
  ],
  "tags": [],
  "source": [

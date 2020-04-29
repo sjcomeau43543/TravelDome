@@ -5,6 +5,9 @@ Status:        In progress
 
 This merges the results from the platforms in the data directory
 
+example
+    python3 merge.py -l ../scrapers/locations.txt 
+
 TODO update with time_spent when those are integrated
 '''
 

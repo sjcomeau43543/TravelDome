@@ -5,6 +5,7 @@ Status:        In progress
 
 This holds an activity and can translate it to a json string
 
+TODO why empty tag lists?
 '''
 
 import json
@@ -24,7 +25,7 @@ class Activity:
     def __init__(self):
         pass
 
-    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[], tags=[]):
+    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[], tags=[], get_tags=False):
         self.name = name
         self.address = address
         self.avg_visitor_review = avg_visitor_review
@@ -32,7 +33,9 @@ class Activity:
         self.photo_location = photo_location
         self.source = source
         self.reviews = reviews
-        self.tags = self.tag(reviews)
+        self.tags = tags 
+        if get_tags:
+            self.tags = self.tag(reviews)
 
     ''' 
     Eda's stuff moved from tag.py
@@ -43,8 +46,11 @@ class Activity:
 
             tags = []
             for review in reviews:
-                words = set([w.strip(string.punctuation) for w in review.split()]) # get unique words in a list with no end punctuation
-                tags.extend(list(words & set(adjs))) # get common words and add to tags
+                 # get unique words in a list with no end punctuation
+                words = set([w.strip(string.punctuation) for w in review.split()])
+
+                # get common words and add to tags
+                tags.extend(list(words & set(adjs))) 
 
             #tags = list(filter(None, tags)) # remove empty lists
             return tags

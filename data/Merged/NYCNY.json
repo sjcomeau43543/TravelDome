@@ -15,115 +15,100 @@
 },{
  "name": "The Metropolitan Museum of Art",
  "address": "1000 5th Ave",
- "avg_visitor_review": 4.75,
+ "avg_visitor_review": "5.0",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/09/2c/15/ac/the-metropolitan-museum.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/2c/15/ac/the-metropolitan-museum.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "free"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Central Park",
  "address": "59th to 110th Street Manhattan Borough, from Central Park West to 5th Avenue",
- "avg_visitor_review": 4.75,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0e/16/1a/e6/new-york-city-central.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/16/1a/e6/new-york-city-central.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "walk"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Empire State Building",
  "address": "20 West 34th Street",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/19/f3/82/90/the-new-exhibits-at-esb.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/f3/82/90/the-new-exhibits-at-esb.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "experience"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Top of the Rock",
  "address": "30 Rockfeller Plaza Enter on West 50th Street, between 5th & 6th Avenues",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/08/20/ff/cd/top-of-the-rock-observation.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/20/ff/cd/top-of-the-rock-observation.jpg"
  ],
  "tags": [],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Statue of Liberty",
- "address": "1 Liberty Island",
- "avg_visitor_review": 4.5,
+ "address": "Liberty Island",
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0d/b7/e5/02/photo3jpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/b7/e5/02/photo3jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "experience",
+  "experience",
+  "free"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Brooklyn Bridge",
- "address": "334 Furman St",
- "avg_visitor_review": 4.5,
+ "address": "",
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0d/3a/14/1e/photo3jpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/3a/14/1e/photo3jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "walk",
+  "experience",
+  "walk",
+  "experience",
+  "walk"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -134,7 +119,9 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0c/35/49/80/manhattan-skyline.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -147,7 +134,13 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/86/71/32/at-sunset.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "walk",
+  "walk",
+  "kids",
+  "unique"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -155,39 +148,36 @@
 },{
  "name": "One World Observatory",
  "address": "285 Fulton St One World Trade Center",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/17/0e/f5/46/sky-portal-step-on-this.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/0e/f5/46/sky-portal-step-on-this.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "experience",
+  "experience"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Grand Central Terminal",
  "address": "89 E 42nd Street",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/17/f3/4b/4e/grand-central-terminal.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/f3/4b/4e/grand-central-terminal.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "food",
+  "history",
+  "food"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -198,7 +188,12 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/06/b7/f9/4c/the-cloisters.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "free",
+  "historic",
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -212,9 +207,12 @@
   [
    "https://media-cdn.tripadvisor.com/media/photo-s/0f/93/30/1d/photo1jpg.jpg"
   ],
-  null
+  "../data/Photographs/yelp_image_ZKDByTPdHjlZg0k5_ct4xA.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "free"
+ ],
  "source": [
   [
    "TripAdvisor"
@@ -230,7 +228,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/07/29/a1/03/radio-city-music-hall.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "family",
+  "run"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -238,20 +240,19 @@
 },{
  "name": "Bryant Park",
  "address": "between 40th and 42nd Streets & Fifth and Sixth Ave",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/06/46/7a/36/bryant-park.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/46/7a/36/bryant-park.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "walk",
+  "food",
+  "food"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -262,7 +263,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0f/41/61/63/passing-ferry.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free",
+  "walk",
+  "free"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -275,7 +280,14 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/7d/71/33/ny-public-library-reading.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "free",
+  "history",
+  "history",
+  "free",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -288,7 +300,12 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/7a/40/ea/intrepid-sea-air-space.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "history",
+  "kids",
+  "history"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -301,7 +318,11 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/a5/44/f5/l-occulus.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "free",
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -314,7 +335,12 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/13/d5/64/9c/ellis-island-canopy-with.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "food",
+  "history",
+  "learn"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -327,7 +353,10 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/18/af/8f/8e/pope-francis-with-msgr.jpg"
  ],
- "tags": [],
+ "tags": [
+  "calm",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -340,7 +369,13 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/01/ee/69/madison-square-garden.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "experience",
+  "family",
+  "food",
+  "experience"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -353,47 +388,48 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/8a/c7/ff/broadway.jpg"
  ],
- "tags": [],
+ "tags": [
+  "run"
+ ],
  "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Times Square",
- "address": "1 Times Sq",
- "avg_visitor_review": 4.25,
+ "address": "Broadway",
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0c/d5/ae/38/times-square.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/d5/ae/38/times-square.jpg"
  ],
- "tags": [],
+ "tags": [
+  "wander",
+  "experience",
+  "walk",
+  "free"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "American Museum of Natural History",
  "address": "79th Street Central Park West",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": "4.5",
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0d/b7/e7/76/photo0jpg.jpg"
-  ],
-  null
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/b7/e7/76/photo0jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "walk",
+  "history",
+  "historic",
+  "educational"
+ ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -404,7 +440,13 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0a/cd/61/bb/imag1152-largejpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "walk",
+  "peaceful",
+  "peaceful",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -417,7 +459,16 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0a/23/e9/a4/chelsea-market.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "experience",
+  "family",
+  "food",
+  "food",
+  "food",
+  "walk",
+  "unique"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -430,7 +481,12 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/11/4f/ed/97/italy.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "interactive",
+  "kids",
+  "kids"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -443,7 +499,9 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/ab/4b/ef/so-much-to-enjoy.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free"
+ ],
  "source": [
   "TripAdvisor"
  ],
@@ -456,111 +514,37 @@
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/5c/29/9f/roosevelt-island-tramway.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "experience",
+  "walk"
+ ],
  "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Statuewalks",
- "address": "1180 Ave of the Americas",
- "avg_visitor_review": 0.0,
- "avg_time_spent": null,
- "photo_location": [
-  [
-   [
-    [
-     [
-      [
-       [
-        [
-         [
-          [
-           null
-          ],
-          null
-         ],
-         null
-        ],
-        null
-       ],
-       null
-      ],
-      null
-     ],
-     null
-    ],
-    null
-   ],
-   null
-  ],
-  null
- ],
- "tags": [],
- "source": [
-  [
-   [
-    [
-     [
-      [
-       [
-        [
-         [
-          [
-           "Yelp"
-          ],
-          "Yelp"
-         ],
-         "Yelp"
-        ],
-        "Yelp"
-       ],
-       "Yelp"
-      ],
-      "Yelp"
-     ],
-     "Yelp"
-    ],
-    "Yelp"
-   ],
-   "Yelp"
-  ],
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Color Factory",
- "address": "251 Spring St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Vessel",
- "address": "20 Hudson Yards",
+ "name": "The Daily Show",
+ "address": "733 11th Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_yCVhweMsjGyNGWUxTUVhIw.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Queens International Night Market",
- "address": "47-01 111th St",
- "avg_visitor_review": 4,
+ "name": "Bohemian Hall & Beer Garden",
+ "address": "2919 24th Ave",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_cuVyM_ZxtREqpO1SXgZmRA.jpg"
  ],
  "tags": [],
  "source": [
@@ -568,64 +552,90 @@
  ],
  "reviews": []
 },{
- "name": "Spyscape - Temp. CLOSED",
- "address": "928 8th Ave",
+ "name": "New York Transit Museum",
+ "address": "Boerum Pl Schermerhorn St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_c8TfKT7NdTuwcBZatXHmzg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Museum of the Moving Image",
- "address": "3601 35th Ave",
+ "name": "Liberty Science Center",
+ "address": "222 Jersey City Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_r5X4-movdt5wbvbF-Jz7-w.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids",
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Governors Island National Monument",
+ "address": "10 S St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_NU0PxRWTYoLKZRTy9JT_jg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Coney Island Beach and Boardwalk",
- "address": "Surf Ave and Stillwell Ave",
- "avg_visitor_review": 4,
+ "name": "Madame Tussauds New York",
+ "address": "234 W 42nd St",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_pqxra7dYB3d_iZBPm1MWgg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "The Cloisters",
- "address": "99 Margaret Corbin Dr",
+ "name": "Beat The Bomb",
+ "address": "247 Water St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_qOsRHWy2MPuyKhcDwaHBZA.jpg"
  ],
- "tags": [],
+ "tags": [
+  "interactive"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Please Don\u2019t Tell",
- "address": "113 St Marks Pl",
- "avg_visitor_review": 4,
+ "name": "The New York Aquarium",
+ "address": "602 Surf Ave & W 8th St",
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_9GQ4DvRS2p5GQzWQl-5iQA.jpg"
  ],
  "tags": [],
  "source": [
@@ -633,352 +643,17 @@
  ],
  "reviews": []
 },{
- "name": "The Museum of Modern Art",
- "address": "11 West 53rd St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SeaGlass Carousel",
- "address": "State St &amp;amp; Water St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Drunk Shakespeare",
- "address": "711 7th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "American Dream",
+ "name": "Levi\u2019s Store American Dream",
  "address": "1 American Dream Way",
- "avg_visitor_review": 3,
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_Wehhb-LLvnJUXxUkXXDyPg.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "kids",
+  "experience"
  ],
- "reviews": []
-},{
- "name": "Sleep No More",
- "address": "530 W 27th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Queens Archery",
- "address": "170-20 39th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "WonderWorld NYC",
- "address": "61 North 9th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "New York Botanical Garden",
- "address": "2900 Southern Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Whispering Gallery",
- "address": "87 E 42nd St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SoHo",
- "address": "",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bronx Zoo",
- "address": "2300 Southern Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Brooklyn Museum",
- "address": "200 Eastern Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Hayden Planetarium",
- "address": "200 Central Park West",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wave Hill Public Garden",
- "address": "675 W 252nd St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Comedy Cellar",
- "address": "117 MacDougal St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Tonight Show Starring Jimmy Fallon",
- "address": "84 W 50th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Barcade",
- "address": "388 Union Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Union Square Greenmarket",
- "address": "E 17 Th St &amp;amp; Union Square West",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The High Line - Temp. CLOSED",
- "address": "820 Washington St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "House of a Thousand Lights",
- "address": "166-04 23rd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Oculus",
- "address": "World Trade Center Transportation Hub",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Wrecking Club",
- "address": "458 9th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "New York Hall Of Science",
- "address": "47-01 111th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "DUMBO",
- "address": "",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Waterfalls in Central Park",
- "address": "101st to 106th St E &amp;amp; W",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Loeb Boathouse Central Park",
- "address": "E 72 St 5th Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Scott\u2019s Pizza Tours",
- "address": "",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -989,321 +664,11 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_3--OzlBz9Frh8J0NTlsslQ.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "food"
  ],
- "reviews": []
-},{
- "name": "Tenement Museum - Temp. CLOSED",
- "address": "103 Orchard St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dyker Heights Christmas Lights",
- "address": "12th Ave &amp;amp; 84th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bushwick Collective",
- "address": "Troutman St At Saint Nicholas Ave",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Midnight Market",
- "address": "210 Hudson St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Belvedere Castle",
- "address": "79th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Queens Zoo",
- "address": "5351 111th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bane Haunted House",
- "address": "618 W 46th St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Prospect Park",
- "address": "95 Prospect Park W",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Pro Line Archery Lanes",
- "address": "95-11 101st Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Indoor Extreme Sports - Temp. CLOSED",
- "address": "47 11 Van Dam St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fat Cat Music",
- "address": "75 Christopher St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Gulliver\u2019s Gate",
- "address": "216 W 44th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Enigma Escape Games",
- "address": "134-26 Northern Blvd",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "National September 11 Memorial Museum",
- "address": "180 Greenwich St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Daily Show",
- "address": "733 11th Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Challenge Escape Rooms",
- "address": "40-18 Bell Blvd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bohemian Hall &amp; Beer Garden",
- "address": "2919 24th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fairytale Island",
- "address": "7110 3rd Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Topgolf",
- "address": "1013 US Rte 1",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Laser Bounce",
- "address": "80-28 Cooper Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Central Park Zoo",
- "address": "64TH St And Fifth Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nitehawk Cinema",
- "address": "136 Metropolitan Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Space Billiards",
- "address": "34 W 32nd St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "DreamCatcher",
- "address": "5105 8th Ave",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -1311,205 +676,25 @@
 },{
  "name": "Dinosaur Bar-B-Que",
  "address": "700 W 125th St",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_XzUW9MvEGOFs9_aNj11j2Q.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Museum of Illusions",
- "address": "77 Eighth Ave",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Gotham Archery",
- "address": "480 Baltic St",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Museum Hack",
+ "name": "Astoria Park",
  "address": "",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Russian Baths on Neck Road",
- "address": "1200 Gravesend Neck Rd",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Jump into the Light",
- "address": "180 Orchard St",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Creative Little Garden",
- "address": "530 E 6th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Strawberry Fields",
- "address": "Central Park W And 72nd St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Snug Harbor Cultural Center &amp; Botanical Garden",
- "address": "1000 Richmond Ter",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tarot NYC",
- "address": "",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Funplex",
- "address": "182 State Rt 10",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The New York Aquarium",
- "address": "602 Surf Ave &amp;amp; W 8th St",
- "avg_visitor_review": 3,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Queens County Farm Museum",
- "address": "73-50 Little Neck Pkwy",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nickelodeon Universe - American Dream",
- "address": "1 American Dream Way",
- "avg_visitor_review": 2.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Classic Harbor Line",
- "address": "62 Chelsea Piers",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Haunted Manhattan",
- "address": "1357 Broadway",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  null
+  "../data/Photographs/yelp_image_0FX_Xm8cV3ePXd_IQ_qJXA.jpg"
  ],
  "tags": [],
  "source": [
@@ -1522,35 +707,27 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_J3ZLnLE-DZzrJu2ryEmrEw.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "learn"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "The City Reliquary",
- "address": "370 Metropolitan Ave",
- "avg_visitor_review": 4,
+ "name": "Belvedere Castle",
+ "address": "79th St",
+ "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_WQKtbFOycJRVp719wBAN8Q.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "wander"
  ],
- "reviews": []
-},{
- "name": "Arcadia Earth",
- "address": "718 Broadway",
- "avg_visitor_review": 4,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -1558,10 +735,10 @@
 },{
  "name": "Flushing Meadows-Corona Park",
  "address": "11101 Corona Ave",
- "avg_visitor_review": 4,
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_wJo9_YU4YX6o8thh_WLHmQ.jpg"
  ],
  "tags": [],
  "source": [
@@ -1569,27 +746,145 @@
  ],
  "reviews": []
 },{
- "name": "Jersey City Archery",
- "address": "7 Sherman Ave",
- "avg_visitor_review": 5,
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sea The City Jet Ski",
- "address": "84 Audrey Zapp Dr",
+ "name": "Classic Harbor Line",
+ "address": "62 Chelsea Piers",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_jA5dLV24FRLPHYOdSpBs5w.jpg"
+ ],
+ "tags": [
+  "experience",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Jump into the Light",
+ "address": "180 Orchard St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_mvLf9pVnjW4rB5X2vh19EA.jpg"
+ ],
+ "tags": [
+  "experience",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Topgolf",
+ "address": "1013 US Rte 1",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_dZ--Dvl0U0RYklR8b-W38Q.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Hayden Planetarium",
+ "address": "200 Central Park West",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_R00XZV3t6tv8W5skBmNUGQ.jpg"
  ],
  "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Rooftop Reds",
+ "address": "299 Sands St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_BKDIt5ExiVkCQjhKNRb75g.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "National Geographic Encounter",
+ "address": "226 W 44th St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_Bqdtjr5W13Hz4OKnCGNFMw.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Yankee Stadium",
+ "address": "1 E 161st St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_uH56KMuTI_2SBYZ7Wa_hqw.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Zombie Hut",
+ "address": "273 Smith St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_rRPuX18uiYLEUGdJ9xQBEQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ros\u00e9 Mansion",
+ "address": "111 W 32nd St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_pImF6sJJtAttgQ6mw2a5PQ.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Angel's Share",
+ "address": "8 Stuyvesant St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_ZD22cMZvSmfNsXS9vKizGA.jpg"
+ ],
+ "tags": [
+  "drink"
+ ],
  "source": [
   "Yelp"
  ],
@@ -1597,10 +892,10 @@
 },{
  "name": "Mission Escape Games",
  "address": "265 W37th St",
- "avg_visitor_review": 5,
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_33sV1AC_s-h0ckLvyO34Hw.jpg"
  ],
  "tags": [],
  "source": [
@@ -1608,12 +903,25 @@
  ],
  "reviews": []
 },{
- "name": "Gun For Hire",
- "address": "1267 McBride Ave",
+ "name": "Sleep No More",
+ "address": "530 W 27th St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_0xyJkg_fveS0JdP68TH2qQ.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ellis Island Immigration Museum",
+ "address": "Ellis Island",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_QERbo2vqq4T9GyIFtb2Ccg.jpg"
  ],
  "tags": [],
  "source": [
@@ -1621,12 +929,27 @@
  ],
  "reviews": []
 },{
- "name": "Free Tours by Foot",
- "address": "112 Suffolk St",
- "avg_visitor_review": 5,
+ "name": "Frying Pan",
+ "address": "207 12th Avenue",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_bEloKDe-QVkwakAwmFKbbA.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Intrepid Sea Air & Space Museum",
+ "address": "W 46th St And 12th Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_XJYyDr_2cPl-SGhSANHH7A.jpg"
  ],
  "tags": [],
  "source": [
@@ -1634,12 +957,27 @@
  ],
  "reviews": []
 },{
- "name": "Watson Adventures Scavenger Hunts",
- "address": "330 W 38th St",
+ "name": "Pro Line Archery Lanes",
+ "address": "95-11 101st Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_gcQQfhzZh3-pudpgB3jaoQ.jpg"
+ ],
+ "tags": [
+  "cheap"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tarot NYC",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_QSBc3aYcYubsW6ySmcA-nA.jpg"
  ],
  "tags": [],
  "source": [
@@ -1647,14 +985,207 @@
  ],
  "reviews": []
 },{
- "name": "Amazing Escape Room Staten Island NY",
- "address": "585 N Gannon Ave",
+ "name": "KGB Espionage Museum",
+ "address": "245 W 14th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_2edh-uEnrXPoPc9Xeerp4Q.jpg"
+ ],
+ "tags": [
+  "history",
+  "learn"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Gotham Archery",
+ "address": "480 Baltic St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_vE6abbpbdA5cO2gaIFKMVA.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Challenge Escape Rooms",
+ "address": "40-18 Bell Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_YHEqU1uyuMoJxsuW4m1P-w.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The City Reliquary",
+ "address": "370 Metropolitan Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_9xLCXXkNUshGeABtSu2PPg.jpg"
  ],
  "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "BATSU! New York City",
+ "address": "67 First Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_zR7x95hfSLXCkpK9KC__6w.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Brooklyn Escape Room",
+ "address": "594 Pacific St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_I3hV_CvcnRtmOe2dUC1RbA.jpg"
+ ],
+ "tags": [
+  "low"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Citi Field",
+ "address": "123-01 Roosevelt Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_spQMbvAokpUrgrDCSfYSgw.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ripley's Believe It or Not! Time Square",
+ "address": "234 W 42nd St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_QrFslJ21V5msantuVrqeeQ.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Wrecking Club",
+ "address": "458 9th Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_jlvZ5Kg0XqEg_DsamP1Vuw.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Funplex",
+ "address": "182 State Rt 10",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_vgtgz0PasvOQyST_-aucmw.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Russian Baths on Neck Road",
+ "address": "1200 Gravesend Neck Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_moK8qANVn1gQcF-fnPRnWg.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bushwick Collective",
+ "address": "Troutman St At Saint Nicholas Ave",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_xoiOXTbqQqrveY8DTIpZDw.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "UCB Theatre",
+ "address": "555 W 42nd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_QpySngaKWPya8R9C6FXcZA.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "VR World NYC",
+ "address": "8 E 34th St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_FzRdBo4TBtMxLkPEqe1P4A.jpg"
+ ],
+ "tags": [
+  "experience",
+  "unique",
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
@@ -1665,9 +1196,40 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": [
-  null
+  "../data/Photographs/yelp_image_LY1qp-8p2APhcjmDdE6Fwg.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "MoMA PS1",
+ "address": "22-25 Jackson Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_AhvNYQJ27A2w7jnhQxbj0w.jpg"
  ],
  "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Painting Lounge",
+ "address": "309 Roebling St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": [
+  "../data/Photographs/yelp_image_oQsNq2f9RrTcPgEzQ97lwA.jpg"
+ ],
+ "tags": [
+  "experience",
+  "experience"
+ ],
  "source": [
   "Yelp"
  ],
