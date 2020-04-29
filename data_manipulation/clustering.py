@@ -104,7 +104,7 @@ def main():
     # parser
     parser = argparse.ArgumentParser()
     parser.add_argument("-e", "--adjectivesext", help="adjectives_extended.txt file", required=True)
-    parser.add_argument("-n", "--number_neigbors", help="the number of neighbors for each activity to generate", type=int)
+    parser.add_argument("-n", "--number_neighbors", help="the number of neighbors for each activity to generate", type=int)
     args = parser.parse_args()
 
 
@@ -113,8 +113,8 @@ def main():
         adjectives_ext = [adj.strip(',') for adj in f.read().split()]
 
     # cluster
-    if args.number_neigbors:
-        cluster = Clustering(adjectives_ext, number_neigbors)
+    if args.number_neighbors:
+        cluster = Clustering(adjectives_ext, args.number_neighbors)
     else:
         cluster = Clustering(adjectives_ext)
     
