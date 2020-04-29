@@ -1,12 +1,12 @@
 '''
 Author:        Samantha
-Last modified: 4.24.2020 by sjc
-Status:        In Progress
+Last modified: 4.29.2020 by sjc
+Status:        WIP
+
+TODO get the full review
 
 Since writing this we have discovered that Yelp does not permit scraping of it's site. 
 https://www.yelp-support.com/article/Can-I-copy-or-scrape-data-from-the-Yelp-site?l=en_US
-
-TODO get photos from site
 '''
 import os
 import requests
