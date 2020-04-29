@@ -60,9 +60,10 @@ class Yelp:
                             reviews.append(review["text"])
 
 
+                    # TODO, add later if changed mind
                     # download the image
-                    photo_location = "../data/Photographs/yelp_image_"+str(business["id"])+".jpg"
-                    if os.path.exists(photo_location):
+                    # photo_location = "../data/Photographs/yelp_image_"+str(business["id"])+".jpg"
+                    ''' if os.path.exists(photo_location):
                         pass
                     elif "image_url" in business.keys():
                         try:
@@ -78,7 +79,8 @@ class Yelp:
                         except:
                             photo_location = None
                     else:
-                        photo_location = None
+                        photo_location = None '''
+                    photo_location = none if "image_url" not in business.keys() else business["image_url"]
 
                     # add to list
                     a = Activity(business["name"], business["location"]["address1"], business["rating"], None, photo_location, "Yelp", reviews=reviews, tags=[])

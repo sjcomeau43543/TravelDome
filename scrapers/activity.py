@@ -1,6 +1,6 @@
 '''
-Author:        Samantha
-Last modified: 4.28.2020 by ez
+Author:        Samantha, Eda
+Last modified: 4.29.2020 by sjc
 Status:        In progress
 
 This holds an activity and can translate it to a json string
@@ -8,6 +8,7 @@ This holds an activity and can translate it to a json string
 '''
 
 import json
+import string
 
 class Activity:
     # Not sure we need these static members..? - Eda
@@ -31,7 +32,22 @@ class Activity:
         self.photo_location = photo_location
         self.source = source
         self.reviews = reviews
-        self.tags = tags
+        self.tags = self.tag(reviews)
+
+    ''' 
+    Eda's stuff moved from tag.py
+    '''
+    def tag(self, reviews):
+        with open('adjectives_extended.txt', 'r') as f:
+            adjs = [adj.strip(',') for adj in f.read().split()]
+
+            tags = []
+            for review in reviews:
+                words = set([w.strip(string.punctuation) for w in review.split()]) # get unique words in a list with no end punctuation
+                tags.extend(list(words & set(adjs))) # get common words and add to tags
+
+            #tags = list(filter(None, tags)) # remove empty lists
+            return tags
 
     def encode(self):
         return {"name":self.name,

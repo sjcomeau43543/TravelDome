@@ -1,9 +1,12 @@
 '''
 Author:        Samantha
-Last modified: 4.28.2020 by ez
+Last modified: 4.29.2020 by sjc
 Status:        In Progress
 
 The purpose of this is to integrate all the scrapers
+
+example run:
+    python3 scraper.py -l locations.txt -y -c yelp_credentials.json -w
 
 TODO: fix filewriting
 TODO: add google maps
@@ -26,6 +29,7 @@ def main():
     parser.add_argument("-l", "--locations", help="locations.txt file", required=True)
 
     parser.add_argument("-c", "--yelpconfig", help="Yelp API config")
+    parser.add_argument("-o", "--write", action="store_true", default=False, help="write the results to the files, don't use this if you are testing")
 
     args = parser.parse_args()
 
@@ -60,31 +64,30 @@ def main():
 
             # Scrape
             activities = yelpscraper.scrape(city, state)
+            import pdb; pdb.set_trace()
 
-            with open("../data/Yelp/"+city+state+".json", "w") as outfile:
-                outfile.write("[\n")
-                for activity in activities:
-                    json.dump(activity.encode(), outfile, indent=1)
-                    if activity != activities[-1]:
-                        outfile.write(",")
-                outfile.write("]\n")
+            if args.write:
+                with open("../data/Yelp/"+city+state+".json", "w") as outfile:
+                    outfile.write("[\n")
+                    for activity in activities:
+                        json.dump(activity.encode(), outfile, indent=1)
+                        if activity != activities[-1]:
+                            outfile.write(",")
+                    outfile.write("]\n")
 
         if args.tripadvisor:
             # TripAdvisor
             print("Scraping TripAdvisor for", city, state)
             activities = scraper_tripadvisor.tripadvisor_scrape(city, state)
-            filename = city + state
-            i = 0
-            while os.path.exists('../data/TripAdvisor/{0}{1}.json'.format(filename, i)): # increment file name to create new file
-                i += 1
-            with open('../data/TripAdvisor/{0}{1}.json'.format(filename, i),
-                      'a+', encoding='utf-8') as f:
-                f.write("[\n")
-                for activity in activities:
-                    json.dump(activity.encode(), f, indent=1)
-                    if activity != activities[-1]:
-                        outfile.write(",")
-                f.write("]\n")
+
+            if args.write:
+                with open("../data/TripAdvisor/"+city+state+".json", "w") as outfile:
+                    outfile.write("[\n")
+                    for activity in activities:
+                        json.dump(activity.encode(), outfile, indent=1)
+                        if activity != activities[-1]:
+                            outfile.write(",")
+                    outfile.write("]\n")
 
         if args.maps:
             # Google maps

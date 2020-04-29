@@ -1,11 +1,11 @@
 '''
 Author:        Eda
-Last modified: 4.28.2020 by ez
-Status:        WIP
+Last modified: 4.29.2020 by sjc
+Status:        Depreciated, moved to activity.py, left here in case we need to cross reference
 
 TODO: add tags to GoogleMaps data
 '''
-import os, json, string
+'''import os, json, string
 
 # Returns list of adjectives (from adjectives file) that appear in the given list of reviews
 # If an adjective appears in multiple reviews, there will be that many instances of
@@ -43,3 +43,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+'''
