@@ -1,651 +1,770 @@
 [
-{
- "name": "The Providence Rink",
- "address": "2 Kennedy Plz",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_Ik96IoEzEasm7se_I32NLg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Great place to hang out during cold or hot season.\n\nDuring wintertime you have the ice bumper cars or the skating.  During the summer you have many...",
-  "Need something to do on a Tuesday night?  Stop by and jump in the bumper cars ON ICE!!  Call ahead and make a reservation (who wants to wait in the cold?)...",
-  "*Bumper Car review only*\n\nAs a visitor to Providence, I wanted to explore things that I couldn't normally do in NY. When I saw the video of the bumper cars..."
- ]
-},{
- "name": "Annmary Brown Memorial",
- "address": "21 Brown St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_EOYHObwoxaMkHXIjJ0xZYg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Recently,I spent two hours enjoying fine paintings at this small,cozy art museum.I especially was captivated by their fine paintings by these American...",
-  "I love this place, so victorian, the pictures are awesome, I like the new paint colors on the walls, So who was Annmary and why did she get her own memorial...",
-  "It's easy to walk right past this unassuming cement structure, but in doing so, you are missing out on a truly fascinating site. Completed in 1907, this..."
- ]
-},{
- "name": "Pawtucket Wintertime Farmers Market",
- "address": "1005 Main St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_KZnPKInAu4iG0rlB-AuYaw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This place is amazing and it is one of the best and largest regional farmers markets I've been too. So if you wish to visit, plan to spend several hours in...",
-  "Nice wintertime home for this farmers market which is a favorite of mine.  We listened to bluegrass  music while enjoying Brie honey crepes and delicious...",
-  "Make sure u get the apples as they are stored in a low oxygen building (which prevents ripening)!  Tastes like freshpicked applles!"
- ]
-},{
- "name": "Bayberry Beer Hall",
- "address": "381 W Fountain St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_F1mooLoaO665rNr--CZlNw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Definitely one of the highlights of our quick day trip to Providence! Wide selection of beers and excellent food. We ordered the sourdough pretzel, crispy...",
-  "My first visit to Bayberry Beer Hall and I am hooked!\n\nThis place has it all... a fine selection of beer and wine, a mouth-watering menu, and a communal...",
-  "Great beer and wonderful accompanying food. They have a good, efficient system going where you order noms and they give you a little light up lager...."
- ]
-},{
- "name": "Brass Monkey",
- "address": "800 Allens Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_WST2AKuQ35wBKDqhCrxR9g.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "We made a reservation for lunch at Brass Monkey as part of a Bachelorette Party weekend before a Plant Party that Brass hosted in their activity room. I'd...",
-  "This is the closest spot to my job so I was kind of forced into trying it. The food is good, staff has been friendly and they have a nice open spot in the...",
-  "We came back for lunch again to try some new things. \n\nWe shared the Narragansett Beer Battered Cod Bites again, which were as tasty and easy to eat as..."
- ]
-},{
- "name": "Rhode Island Red Food Tours",
- "address": "",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_s3srD0QSmJG4rc2hPrFj_A.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "We had a great tour! I'm a local so I didn't think I'd be surprised, but Providence is changing fast and I hadn't been to half of the places. The food was...",
-  "Jenny, Jenny, Jenny! \nWhere have you been all my life!\nIf I were a Greek man,\nI would make you my wife!\n\nBut seriously, this tour was great. Amazing mix of...",
-  "Wow! Just got home from our incredible Providence food tour, and I haven't been this happy since Uncle Jesse and Aunt Becky tied the knot on Full House. To..."
- ]
-},{
- "name": "Seekonk Grand Prix",
- "address": "1098 Fall River Ave",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_O_Chgd1I7aZW74GFGGsBsQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Wow I was really surprised that they finally redid this place- the only bummer is that it looks a lot SMALLER on the inside although I doubt it is! We came...",
-  "It's nice to see a local business sustain and thrive over time. I can't remember a day that this place didn't exist. And when Chick-fil-A moved in where the...",
-  "Overall 3.5, great location off 195 exit 1 on  and Route 6. Plenty of parking nice clean and faulty modern facility. \n\nRides and games were great. The rides..."
- ]
-},{
- "name": "Venda Ravioli",
- "address": "275 Atwells Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_9OZ3QpKmPc0UH_fGKzxylA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "My thanks to Shelli and the whole catering department at Venda. My grandson's christening was scaled down from 35 people to 10 people, due to the virus. I...",
-  "I love this place!!!!  You can get whatever you want to have a quick bite to eat - or sandwich.  Lots of salami, cheeses, meats, etc.  Also frozen pasta,...",
-  "Such a great place! My husband's family rented the place for our rehearsal dinner and I couldn't be happier. The atmosphere of the retail store was fun and..."
- ]
-},{
- "name": "The Avery",
- "address": "18 Luongo Memorial Sq",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_m-ToxTGr2SVlBLlyYZkL7A.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Hands down the BEST and only neighborhood bar really and it's amazing for that reason alone. Tucked away from the main streets of atwells and broadway Lies...",
-  "I would call this place part speakeasy, part neighborhood bar. The Avery gets 4 stars if you are a small party (4 or less). Otherwise I would drop it to 3...",
-  "Pretty neat location. It's super dark , has a very intimate feel to it. I'd love to bring my partners here on a cute date. It's right in front of a Japanese..."
- ]
-},{
- "name": "The Parlour",
- "address": "1119 N Main St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_ki8VTR1Oee49jPSsqQow6g.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "LOVE this place!!\nWe try to come as often as we can for open mic night, always a fun time! Everyone always puts in their all and the performances are...",
-  "The venue itself is great, but it's unfortunately located in a bad neighborhood where you stand a pretty decent chance of having your car broken into.",
-  "So just randomly stopped by this place. It ended up being a night that a band is playing and they were charging 7 bucks at the door as cover I later looked..."
- ]
-},{
- "name": "Loie Fullers",
- "address": "1455 Westminster St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_l5IhNqgF8DHlYce-7pB_ug.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Review for Private Party.   Had my 50th birthday party at Loie Fuller's a couple nights ago.  \n\n1) Food was amazing and plentiful.  We had about an hour of...",
-  "I've been to Loie Fullers a few times over the past year it's one of my favorite places to go in providence. One thing I've noticed is that the menu is...",
-  "We walked by this restaurant and saw the amazing 6 foot windows with art novou style and had to walk in and said we will be back.\nWell we are here and..."
- ]
-},{
- "name": "The Eddy",
- "address": "95 Eddy St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_N9jaUshe-zTISxhlwAmfJg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "We got here a minute before they opened and glad we did because it got packed in about 45 minutes. \n\nThe bar is super small, but the drinks packed a punch....",
-  "So small inside. There is just the bar, about 3 tables, and then standing room. The drinks are all extremely handcrafted, so go in with an open mind....",
-  "Horace and Natalie were the dream team last night. Very friendly and knowledgeable about all the bottles they carry. I have been here several times and..."
- ]
-},{
- "name": "Bacaro",
- "address": "262 S Water St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_wKaal1Y4D9DIJPkHVNyP_A.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "My husband and I hadn't been to Bacaro in years-\nBut it was one of those places we kept meaning to go back to and just never did. We finally got there this...",
-  "Quickly becoming my favorite restaurant in Providence. The food is fantastic! Inconsistent service prevents me from giving it 5 stars. Adam provided...",
-  "Strange experience.  Waiter didn't really know the menu.  One of our party is Vegan and the waiter said \"Oh the V word\" when she asked about a menu item and..."
- ]
-},{
- "name": "Sky Zone Trampoline Park",
- "address": "70 Pawtucket Ave",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_JEEMJyUI5SMWYyvrvGVnCQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Love this place SO much. We recently joined their new monthly membership plan which is such a deal! We did the elite option which is $34.99 a month at the...",
-  "Took my 7 year old for our first trip today. Very impressed. Nice clean facility, well trained and very friendly workers. Really liked how they divide some...",
-  "It's fine for what it is. My only issue is they don't keep their website hours updated. I arrived at 1:00pm because the website stated that they were open..."
- ]
-},{
- "name": "The Abbey",
- "address": "686 Admiral St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_fcl2-83fUbIvzMQCZKWKKA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "During quarantine, my husband and I have sought out takeout from whatever places are offering it during this time. A craving for a solid burger led us here....",
-  "Updated: guys on my team convinced me to go back. No fast ones pulled--good service today--good wings. \n\n\n\nI walked into this place on Tuesday night,...",
-  "The family went here for lunch on a Saturday after reading a review that said the burgers were exceptional. The space is a little tight but we were able to..."
- ]
-},{
- "name": "Twin River Casino Hotel",
- "address": "100 Twin River Rd",
- "avg_visitor_review": 2.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_HX5N71vhq7rT53X_r9RagA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Updated since my first review. They have sports betting now so that's a plus.\n\nUnfortunately, the lack of payouts with the slots is very noticable as other...",
-  "I have been wanting to check this place out for a long time. Finally made it last night. Unfortunately I have lung cancer now. The smoke in this place was...",
-  "So disappointed in your level of service you provide me this past weekend. First we check in and out toilet in the room had an issue with the ring and stuff..."
- ]
-},{
- "name": "Riffraff Bookstore and Bar",
- "address": "60 Valley St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_F6jQEJqkDSiocHT87RKjcQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Love the concept, and my latte was incredible! Will definitely go back when I have more time to browse books!!",
-  "Thought I had already left a review.  Since it has not appeared.  I will write an abbreviated version.\n  Cute spot to relax with your own book or browse...",
-  "I've been dying to try this place ever since my friends told me about it. I ordered the hot chocolate which was delicious and frothy. You can choose to..."
- ]
-},{
- "name": "Troop PVD",
- "address": "60 Valley St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_N8x2_OBshLNGdcRp1ErhNQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Troop is really cool. There is ample parking in the rear, and you walk into graffiti, Tupac, skateboards, and the coolest of all, Doug from Nickelodeon on...",
-  "How in the heck have I failed to review my most favorite brunch spot in all of RI yet? Let's remedy that right now!\n\nAtmosphere is a lot of fun and the...",
-  "Great food, Great Drinks, Great Service, and inventive dishes. \n\nA few of my friends and I came down for Soul Train Bingo and dinner. The food was great and..."
- ]
-},{
- "name": "Rondeaus Kickboxing",
- "address": "609 Killingly St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_QOPsXrcbiY_cgu2P7YE5IQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I've dealt with weight issues my entire adult life. I have signed up at several gyms in the hopes of increasing my metabolism & losing weight. Every gym...",
-  "Amazing trainers and classes!!! I cannot recommend their place enough. I am noticeably slimmer in inches around my hips and waist and I recommend this place...",
-  "I have tried everything...I am a 56 year old woman who has had a knee and hip replacement and more than 75 lbs overweight..\nI started giving up and resolve..."
- ]
-},{
- "name": "The Shunned House",
- "address": "135 Benefit St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_6ng2RNDQbRRlV8aeD0xipg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Benefit Street is a nice little walk and The Shunned House is a sweet little surprise.  What I like about The Shunned House is that you would have NO CLUE...",
-  "I was going to write about this curiousity, but I realized I couldn't do any better than what brought me in the first place:\n\n\"The house was--and for that..."
- ]
-},{
- "name": "The Slow Rhode",
- "address": "425 W Fountain St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_zSGi4RXddLdZ28QfWSeImQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Great food. I got the fried chicken and my husband got the burger, we were happy with our food and drinks.\n\nBest part was the service though. When we got...",
-  "Not sure why people are leaving this place bad reviews because they like the food but it is crowded. Ummm ... have we degraded so far as a society that now...",
-  "This restaurant is small and in my opinion cramped. The first time we tried getting it there was a 30 minute wait but the kitchen is open late.\nWe came back..."
- ]
-},{
- "name": "Museum of Natural History and Planetarium",
- "address": "1000 Elmwood Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_dg9KzMF4iYWbWkqRDu_8Hw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Hi! I have no idea why we haven't ever been here before. $3.00 for the museum and the planetarium. That is the best deal I have ever seen!\n\nThe museum is...",
-  "A rather small museum with lots of taxidermy and an exhibit on NASA and Apollo 11. Went through the entire museum in one hour but one could probably spend...",
-  "First of all, admission here is $2. Yes, two dollars! I'm always happy to pony up for a good museum, but I can imagine for some families this affordable..."
- ]
-},{
- "name": "Rock Spot Climbing",
- "address": "100 Higginson Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_FJR9hix1hvMaIo0HALNm7Q.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "After my initial review, a representative from Rockspot reached out to me and offered to reinstate the passes that we had initially purchased. I wasn't...",
-  "The routes are fine. My issue is the staff's overall lack of professionalism. Their focus on safety leaves a lot to be desired.",
-  "My first impression of this gym was that it was incredibly small. I thought I'd be done with trying new bouldering routes after about 15 minutes. The size..."
- ]
-},{
- "name": "Fleming's Prime Steakhouse- Providence",
- "address": "1 W Exchange St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_ezfOX2z0EOFH6UOQyrkRpA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "My One and I decided to dine at FPS because she had a 50-dollar gift card which expired soon. Plus, it has been sometime since we've been out for a quiet...",
-  "Very disappointed tonight. \nMy wife arranges a multiple of Providence restaurant suppers during restaurant week. \nTonight at Flemming's (a stop we make...",
-  "Went Friday night early (5 p.m.) before a PPAC visit.  Four of us.  All had steaks.  Shared several sides.  Food was good, but when it comes to steaks'..."
- ]
-},{
- "name": "Federal Taphouse & Kitchen",
- "address": "279 Atwells Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_HRCSDK0ZaPgQQOI9WHkSEg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I met a friend here for dinner after working in the city all day. It was a Wednesday night so it was slow, but it felt cozy inside. Our waitress was a GEM....",
-  "I had the poutine with house cut french fries, cheddar cheese curds,\ngravy, and swapped the short rib for avocado. \n\nThe swap was seamless...I was expecting...",
-  "I had to post another review for this place! I went for the second time this week since a friend recommended their Taco Tuesday specials to me. I tried it..."
- ]
-},{
- "name": "The Hot Club",
- "address": "25 Bridge St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_oMy_UrvOsjcRw0rb3pGAtg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Even though I've lived away from RI for several years, The Hot Club is a burning memory from the 2000s, early 2010s and anytime I'm visiting home, I still...",
-  "My first time at Hot Club at night last night (12/21). I wanted to let you know how much you failed a group of women last night.\n\nAfter defending ourselves...",
-  "I have mixed feelings about this place so here they are:\n\nCrowd: very strange, gender ratio was off (a lot more men) \n\nDrinks: mediocre but bar line was..."
- ]
-},{
- "name": "Providence Byblos",
- "address": "235 Meeting St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_tR-Vvw4MRi0ER38WBeKYFA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I actually came here probably 10 years ago when it 1st opened. It was a restaurant, they weren't even allowed to serve alcohol at that time, so I jumped at...",
-  "Updated review:\n\nI've been coming here a lot lately and I really do seem to enjoy it more than I used too. This place is right off Thayer so parking can be...",
-  "Worst experience ever. Currently in Providence for vacation. Met up some friends for dinner who wanted to stop here. They brought their own hookah, and they..."
- ]
-},{
- "name": "Slater Memorial Park",
- "address": "US Rte 1A",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_nbWZ2hNhw2HjDGKVrC9Ciw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Wonderful large park with tons of space for parties and walking and biking and kids.  Apparently it's 197 acres of land altogether.\n\nLots of water to stare...",
-  "So after walking thru Slater Park for 8 years I finally made it into Daggett Farm. I've been outside getting ice cream but never made it inside.\nToday I...",
-  "This place is a jack of all trades with so much to do. A nice dog park for little and big dogs 2 separate sides. It's clean and very friendly. You can fish..."
- ]
-},{
- "name": "Ladder 133 Sports Kitchen & Social",
- "address": "133 Douglas Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_dyQjjx8DWgaewfqvyxj8TQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "A PC alum who had never been here, we came yesterday pregame and this place was really a great place.  Very big, clean, with tons of TV's and seating.  We...",
-  "Went to ladder this weekend, 4 guys total to watch Providence College basketball game. This was my spot 5 years ago while attending Providence college, used...",
-  "I've been here a handful of times but never to eat. I've always stopped in to meet friends and grab a drink. But I finally decided to order some food at the..."
- ]
-},{
- "name": "F\u00eate Music Hall",
- "address": "103 Dike St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_XprPVF8gfsofFKPEzNF8Eg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "the best music venue around! the staff and security is kind visit after visit and always welcome to helping anyone in need. the parking situation is quick...",
-  "Nice local venue with very affordable tickets. That said, not sure if it's inefficient operations or the acts themselves, but I paid $10 to see a 9pm show....",
-  "Fete Music Hall is an amazing venue reminiscent of the vibe of Fangtasia in True Blood. I came here for the Providence Metal Fest 6, featuring Jinjer,..."
- ]
-},{
- "name": "Pizza J",
- "address": "967 Westminster St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_9nf8smXcnvuIJrfB70LLrw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "These fine folks are the best. Curbside pick-up ordering was flawless and on time. Pizzas and garlic fries were piping hot and fresh. Such a treasure to...",
-  "Best gluten free pizza ever! Seriously- I've had Celiac disease for 20 years, and have tried gluten free pizza all over the country. This place has THE BEST...",
-  "Went here for the first time with friends on a Friday night. I'm all about the pizza! Super friendly staff and really good food. As for the quiet o meter..."
- ]
-},{
- "name": "Rooftop at the Providence G",
- "address": "100 Dorrance St",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_cHhdNieU1nEagNTv0wghdA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "We were visiting Providence Rhode Island for just a couple of hours. We stopped into this building thinking that we'd a get coffee, but found out the coffee...",
-  "My boyfriend and I came here with my good friend and his girlfriend for his birthday. Everyone I have talked to said thIs was very high end. We had a...",
-  "Parking Review\n\nEvent Parking is a thing in Providence, or so it seemed when I searched for parking ahead of my visit.  Parking at the garage across the..."
- ]
-},{
- "name": "Lovecraft Arts & Sciences Council",
- "address": "65 Weybosset St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_qQFAiu6lfkkSzIL_ejtmqA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Nice place. Really cool staff. They have books, tshirts, movies, and all things Lovecraft. I love it.",
-  "A cool shop located in the Arcade Mall that is part sci-fi / occult bookstore focusing on the eccentric H.P. Lovecraft, part souvenir  pop art shop and...",
-  "My birthday gift to my fianc\u00e9 this year was a trip to Providence and a tour of ask things lovecraft. So naturally I decided to make this the last stop..."
- ]
-},{
- "name": "KG Kitchen Bar",
- "address": "771 Hope St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_xFHXAQ0SgVUQaUh828aY7g.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Wife and I met a friend for drinks and brunch here Sunday afternoon.  I have to say, impressed.  Soon as you walk in it is very welcoming, the ambiance is...",
-  "I went just for drinks, and it seems like a comfortable place in a great neighborhood.\n\nBut they charge tax on drinks.\n\nNote to KG: Don't do that.",
-  "Went for restaurant week, sat at  bar. Had great service and food.  The wine selection was also very good. Only real issue was parking, which I feel is..."
- ]
-},{
- "name": "Ten Prime Steak & Sushi",
- "address": "55 Pine St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_zR6m1J5Y_3RndYcLIRROeg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This is becoming one of my favorite restaurants.  The food is delicious  and the staff great, especially Teddy!  \nBut the truth is that this summer I found...",
-  "I made a reservation through Opentable and requested that they write something for the dessert. I've made requests like this before but usually they're...",
-  "Lunch time in providence in restaurant week equals my belly full of new foods every day! Stopped in to Ten Prime parking was horrendous I circled about 5..."
- ]
-},{
- "name": "Paint and Vino",
- "address": "150 Main St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_TBtE-sWM-_fpZedVRpzSBQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "After years of debate, we finally scheduled a paint night at Paint and Vino...and I had an absolute blast! \n\nI have the artistic skill of a newborn baby....",
-  "Last night was my first time going to do something like this, and I had a BLAST! Our instructor Brie was amazing! What a wonderful personality, and she was...",
-  "I have gone to two sessions in the last two week and had different staff for both.  Both sessions were great. The staff is fun , instructions made easy and..."
- ]
-},{
- "name": "Parkside Rotisserie & Bar",
- "address": "76 S Main St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_1M5pHJqGLL_-t74M37uQ0Q.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "My husband and I flew in From Italy last night and needed something other than Italian.  We sat at the bar and I was disappointed at the prices of their...",
-  "Tried out this restaurant for the first time on a Friday night a few weeks back. Don't know how I've never been before, it was great! They have $1 oysters...",
-  "Very tasty little spot at the bottom of College Hill, with excellent rotisserie and delicious, fresh-feeling cocktails. Their wine menu is comprehensive but..."
- ]
-},{
- "name": "Newport Classic Car Tours",
- "address": null,
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_OmHStYt2CTtWZIpfCTlyLA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This is one of the best values and one of the best times we have ever had on a vacation.  Ken is patient, kind, and knowledgeable and the perfect host.  My...",
-  "I saw Ken driving around one weekend with some guests by the mansions, and thought-I HAVE to do that!! My sister came into town the following weekend, and I...",
-  "Accommodating, on time, and full of personality! Enjoy the day in one of these awesome cars!"
- ]
-},{
- "name": "Snookers",
- "address": "53 Ashburton St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_CQyLVK2VZLAYdAZyLk02fw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This is the go to anytime my work colleagues and I have something down in Providence, mainly because it has a parking lot and if that runs out there's one...",
-  "If you like to play pool thus is the spot in Providence. A lot of well maintained regulation Brunswick tables. Balls get washed after play and the lighting...",
-  "Their parking lot is tiny, but I was told they have additional parking across the street and on the street. If you park outside of the main lot, do NOT..."
- ]
-},{
- "name": "Ivy Tavern",
- "address": "758 Hope St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_MsV5j6L9kM-ElrQK-JvHfQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Best chili cheese fries in the world\nMando was delicious \nFriendly service \nWill be returning",
-  "The burgers at Ivy Tavern are top quality. You can taste the freshness. The buns are perfectly paired with whatever you fill in-between. Their chipotle...",
-  "Ivy Tavern is my go-to for quick and hearty takeout!  We call our order in on the way home from errands and it is always ready in 15 mins! Our favorites:\n\n-..."
- ]
-},{
- "name": "Prospect Park",
- "address": "Congdon St At Bowen St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image__4Ry_D3ZFE_thtksPBC2Gg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Always a great pit stop when having a drink, reading a book, chatting with a date, or eating a snack. \n\nDefinitely worth passing by to start out or top off...",
-  "I'm so glad that our incredible Providence Community Manager, Michael P, recommended that we take a second to check in and review Prospect Park while we...",
-  "What a gorgeous park to sit, relax and watch the sunset!!  It was breathtaking!  So many people wandering around taking photos of the picturesque..."
- ]
-},{
- "name": "Open Circle",
- "address": "410 N Broadway",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_zV4y5KHOuUA7gepCYSxbXw.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "If you are expecting a child or have recently been blessed with a new one, please treat yourself to a class or massage at Open Circle! I couldn't more...",
-  "I've had the pleasure of working with Kaeli and Motion Center Mom & Baby over the years. Most recently, my son(4) and daughter (2.5) attended the toddler...",
-  "I had signed up/ paid for a prenatal yoga session with my friend. We Went in today for 5:50 pm, class starting @ 6. No one showed up. Got no email..."
- ]
-},{
- "name": "Tavern in the Square",
- "address": "115 Hillside Rd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_JS1kjo5Yob5GNnUjKxOKIQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Came here on New Years Eve after the PC game (sorry about that, Georgetown fans) because I received a gift certificate from people at work and they take...",
-  "This place has been open a while so I thought I would check them out. Place was busy but there were still plenty of places to sit at the bar. I ordered the...",
-  "**Update as of February 2020:\n\nAbsolutely horrendous service here tonight. Was there by myself with my baby and sat in the corner to have a nice relaxing..."
- ]
-},{
- "name": "Barnaby's Public House",
- "address": "385 Westminster St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_O3ua9u4G-b0Uu0_MsC6ADg.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Came here last night for the first time, we usually go next door to the Black Sheep but wanted to try something new. While it was a Monday night,  it was...",
-  "Saturday lunch time. Place was pretty much empty other than a few folks at the bar, which made it easy to get a table.\nThe hostess was by the bar when we...",
-  "Pretty cool place!  Love the decor and atmosphere!  Started with a Whalers Pieces which was like a sour apple cidery beer with cinnamon flavor served with a..."
- ]
-},{
- "name": "Gather Glass",
- "address": "521 Atwells Ave",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_YThlNWZCAKF_UNPwAuzTNA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "What a fun experience. My husband and I had a blast spending an hour making pint glasses and bowls. Because we took up 2 time slots, it was just us, so we...",
-  "The instructors were nice enough and entertaining but I went to create something I can be proud of. Since the instructors do most of the work I expected my...",
-  "I took my whole family to blow glass at Gather. I have two young boys one with autism, and the guys at Gather were so great. Our 9 year old was able to draw..."
- ]
-},{
- "name": "The Boombox Karaoke",
- "address": "122 Fountain St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_TDGklRTVS8ihUIfssxcloQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I went back thanks to the owner's generosity. He comped the room and a few drinks. The bartender that ruined my birthday celebration, redeemed himself. I...",
-  "The night that I went was fun, but I was surprised they charge $1 per song request.  That's something I've never seen in public lounges before.  Sure,...",
-  "My newest PVD obsession is The Boombox, and I'll tell ya why. Not only is this place AMAZING - a little bar with red lights and an awesome menu of..."
- ]
-},{
- "name": "Avon Cinema",
- "address": "260 Thayer St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_GV1KSzUC7HR_J8NsR7gnGQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Nostalgic theater in the heart of College Hill. They usually show Sundance Film Festival films which are typically not my type. However, after being around...",
-  "I really love this cinema and I hope it stays around forevah and evah. They're one of the few in the state that show independent films. I also love the look...",
-  "Historic independent one room theater. Saw won't you be my neighbor which was a great showing. The interior and seats were a bit outdated and uncomfortable..."
- ]
-},{
- "name": "Barnaby castle",
- "address": "299 Broadway",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image__PVO_r5yIE4pHp3aNJn_RQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "We came here for their annual Halloween blowout this year. It was pricey but so worth the money. All you can eat and drink for 3 floors from some of the...",
-  "We hosted a party here on Oct 13, 2019. We booked our engagement party on short notice (about 5 weeks before) and Kaitlyn was so easy to work with from the...",
-  "Came for an Open Doors RI tour. Online tickets were sold out but they were able to accommodate a bunch of us at the door.\n\nBeautiful historic building who's..."
- ]
-},{
- "name": "Craft Burgers and Beer",
- "address": "342 East Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_5w8jslrH3nxo6TJ40byigQ.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "If you read my reviews, you'll know that I'm a sucker for a burger and a beer. Some of my favorite places to eat in Providence simply do a burger and a beer...",
-  "This place is phenomenal, especially for brunch on Sunday's.  The service is tremendous, especially Sunday's, Jamie is phenomenal.  The portion size on food...",
-  "Such a great spot. Good food and friendly service. The bartenders are awesome. There are also gluten-free bun and beer options. \n\nIf you don't like good..."
- ]
-},{
- "name": "The Stable",
- "address": "125 Washington St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "../data/Photographs/yelp_image_EAcuimBT8oua2XKLC0UpLA.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Really cool and calm environment, I love sangria Sunday's out on the back patio area! Responsible yet fun staff",
-  "Stable is a nice local place that can get pretty busy and is a great combo of people you know and new people. The bartenders are always friendly and do a...",
-  "Being in the industry in downtown Providence, and former management myself I was appalled. It's one thing to stop serving but it's another thing when the..."
- ]
-}]
+ {
+  "name": "The Providence Rink",
+  "address": "2 Kennedy Plz",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_Ik96IoEzEasm7se_I32NLg.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Great place to hang out during cold or hot season.\n\nDuring wintertime you have the ice bumper cars or the skating.  During the summer you have many...",
+   "Need something to do on a Tuesday night?  Stop by and jump in the bumper cars ON ICE!!  Call ahead and make a reservation (who wants to wait in the cold?)...",
+   "*Bumper Car review only*\n\nAs a visitor to Providence, I wanted to explore things that I couldn't normally do in NY. When I saw the video of the bumper cars..."
+  ]
+ },
+ {
+  "name": "Annmary Brown Memorial",
+  "address": "21 Brown St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_EOYHObwoxaMkHXIjJ0xZYg.jpg",
+  "tags": [
+   "walk"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Recently,I spent two hours enjoying fine paintings at this small,cozy art museum.I especially was captivated by their fine paintings by these American...",
+   "I love this place, so victorian, the pictures are awesome, I like the new paint colors on the walls, So who was Annmary and why did she get her own memorial...",
+   "It's easy to walk right past this unassuming cement structure, but in doing so, you are missing out on a truly fascinating site. Completed in 1907, this..."
+  ]
+ },
+ {
+  "name": "Pawtucket Wintertime Farmers Market",
+  "address": "1005 Main St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_KZnPKInAu4iG0rlB-AuYaw.jpg",
+  "tags": [
+   "delicious",
+   "low"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "This place is amazing and it is one of the best and largest regional farmers markets I've been too. So if you wish to visit, plan to spend several hours in...",
+   "Nice wintertime home for this farmers market which is a favorite of mine.  We listened to bluegrass  music while enjoying Brie honey crepes and delicious...",
+   "Make sure u get the apples as they are stored in a low oxygen building (which prevents ripening)!  Tastes like freshpicked applles!"
+  ]
+ },
+ {
+  "name": "Bayberry Beer Hall",
+  "address": "381 W Fountain St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_F1mooLoaO665rNr--CZlNw.jpg",
+  "tags": [
+   "food",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Definitely one of the highlights of our quick day trip to Providence! Wide selection of beers and excellent food. We ordered the sourdough pretzel, crispy...",
+   "My first visit to Bayberry Beer Hall and I am hooked!\n\nThis place has it all... a fine selection of beer and wine, a mouth-watering menu, and a communal...",
+   "Great beer and wonderful accompanying food. They have a good, efficient system going where you order noms and they give you a little light up lager...."
+  ]
+ },
+ {
+  "name": "Brass Monkey",
+  "address": "800 Allens Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_WST2AKuQ35wBKDqhCrxR9g.jpg",
+  "tags": [
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "We made a reservation for lunch at Brass Monkey as part of a Bachelorette Party weekend before a Plant Party that Brass hosted in their activity room. I'd...",
+   "This is the closest spot to my job so I was kind of forced into trying it. The food is good, staff has been friendly and they have a nice open spot in the...",
+   "We came back for lunch again to try some new things. \n\nWe shared the Narragansett Beer Battered Cod Bites again, which were as tasty and easy to eat as..."
+  ]
+ },
+ {
+  "name": "Rhode Island Red Food Tours",
+  "address": "",
+  "avg_visitor_review": 5.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_s3srD0QSmJG4rc2hPrFj_A.jpg",
+  "tags": [
+   "food",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "We had a great tour! I'm a local so I didn't think I'd be surprised, but Providence is changing fast and I hadn't been to half of the places. The food was...",
+   "Jenny, Jenny, Jenny! \nWhere have you been all my life!\nIf I were a Greek man,\nI would make you my wife!\n\nBut seriously, this tour was great. Amazing mix of...",
+   "Wow! Just got home from our incredible Providence food tour, and I haven't been this happy since Uncle Jesse and Aunt Becky tied the knot on Full House. To..."
+  ]
+ },
+ {
+  "name": "Seekonk Grand Prix",
+  "address": "1098 Fall River Ave",
+  "avg_visitor_review": 3.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_O_Chgd1I7aZW74GFGGsBsQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Wow I was really surprised that they finally redid this place- the only bummer is that it looks a lot SMALLER on the inside although I doubt it is! We came...",
+   "It's nice to see a local business sustain and thrive over time. I can't remember a day that this place didn't exist. And when Chick-fil-A moved in where the...",
+   "Overall 3.5, great location off 195 exit 1 on  and Route 6. Plenty of parking nice clean and faulty modern facility. \n\nRides and games were great. The rides..."
+  ]
+ },
+ {
+  "name": "Venda Ravioli",
+  "address": "275 Atwells Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_9OZ3QpKmPc0UH_fGKzxylA.jpg",
+  "tags": [
+   "family"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "My thanks to Shelli and the whole catering department at Venda. My grandson's christening was scaled down from 35 people to 10 people, due to the virus. I...",
+   "I love this place!!!!  You can get whatever you want to have a quick bite to eat - or sandwich.  Lots of salami, cheeses, meats, etc.  Also frozen pasta,...",
+   "Such a great place! My husband's family rented the place for our rehearsal dinner and I couldn't be happier. The atmosphere of the retail store was fun and..."
+  ]
+ },
+ {
+  "name": "The Avery",
+  "address": "18 Luongo Memorial Sq",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_m-ToxTGr2SVlBLlyYZkL7A.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Hands down the BEST and only neighborhood bar really and it's amazing for that reason alone. Tucked away from the main streets of atwells and broadway Lies...",
+   "I would call this place part speakeasy, part neighborhood bar. The Avery gets 4 stars if you are a small party (4 or less). Otherwise I would drop it to 3...",
+   "Pretty neat location. It's super dark , has a very intimate feel to it. I'd love to bring my partners here on a cute date. It's right in front of a Japanese..."
+  ]
+ },
+ {
+  "name": "The Parlour",
+  "address": "1119 N Main St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_ki8VTR1Oee49jPSsqQow6g.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "LOVE this place!!\nWe try to come as often as we can for open mic night, always a fun time! Everyone always puts in their all and the performances are...",
+   "The venue itself is great, but it's unfortunately located in a bad neighborhood where you stand a pretty decent chance of having your car broken into.",
+   "So just randomly stopped by this place. It ended up being a night that a band is playing and they were charging 7 bucks at the door as cover I later looked..."
+  ]
+ },
+ {
+  "name": "Loie Fullers",
+  "address": "1455 Westminster St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_l5IhNqgF8DHlYce-7pB_ug.jpg",
+  "tags": [
+   "walk"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Review for Private Party.   Had my 50th birthday party at Loie Fuller's a couple nights ago.  \n\n1) Food was amazing and plentiful.  We had about an hour of...",
+   "I've been to Loie Fullers a few times over the past year it's one of my favorite places to go in providence. One thing I've noticed is that the menu is...",
+   "We walked by this restaurant and saw the amazing 6 foot windows with art novou style and had to walk in and said we will be back.\nWell we are here and..."
+  ]
+ },
+ {
+  "name": "The Eddy",
+  "address": "95 Eddy St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_N9jaUshe-zTISxhlwAmfJg.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "We got here a minute before they opened and glad we did because it got packed in about 45 minutes. \n\nThe bar is super small, but the drinks packed a punch....",
+   "So small inside. There is just the bar, about 3 tables, and then standing room. The drinks are all extremely handcrafted, so go in with an open mind....",
+   "Horace and Natalie were the dream team last night. Very friendly and knowledgeable about all the bottles they carry. I have been here several times and..."
+  ]
+ },
+ {
+  "name": "Bacaro",
+  "address": "262 S Water St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_wKaal1Y4D9DIJPkHVNyP_A.jpg",
+  "tags": [
+   "food",
+   "experience"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "My husband and I hadn't been to Bacaro in years-\nBut it was one of those places we kept meaning to go back to and just never did. We finally got there this...",
+   "Quickly becoming my favorite restaurant in Providence. The food is fantastic! Inconsistent service prevents me from giving it 5 stars. Adam provided...",
+   "Strange experience.  Waiter didn't really know the menu.  One of our party is Vegan and the waiter said \"Oh the V word\" when she asked about a menu item and..."
+  ]
+ },
+ {
+  "name": "Sky Zone Trampoline Park",
+  "address": "70 Pawtucket Ave",
+  "avg_visitor_review": 3.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_JEEMJyUI5SMWYyvrvGVnCQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Love this place SO much. We recently joined their new monthly membership plan which is such a deal! We did the elite option which is $34.99 a month at the...",
+   "Took my 7 year old for our first trip today. Very impressed. Nice clean facility, well trained and very friendly workers. Really liked how they divide some...",
+   "It's fine for what it is. My only issue is they don't keep their website hours updated. I arrived at 1:00pm because the website stated that they were open..."
+  ]
+ },
+ {
+  "name": "The Abbey",
+  "address": "686 Admiral St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_fcl2-83fUbIvzMQCZKWKKA.jpg",
+  "tags": [
+   "family"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "During quarantine, my husband and I have sought out takeout from whatever places are offering it during this time. A craving for a solid burger led us here....",
+   "Updated: guys on my team convinced me to go back. No fast ones pulled--good service today--good wings. \n\n\n\nI walked into this place on Tuesday night,...",
+   "The family went here for lunch on a Saturday after reading a review that said the burgers were exceptional. The space is a little tight but we were able to..."
+  ]
+ },
+ {
+  "name": "Twin River Casino Hotel",
+  "address": "100 Twin River Rd",
+  "avg_visitor_review": 2.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_HX5N71vhq7rT53X_r9RagA.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Updated since my first review. They have sports betting now so that's a plus.\n\nUnfortunately, the lack of payouts with the slots is very noticable as other...",
+   "I have been wanting to check this place out for a long time. Finally made it last night. Unfortunately I have lung cancer now. The smoke in this place was...",
+   "So disappointed in your level of service you provide me this past weekend. First we check in and out toilet in the room had an issue with the ring and stuff..."
+  ]
+ },
+ {
+  "name": "Riffraff Bookstore and Bar",
+  "address": "60 Valley St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_F6jQEJqkDSiocHT87RKjcQ.jpg",
+  "tags": [
+   "delicious"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Love the concept, and my latte was incredible! Will definitely go back when I have more time to browse books!!",
+   "Thought I had already left a review.  Since it has not appeared.  I will write an abbreviated version.\n  Cute spot to relax with your own book or browse...",
+   "I've been dying to try this place ever since my friends told me about it. I ordered the hot chocolate which was delicious and frothy. You can choose to..."
+  ]
+ },
+ {
+  "name": "Troop PVD",
+  "address": "60 Valley St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_N8x2_OBshLNGdcRp1ErhNQ.jpg",
+  "tags": [
+   "walk",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Troop is really cool. There is ample parking in the rear, and you walk into graffiti, Tupac, skateboards, and the coolest of all, Doug from Nickelodeon on...",
+   "How in the heck have I failed to review my most favorite brunch spot in all of RI yet? Let's remedy that right now!\n\nAtmosphere is a lot of fun and the...",
+   "Great food, Great Drinks, Great Service, and inventive dishes. \n\nA few of my friends and I came down for Soul Train Bingo and dinner. The food was great and..."
+  ]
+ },
+ {
+  "name": "Rondeaus Kickboxing",
+  "address": "609 Killingly St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_QOPsXrcbiY_cgu2P7YE5IQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "I've dealt with weight issues my entire adult life. I have signed up at several gyms in the hopes of increasing my metabolism & losing weight. Every gym...",
+   "Amazing trainers and classes!!! I cannot recommend their place enough. I am noticeably slimmer in inches around my hips and waist and I recommend this place...",
+   "I have tried everything...I am a 56 year old woman who has had a knee and hip replacement and more than 75 lbs overweight..\nI started giving up and resolve..."
+  ]
+ },
+ {
+  "name": "The Shunned House",
+  "address": "135 Benefit St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_6ng2RNDQbRRlV8aeD0xipg.jpg",
+  "tags": [
+   "walk"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Benefit Street is a nice little walk and The Shunned House is a sweet little surprise.  What I like about The Shunned House is that you would have NO CLUE...",
+   "I was going to write about this curiousity, but I realized I couldn't do any better than what brought me in the first place:\n\n\"The house was--and for that..."
+  ]
+ },
+ {
+  "name": "The Slow Rhode",
+  "address": "425 W Fountain St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_zSGi4RXddLdZ28QfWSeImQ.jpg",
+  "tags": [
+   "food",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Great food. I got the fried chicken and my husband got the burger, we were happy with our food and drinks.\n\nBest part was the service though. When we got...",
+   "Not sure why people are leaving this place bad reviews because they like the food but it is crowded. Ummm ... have we degraded so far as a society that now...",
+   "This restaurant is small and in my opinion cramped. The first time we tried getting it there was a 30 minute wait but the kitchen is open late.\nWe came back..."
+  ]
+ },
+ {
+  "name": "Museum of Natural History and Planetarium",
+  "address": "1000 Elmwood Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_dg9KzMF4iYWbWkqRDu_8Hw.jpg",
+  "tags": [
+   "affordable"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Hi! I have no idea why we haven't ever been here before. $3.00 for the museum and the planetarium. That is the best deal I have ever seen!\n\nThe museum is...",
+   "A rather small museum with lots of taxidermy and an exhibit on NASA and Apollo 11. Went through the entire museum in one hour but one could probably spend...",
+   "First of all, admission here is $2. Yes, two dollars! I'm always happy to pony up for a good museum, but I can imagine for some families this affordable..."
+  ]
+ },
+ {
+  "name": "Rock Spot Climbing",
+  "address": "100 Higginson Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_FJR9hix1hvMaIo0HALNm7Q.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "After my initial review, a representative from Rockspot reached out to me and offered to reinstate the passes that we had initially purchased. I wasn't...",
+   "The routes are fine. My issue is the staff's overall lack of professionalism. Their focus on safety leaves a lot to be desired.",
+   "My first impression of this gym was that it was incredibly small. I thought I'd be done with trying new bouldering routes after about 15 minutes. The size..."
+  ]
+ },
+ {
+  "name": "Fleming's Prime Steakhouse- Providence",
+  "address": "1 W Exchange St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_ezfOX2z0EOFH6UOQyrkRpA.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "My One and I decided to dine at FPS because she had a 50-dollar gift card which expired soon. Plus, it has been sometime since we've been out for a quiet...",
+   "Very disappointed tonight. \nMy wife arranges a multiple of Providence restaurant suppers during restaurant week. \nTonight at Flemming's (a stop we make...",
+   "Went Friday night early (5 p.m.) before a PPAC visit.  Four of us.  All had steaks.  Shared several sides.  Food was good, but when it comes to steaks'..."
+  ]
+ },
+ {
+  "name": "Federal Taphouse & Kitchen",
+  "address": "279 Atwells Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_HRCSDK0ZaPgQQOI9WHkSEg.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "I met a friend here for dinner after working in the city all day. It was a Wednesday night so it was slow, but it felt cozy inside. Our waitress was a GEM....",
+   "I had the poutine with house cut french fries, cheddar cheese curds,\ngravy, and swapped the short rib for avocado. \n\nThe swap was seamless...I was expecting...",
+   "I had to post another review for this place! I went for the second time this week since a friend recommended their Taco Tuesday specials to me. I tried it..."
+  ]
+ },
+ {
+  "name": "The Hot Club",
+  "address": "25 Bridge St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_oMy_UrvOsjcRw0rb3pGAtg.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Even though I've lived away from RI for several years, The Hot Club is a burning memory from the 2000s, early 2010s and anytime I'm visiting home, I still...",
+   "My first time at Hot Club at night last night (12/21). I wanted to let you know how much you failed a group of women last night.\n\nAfter defending ourselves...",
+   "I have mixed feelings about this place so here they are:\n\nCrowd: very strange, gender ratio was off (a lot more men) \n\nDrinks: mediocre but bar line was..."
+  ]
+ },
+ {
+  "name": "Providence Byblos",
+  "address": "235 Meeting St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_tR-Vvw4MRi0ER38WBeKYFA.jpg",
+  "tags": [
+   "experience"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "I actually came here probably 10 years ago when it 1st opened. It was a restaurant, they weren't even allowed to serve alcohol at that time, so I jumped at...",
+   "Updated review:\n\nI've been coming here a lot lately and I really do seem to enjoy it more than I used too. This place is right off Thayer so parking can be...",
+   "Worst experience ever. Currently in Providence for vacation. Met up some friends for dinner who wanted to stop here. They brought their own hookah, and they..."
+  ]
+ },
+ {
+  "name": "Slater Memorial Park",
+  "address": "US Rte 1A",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_nbWZ2hNhw2HjDGKVrC9Ciw.jpg",
+  "tags": [
+   "kids"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Wonderful large park with tons of space for parties and walking and biking and kids.  Apparently it's 197 acres of land altogether.\n\nLots of water to stare...",
+   "So after walking thru Slater Park for 8 years I finally made it into Daggett Farm. I've been outside getting ice cream but never made it inside.\nToday I...",
+   "This place is a jack of all trades with so much to do. A nice dog park for little and big dogs 2 separate sides. It's clean and very friendly. You can fish..."
+  ]
+ },
+ {
+  "name": "Ladder 133 Sports Kitchen & Social",
+  "address": "133 Douglas Ave",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_dyQjjx8DWgaewfqvyxj8TQ.jpg",
+  "tags": [
+   "drink",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "A PC alum who had never been here, we came yesterday pregame and this place was really a great place.  Very big, clean, with tons of TV's and seating.  We...",
+   "Went to ladder this weekend, 4 guys total to watch Providence College basketball game. This was my spot 5 years ago while attending Providence college, used...",
+   "I've been here a handful of times but never to eat. I've always stopped in to meet friends and grab a drink. But I finally decided to order some food at the..."
+  ]
+ },
+ {
+  "name": "F\u00eate Music Hall",
+  "address": "103 Dike St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_XprPVF8gfsofFKPEzNF8Eg.jpg",
+  "tags": [
+   "affordable"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "the best music venue around! the staff and security is kind visit after visit and always welcome to helping anyone in need. the parking situation is quick...",
+   "Nice local venue with very affordable tickets. That said, not sure if it's inefficient operations or the acts themselves, but I paid $10 to see a 9pm show....",
+   "Fete Music Hall is an amazing venue reminiscent of the vibe of Fangtasia in True Blood. I came here for the Providence Metal Fest 6, featuring Jinjer,..."
+  ]
+ },
+ {
+  "name": "Pizza J",
+  "address": "967 Westminster St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_9nf8smXcnvuIJrfB70LLrw.jpg",
+  "tags": [
+   "free",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "These fine folks are the best. Curbside pick-up ordering was flawless and on time. Pizzas and garlic fries were piping hot and fresh. Such a treasure to...",
+   "Best gluten free pizza ever! Seriously- I've had Celiac disease for 20 years, and have tried gluten free pizza all over the country. This place has THE BEST...",
+   "Went here for the first time with friends on a Friday night. I'm all about the pizza! Super friendly staff and really good food. As for the quiet o meter..."
+  ]
+ },
+ {
+  "name": "Rooftop at the Providence G",
+  "address": "100 Dorrance St",
+  "avg_visitor_review": 3.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_cHhdNieU1nEagNTv0wghdA.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "We were visiting Providence Rhode Island for just a couple of hours. We stopped into this building thinking that we'd a get coffee, but found out the coffee...",
+   "My boyfriend and I came here with my good friend and his girlfriend for his birthday. Everyone I have talked to said thIs was very high end. We had a...",
+   "Parking Review\n\nEvent Parking is a thing in Providence, or so it seemed when I searched for parking ahead of my visit.  Parking at the garage across the..."
+  ]
+ },
+ {
+  "name": "Lovecraft Arts & Sciences Council",
+  "address": "65 Weybosset St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_qQFAiu6lfkkSzIL_ejtmqA.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Nice place. Really cool staff. They have books, tshirts, movies, and all things Lovecraft. I love it.",
+   "A cool shop located in the Arcade Mall that is part sci-fi / occult bookstore focusing on the eccentric H.P. Lovecraft, part souvenir  pop art shop and...",
+   "My birthday gift to my fianc\u00e9 this year was a trip to Providence and a tour of ask things lovecraft. So naturally I decided to make this the last stop..."
+  ]
+ },
+ {
+  "name": "KG Kitchen Bar",
+  "address": "771 Hope St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_xFHXAQ0SgVUQaUh828aY7g.jpg",
+  "tags": [
+   "walk",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Wife and I met a friend for drinks and brunch here Sunday afternoon.  I have to say, impressed.  Soon as you walk in it is very welcoming, the ambiance is...",
+   "I went just for drinks, and it seems like a comfortable place in a great neighborhood.\n\nBut they charge tax on drinks.\n\nNote to KG: Don't do that.",
+   "Went for restaurant week, sat at  bar. Had great service and food.  The wine selection was also very good. Only real issue was parking, which I feel is..."
+  ]
+ },
+ {
+  "name": "Ten Prime Steak & Sushi",
+  "address": "55 Pine St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_zR6m1J5Y_3RndYcLIRROeg.jpg",
+  "tags": [
+   "delicious",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "This is becoming one of my favorite restaurants.  The food is delicious  and the staff great, especially Teddy!  \nBut the truth is that this summer I found...",
+   "I made a reservation through Opentable and requested that they write something for the dessert. I've made requests like this before but usually they're...",
+   "Lunch time in providence in restaurant week equals my belly full of new foods every day! Stopped in to Ten Prime parking was horrendous I circled about 5..."
+  ]
+ },
+ {
+  "name": "Paint and Vino",
+  "address": "150 Main St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_TBtE-sWM-_fpZedVRpzSBQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "After years of debate, we finally scheduled a paint night at Paint and Vino...and I had an absolute blast! \n\nI have the artistic skill of a newborn baby....",
+   "Last night was my first time going to do something like this, and I had a BLAST! Our instructor Brie was amazing! What a wonderful personality, and she was...",
+   "I have gone to two sessions in the last two week and had different staff for both.  Both sessions were great. The staff is fun , instructions made easy and..."
+  ]
+ },
+ {
+  "name": "Parkside Rotisserie & Bar",
+  "address": "76 S Main St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_1M5pHJqGLL_-t74M37uQ0Q.jpg",
+  "tags": [
+   "delicious"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "My husband and I flew in From Italy last night and needed something other than Italian.  We sat at the bar and I was disappointed at the prices of their...",
+   "Tried out this restaurant for the first time on a Friday night a few weeks back. Don't know how I've never been before, it was great! They have $1 oysters...",
+   "Very tasty little spot at the bottom of College Hill, with excellent rotisserie and delicious, fresh-feeling cocktails. Their wine menu is comprehensive but..."
+  ]
+ },
+ {
+  "name": "Newport Classic Car Tours",
+  "address": null,
+  "avg_visitor_review": 5.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_OmHStYt2CTtWZIpfCTlyLA.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "This is one of the best values and one of the best times we have ever had on a vacation.  Ken is patient, kind, and knowledgeable and the perfect host.  My...",
+   "I saw Ken driving around one weekend with some guests by the mansions, and thought-I HAVE to do that!! My sister came into town the following weekend, and I...",
+   "Accommodating, on time, and full of personality! Enjoy the day in one of these awesome cars!"
+  ]
+ },
+ {
+  "name": "Snookers",
+  "address": "53 Ashburton St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_CQyLVK2VZLAYdAZyLk02fw.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "This is the go to anytime my work colleagues and I have something down in Providence, mainly because it has a parking lot and if that runs out there's one...",
+   "If you like to play pool thus is the spot in Providence. A lot of well maintained regulation Brunswick tables. Balls get washed after play and the lighting...",
+   "Their parking lot is tiny, but I was told they have additional parking across the street and on the street. If you park outside of the main lot, do NOT..."
+  ]
+ },
+ {
+  "name": "Ivy Tavern",
+  "address": "758 Hope St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_MsV5j6L9kM-ElrQK-JvHfQ.jpg",
+  "tags": [
+   "delicious"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Best chili cheese fries in the world\nMando was delicious \nFriendly service \nWill be returning",
+   "The burgers at Ivy Tavern are top quality. You can taste the freshness. The buns are perfectly paired with whatever you fill in-between. Their chipotle...",
+   "Ivy Tavern is my go-to for quick and hearty takeout!  We call our order in on the way home from errands and it is always ready in 15 mins! Our favorites:\n\n-..."
+  ]
+ },
+ {
+  "name": "Prospect Park",
+  "address": "Congdon St At Bowen St",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image__4Ry_D3ZFE_thtksPBC2Gg.jpg",
+  "tags": [
+   "drink"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Always a great pit stop when having a drink, reading a book, chatting with a date, or eating a snack. \n\nDefinitely worth passing by to start out or top off...",
+   "I'm so glad that our incredible Providence Community Manager, Michael P, recommended that we take a second to check in and review Prospect Park while we...",
+   "What a gorgeous park to sit, relax and watch the sunset!!  It was breathtaking!  So many people wandering around taking photos of the picturesque..."
+  ]
+ },
+ {
+  "name": "Open Circle",
+  "address": "410 N Broadway",
+  "avg_visitor_review": 4.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_zV4y5KHOuUA7gepCYSxbXw.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "If you are expecting a child or have recently been blessed with a new one, please treat yourself to a class or massage at Open Circle! I couldn't more...",
+   "I've had the pleasure of working with Kaeli and Motion Center Mom & Baby over the years. Most recently, my son(4) and daughter (2.5) attended the toddler...",
+   "I had signed up/ paid for a prenatal yoga session with my friend. We Went in today for 5:50 pm, class starting @ 6. No one showed up. Got no email..."
+  ]
+ },
+ {
+  "name": "Tavern in the Square",
+  "address": "115 Hillside Rd",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_JS1kjo5Yob5GNnUjKxOKIQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Came here on New Years Eve after the PC game (sorry about that, Georgetown fans) because I received a gift certificate from people at work and they take...",
+   "This place has been open a while so I thought I would check them out. Place was busy but there were still plenty of places to sit at the bar. I ordered the...",
+   "**Update as of February 2020:\n\nAbsolutely horrendous service here tonight. Was there by myself with my baby and sat in the corner to have a nice relaxing..."
+  ]
+ },
+ {
+  "name": "Barnaby's Public House",
+  "address": "385 Westminster St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_O3ua9u4G-b0Uu0_MsC6ADg.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Came here last night for the first time, we usually go next door to the Black Sheep but wanted to try something new. While it was a Monday night,  it was...",
+   "Saturday lunch time. Place was pretty much empty other than a few folks at the bar, which made it easy to get a table.\nThe hostess was by the bar when we...",
+   "Pretty cool place!  Love the decor and atmosphere!  Started with a Whalers Pieces which was like a sour apple cidery beer with cinnamon flavor served with a..."
+  ]
+ },
+ {
+  "name": "Gather Glass",
+  "address": "521 Atwells Ave",
+  "avg_visitor_review": 5.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_YThlNWZCAKF_UNPwAuzTNA.jpg",
+  "tags": [
+   "experience",
+   "family"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "What a fun experience. My husband and I had a blast spending an hour making pint glasses and bowls. Because we took up 2 time slots, it was just us, so we...",
+   "The instructors were nice enough and entertaining but I went to create something I can be proud of. Since the instructors do most of the work I expected my...",
+   "I took my whole family to blow glass at Gather. I have two young boys one with autism, and the guys at Gather were so great. Our 9 year old was able to draw..."
+  ]
+ },
+ {
+  "name": "The Boombox Karaoke",
+  "address": "122 Fountain St",
+  "avg_visitor_review": 3.5,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_TDGklRTVS8ihUIfssxcloQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "I went back thanks to the owner's generosity. He comped the room and a few drinks. The bartender that ruined my birthday celebration, redeemed himself. I...",
+   "The night that I went was fun, but I was surprised they charge $1 per song request.  That's something I've never seen in public lounges before.  Sure,...",
+   "My newest PVD obsession is The Boombox, and I'll tell ya why. Not only is this place AMAZING - a little bar with red lights and an awesome menu of..."
+  ]
+ },
+ {
+  "name": "Avon Cinema",
+  "address": "260 Thayer St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_GV1KSzUC7HR_J8NsR7gnGQ.jpg",
+  "tags": [],
+  "source": "Yelp",
+  "reviews": [
+   "Nostalgic theater in the heart of College Hill. They usually show Sundance Film Festival films which are typically not my type. However, after being around...",
+   "I really love this cinema and I hope it stays around forevah and evah. They're one of the few in the state that show independent films. I also love the look...",
+   "Historic independent one room theater. Saw won't you be my neighbor which was a great showing. The interior and seats were a bit outdated and uncomfortable..."
+  ]
+ },
+ {
+  "name": "Barnaby castle",
+  "address": "299 Broadway",
+  "avg_visitor_review": 5.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image__PVO_r5yIE4pHp3aNJn_RQ.jpg",
+  "tags": [
+   "drink",
+   "historic"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "We came here for their annual Halloween blowout this year. It was pricey but so worth the money. All you can eat and drink for 3 floors from some of the...",
+   "We hosted a party here on Oct 13, 2019. We booked our engagement party on short notice (about 5 weeks before) and Kaitlyn was so easy to work with from the...",
+   "Came for an Open Doors RI tour. Online tickets were sold out but they were able to accommodate a bunch of us at the door.\n\nBeautiful historic building who's..."
+  ]
+ },
+ {
+  "name": "Craft Burgers and Beer",
+  "address": "342 East Ave",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_5w8jslrH3nxo6TJ40byigQ.jpg",
+  "tags": [
+   "food",
+   "food"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "If you read my reviews, you'll know that I'm a sucker for a burger and a beer. Some of my favorite places to eat in Providence simply do a burger and a beer...",
+   "This place is phenomenal, especially for brunch on Sunday's.  The service is tremendous, especially Sunday's, Jamie is phenomenal.  The portion size on food...",
+   "Such a great spot. Good food and friendly service. The bartenders are awesome. There are also gluten-free bun and beer options. \n\nIf you don't like good..."
+  ]
+ },
+ {
+  "name": "The Stable",
+  "address": "125 Washington St",
+  "avg_visitor_review": 4.0,
+  "avg_time_spent": null,
+  "photo_location": "../data/Photographs/yelp_image_EAcuimBT8oua2XKLC0UpLA.jpg",
+  "tags": [
+   "calm"
+  ],
+  "source": "Yelp",
+  "reviews": [
+   "Really cool and calm environment, I love sangria Sunday's out on the back patio area! Responsible yet fun staff",
+   "Stable is a nice local place that can get pretty busy and is a great combo of people you know and new people. The bartenders are always friendly and do a...",
+   "Being in the industry in downtown Providence, and former management myself I was appalled. It's one thing to stop serving but it's another thing when the..."
+  ]
+ }
+]
