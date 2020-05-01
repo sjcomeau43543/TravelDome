@@ -5,6 +5,10 @@ Status:        In progress
 
 Creates the inverted index from the merged data folder and stores it in a json file
 
+example
+python3 storage.py -l ../scrapers/locations.txt -a ../scrapers/adjectives_extended.txt
+
+TODO why are there duplicates?
 
 '''
 
@@ -57,18 +61,12 @@ class Storage:
             self.add(location[0], location[1])
 
         # export
-        self.export(adjectives)
+        self.export()
 
   
-    def export(self, adjectives):
+    def export(self):
         with open("../data/InvertedIndex/inverted_index.json", "w") as outfile:
-            outfile.write("[\n")
-            for adjective in adjectives:
-                encoded = {adjective: str(self.inverted_index[adjective])}
-                json.dump(encoded, outfile, indent=1)
-                if adjective != adjectives[-1]:
-                    outfile.write(",")
-            outfile.write("]\n")
+            json.dump(self.inverted_index, outfile, indent=1)
 
 
 
@@ -78,16 +76,15 @@ def main():
     # parser
     parser = argparse.ArgumentParser()
     parser.add_argument("-l", "--locations", help="locations.txt file", required=True)
-    parser.add_argument("-a", "--adjectives", help="adjectives.txt file", required=True)
+    parser.add_argument("-a", "--adjectives_ext", help="adjectives.txt file", required=True)
     args = parser.parse_args()
 
     with open(args.locations, "r") as locations_file:
         locations = locations_file.readlines()
         locations = [(loc.strip('\n').split(',')[0],loc.strip('\n').split(',')[1]) for loc in locations]
 
-    with open(args.adjectives, "r") as adjectives_file:
-        adjectives = adjectives_file.readlines()
-        adjectives = [adj.strip('\n') for adj in adjectives]
+    with open(args.adjectives_ext, "r") as adjectives_file:
+        adjectives = [adj.strip(',') for adj in adjectives_file.read().split()] # [adj.strip('\n') for adj in adjectives]
 
     # do the thing
     storage.add_all(locations, adjectives)
