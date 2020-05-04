@@ -119,7 +119,7 @@ function loadAdjectives(){
     var l;
     for(l=0; l<adjectives.length; l++){
         var input = document.createElement("input");
-        input.setAttribute("class", "form-check-input");
+        input.setAttribute("class", "activity_input");
         input.setAttribute("type", "checkbox");
         input.setAttribute("id", "checkbox"+adjectives[l]);
 
@@ -229,10 +229,13 @@ function loadLocations(){
 
 
 function main(){
+    console.log("hellO???");
+
     // load form content
     var page = document.getElementById("pageContainerMain");
     loadFile("website/form.html", function(response) {
         page.innerHTML = response;
+        console.log(response);
     });
 
     // load our data
