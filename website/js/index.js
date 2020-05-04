@@ -1,7 +1,9 @@
 /*
 Author:        Samantha
-Last modified: 5.1.2020 by sjc
+Last modified: 5.4.2020 by sjc
 Status:        In progress
+
+TODO: 
 */
 
 // recommendations
@@ -134,6 +136,98 @@ function loadAdjectives(){
     }
 }
 
+/* 
+loadLocations
+loads the locations into the auto complete filler
+
+adapted from w3schools tutorial
+*/
+function loadLocations(){
+    // closes the list
+    function closeAllLists(elmnt) {
+        var x = document.getElementsByClassName("autocomplete-items");
+        for (var i = 0; i < x.length; i++) {
+            if (elmnt != x[i] && elmnt != container) {
+                x[i].parentNode.removeChild(x[i]);
+            }
+        }
+    }
+
+    // removes active class from items    
+    function removeActive(x) {
+        for (var i = 0; i < x.length; i++) {
+            x[i].classList.remove("autocomplete-active");
+        }
+    }
+
+    // adds active class
+    function addActive(x) {
+        if (!x) return false;
+        removeActive(x);
+        if (currentFocus >= x.length) currentFocus = 0;
+        if (currentFocus < 0) currentFocus = (x.length - 1);
+        x[currentFocus].classList.add("autocomplete-active");
+    }
+
+    // place to add them
+    var container = document.getElementById("locationContainer");
+
+    // event listener on input by user
+    container.addEventListener("input", function(e) {
+        var a, b, i, val = this.value;
+
+        if (!val) {
+            console.log('error?');
+        }
+
+        currentFocus = -1;/*create a DIV element that will contain the items (values):*/
+        a = document.createElement("DIV");
+        a.setAttribute("id", this.id + "autocomplete-list");
+        a.setAttribute("class", "autocomplete-items");
+
+        this.parentNode.appendChild(a);
+        for (i = 0; i < locations.length; i++) {
+          if (locations[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+            b = document.createElement("DIV");
+            b.innerHTML = "<strong>" + locations[i].substr(0, val.length) + "</strong>";
+            b.innerHTML += locations[i].substr(val.length);
+            b.innerHTML += "<input type='hidden' value='" + locations[i] + "'>";
+                b.addEventListener("click", function(e) {
+                container.value = this.getElementsByTagName("input")[0].value;
+                closeAllLists();
+            });
+            a.appendChild(b);
+          }
+        }
+    });
+
+    // event listener on arrow by user
+    container.addEventListener("keydown", function(e) {
+        var x = document.getElementById(this.id + "autocomplete-list");
+        if (x) x = x.getElementsByTagName("div");
+        if (e.keyCode == 40) { // UP
+          currentFocus++;
+          addActive(x);
+        } else if (e.keyCode == 38) { // DOWN
+          currentFocus--;
+          addActive(x);
+        } else if (e.keyCode == 13) { // ENTER
+          e.preventDefault();
+          if (currentFocus > -1) {
+            if (x) x[currentFocus].click();
+          }
+        }
+    });
+
+    // event listener on document by user
+    document.addEventListener("click", function (e) {
+        closeAllLists(e.target);
+    });
+
+}
+
+
+
 function main(){
     // load form content
     var page = document.getElementById("pageContainerMain");
@@ -151,6 +245,7 @@ function main(){
             
             // load the UI
             loadAdjectives();
+            loadLocations();
 
         }
     }, 100); 
