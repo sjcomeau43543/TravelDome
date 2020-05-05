@@ -1,12 +1,12 @@
 '''
 Author:        Samantha
-Last modified: 4.29.2020 by sjc
-Status:        In Progress
+Last modified: 5.5.2020 by sjc
+Status:        Done
 
 this will cluster the activities so that we can recommend new activities based on positive feedback
 
 example run:
-    python3 clustering.py -
+    python3 clustering.py -l ../scrapers/locations.txt -e ../scrapers/adjectives_extended.txt
 
 
 '''
@@ -20,7 +20,6 @@ import sys
 sys.path.insert(1, "../scrapers")
 from activity import Activity
 
-from sklearn.cluster import KMeans
 
 class Clustering:
 
@@ -56,14 +55,15 @@ class Clustering:
 
     def vectorize(self):
         for activity in self.activities:
-            
-            self.vectors.append((activity["name"], [1 if adj in activity["tags"] else 0 for adj in self.adjectives]))
+            # if multiple sources tagged an activity with a certain tag that increases the significance of the tag
+            self.vectors.append((activity["name"], [activity["tags"].count(adj) if adj in activity["tags"] else 0 for adj in self.adjectives]))
 
 
     def cluster(self):
-        self.model = KMeans(n_clusters=len(self.adjectives), max_iter=500, n_init=1)
+        # self.model = KMeans(n_clusters=len(self.adjectives), max_iter=500, n_init=1)
 
-        import pdb; pdb.set_trace()
+        # import pdb; pdb.set_trace()
+        pass
 
     def euc(self, row1, row2):
         dist = 0.0

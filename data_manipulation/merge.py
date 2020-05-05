@@ -1,14 +1,12 @@
 '''
 Author:        Samantha
 Last modified: 4.24.2020 by sjc
-Status:        In progress
+Status:        Done
 
 This merges the results from the platforms in the data directory
 
 example
     python3 merge.py -l ../scrapers/locations.txt 
-
-TODO update with time_spent when those are integrated
 '''
 
 import os
@@ -47,6 +45,7 @@ class Merger:
                                 if ']' in actobj.tags: actobj.tags.remove(']')
 
                                 if actobj.name not in merged_activities.keys():
+                                    print("not duplicate", actobj.name)
                                     # make lists of what would have become lists for consistency
                                     actobj.source = [actobj.source]
                                     actobj.photo_location = [actobj.photo_location]
@@ -54,6 +53,7 @@ class Merger:
                                     merged_activities[actobj.name] = actobj
                                     actobj = 0
                                 else:
+                                    print("duplicate", actobj.name)
                                     ## handle duplicates
                                     # use more detailed address
                                     actobj.address = merged_activities[actobj.name].address if len(merged_activities[actobj.name].address) > len(actobj.address) else actobj.address

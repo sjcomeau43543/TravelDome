@@ -7,8 +7,9 @@ The purpose of this is to integrate all the scrapers
 
 example run:
     python3 scraper.py -l locations.txt -y -c yelp_credentials.json -w
+    python3 scraper.py -l locations.txt -t -w
+    python3 scraper.py -l locations.txt -g -w
 
-TODO: fix filewriting
 TODO: add google maps
 '''
 

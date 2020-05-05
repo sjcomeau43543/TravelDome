@@ -1,15 +1,12 @@
 '''
 Author:        Samantha
-Last modified: 4.25.2020 by sjc
-Status:        In progress
+Last modified: 5.5.2020 by sjc
+Status:        Done
 
 Creates the inverted index from the merged data folder and stores it in a json file
 
 example
 python3 storage.py -l ../scrapers/locations.txt -a ../scrapers/adjectives_extended.txt
-
-TODO why are there duplicates?
-
 '''
 
 import os
@@ -48,7 +45,7 @@ class Storage:
                                 if '[' in actobj.tags: actobj.tags.remove('[')
                                 if ']' in actobj.tags: actobj.tags.remove(']')
 
-                                for tag in actobj.tags:
+                                for tag in (list(set(actobj.tags))):
                                     self.inverted_index[tag].append(actobj.name)
 
     def add_all(self, list_of_locations, adjectives):
