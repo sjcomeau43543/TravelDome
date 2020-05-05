@@ -1,0 +1,123 @@
+.sams-input {
+}
+
+.sams-input-dropdown {
+    background-color: #cae8e8;
+    padding: 10px;
+}
+
+.sams-adjectives {
+}
+
+.sams-adjectives-active {
+    background-color: #cae8e8;
+}
+
+.sams-button {
+
+}
+
+.sams-activity-div {
+    width: 75%;
+}
+
+.sams-photoalbum {
+    background-color: #cae8e8;
+    width: 150px; 
+    height: 150px;
+
+}
+
+.sams-info {
+    margin-top: 5px;
+}
+
+.sams-plus {
+    content: url("../images/plus.png");
+}
+.sams-minus {
+    content: url("../images/minus.png");
+}
+
+.sams-address {
+    content: url("../images/location.png");
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sams-menu {
+    content: url("../images/menu.png");
+}
+
+.sams-pencil {
+    content: url("../images/edit.png");
+}
+
+.sams-stars {
+    content: url("../images/star.png");
+}
+
+.sams-link {
+    content: url("../images/link.png");
+}
+
+.sams-icons {
+    width: 30px; 
+    height: 30px;
+    background-color: #cae8e8;
+}
+
+.sams-categories {
+    width: 50px;
+    height: 150px;
+}
+.sams-categories-adventurous {
+    background-color: #cae8e8;
+}
+.sams-categories-scholarly {
+    background-color: #cae8e8;
+}
+.sams-categories-foodie {
+    background-color: #cae8e8;
+}
+.sams-categories-active {
+    background-color: #cae8e8;
+}
+.sams-categories-frugal {
+    background-color: #cae8e8;
+}
+.sams-categories-familyfriendly {
+    background-color: #cae8e8;
+}
+.sams-categories-introverted {
+    background-color: #cae8e8;
+}
+.sams-categories-frugal {
+    background-color: #cae8e8;
+}
+.sams-categories-extroverted {
+    background-color: #cae8e8;
+}
+.sams-categories-practical {
+    background-color: #cae8e8;
+}
+.sams-categories-independent {
+    background-color: #cae8e8;
+}
+.sams-categories-creative {
+    background-color: #cae8e8;
+}
+.sams-categories-knowledgeable {
+    background-color: #cae8e8;
+}
+.sams-categories-compassionate {
+    background-color: #cae8e8;
+}
+
+
+
+
+
+
+
+

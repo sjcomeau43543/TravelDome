@@ -5,14 +5,20 @@ Status:        In Progress
 
 TODO: fix design
 -->
-
-<!-- BACK TO FORM -->
-<div class="btn btn-primary" onclick="backToForm()">Back</div>
-
-<!-- RECOMMENDATIONS -->
-<div id="resultsContainer">
-
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <!-- BACK TO FORM -->
+            <div class="btn btn-primary" onclick="backToForm()">Back</div>
+        </div>
+        <div class="col-8">
+            <!-- RECOMMENDATIONS  -->
+            <div id="resultsContainer"></div>
+        </div>
+        <div class="col">
+            <!-- GENERATE ITINERARY -->
+            <div class="btn btn-primary" onclick="generateItinerary()">Get my Itinerary!</div>
+        </div>
+    </div>
 </div>
 
-<!-- GENERATE ITINERARY -->
-<div class="btn btn-primary" onclick="generateItinerary()">Get my Itinerary!</div>

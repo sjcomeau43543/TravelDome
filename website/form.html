@@ -2,22 +2,26 @@
 Author:        Samantha
 Last modified: 5.5.2020 by sjc
 Status:        In Progress
-
-TODO: fix design
 -->
 
-
-<form id="form">
-    <!--LOCATION-->
-    <div class="form-group">
-        <label for="Location"></label>
-        <input type="location" class="form-control" id="locationContainer" placeholder="Boston,MA">
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <!--LOCATION-->
+            <div class="form-group sams-input">
+                <input type="location" class="form-control" id="locationContainer" placeholder="Boston,MA">
+            </div>
+        </div>
+        <div class="col-6">
+            <!--ADJECTIVES-->
+            <ul id="adjectivesContainer" class="list-group"></ul>
+        </div>
+        <div class="col">
+            <!--SUBMIT-->
+            <div class="btn btn-primary sams-button" onclick="generateRecommendations()">Submit</div>
+            
+            <!--ERROR-->
+            <p id="errormsg"></p>
+        </div>
     </div>
-
-    <!--ACTIVITIES-->
-    <div id="adjectivesContainer" class="form-check">
-    </div>
-
-    <!--SUBMIT-->
-    <div class="btn btn-primary" onclick="generateRecommendations()">Submit</div>
-</form>
+</div>

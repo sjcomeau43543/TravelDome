@@ -1,7 +1,11 @@
 /*
 Author:        Samantha
 Last modified: 5.5.2020 by sjc
-Status:        In progressa
+Status:        In progress
+
+TODO
+format activities
+format itinerary
 */
 
 // recommendations
@@ -18,7 +22,7 @@ var locations = new Array();
 
 // user specific
 var USERdestination;
-var USERadjectives;
+var USERadjectives = [];
 var USERitinerary = [];
 var USERrecommendations;
 
@@ -109,6 +113,29 @@ function loadData() {
 }
 
 /*
+selectAdjective
+add adjective to the list and fixes styling
+*/
+function selectAdjective(adjective){
+    // formatting
+    var li = document.getElementById("listitem"+adjective);
+    if(li.classList.contains("sams-adjectives-active")){
+        // removing adjective
+        li.classList.remove("sams-adjectives-active");
+        for(var i=0; i<USERadjectives.length; i++){
+            if(USERadjectives[i] === adjective) {
+                USERadjectives.splice(i, 1);
+                break;
+            }
+        }
+    } else {
+        // adding adjective
+        li.classList.add("sams-adjectives-active");
+        USERadjectives.push(adjective);
+    }
+}
+
+/*
 loadAdjectives
 loads the adjectives into the selectors
 */
@@ -116,26 +143,18 @@ function loadAdjectives(){
     // place to add them
     var container = document.getElementById("adjectivesContainer");
 
-    
-
     // add the elements
     var l;
-    for(l=0; l<adjectives.length; l++){
-        var input = document.createElement("input");
-        input.setAttribute("class", "activity_input");
-        input.setAttribute("type", "checkbox");
-        input.setAttribute("id", "checkbox"+adjectives[l]);
-
-        var label = document.createElement("label");
-        label.setAttribute("class", "form-check-label");
-        label.setAttribute("for", "checkbox"+adjectives[l]);
+    for(l=0; l<adjectives.length; l++){    
+        var li = document.createElement("li");
+        li.setAttribute("class", "list-group-item sams-adjectives");
+        li.setAttribute("id", "listitem"+adjectives[l]);
+        li.setAttribute("onclick", "selectAdjective('"+adjectives[l]+"')");
 
         var newp = document.createTextNode(adjectives[l]);
-        label.appendChild(newp);
+        li.appendChild(newp);
 
-        container.appendChild(input);
-        container.appendChild(label);
-        container.appendChild(document.createElement("BR"));
+        container.appendChild(li);
     }
 }
 
@@ -170,6 +189,9 @@ function loadLocations(){
         if (currentFocus >= x.length) currentFocus = 0;
         if (currentFocus < 0) currentFocus = (x.length - 1);
         x[currentFocus].classList.add("autocomplete-active");
+
+        // add
+        USERdestination = x[currentFocus].value;
     }
 
     // place to add them
@@ -188,17 +210,22 @@ function loadLocations(){
 
         this.parentNode.appendChild(a);
         for (i = 0; i < locations.length; i++) {
-          if (locations[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
-            b = document.createElement("DIV");
-            b.innerHTML = "<strong>" + locations[i].substr(0, val.length) + "</strong>";
-            b.innerHTML += locations[i].substr(val.length);
-            b.innerHTML += "<input type='hidden' value='" + locations[i] + "'>";
-                b.addEventListener("click", function(e) {
-                container.value = this.getElementsByTagName("input")[0].value;
-                closeAllLists();
-            });
-            a.appendChild(b);
-          }
+            if (locations[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+                b = document.createElement("DIV");
+                b.innerHTML = "<strong>" + locations[i].substr(0, val.length) + "</strong>";
+                b.innerHTML += locations[i].substr(val.length);
+                b.innerHTML += "<input type='hidden' value='" + locations[i] + "'>";
+                    b.addEventListener("click", function(e) {
+                        container.value = this.getElementsByTagName("input")[0].value;
+                        closeAllLists();
+
+                        // add
+                        USERdestination = container.value;
+                    });
+                
+                    b.setAttribute("class", "sams-input-dropdown");
+                a.appendChild(b);
+            }
         }
     });
 
@@ -301,7 +328,7 @@ function queryII(destination, personality) {
 
     // get inverted index recommendations
     var activities_ii = [];
-
+    var temp = {};
     for(var k=0; k<query_terms.length; k++){
         a_intermediate = inverted_index[query_terms[k]];
         for(var a=0; a<a_intermediate.length; a++){
@@ -334,59 +361,220 @@ function queryII(destination, personality) {
     return activities_results_cleaned;
 }
 
+/*
+activityDiv
+returns a div element with the activity information embedded
+*/
+function activityDiv(activity, plusminus) {
+    var div = document.createElement("div");
+    div.setAttribute("class", "sams-activity-div");
+
+    // nodes
+    var container = document.createElement("div");
+    container.setAttribute("class", "container");
+    
+    // row1 holds the title
+    var row1 = document.createElement("div");
+    row1.setAttribute("class", "row");
+
+    // row2 holds 2 columns
+    var row2 = document.createElement("div");
+    row2.setAttribute("class", "row");
+
+    // col holds the edit buttons
+    var col = document.createElement("div");
+    col.setAttribute("class", "col-2");
+
+    // col1 holds the photo album
+    var col1 = document.createElement("div");
+    col1.setAttribute("class", "col");
+
+    // col2 holds the information
+    var col2 = document.createElement("div");
+    col2.setAttribute("class", "col");
+
+    // title
+    var title = document.createElement("h3");
+    var titletext = document.createTextNode(activity.name);
+    title.appendChild(titletext);
+    row1.appendChild(title);
+
+    // + - buttons
+    if(plusminus){
+        var add = true;
+        for(var i=0; i<USERitinerary.length; i++){
+            if(USERitinerary[i].name === activity.name){
+                add = false;
+            }
+        }
+        var plus = document.createElement("div");
+        if (add) {
+            plus.setAttribute("class", "sams-icons sams-plus");
+        } else {
+            plus.setAttribute("class", "sams-icons sams-minus");
+        }
+        plus.setAttribute("id", "plus"+activity.name);
+        plus.setAttribute("onclick", "addActivity('"+activity.name+"')");
+    
+        col.appendChild(plus);
+    } else {
+        var category = document.createElement("div");
+        var counts = {};
+        var max = 0;
+        for (var t=0; t<adjectives.length; t++){
+            counts[adjectives[t]] = 0;
+        }
+        for (var t=0; t<activity.tags.length; t++){
+            if(adjectives.indexOf(activity.tags[t]) === -1){
+                // synonym
+                for (var z=0; z<adjectives.length; z++){
+                    if (adjectives_ext[adjectives[z]].indexOf(activity.tags[t]) !== -1){
+                        counts[adjectives[z]] = counts[adjectives[z]] + 1;
+                        console.log(adjectives[z]);
+                    }
+                }
+            } else {
+                counts[activity.tags[t]] = counts[activity.tags[t]] + 1;
+                console.log(activity.tags[t]);
+            }
+        }
+        for (var t=0; t<adjectives.length; t++){
+            if (counts[adjectives[t]] > max) {
+                max = adjectives[t];
+            }
+        }
+        console.log(counts, adjectives);
+
+        console.log(max);
+        category.setAttribute("class", "sams-categories sams-categories-"+max);
+        col.appendChild(category);
+    }
+
+    // photo
+    var photo = document.createElement("div");
+    photo.setAttribute("class", "sams-photoalbum");
+    photo.setAttribute("id", "photo"+activity.name);
+    col1.appendChild(photo);
+
+    // address
+    var irow = document.createElement("div");
+    irow.setAttribute("class", "row");
+    var icon = document.createElement("div");
+    icon.setAttribute("class", "sams-icons sams-address");
+    irow.appendChild(icon);
+    var address = document.createElement("div");
+    address.setAttribute("class", "sams-info");
+    var address_t = document.createTextNode(activity.address);
+    address.appendChild(address_t);
+    irow.appendChild(address);
+    col2.appendChild(irow);
+
+    // tags
+    var irow = document.createElement("div");
+    irow.setAttribute("class", "row");
+    var icon = document.createElement("div");
+    icon.setAttribute("class", "sams-icons sams-menu");
+    irow.appendChild(icon);
+    var tags = document.createElement("div");
+    tags.setAttribute("class", "sams-info");
+    var completed = [];
+    for(var t = 0; t<activity.tags.length; t++){
+        var done = false;
+        for(var j=0; j<completed.length; j++){
+            if(completed[j] === activity.tags[t]){
+                done = true;
+            }
+        }
+        if (done === false){
+            var tag = document.createTextNode(activity.tags[t]+" ");
+            tags.appendChild(tag);
+            completed.push(activity.tags[t]);
+
+        }
+    }
+    irow.appendChild(tags);
+    col2.appendChild(irow);
+
+    // rating
+    var irow = document.createElement("div");
+    irow.setAttribute("class", "row");
+    var icon = document.createElement("div");
+    icon.setAttribute("class", "sams-icons sams-stars");
+    irow.appendChild(icon);
+    var rating = document.createElement("div");
+    rating.setAttribute("class", "sams-info");
+    var rating_t = document.createTextNode(activity.avg_visitor_review);
+    rating.appendChild(rating_t);
+    irow.appendChild(rating);
+    col2.appendChild(irow);
+
+    // source
+    var irow = document.createElement("div");
+    irow.setAttribute("class", "row");
+    var icon = document.createElement("div");
+    icon.setAttribute("class", "sams-icons sams-link");
+    irow.appendChild(icon);
+    var src = document.createElement("div");
+    src.setAttribute("class", "sams-info");
+    var src_t = document.createTextNode(activity.source);
+    src.appendChild(src_t);
+    irow.appendChild(src);
+    col2.appendChild(irow);
+
+    // fix nodes
+    row2.appendChild(col);
+    row2.appendChild(col1);
+    row2.appendChild(col2);
+
+    container.appendChild(row1);
+    container.appendChild(row2);
+    
+    div.appendChild(container);
+
+    return div;
+}
+
 /* 
 generateRecommendations
 loads the recommendations into the new site and queries ii
 */
 function generateRecommendations(){
-    // get form information
-    var form = document.getElementById("form");
+    // TODO do we have input?
+    if(USERdestination === "" || USERadjectives.length === 0){
+        document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
+    } else {
 
-    var destination = form[0].value.replace(/,/g,"");
-    USERdestination = destination;
+        // load new page
+        var page = document.getElementById("pageContainerMain");
+        var page_loaded = false;
+        loadFile("website/results.html", function(response) {
+            page.innerHTML = response;
+            page_loaded = true;
+        });
 
-    var personality = [];
-    for(var i=1; i<adjectives.length+1; i++){
-        if(form[i].checked){
-            personality.push(adjectives[i-1]);
-        }
-    }
-    USERadjectives = personality;
+        // get activities
+        var recommendations = queryII(USERdestination, USERadjectives);
+        USERrecommendations = recommendations;
 
-    // load new page
-    var page = document.getElementById("pageContainerMain");
-    var page_loaded = false;
-    loadFile("website/results.html", function(response) {
-        page.innerHTML = response;
-        page_loaded = true;
-    });
+        // wait for page to be loaded
+        var timeout = setInterval(function(){
+            if(page_loaded){
+                clearInterval(timeout);
+                
+                // load the UI
+                // put results from II in
+                var container = document.getElementById("resultsContainer");
+                for (var r=0; r<recommendations.length; r++){
+                    var div = activityDiv(recommendations[r], true);
 
-    // get activities
-    var recommendations = queryII(destination, personality);
-    USERrecommendations = recommendations;
+                    container.appendChild(div);
+                    container.appendChild(document.createElement("BR"));
+                }
 
-    // wait for page to be loaded
-    var timeout = setInterval(function(){
-        if(page_loaded){
-            clearInterval(timeout);
-            
-            // load the UI
-            // put results from II in
-            var container = document.getElementById("resultsContainer");
-            for (var r=0; r<recommendations.length; r++){
-                var div = document.createElement("div");
-                div.setAttribute("onClick", "generateSecondaryRecommendations('"+recommendations[r].name+"')");
-                div.setAttribute("id", "results"+recommendations[r].name);
-
-                var newp = document.createTextNode(recommendations[r].name);
-                div.appendChild(newp);
-
-                container.appendChild(div);
-                container.appendChild(document.createElement("BR"));
             }
-
-        }
-    }, 100); 
+        }, 100); 
+            
+    }
 
     
 }
@@ -397,14 +585,6 @@ loads cluster recommendations using positive feedback
 also adds the chosen activity to the list
 */
 function generateSecondaryRecommendations(originalActivity){
-    // add to itinerary
-    for(var i=0; i<USERrecommendations.length; i++){
-        if(USERrecommendations[i].name === originalActivity) {
-            // TODO is it already in the itinerary?
-            USERitinerary.push(USERrecommendations[i]);
-            break;
-        }
-    }
 
     // get activities
     var recommendations = queryCluster(originalActivity);
@@ -426,16 +606,10 @@ function generateSecondaryRecommendations(originalActivity){
         
     }
 
-    
     // put results from clusters in
     var container = document.getElementById("resultsContainer");
     for (var r=0; r<cleaned_recommendations.length; r++){
-        var div = document.createElement("div");
-        div.setAttribute("onClick", "generateSecondaryRecommendations('"+cleaned_recommendations[r].name+"')");
-        div.setAttribute("id", "results"+cleaned_recommendations[r].name);
-
-        var newp = document.createTextNode(cleaned_recommendations[r].name);
-        div.appendChild(newp);
+        var div = activityDiv(cleaned_recommendations[r], true);
 
         container.appendChild(div);
         container.appendChild(document.createElement("BR"));
@@ -443,12 +617,59 @@ function generateSecondaryRecommendations(originalActivity){
 }
 
 /*
+addActivity
+1adds and activity to the itinerary
+2changes icon
+3generates secondary recommendations
+*/
+function addActivity(originalActivity){
+    // add or remove
+    var add = true;
+    for(var i=0; i<USERitinerary.length; i++){
+        if(USERitinerary[i].name === originalActivity) {
+            add = false;
+            break;
+        }
+    }
+
+    
+    // edit itinerary
+    if(add) {
+        for(var i=0; i<USERrecommendations.length; i++){
+            if(USERrecommendations[i].name === originalActivity) {
+                USERitinerary.push(USERrecommendations[i]);
+                break;
+            }
+        }
+    } else {
+        for(var i=0; i<USERitinerary.length; i++){
+            if(USERitinerary[i].name === originalActivity) {
+                USERitinerary.splice(i, 1);
+                break;
+            }
+        }
+    }
+
+    // icon
+    var icon = document.getElementById("plus"+originalActivity);
+
+    if(add) {
+        icon.setAttribute("class", "sams-icons sams-minus");
+    } else {
+        icon.setAttribute("class", "sams-icons sams-plus");
+    }
+
+    // add recommendations
+    generateSecondaryRecommendations(originalActivity);
+
+}
+
+
+/*
 generateItinerary
 generates the itinerary
 */
 function generateItinerary(){
-    console.log(USERitinerary);
-
     // load new page
     var page = document.getElementById("pageContainerMain");
     var page_loaded = false;
@@ -466,11 +687,7 @@ function generateItinerary(){
             // put the itinerary in
             var container = document.getElementById("itineraryContainer");
             for (var r=0; r<USERitinerary.length; r++){
-                var div = document.createElement("div");
-                div.setAttribute("id", "results"+USERitinerary[r].name);
-
-                var newp = document.createTextNode(USERitinerary[r].name);
-                div.appendChild(newp);
+                var div = activityDiv(USERitinerary[r], false);
 
                 container.appendChild(div);
                 container.appendChild(document.createElement("BR"));
@@ -503,4 +720,47 @@ function backToForm(){
 
         }
     }, 100); 
+}
+/*
+backToResults
+goes back to the results page
+*/
+function backToResults(){
+    // load new page
+    var page = document.getElementById("pageContainerMain");
+    var page_loaded = false;
+    loadFile("website/results.html", function(response) {
+        page.innerHTML = response;
+        page_loaded = true;
+    });
+
+    // get activities
+    var recommendations = queryII(USERdestination, USERadjectives);
+    USERrecommendations = recommendations;
+
+    // wait for page to be loaded
+    var timeout = setInterval(function(){
+        if(page_loaded){
+            clearInterval(timeout);
+            
+            // load the UI
+            // put results from II in
+            var container = document.getElementById("resultsContainer");
+            for (var r=0; r<recommendations.length; r++){
+                var div = activityDiv(recommendations[r], true);
+
+                container.appendChild(div);
+                container.appendChild(document.createElement("BR"));
+            }
+
+        }
+    }, 100); 
+}
+
+/*
+saveItinerary
+downloads PDF version
+*/
+function saveItinerary(){
+
 }
