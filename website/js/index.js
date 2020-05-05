@@ -448,7 +448,36 @@ generates the itinerary
 */
 function generateItinerary(){
     console.log(USERitinerary);
-    return; // TODO
+
+    // load new page
+    var page = document.getElementById("pageContainerMain");
+    var page_loaded = false;
+    loadFile("website/itinerary.html", function(response) {
+        page.innerHTML = response;
+        page_loaded = true;
+    });
+
+    // wait for page to be loaded
+    var timeout = setInterval(function(){
+        if(page_loaded){
+            clearInterval(timeout);
+            
+            // load the UI
+            // put the itinerary in
+            var container = document.getElementById("itineraryContainer");
+            for (var r=0; r<USERitinerary.length; r++){
+                var div = document.createElement("div");
+                div.setAttribute("id", "results"+USERitinerary[r].name);
+
+                var newp = document.createTextNode(USERitinerary[r].name);
+                div.appendChild(newp);
+
+                container.appendChild(div);
+                container.appendChild(document.createElement("BR"));
+            }
+
+        }
+    }, 100); 
 }
 
 /*
