@@ -53,7 +53,8 @@ def main():
         import scraper_tripadvisor
 
     if args.maps:
-        import scraper_googlemaps
+        import scraper_gmaps
+
 
 
     for location in locations:
@@ -93,6 +94,18 @@ def main():
         if args.maps:
             # Google maps
             print("Scraping GoogleMaps for", city, state)
+            api = scraper_gmaps.GooglePlaces(apiKey='AIzaSyAoaZRyH4QLOZ4NB88-j4NF-erUJ9VsjhM')
+            activities = scraper_gmaps.scrape(api, city, state)
+
+            if args.write:
+                with open("../data/GoogleMaps/" + city + state + ".json", "w") as outfile:
+                    outfile.write("[\n")
+                    for activity in activities:
+                        json.dump(activity.encode(), outfile, indent=1)
+                        if activity != activities[-1]:
+                            outfile.write(",")
+                    outfile.write("]\n")
+
 
 if __name__ == '__main__':
     main()
