@@ -64,8 +64,10 @@ class Merger:
                                     # TODO time spent
                                     ### default to the second source
                                     
-                                    # list of photos
-                                    actobj.photo_location = [merged_activities[actobj.name].photo_location, actobj.photo_location]
+                                    # list of photos                               
+                                    actobj.photo_location = [actobj.photo_location]
+                                    for loc in merged_activities[actobj.name].photo_location:
+                                        actobj.photo_location.append(loc)
 
                                     # combine tags lists
                                     for tag2 in merged_activities[actobj.name].tags:

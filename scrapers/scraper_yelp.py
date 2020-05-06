@@ -55,27 +55,11 @@ class Yelp:
                             reviews.append(review["text"])
 
 
-                    # TODO, add later if changed mind
-                    # download the image
-                    # photo_location = "../data/Photographs/yelp_image_"+str(business["id"])+".jpg"
-                    ''' if os.path.exists(photo_location):
-                        pass
-                    elif "image_url" in business.keys():
-                        try:
-                            photo_url = business["image_url"]
-                            request_photo = requests.get(photo_url)
-
-                            if request_photo.status_code == 200:
-                                with open(photo_location, "wb") as handler:
-                                    for block in request_photo.iter_content(1024):
-                                        if not block:
-                                            break
-                                        handler.write(block)
-                        except:
-                            photo_location = None
+                    # image
+                    if "image_url" in business.keys():
+                        photo_location = business["image_url"]
                     else:
-                        photo_location = None '''
-                    photo_location = none if "image_url" not in business.keys() else business["image_url"]
+                        photo_location = None 
 
                     # add to list
                     a = Activity(business["name"], business["location"]["address1"], business["rating"], None, photo_location, "Yelp", reviews=reviews, tags=[], get_tags=True)

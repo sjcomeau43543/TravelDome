@@ -26,6 +26,10 @@ var USERadjectives = [];
 var USERitinerary = [];
 var USERrecommendations;
 
+// page state
+var page_state = 1; // 1: search, 2: results, 3: itinerary
+
+
 /*
 loadFile
 loads files
@@ -257,7 +261,6 @@ function loadLocations(){
 }
 
 
-
 function main(){
     // load form content
     var page = document.getElementById("pageContainerMain");
@@ -443,18 +446,24 @@ function activityDiv(activity, plusminus) {
                 max = adjectives[t];
             }
         }
-        console.log(counts, adjectives);
-
-        console.log(max);
         category.setAttribute("class", "sams-categories sams-categories-"+max);
         col.appendChild(category);
     }
 
     // photo
-    var photo = document.createElement("div");
-    photo.setAttribute("class", "sams-photoalbum");
-    photo.setAttribute("id", "photo"+activity.name);
-    col1.appendChild(photo);
+    for(var i=0; i<activity.photo_location.length; i++){
+        var photo = document.createElement("img");
+        photo.setAttribute("class", "sams-photoalbum");
+        photo.setAttribute("id", "photo"+activity.name);
+        if(activity.photo_location[i].includes("http")){
+            // url
+            photo.setAttribute("src", activity.photo_location[i]);
+        } else {
+            // downloaded
+            photo.setAttribute("src", "Photographs/"+activity.photo_location[i]);
+        }
+        col1.appendChild(photo);
+    }
 
     // address
     var irow = document.createElement("div");
@@ -543,6 +552,7 @@ function generateRecommendations(){
     if(USERdestination === "" || USERadjectives.length === 0){
         document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
     } else {
+        page_state = 2;
 
         // load new page
         var page = document.getElementById("pageContainerMain");
@@ -670,31 +680,36 @@ generateItinerary
 generates the itinerary
 */
 function generateItinerary(){
-    // load new page
-    var page = document.getElementById("pageContainerMain");
-    var page_loaded = false;
-    loadFile("website/itinerary.html", function(response) {
-        page.innerHTML = response;
-        page_loaded = true;
-    });
+    if(USERdestination === "" || USERadjectives.length === 0){
+        document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
+    } else {
+        // load new page
+        var page = document.getElementById("pageContainerMain");
+        var page_loaded = false;
+        loadFile("website/itinerary.html", function(response) {
+            page.innerHTML = response;
+            page_loaded = true;        
+            page_state = 3;
+        });
 
-    // wait for page to be loaded
-    var timeout = setInterval(function(){
-        if(page_loaded){
-            clearInterval(timeout);
-            
-            // load the UI
-            // put the itinerary in
-            var container = document.getElementById("itineraryContainer");
-            for (var r=0; r<USERitinerary.length; r++){
-                var div = activityDiv(USERitinerary[r], false);
+        // wait for page to be loaded
+        var timeout = setInterval(function(){
+            if(page_loaded){
+                clearInterval(timeout);
+                
+                // load the UI
+                // put the itinerary in
+                var container = document.getElementById("itineraryContainer");
+                for (var r=0; r<USERitinerary.length; r++){
+                    var div = activityDiv(USERitinerary[r], false);
 
-                container.appendChild(div);
-                container.appendChild(document.createElement("BR"));
+                    container.appendChild(div);
+                    container.appendChild(document.createElement("BR"));
+                }
+
             }
-
-        }
-    }, 100); 
+        }, 100); 
+    }
 }
 
 /*
@@ -718,6 +733,18 @@ function backToForm(){
             loadAdjectives();
             loadLocations();
 
+            // load the current stuff
+            document.getElementById("locationContainer").value = USERdestination;
+
+            var list_of = document.getElementById("adjectivesContainer").childNodes;
+            for(var c=0; c<list_of.length; c++){
+                for (var d=0; d<USERadjectives.length; d++){
+                    if("listitem"+USERadjectives[d] === list_of[c].id){
+                        list_of[c].classList.add("sams-adjectives-active");
+                    }
+                }
+            }
+
         }
     }, 100); 
 }
@@ -726,35 +753,41 @@ backToResults
 goes back to the results page
 */
 function backToResults(){
-    // load new page
-    var page = document.getElementById("pageContainerMain");
-    var page_loaded = false;
-    loadFile("website/results.html", function(response) {
-        page.innerHTML = response;
-        page_loaded = true;
-    });
+    if(USERdestination === "" || USERadjectives.length === 0){
+        document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
+    } else {
+        // load new page
+        var page = document.getElementById("pageContainerMain");
+        var page_loaded = false;
+        loadFile("website/results.html", function(response) {
+            page.innerHTML = response;
+            page_loaded = true;
+        });
 
-    // get activities
-    var recommendations = queryII(USERdestination, USERadjectives);
-    USERrecommendations = recommendations;
+        // get activities
+        console.log(USERadjectives);
+        var recommendations = queryII(USERdestination, USERadjectives);
+        USERrecommendations = recommendations;
 
-    // wait for page to be loaded
-    var timeout = setInterval(function(){
-        if(page_loaded){
-            clearInterval(timeout);
-            
-            // load the UI
-            // put results from II in
-            var container = document.getElementById("resultsContainer");
-            for (var r=0; r<recommendations.length; r++){
-                var div = activityDiv(recommendations[r], true);
+        // wait for page to be loaded
+        var timeout = setInterval(function(){
+            if(page_loaded){
+                clearInterval(timeout);
+                
+                // load the UI
+                // put results from II in
+                var container = document.getElementById("resultsContainer");
+                for (var r=0; r<recommendations.length; r++){
+                    var div = activityDiv(recommendations[r], true);
 
-                container.appendChild(div);
-                container.appendChild(document.createElement("BR"));
+                    container.appendChild(div);
+                    container.appendChild(document.createElement("BR"));
+                }
+
             }
+        }, 100);
 
-        }
-    }, 100); 
+    } 
 }
 
 /*

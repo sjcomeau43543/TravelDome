@@ -1,8 +1,55 @@
+/*
+palatte
+
+99cfc1 - lb
+74a57f - dg
+9ece9a - lg
+e4c5af - p
+216869 - db
+
+*/
+.sams-footer {
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+    margin-top: 10px;
+}
+.sams-header {
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+    margin-bottom: 10px;
+}
+.sams-jumbo {
+    background: url("../images/moraine-lake-canada.jpg") no-repeat center center;
+    background-size: cover;
+
+    width: 100%;
+    height: 100%;
+    background-color: #99cfc1;
+
+    color: white;
+    font-family: Verdana, monospace;
+    margin-bottom: 0px;
+}
+.sams-container {
+    background-color: #000000;
+    opacity: 0.7;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 10px;
+}
+
+.sams-title {
+}
 .sams-input {
 }
 
 .sams-input-dropdown {
-    background-color: #cae8e8;
+    background-color: #99cfc1;
     padding: 10px;
 }
 
@@ -10,19 +57,24 @@
 }
 
 .sams-adjectives-active {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 
 .sams-button {
-
+    background-color: #216869;
+    border: none;
+}
+.sams-button:hover {
+    background-color: #99cfc1;
+    cursor: pointer;
 }
 
 .sams-activity-div {
-    width: 75%;
+    width: 100%;
 }
 
 .sams-photoalbum {
-    background-color: #cae8e8;
+    background-color: #216869;
     width: 150px; 
     height: 150px;
 
@@ -60,58 +112,78 @@
 .sams-link {
     content: url("../images/link.png");
 }
+.sams-links-container {
+    text-align: center;
+}
+.sams-links {
+    width: 50px; 
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    opacity: .8;
+}
+.sams-links:hover {
+    cursor: pointer;
+}
 
 .sams-icons {
     width: 30px; 
     height: 30px;
-    background-color: #cae8e8;
 }
 
 .sams-categories {
     width: 50px;
     height: 150px;
 }
+
+/*
+palatte
+
+99cfc1 - lb
+74a57f - dg
+9ece9a - lg
+e4c5af - p
+216869 - db
+
+*/
 .sams-categories-adventurous {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 .sams-categories-scholarly {
-    background-color: #cae8e8;
+    background-color: #9ece9a;
 }
 .sams-categories-foodie {
-    background-color: #cae8e8;
+    background-color: #74a57f;
 }
 .sams-categories-active {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 .sams-categories-frugal {
-    background-color: #cae8e8;
+    background-color: #9ece9a;
 }
 .sams-categories-familyfriendly {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 .sams-categories-introverted {
-    background-color: #cae8e8;
-}
-.sams-categories-frugal {
-    background-color: #cae8e8;
+    background-color: #99cfc1;
 }
 .sams-categories-extroverted {
-    background-color: #cae8e8;
+    background-color: #216869;
 }
 .sams-categories-practical {
-    background-color: #cae8e8;
+    background-color: #9ece9a;
 }
 .sams-categories-independent {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 .sams-categories-creative {
-    background-color: #cae8e8;
+    background-color: #99cfc1;
 }
 .sams-categories-knowledgeable {
-    background-color: #cae8e8;
+    background-color: #74a57f;
 }
 .sams-categories-compassionate {
-    background-color: #cae8e8;
+    background-color: #e4c5af;
 }
 
 

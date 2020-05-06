@@ -25,15 +25,35 @@ TODO: fix design
 </head>
 <body>
     <!--JUMBOTRON-->
-    <div class="jumbotron">
-        <h1 class="display-4">Travel Dome</h1>
-        <p class="lead">A multi-activity itinerary generator with personality matching.</p>
-        <hr class="my-4">
-        <p>Get started by filling out the form for your next vacation below!</p>
+    <div class="jumbotron sams-jumbo">
+        <div class="sams-container">
+            <h1 class="display-4 sams-title sams-opaque">Travel Dome</h1>
+            <p class="lead">A multi-activity itinerary generator with personality matching.</p>
+            <hr class="my-4">
+            <p>Get started by filling out the form for your next vacation below!</p>
+        </div>
+    </div>
+
+    <!--HEADER-->
+    <div class="sams-header">
+        <div class="container sams-links-container">
+            <!-- links to code -->
+            <img class="sams-links" src="website/images/page_search.png" onclick="backToForm()">
+            <img class="sams-links" src="website/images/page_edit.png" onclick="backToResults()">
+            <img class="sams-links" src="website/images/page_itinerary.png" onclick="generateItinerary()">
+        </div>
     </div>
 
     <!--MAIN CONTENT-->
     <div id="pageContainerMain"></div>
+
+    <!--FOOTER-->
+    <div class="sams-footer">
+        <div class="container sams-links-container">
+            <!-- links to code -->
+            <a href="https://github.com/sjcomeau43543/TravelDome"><img class="sams-links" src="website/images/link_github.png"></a>
+        </div>
+    </div>
 
     <!--scripts-->
     <script src="website/js/index.js"></script>
