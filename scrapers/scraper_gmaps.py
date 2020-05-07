@@ -3,6 +3,9 @@ Author:        Gordon
 Last modified: 
 Status:        In progress
 
+
+TODO: only return one instance of each activity (dunks listed 5x for ex)
+TODO: image location? don't download just link the image
 '''
 
 import requests

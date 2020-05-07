@@ -262,7 +262,6 @@ function loadLocations(){
 
 
 function main(){
-    console.log("hefooo");
     // load form content
     var page = document.getElementById("pageContainerMain");
     loadFile("website/form.html", function(response) {
@@ -450,7 +449,6 @@ function activityDiv(activity, plusminus) {
     }
 
     // photo
-    console.log(activity.photo_location);
     for(var i=0; i<activity.photo_location.length; i++){
         if(activity.photo_location[i] !== null) {
 
