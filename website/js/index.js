@@ -262,6 +262,7 @@ function loadLocations(){
 
 
 function main(){
+    console.log("helloooo");
     // load form content
     var page = document.getElementById("pageContainerMain");
     loadFile("website/form.html", function(response) {
