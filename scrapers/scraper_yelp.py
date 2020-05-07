@@ -59,10 +59,10 @@ class Yelp:
                     if "image_url" in business.keys():
                         photo_location = business["image_url"]
                     else:
-                        photo_location = None 
+                        photo_location = None
 
                     # add to list
-                    a = Activity(business["name"], business["location"]["address1"], business["rating"], None, photo_location, "Yelp", reviews=reviews, tags=[], get_tags=True)
+                    a = Activity(business["name"], business["location"]["address1"], business["rating"], None, photo_location, "Yelp", reviews=reviews, get_tags=True)
                     activities.append(a)
 
         return activities

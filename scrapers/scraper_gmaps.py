@@ -158,7 +158,7 @@ def scrape(api, city, state):
 							rating_sum = 0
 
 						a = Activity(place['name'], place['address'], place["avg_visitor_review"], None,
-						             None, 'GoogleMaps', reviews=place['reviews'], tags=[], get_tags=True)
+						             None, 'GoogleMaps', reviews=place['reviews'], get_tags=True)
 						activities.append(a)
 
 			lon_now += grid

@@ -1,6 +1,6 @@
 '''
 Author:        Samantha, Eda
-Last modified: 4.29.2020 by sjc
+Last modified: 5.07.2020 by ez
 Status:        In progress
 
 This holds an activity and can translate it to a json string
@@ -20,12 +20,13 @@ class Activity:
     avg_time_spent = 0 # in minutes
     photo_location = "" # filename in pictures directory
     tags = [] # list of tags from scraping user reviews
+    website = ''
     source = ""
 
     def __init__(self):
         pass
 
-    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[], tags=[], get_tags=False):
+    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews, website='', get_tags=False):
         self.name = name
         self.address = address
         self.avg_visitor_review = avg_visitor_review
@@ -33,11 +34,12 @@ class Activity:
         self.photo_location = photo_location
         self.source = source
         self.reviews = reviews
-        self.tags = tags 
+        self.website = website
         if get_tags:
             self.tags = self.tag(reviews)
-
-    ''' 
+        else:
+            self.tags = []
+    '''
     Eda's stuff moved from tag.py
     '''
     def tag(self, reviews):
@@ -62,5 +64,6 @@ class Activity:
                 "avg_time_spent":self.avg_time_spent,
                 "photo_location":self.photo_location,
                 "tags":self.tags,
+                "website": self.website,
                 "source":self.source,
                 "reviews":self.reviews}
