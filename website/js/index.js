@@ -38,7 +38,8 @@ function loadFile(filename, callback) {
     var xobj = new XMLHttpRequest();
 
     xobj.overrideMimeType("application/json");
-    xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true); // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
+     // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
+     xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true);
     xobj.onreadystatechange = function () {
         if(xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -543,52 +544,52 @@ rank
 takes the user recommendations in and ranks them
 */
 function rank(activities){
-    USERrecommendations = [];
-
     // get adjectives
     var primaries = adjectives;
     var secondaries = [];
 
-    for(var i=0; i<adjectives_ext.length; i++){
-        for(var s=0; s<adjectives_ext[i].length; s++) {
-            secondaries.push(adjectives_ext[i][j]);
+    for(var i=0; i<adjectives.length; i++){
+        for(var s=0; s<adjectives_ext[adjectives[i]].length; s++) {
+            secondaries.push(adjectives_ext[adjectives[i]][s]);
         }
     }
 
     // get scores
     var items = [];
     for (var a=0; a<activities.length; a++){
-        actvitites[a].rating = 0;
+        var  rating = 0;
         // for every primary add 1
         for(var pa=0; pa<primaries.length; pa++){
-            for(var t=0; t<actvitites.tags.length; t++){
-                if(activities.tags[t] === primaries[pa]){
-                    actvitites[a].rating = actvitites[a].rating + 1;
+            for(var t=0; t<activities[a].tags.length; t++){
+                if(activities[a].tags[t] === primaries[pa]){
+                    rating = rating + 1;
                 }
             }
         }
         // for every secondary add .5
         for(var sa=0; sa<secondaries.length; sa++){
-            for(var t=0; t<actvitites.tags.length; t++){
-                if(activities.tags[t] === secondaries[sa]){
-                    actvitites[a].rating = actvitites[a].rating + 0.5;
+            for(var t=0; t<activities[a].tags.length; t++){
+                if(activities[a].tags[t] === secondaries[sa]){
+                    rating = rating + 0.5;
                 }
             }
         }
 
-        items.push([activities[a], actvitites[a].rating]);
+        items.push([activities[a], rating]);
     }
 
-    console.log(items);
     // rank them based on scores
-    items.sort(cmp=lambda x, y: y[1] - x[1]);
-
-    console.log(items);
+    items.sort(function compare(a, b){
+        return b[1]-a[1];
+    });
 
     // add to user recomendations
+    var activities_ranked = [];
     for(var i=0; i<items.length; i++){
-        USERrecommendations.push(items[i][0]);
+        activities_ranked.push(items[i][0]);
     }
+
+    return activities_ranked;
 
 }
 
@@ -598,7 +599,7 @@ generateRecommendations
 loads the recommendations into the new site and queries ii
 */
 function generateRecommendations(){
-    // TODO do we have input?
+    // do we have input?
     if(USERdestination === "" || USERadjectives.length === 0){
         document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
     } else {
@@ -614,10 +615,9 @@ function generateRecommendations(){
 
         // get activities
         var recommendations = queryII(USERdestination, USERadjectives);
-        USERrecommendations = recommendations;
 
         // rank the recommendations
-        rank(USERrecommendations);
+        USERrecommendations = rank(recommendations);
 
         // wait for page to be loaded
         var timeout = setInterval(function(){
@@ -627,8 +627,8 @@ function generateRecommendations(){
                 // load the UI
                 // put results from II in
                 var container = document.getElementById("resultsContainer");
-                for (var r=0; r<recommendations.length; r++){
-                    var div = activityDiv(recommendations[r], true);
+                for (var r=0; r<USERrecommendations.length; r++){
+                    var div = activityDiv(USERrecommendations[r], true);
 
                     container.appendChild(div);
                     container.appendChild(document.createElement("BR"));
