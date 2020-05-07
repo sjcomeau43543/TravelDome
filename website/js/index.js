@@ -538,6 +538,61 @@ function activityDiv(activity, plusminus) {
     return div;
 }
 
+/*
+rank
+takes the user recommendations in and ranks them
+*/
+function rank(activities){
+    USERrecommendations = [];
+
+    // get adjectives
+    var primaries = adjectives;
+    var secondaries = [];
+
+    for(var i=0; i<adjectives_ext.length; i++){
+        for(var s=0; s<adjectives_ext[i].length; s++) {
+            secondaries.push(adjectives_ext[i][j]);
+        }
+    }
+
+    // get scores
+    var items = [];
+    for (var a=0; a<activities.length; a++){
+        actvitites[a].rating = 0;
+        // for every primary add 1
+        for(var pa=0; pa<primaries.length; pa++){
+            for(var t=0; t<actvitites.tags.length; t++){
+                if(activities.tags[t] === primaries[pa]){
+                    actvitites[a].rating = actvitites[a].rating + 1;
+                }
+            }
+        }
+        // for every secondary add .5
+        for(var sa=0; sa<secondaries.length; sa++){
+            for(var t=0; t<actvitites.tags.length; t++){
+                if(activities.tags[t] === secondaries[sa]){
+                    actvitites[a].rating = actvitites[a].rating + 0.5;
+                }
+            }
+        }
+
+        items.push([activities[a], actvitites[a].rating]);
+    }
+
+    console.log(items);
+    // rank them based on scores
+    items.sort(cmp=lambda x, y: y[1] - x[1]);
+
+    console.log(items);
+
+    // add to user recomendations
+    for(var i=0; i<items.length; i++){
+        USERrecommendations.push(items[i][0]);
+    }
+
+}
+
+
 /* 
 generateRecommendations
 loads the recommendations into the new site and queries ii
@@ -560,6 +615,9 @@ function generateRecommendations(){
         // get activities
         var recommendations = queryII(USERdestination, USERadjectives);
         USERrecommendations = recommendations;
+
+        // rank the recommendations
+        rank(USERrecommendations);
 
         // wait for page to be loaded
         var timeout = setInterval(function(){
