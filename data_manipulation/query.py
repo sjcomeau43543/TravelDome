@@ -60,7 +60,7 @@ def get_activities(query, limit=-1):
 # Given a list of activity data (dictionaries) and 2d list of adjectives
 # (each row is an adjective and its synonyms, adjs[n][0] is the main adjective),
 # ranks them and returns list of dictionaries
-# Rank is calculated by: 1 pt for occurance of main adj, .5 for occurance of secondary adj
+# Rank is calculated by: 1 pt for occurrence of main adj, .5 for occurrence of secondary adj
 # TODO: Incorporate user rating??
 # TODO?: Not normalizing anymore but I think that's ok? Not sure what the 'max' would be since number of reviews differs and isn't passed from merged
 def rank(act_data, adjs):
