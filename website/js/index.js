@@ -434,12 +434,10 @@ function activityDiv(activity, plusminus) {
                 for (var z=0; z<adjectives.length; z++){
                     if (adjectives_ext[adjectives[z]].indexOf(activity.tags[t]) !== -1){
                         counts[adjectives[z]] = counts[adjectives[z]] + 1;
-                        console.log(adjectives[z]);
                     }
                 }
             } else {
                 counts[activity.tags[t]] = counts[activity.tags[t]] + 1;
-                console.log(activity.tags[t]);
             }
         }
         for (var t=0; t<adjectives.length; t++){
@@ -452,17 +450,12 @@ function activityDiv(activity, plusminus) {
     }
 
     // photo
+    console.log(activity.photo_location);
     for(var i=0; i<activity.photo_location.length; i++){
         var photo = document.createElement("img");
         photo.setAttribute("class", "sams-photoalbum");
         photo.setAttribute("id", "photo"+activity.name);
-        if(activity.photo_location[i].includes("http")){
-            // url
-            photo.setAttribute("src", activity.photo_location[i]);
-        } else {
-            // downloaded
-            photo.setAttribute("src", "Photographs/"+activity.photo_location[i]);
-        }
+        photo.setAttribute("src", activity.photo_location[i]);
         col1.appendChild(photo);
     }
 
@@ -769,7 +762,6 @@ function backToResults(){
         });
 
         // get activities
-        console.log(USERadjectives);
         var recommendations = queryII(USERdestination, USERadjectives);
         USERrecommendations = recommendations;
 
