@@ -734,13 +734,16 @@ function backToForm(){
             loadLocations();
 
             // load the current stuff
-            document.getElementById("locationContainer").value = USERdestination;
+            if(USERdestination !== ""){
 
-            var list_of = document.getElementById("adjectivesContainer").childNodes;
-            for(var c=0; c<list_of.length; c++){
-                for (var d=0; d<USERadjectives.length; d++){
-                    if("listitem"+USERadjectives[d] === list_of[c].id){
-                        list_of[c].classList.add("sams-adjectives-active");
+                document.getElementById("locationContainer").value = USERdestination;
+
+                var list_of = document.getElementById("adjectivesContainer").childNodes;
+                for(var c=0; c<list_of.length; c++){
+                    for (var d=0; d<USERadjectives.length; d++){
+                        if("listitem"+USERadjectives[d] === list_of[c].id){
+                            list_of[c].classList.add("sams-adjectives-active");
+                        }
                     }
                 }
             }
@@ -793,7 +796,21 @@ function backToResults(){
 /*
 saveItinerary
 downloads PDF version
+
+TODO maybe
 */
 function saveItinerary(){
 
+}
+
+/* 
+restart
+removes all data
+*/
+function restart() {
+    USERdestination = "";
+    USERadjectives = [];
+    USERitinerary = [];
+
+    backToForm();
 }

@@ -1,785 +1,732 @@
 [
- {
-  "name": "Boston Children's Museum",
-  "address": "308 Congress St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_fb5mXak0EtyNGvLc92_hAw.jpg",
-  "tags": [
-   "experience",
-   "experience",
-   "kids"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Such a fun, incredible experience! My just-turned-2 year old had an absolute blast here. 3 floors of tons of activities including a bubble room, Boston...",
-   "The admission is eighteen dollars for adults and children \nIt looks like a big g playground \nNothing interesting if you go a hour before closing it's half...",
-   "What a fun place to take the kids!  We were visiting from out of town and needed a cool experience in downtown Boston- this fit the bill and was worth the..."
-  ]
- },
- {
-  "name": "Aeronaut Brewing Company",
-  "address": "14 Tyler St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_w_MxXl29Pnpc94EU6S39cg.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Aeronaut? More like Aero-OUGHT to check this place out ASAP! Hopefully that earns me the Yelp dad joke badge.\n\nBut seriously, I love coming to Aeronaut....",
-   "If you're looking for a wide range of inventive beers, Aeronaut's your place. They keep a pretty strict body count inside, so be prepared to wait in line...",
-   "Had both flights and the beer was amazing!\nBand was amazing too ghost brss band if you havent seen then it is a must"
-  ]
- },
- {
-  "name": "The Friendly Toast",
-  "address": "35 Stanhope St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_xlOMKjE4omTgkI1eduWj8A.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Loved this spot! \nBartender  Viola was beyond sweet and tentative!\nFood was amazing and drinks we're  def on point!",
-   "Honestly, besides the waiting time, friendly toast is definitely worth visiting. You have to make sure to join the waitlist 1 hour or 2 before your dining...",
-   "*****VEGETARIAN and MEAT REVIEW*****\n\nWe had heard a lot about this location and my human had tried it out so we decided to go together this time around...."
-  ]
- },
- {
-  "name": "Somerville Theatre",
-  "address": "55 Davis Sq",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_baDOjuroMSOc-o17egiVcg.jpg",
-  "tags": [
-   "experience"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Had a great theater experience in theater 3 to see a movie. Everyone is very friendly and the place has an old school feel. The concessions are reasonable...",
-   "If you get a chance to see a film here, do not say no. Get a cup of coffee at Nine Bar, some tacos at one of the many taco joints in the square, and then...",
-   "Love an independent theater but IMO it's impossible to see a longer movie in their main theater - the old seats become excruciatingly uncomfortable...."
-  ]
- },
- {
-  "name": "Saus",
-  "address": "33 Union St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_VFvCFOYtyK9ae4Skxvf3vA.jpg",
-  "tags": [
-   "unique"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "This place is very unique. The menu appears as if fries and sauces are the main items, and you can make it a meal with the sandwiches and so on.\n\nWe had...",
-   "Inconsistent experiences here. I've come here twice. The first time was pretty good, tasty fries with good sauces for dipping, and I also had a beer which I...",
-   "Saus is a tiny and quirky sandwich shop that serves up some interesting sandwiches. The kimchi fried chicken is one of the popular choices and is just the..."
-  ]
- },
- {
-  "name": "Shojo",
-  "address": "9A Tyler St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_Q8g68ZDAt93h_n_wTbwshA.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Decided to come here on a Saturday night and was told there would be a 45 minute wait but someone cancelled so my friend and I got seated pretty soon. The...",
-   "Come here with the right expectations and you will be blown away.\n\nIt's not a quiet date spot and doesn't try to be, music is a lot of rap and hip hop so if...",
-   "It all starts with the choices one makes, and when the food  is great, everything adds up well. \nWe got the kimchi fried rice, the shojonator and a grilled..."
-  ]
- },
- {
-  "name": "Sky Zone Trampoline Park",
-  "address": "69 Norman St",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_F8kOcUJL-IgbWWrG6jGT3Q.jpg",
-  "tags": [
-   "family"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "We went during the week right before closing with our family and there was only one other group of young boys there. Staff was super friendly and helpful...",
-   "I took my son here for toddler time during the morning hours on a weekday. The place was pretty empty save for a few employees. This location is in a random...",
-   "Tom D was great during our party. He really went out of his way to make sure that we had a special time. The entire facility was nice and clean. The..."
-  ]
- },
- {
-  "name": "Gaslight",
-  "address": "560 Harrison Ave",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_5TsjdwNt10gxGChQtGGpdg.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Stopped in for brunch around 11 am on a Saturday morning with a group of 5. There is a validated parking lot right across the street and it is a huuuge...",
-   "So to start off, I'm French and let me tell you this place is an insult to be called French food. \n\nBut let me start with the PROS:\n- Decor and drinks/bar...",
-   "Atmospheric as all get out, and the menu screams Parisian bistro but the execution is fairly plain Jane.\n\nBeen for crepe et oeuf brunch (a solid prix fixe..."
-  ]
- },
- {
-  "name": "Old Town Trolley Tours of Boston",
-  "address": "3 Park Plaza",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_TWjMEPa_E5anUSMEnCP_fw.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "I like to start a trip in a new town with a bus tour to get oriented. I appreciated Old Town Trolley's real live guides who talk to you during the tour,...",
-   "(12/6-12/7/19) I made my initial mistake on my first day in Boston thinking I could actually see the city on my own. One exhausting and bewildering day...",
-   "We bought tickets online as it is cheaper. They have over 20 stops and if you stay on for the duration it is about 2 hours (including traffic). All tour..."
-  ]
- },
- {
-  "name": "Wilson Farm",
-  "address": "10 Pleasant St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_n1K5s55F6MTN6C4ci-EUtA.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Wilson Farm is so good that when out-of-town visitors come to stay with us, a visit to Wilson is a must!  Every department is excellent.  The produce is...",
-   "Have known about Wilson Farm FOREVER, but never really went. Until I heard a commercial around the holiday for Pies, and the hubby loves Coconut Custard Pie...",
-   "I think I found my favorite veggie/fruit shopping place. \nPeople are extremely nice and the fruits and vegetables are very fresh. It is always a great..."
-  ]
- },
- {
-  "name": "X1 Boston",
-  "address": "290 Wood Rd",
-  "avg_visitor_review": 3.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_Ca5LN_wVClTPKW3mAnmalg.jpg",
-  "tags": [
-   "family"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Came here with my cousin who was in town visiting from Arkansas. He loves this place! They still have his stats in the system when he came to visit about 3...",
-   "I had planned a fun day for my husband to celebrate him finishing plumbing school. In hindsight this particular activity would have been more fun if his...",
-   "x1 is a great facility for corporate or family get togethers. Yet it's been years since they have updated their pool tables. It's a great spot to play but..."
-  ]
- },
- {
-  "name": "Copley Square Farmers Market",
-  "address": "Copley Square",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_W2vFw6Qfo8jaszJNRU47gg.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "How great to have a farmer's market right in the heart of tourist central. Shopping here meant we got to have some wonderful in-room picnics at the Westin...",
-   "Visited today 9/24/19 lovely selection of vendors and it was about mid-afternoon and a good crowd of regular shoppers and folks just looking. Went to visit...",
-   "The Quick: I'm a sucker for a farmers market! support local businesses, and local farmers! They had beautiful flowers and interesting Honey's, Cheese's, and..."
-  ]
- },
- {
-  "name": "Newbury Street",
-  "address": "10 Newbury St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_WCtYlaTgPqmOnwtlQIBw1Q.jpg",
-  "tags": [
-   "wander"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Newbury Street is classic Boston.  It's choc full of interesting shops to browse in, and lovely brownstone buildings to stroll past and take pictures...",
-   "I just walked up half of the street after attending the 2019/Boston Book Festival and to note, for Boston, traditionally Newbury Street has been a...",
-   "This is my go to spot for a great wander whenever I am in town. I have even found some amazing deals here - your start at the Public Garden end where you..."
-  ]
- },
- {
-  "name": "Museum Of Fine Arts",
-  "address": "465 Huntington Ave",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_8xuUthCjEwYO-40S7FPMqQ.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "May be due to I'm from NY, and the art is comparably different. \n\nBut on our recent visit it was exciting and beautiful. \n\nThoroughly enjoyed the Asian,...",
-   "While the museum 's art collection is beautiful, I came with my service dog and experienced the scariest, most awkward day of my life, being harassed all...",
-   "Does a review even need to be written for MoFA?  I was an undergraduate and medical students at Harvard as well as completing my surgical and sub-surgical..."
-  ]
- },
- {
-  "name": "Arnold Arboretum",
-  "address": "125 Arborway",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_62crUnXQip4_Cdz2_HOdPA.jpg",
-  "tags": [
-   "walk",
-   "jog",
-   "run",
-   "walk"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "This is a beautiful place to walk around or even jog. I have come here to take photos because the scenery is absolutely beautiful. If you're looking for a...",
-   "What a gorgeous place to run.  I usually always start at the entrance near the visitors center and run up the road through the arboretum.  \n\nOccassionally,...",
-   "A beautiful place to walk around, get some quiet time and be left alone in boston. On a warm day you will see everybody and they mama here but you can come..."
-  ]
- },
- {
-  "name": "Craigie On Main",
-  "address": "853 Main St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_58cDJU4cub1o0o0B4h9GrA.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "tl;dr at any other restaurant, charging $26 for a burger would be borderline criminal; yet, Cragie on Main has pumped out a nationally acclaimed take on the...",
-   "This review is for the New Year's Eve event held at the restaurant so it might not be representative of what they do on a daily basis. Basically, you had to...",
-   "Went here for a special night out, and had heard good things about Craigie. We had a great night, but not because the food was awesome - unfortunately. I've..."
-  ]
- },
- {
-  "name": "Boston Segway Tours",
-  "address": "199 State St",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_Pr5u2GdpnQxBNECpAV-8rA.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Awesome tour! It was a team building event at work. They gave lessons before going out in the street and I rode it like a pro the first time out of the gate...",
-   "This was a great tour! We have done this in other cities, and would recommend it to anyone looking for a fun way to get an overview of the area.\n\nWe were...",
-   "Amazing way to see the city! Andy was our guide and made us feel very comfortable and was very informative! \nWe saw a lot and would def recommend the 2hr..."
-  ]
- },
- {
-  "name": "Harvard Square",
-  "address": "18 Brattle St",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_UGs6J02mK_DTxDPfrJoviw.jpg",
-  "tags": [
-   "walk",
-   "history",
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "In the middle of Harvard Square, it is not hard to find a tourist, I could probably sneeze on the corner of Massachusetts Ave and John F Kennedy St and a...",
-   "this is a great place to walk around and enjoy the epitome of harvard university and surrounding neighborhood.  while swarmed by harvard students, you'll...",
-   "Cool, cool, cool. So much history. So many greats have been here. Great food in this area. Do not eat before you go here. Try Mr. Bartley's. The burgers and..."
-  ]
- },
- {
-  "name": "Boston Foodie Tours",
-  "address": null,
-  "avg_visitor_review": 5.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_nS8uRoVeqe20VsDDH59jHQ.jpg",
-  "tags": [
-   "food",
-   "experience",
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "My husband and I took the tour with Audrey today and I have to say it was one of the best food tours we've ever been on!  Audrey started the company eight...",
-   "Just loved this tour. So much fun and such a great experience with our guide, Audrey. She absolutely knows and loves Boston, its culture, its people and the...",
-   "The food tour craze is REAL and if we didn't live clear across the country, we would be Audrey's best customers.  We visited on a Thursday and had a really..."
-  ]
- },
- {
-  "name": "Haunted Boston Ghost Tours",
-  "address": "",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_sHabl64lgS0Ar8eKNZD5Gw.jpg",
-  "tags": [
-   "history"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Fun & Interesting!  Jarrod was our guide and he is informative and entertaining.  Would recommend this to anyone visiting Boston.  A mix of history and macabre.",
-   "My first walking tour in Boston. I've lived here 2 years and love soaking up all things Boston. I'm also a HUGE fan of all things spooky. That being said,...",
-   "Fun tour led by our tour guide Harry which started at the Central Burying Ground and ended by the Omni Parker House. While the tour does include a mix of..."
-  ]
- },
- {
-  "name": "Saltie Girl",
-  "address": "281 Dartmouth St",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_sA2gVTJOBH7Qk32p48ENdQ.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "One of my favorite Boston spots, Saltie Girl is a treat to be able to still order over delivery! It's hard to go wrong with one of their classic rolls, but...",
-   "You wouldn't think it, but the Fried lobster and waffles here is pretty dam tasty and savory.  Imagine a crunchy waffle, lobster chunks fried perfectly,...",
-   "He sent me here. Earlier that day, I was giving a talk to the bright minds of MIT students at one of their conferences - on Innovation. I'm pretty good at..."
-  ]
- },
- {
-  "name": "Rabia's",
-  "address": "73 Salem St",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_7kCMcEEKXqItFv5m0-Yj4g.jpg",
-  "tags": [
-   "food",
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Great place!  Bustling and energetic but the staff was very attentive and food was good. That were particularly accommodating for my vegan daughter....",
-   "Located on Salem Street, (the second Main Street in the North End, after Hanover), my friend was drawn in by the appetizer specials.  We were eating at an...",
-   "Rabia's is one of my go-to Italian restaurants in the North End. The food is consistently good with a wide range of options to choose from, and the service..."
-  ]
- },
- {
-  "name": "Kings Dining & Entertainment",
-  "address": "50 Dalton St",
-  "avg_visitor_review": 3.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_TLtykd3vG5_BG-8MP66RHg.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "King's is great if you go during a down time. I popped in around 4PM with a Nift gift and the place was pretty empty. There are Monday deals for all you can...",
-   "I wish I could give this place more stars, but alas, the experiences I've had at Kings have ranged from poor to mediocre. \n\nTo start, we signed up for a...",
-   "My friend visited Boston from Puerto Rico for the first time. We decided to end our night with bowling and found this place nearest us. Upon walking in, the..."
-  ]
- },
- {
-  "name": "Blue Man Group",
-  "address": "74 Warrenton St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_kv_TA8clRqZ0uapjuo5VlA.jpg",
-  "tags": [
-   "experience",
-   "interactive"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "The Charles Playhouse may not be the cutting edge, chic theater that everyone is looking for, but it houses one of the most entertaining shows I've seen in...",
-   "I think I first heard about the Blue Man Group when I was a young teen. We were in Las Vegas, and I think we decided to see a show by Circ Du Soleil...",
-   "Visited the blue man group show in boston on my trip to us.\n\nWhat i liked:\n-very interactive\n-more of an experience than a show\n-great for a night out with..."
-  ]
- },
- {
-  "name": "Copley Square",
-  "address": "560 Boylston St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_AIBp7CZNAqzLlLc_Kpc9JA.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "What's not to love about Copley square an iconic picture of Boston. This area is frequented by many tourists but is also a hub for...",
-   "All major buildings around this beautiful park shows why this is amazing...\n\n\nBoston Public Library, Old South Church, Trinity Church, Fairmont Copley Plaza...",
-   "When you're done enjoying the majestic architectural achievement of Copley Square, simply turn around and enjoy the meth lab-like atmosphere outside the..."
-  ]
- },
- {
-  "name": "Picco Pizza & Ice Cream",
-  "address": "513 Tremont St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_1qwxzGRcU1y3tJrsoYQ4Rw.jpg",
-  "tags": [
-   "delicious"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "I never think pizza is THAT good, but this pizza is THAT good. I feel like I've eaten at a bunch of spots that claim to have the best pizza ever, but this...",
-   "Excellent pizza and ice cream spot.  We tried two pizzas and both were absolutely delicious.  Crust is a nice balance of chewy and crispy with edges that...",
-   "Fun fact: PICCO stands for Pizza Ice Cream Co.\nFun fact #2: I love the pizza and ice cream at PICCO!\n\nWhat makes their pizza different from others? \n1. The..."
-  ]
- },
- {
-  "name": "Bully Boy Distillers",
-  "address": "44 Cedric St",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_8bLMFB8Cev2Le7YEFUfnrg.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Their tasting room is bumping and crowded and they have a nice slate of interesting drinks and their tour (just $10!) is super fun and down to earth without...",
-   "Do not be discouraged by the location! I came here on a Saturday night with friends and almost every seat was taken. The bartenders are friendly,...",
-   "Stopped by for a tour and had a great time! Our tour guide Nick was incredibly knowledgeable and patient with all of our questions. The tour itself lasted..."
-  ]
- },
- {
-  "name": "Maggiano's Little Italy",
-  "address": "4 Columbus Ave",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_nqKL5PbJbwwoCK_Xon31kA.jpg",
-  "tags": [
-   "food",
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Did you know Maggiano's Little Italy first opened in Chicago, Illinois November 11, 1991. \nThat's the first thing you will see when you go through the...",
-   "Cute Italian restaurant. I only give them 3 stars because the food is not worth the price. Each pasta dish is about 20 or a little over but the food quality...",
-   "I will not talk about food, service or atmosphere. I will talk about a thief moment when I went for dinner at this restaurant. \n\nI sat on one of the half..."
-  ]
- },
- {
-  "name": "Bites of Boston Food Tours",
-  "address": "",
-  "avg_visitor_review": 5.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_tIa6Ru-KG27JwOdd1_xw5g.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "This approximately three hour tour of various Chinatown eateries includes Taiwan Cafe, Double Chin HK Care, Bao Bao Bakery, Ho Yuen Bakery, China Pearl...",
-   "I took my partner on one of their food tours for her birthday and we had a great time. Nicole was our tour guide and she was awesome as well as...",
-   "What a day! I got this as a gift from my brother and was so enthralled with how it all turned out.\n\nIt was a beautiful few hours in Boston with two guides..."
-  ]
- },
- {
-  "name": "The North End",
-  "address": "",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_96RV4GvZdPahV-brg3hnOQ.jpg",
-  "tags": [
-   "family",
-   "kids",
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Lots of Italian restaurants very tasty and goodThere's a lot of Italian culture Italian music lots of fun for the family on a date night and kids the food...",
-   "The North End is a neighborhood of Boston, Massachusetts, United States. It has the distinction of being the city's oldest residential community, where...",
-   "This place is definitely pretty cool but you must know where to park or take some form of public transportation. There are tow trucks driving around looking..."
-  ]
- },
- {
-  "name": "Giacomo's",
-  "address": "431 Columbus Ave",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_q5HPp961WsjoVDaOmN8SwQ.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Located in South End, I'm so glad I got to try this place out before things got too crazy. I came with a friend on a weeknight right as they opened, so we...",
-   "I've lived in Boston for five years and often passed by Giacomo's (in the North End). However, I never ate there- I always thought of it as a tourist trap....",
-   "Primary location is the way to do it. However, because it was so cold + bad timing, decided to come here tonight. Much more seating available with little to..."
-  ]
- },
- {
-  "name": "Union Oyster House",
-  "address": "41 Union St",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_Ruq91rmQNweZ78TzKylQMg.jpg",
-  "tags": [
-   "history",
-   "run",
-   "experience"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "If you are a history buff this a must see. The decor oozes with history, yet it is very clean and extremely well run. The owner Joe runs tight ship. The...",
-   "Advertised as the oldest restaurant in America. My travel group and I tried this place. It certainly was old. \n\nWarning this place is not ADA compliant. No...",
-   "America's oldest restaurant seems to live off it's reputation rather than its quality. While the overall experience was cool (the Kennedy's sat over..."
-  ]
- },
- {
-  "name": "Sacco's Bowl Haven",
-  "address": "45 Day St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_HizkMc0Z2olL8GFpsj-LQg.jpg",
-  "tags": [
-   "history"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "My boyfriend and I came here on a weekday night to try out candlepin bowling. I grew up playing bowling quite a bit, but never did candlepin bowling until I...",
-   "Came here for a team event and had a good time. First time playing bowling in this kind. Love to visit  places which has a lot of history towards it. About...",
-   "After reading all of the reviews, I was prepared for the worst, but thankfully the worst never happened.\n\nWe had our end of summer company party here. We..."
-  ]
- },
- {
-  "name": "Tipsy Chocolate Tours",
-  "address": "303 Newbury St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_uNTc6lrgSuKBJeWivw04UA.jpg",
-  "tags": [
-   "history",
-   "delicious"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "We really enjoyed this chocolate tour. Anne is a great tour guide and very knowledgeable about chocolate and the history of Boston, we learned a lot. We...",
-   "So first off, I'd like to start with the positive. Our tour guide was fantastic. She was infectious with her smile and so personable, so let this rating be...",
-   "I went on the walking tour in Beacon Hill. We started out with a chocolate martini at the Liberty Hotel, which was delicious, and then to 2 chocolate shops..."
-  ]
- },
- {
-  "name": "Rock Spot Climbing",
-  "address": "67 Sprague St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_NBcUDQ4aJKgMgUd49YfyRw.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "My boyfriend and I had never done indoor rock climbing, but I'm glad we chose Rock Spot climbing for our first try. The staff was super friendly and...",
-   "We came in for the night owl deal which is $10 after 10pm. The staff was helpful in explaining everything. He went over the equipment, safely and which...",
-   "My new climbing spot! Weeknights are very relaxed here. I like that there's a good range of easy and difficult routes with lots of auto belays. It's been..."
-  ]
- },
- {
-  "name": "South End Buttery",
-  "address": "314 Shawmut Ave",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_WR6RXp1I9QmO7-21lsqD8g.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "We ordered takeout last night, and our dinners (featuring grilled salmon) were absolutely fantastic!  Yum, yum, yum. We ordered over the phone. When we...",
-   "For what it is, a coffee shop, sandwich place and restaurant, all in one, it's the best in Boston. \n\nQuality of everything, drinks and food, are superb.",
-   "I have very mixed feelings about this place. I came for Sunday brunch and was horrified by the service. To start, we were seated nearly 30 minutes after our..."
-  ]
- },
- {
-  "name": "Encore Boston Harbor",
-  "address": "1 Broadway",
-  "avg_visitor_review": 2.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_AgL_YxOdpxKgIlvqIetB4g.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Pre covid19 review:\n\nI left $7 richer!\n\nWe came during the first month, on a Monday, expecting it to be quiet, and it was...in parts. We only wanted to try...",
-   "I like the atmosphere here, but the casino is quite small. It is a cool place to visit and go to have fun. Lots more I still haven't done here. The...",
-   "August 2019\nParking is expensive, traffic is horrendous, the food is expensive and you have to pay to get into any of the clubs that we saw. \n\nWith all of..."
-  ]
- },
- {
-  "name": "Museum of Bad Art",
-  "address": "55 Davis Sq",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_8_91dxiY4bbBds5Y8S-8kw.jpg",
-  "tags": [
-   "free"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "The MOBA is the best kind of museum for these reasons:\n\n1. It's free (with the purchase of a Somerville Theatre movie ticket).\n2. It's small (you can see it...",
-   "We just spent $28 on an Uber to go to MoBA and it's closed. The guy at the ticket counter said it's been closed for a year. Now we'll spend $28 to go back...",
-   "The museum of bad art, aka...THE MUSEUM OF BAD SMELLS. \n\nWe heard that this was an attraction to see in Boston and decided to check it out. We came to find..."
-  ]
- },
- {
-  "name": "Tours of The Freedom Trail",
-  "address": "139 Tremont St",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_e0EyjSJfWjOyZE1-ubjZ0w.jpg",
-  "tags": [
-   "walk",
-   "kids"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Our tour guide was excellent.  He was informative and patient.  The highlight of the tour occurred somewhat early during the walk. Went to a cemetery where...",
-   "Had tons of fun with Chris this morning. Great guide, insightful and funny. Quick little tour was great for us with kids since we'd never been to Boston.",
-   "Had a great time and the price is right. The guide was a lot of fun and really knew his stuff. While it's true you don't go into any of the places you cover..."
-  ]
- },
- {
-  "name": "East Boston Piers Park",
-  "address": "95 Marginal St",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_tVgf6OZ14PTa7p6oYjm2ww.jpg",
-  "tags": [
-   "kids"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Love it is safe and clean you have the best views \nThe kids always have s great time \nIs relaxing for long walks bring your book and music \nThe best...",
-   "Shhh dont tell too many people! this place is a hidden gem. if you want to see a great view of the city skyline without all the loud noise and hussle and...",
-   "This was a great, quiet, pretty place to end a long day of walking around Boston. It is a beautiful location to watch the sunset behind the city from across..."
-  ]
- },
- {
-  "name": "Urban AdvenTours",
-  "address": "103 Atlantic Ave",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_sxJQzTN6Iy9DQwFBHGhWbw.jpg",
-  "tags": [
-   "family"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "The best way to see Boston is by bike. I've lived in Boston my whole life and took an impromptu tour with Urban AdvenTours. This tour showed me the best...",
-   "We had a most excellent time with Mike and Brad leading us in the Tour de Boston tour, the family friendly tour. The company was both highlighted in Fodor's...",
-   "We took the bike tour today (don't remember which one but it was just under 2.5 hours) and it was so wonderful! It was nice to be out in the town, on the..."
-  ]
- },
- {
-  "name": "The Original Tremont Tearoom",
-  "address": "333 Washington St",
-  "avg_visitor_review": 3.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_VIHsQBf_T7oR61mi5opW4g.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "I'm writing this review 8 years later. Take what you will, believe or not but my reading came to pass in nuanced ways. \n\nI recently came across a journal...",
-   "Raymond is a treasure.  I have been seeing him for years now and he has truly blessing to my life.  He has such a special gift and I only wish I had more...",
-   "Had a reading back in June with James. Nice person, easy to talk with, was confident in everything he said to me but none of what he said came to fruition...."
-  ]
- },
- {
-  "name": "The Publick House",
-  "address": "1648 Beacon St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_rK-fgI2_-x0T4lxwF9L4Ww.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "If I could give them a 10, I would!! I've frequented this place for about a few months to check these guys out. I'll put my badge up for takes for it.. here...",
-   "Best french fries ever! Great for drinks and really yummy food also. Can be crowded/loud, but worth it!",
-   "We stopped by the place for drinks and were seated quickly. Loved the atmosphere. They have a large selection of beers. We also got the fries, which was a..."
-  ]
- },
- {
-  "name": "VinKari Safari",
-  "address": "10 Micro Dr",
-  "avg_visitor_review": 5.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_IcG9VJtsH6xzfVInMzAv1A.jpg",
-  "tags": [
-   "kids",
-   "run"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "I am super impressed by this place.  I don't know where to even begin....it's clean, it's stocked full of toys, it's sanitary, it's colorful and bright,...",
-   "Updating my review since it is 4 years old.  Still maintains well-deserved five star rating!  Just got done hosting my daughter's fifth consecutive party at...",
-   "This place is great and I can't believe there aren't more places in Boston like this. A huge indoor play area for kids to run around when it's too cold to..."
-  ]
- },
- {
-  "name": "Barking Crab",
-  "address": "88 Sleeper St",
-  "avg_visitor_review": 3.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_oz882XuZCxajKo64Opgq_Q.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Panties dropped, bras dropped, jaws dropped. \n\nI came here for a spontaneous trip for my birthday. We came here for authentic New England clam chowder and...",
-   "I'm feeling so so about this establishment and think of it more like a tourist trap in Boston's waterfront area. The restaurant is well situated around...",
-   "Decent seafood spot right on the water. They have a wood-burning stove that is true to its name. I think some of our party members were sweating. Super cozy..."
-  ]
- },
- {
-  "name": "Bow Market",
-  "address": "1 Bow Market Way",
-  "avg_visitor_review": 4.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_U2_TwzWxMGX0u9o9T1nIUA.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Hands down the best place in Somerville (and arguably Boston). Once a deserted parking garage, Bow market is such a cool concept of open dining and...",
-   "Since there isn't a separate Yelp listing for Nibble Kitchen, I'm going to leave it here... While the other places in Bow Market are hit or miss, the food...",
-   "Bow Market is a perfect little hidden oasis in Union Square. It's grown a ton in the past year that it's been open and it's only gotten better. \n\nThe first..."
-  ]
- },
- {
-  "name": "Ruth's Chris Steak House",
-  "address": "45 School St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image__VEQpntwiMLUbNPLvxvwzA.jpg",
-  "tags": [
-   "food"
-  ],
-  "source": "Yelp",
-  "reviews": [
-   "Just ordered food for takeout. Thank you for being open and thank you to the staff for working. We enjoyed our meal. Hopefully others order for takeout or...",
-   "Oh yeah, Ruth's Chris has a Happy Hour at their bar on Monday thru Friday 4:00pm - 6:30pm! (Sunday 3pm - 6:30pm)\n\nOne of the ladies from the hostess station...",
-   "My boyfriend has brought me here almost every year for my birthday since we've been together. The reason being that there really aren't that many other..."
-  ]
- },
- {
-  "name": "A4cade by Area Four",
-  "address": "292 Massachusetts Ave",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_3UtlwidZDSxtT9ukO79bHA.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "I've only been here once so far and it has such a cool vibe. I was lucky in that I was able to get in with a friend since he knows someone who works there....",
-   "We came here on a Saturday night so there was a line to get in. The wait wasn't too bad but it was kind of chilly outside. Note that this is inside of...",
-   "This place was so much fun! They have lots of great arcade games: basketball, skeeball, shooting games, driving games, Pac Man, Guitar Hero, and everything..."
-  ]
- },
- {
-  "name": "Deep Ellum",
-  "address": "477 Cambridge St",
-  "avg_visitor_review": 4.0,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_vdO-x0KEP_c-hFB37viK9w.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "Looking to boozy brunch for under $25 tip included? Look no further. \nMy brunch table:\n-duck confit hash--yes a duck egg skillet--for only $13!   \n- a solid...",
-   "Went here for brunch on a Saturday around 1:30PM. Crowded, but still was able to get seated immediately. Lots of bar/stool seating with more limited table...",
-   "Very cute bar + cafe vibe with a solid breakfast/brunch menu. I went for the brunch on a Sunday, which at 11am there was a spot opening up for two which was..."
-  ]
- },
- {
-  "name": "Prudential Center",
-  "address": "800 Boylston St",
-  "avg_visitor_review": 3.5,
-  "avg_time_spent": null,
-  "photo_location": "../data/Photographs/yelp_image_kOAw7z-GdwZOdcMja2PeBg.jpg",
-  "tags": [],
-  "source": "Yelp",
-  "reviews": [
-   "It's essential to Republican and Christian agendas, that there be some seriously anti-sex folks in power, even in a place like Massachusetts. In fact,...",
-   "I really do love this shopping center. It is very clean, the stores are amazing and high end, and they have a Warby Parker where I can try on alllllll the...",
-   "The Prudential Center is a major office and mall complex in Boston's renowned Back Bay. Websites list it as 23-acres which contains office buildings,..."
-  ]
- }
-]
+{
+ "name": "Newbury Street",
+ "address": "10 Newbury St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/B1LbGEZX86VxDMIN864mBw/o.jpg",
+ "tags": [
+  "wander"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Newbury Street is classic Boston.  It's choc full of interesting shops to browse in, and lovely brownstone buildings to stroll past and take pictures...",
+  "I just walked up half of the street after attending the 2019/Boston Book Festival and to note, for Boston, traditionally Newbury Street has been a...",
+  "This is my go to spot for a great wander whenever I am in town. I have even found some amazing deals here - your start at the Public Garden end where you..."
+ ]
+},{
+ "name": "Boston Harbor Islands National Park Area Ferry",
+ "address": "190 Atlantic Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/XGszXjOA1uR_mZ0SUgAFIA/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Great Service. No problems with the boat. We had Allison as a tour narrator. Learned a lot. We took the boat from the harbor to Spectacle Island! It was a...",
+  "I took a ferry on Memorial Day with my husband an in-laws towards Spectacle Island...we paid $19.95 each one and left at 3PM...\n\nThe ferry got to the island...",
+  "The ferry travelled on time and was not crowded. There were seats open on all three levels. \n\nMy friend and I did not purchase tickets ahead of time and..."
+ ]
+},{
+ "name": "Bites of Boston Food Tours",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/TxEjXQEdTT1AbYwpGJRONQ/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "This approximately three hour tour of various Chinatown eateries includes Taiwan Cafe, Double Chin HK Care, Bao Bao Bakery, Ho Yuen Bakery, China Pearl...",
+  "I took my partner on one of their food tours for her birthday and we had a great time. Nicole was our tour guide and she was awesome as well as...",
+  "What a day! I got this as a gift from my brother and was so enthralled with how it all turned out.\n\nIt was a beautiful few hours in Boston with two guides..."
+ ]
+},{
+ "name": "Abigail's Tea Room",
+ "address": "306 Congress St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/CcOVyO_bN5mZbd3K6v0dtw/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Abigail's Tea Room was the perfect spot on a cold Boston day to warm up and relax. I got the unlimited cup of tea, where you serve yourself from 5 options....",
+  "I was kind of disappointed during my time in Abigail's Tea Room. It's a nice tea room, nicely decorated, comfortable, service is good. But it didn't feel...",
+  "Adorable little shop, candy store and restaurant next to the museum.  Lovely.  The tea we bought there was fantastic (dry tea we took home) , the cookies..."
+ ]
+},{
+ "name": "Bully Boy Distillers",
+ "address": "44 Cedric St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/Ng3oReN5qirKBxMRrebvvw/o.jpg",
+ "tags": [
+  "knowledgeable"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Their tasting room is bumping and crowded and they have a nice slate of interesting drinks and their tour (just $10!) is super fun and down to earth without...",
+  "Do not be discouraged by the location! I came here on a Saturday night with friends and almost every seat was taken. The bartenders are friendly,...",
+  "Stopped by for a tour and had a great time! Our tour guide Nick was incredibly knowledgeable and patient with all of our questions. The tour itself lasted..."
+ ]
+},{
+ "name": "Bunker Hill Monument",
+ "address": "43 Monument Sq",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/1adtxEw7udLlAq5sHx6PyA/o.jpg",
+ "tags": [
+  "kids",
+  "history"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Great historical  monument excellent for kids and adults.  Well informed and friendly Park Rangers there ready to answer all questions. Very interesting...",
+  "This monument erected in commemoration to one of the great battles in the American Revolution, it is a must see for anyone interested in American history....",
+  "My next stop after Quincy market coz I wanted a good exercise after eating the lobster roll.\n\nThe Bunker Hill Monument was erected to commemorate the Battle..."
+ ]
+},{
+ "name": "Trapology Boston",
+ "address": "177 Tremont St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/TVbRb3ybFtM0k5WdGXXjcA/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "In life ... you gotta do this thing!\n\nJust did one room and it was so fun. We found most clues but could not solve the whole thing. It's all very well put...",
+  "Pros:\n-Live actor involved in part of Boobie Trap (shout out to John who deserves a free pint of ice cream)\n-High quality room design\n-Fancy photo setup at...",
+  "ABSOLUTELY LOVE THIS PLACE!! My friends and I have been here 3 times and we keep on wanting to come back. The games are very fun, challenging, and I love..."
+ ]
+},{
+ "name": "Somerville Theatre",
+ "address": "55 Davis Sq",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ERcePNEweEXfIpqKHYBRwg/o.jpg",
+ "tags": [
+  "experience",
+  "independent"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Had a great theater experience in theater 3 to see a movie. Everyone is very friendly and the place has an old school feel. The concessions are reasonable...",
+  "If you get a chance to see a film here, do not say no. Get a cup of coffee at Nine Bar, some tacos at one of the many taco joints in the square, and then...",
+  "Love an independent theater but IMO it's impossible to see a longer movie in their main theater - the old seats become excruciatingly uncomfortable...."
+ ]
+},{
+ "name": "Copley Square",
+ "address": "560 Boylston St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/C4LP_W61nQw4Wi2RPz-AbA/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "What's not to love about Copley square an iconic picture of Boston. This area is frequented by many tourists but is also a hub for...",
+  "All major buildings around this beautiful park shows why this is amazing...\n\n\nBoston Public Library, Old South Church, Trinity Church, Fairmont Copley Plaza...",
+  "When you're done enjoying the majestic architectural achievement of Copley Square, simply turn around and enjoy the meth lab-like atmosphere outside the..."
+ ]
+},{
+ "name": "Free Tours By Foot",
+ "address": "42 Robinwood Ave",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/V6PO1MqgQebh2CL9Lb550g/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "What an amazing tour!!! one of the best!!!\nBrian was so entertaining and kept everyone's attention throughout the tour, despite it being fairly cold...",
+  "Excellent tour of the Freedom Trail in Boston.  We met Brian at Boston Common after arriving in Boston that morning, and wandered down the Freedom Trail for...",
+  "Freedom Trail Tour of Boston:\n\nDavid Phillips was our guide yesterday.\nInstructed to:\nMeet at Boston Common near the Park 'T' station entrance.\nWife made..."
+ ]
+},{
+ "name": "ComedySportz Boston",
+ "address": "5 Basile St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/JFPDUDWdnVupmPlmcrsYrw/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "What a great time at this place. I come back every time, inviting new friends, in and out of state. The cast at CSz is a colorful group of people, who are...",
+  "This is one of Boston's hidden treasures. My friend and I were looking for something to do on Saturday, so she came with taking an improv class. I was like...",
+  "Everyone needs a time to laugh! Rozzie Village has a hidden gem \nTHE ROZZIE SQUARE THEATER located at 5 Basile Street. What a welcomed business in..."
+ ]
+},{
+ "name": "The Slutcracker: A Burlesque",
+ "address": "55 Davis Sq",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/9yXvUFrvMsgiZozrXhkYpQ/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Makes about as much sense as the original Nutcracker only twice as fun. \n\nWe had no idea what to expect but decided to send our 2017 off with a bang at the...",
+  "I've never seen the classic rendition of the Nutcracker, so I don't have an inkling as to how close the Slutcracker follows the story line of the original...",
+  "I will start my review by saying this, I am not a burlesque expert by any stretch of the imagination, but I have gone to a fair number of them and I do..."
+ ]
+},{
+ "name": "Fenway Park Tours",
+ "address": "4 Yawkey Way",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/bVbe1n1-V0TtrEH03Kk-_Q/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "We had some time to kill and decided to take the Fenway Park Tour. Quick tip- but the tour ticket directly at the window (gate d). We saw \"discounted...",
+  "As a Redsox fan, I loved this tour of course! But we had a few people in our group that aren't redsox fans and they still enjoyed it. It was nice to know a...",
+  "I did a tour of Fenway during my trip to Boston; I got to explore the grounds while sitting in some of the best, and oldest seats in baseball. I was really..."
+ ]
+},{
+ "name": "Faneuil Hall Marketplace",
+ "address": "4 S Market Bldg",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/Os-rDFd_gQHt6gKJ2Ob0aQ/o.jpg",
+ "tags": [
+  "historic"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "This reminds me a bit of the Chelsea market in Manhattan, except it's inside a much more historical building. \n\nIt's an indoor market and there's lots of...",
+  "Lovely old building with information centre inside and some markets around in other buildings. \n\nWe used this as our stop and start piont for walking the...",
+  "If you are a tourist, do see this.  It's an historic building.  The exterior was being restored/repaired so having it surrounded by scaffolding and draped..."
+ ]
+},{
+ "name": "Urban AdvenTours",
+ "address": "103 Atlantic Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Byn9Rpe2Olchf95bnubHbQ/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "The best way to see Boston is by bike. I've lived in Boston my whole life and took an impromptu tour with Urban AdvenTours. This tour showed me the best...",
+  "We had a most excellent time with Mike and Brad leading us in the Tour de Boston tour, the family friendly tour. The company was both highlighted in Fodor's...",
+  "We took the bike tour today (don't remember which one but it was just under 2.5 hours) and it was so wonderful! It was nice to be out in the town, on the..."
+ ]
+},{
+ "name": "Harvard Square",
+ "address": "18 Brattle St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vRdAJGm-dpx13K9-Qkou0A/o.jpg",
+ "tags": [
+  "walk",
+  "food",
+  "history"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "In the middle of Harvard Square, it is not hard to find a tourist, I could probably sneeze on the corner of Massachusetts Ave and John F Kennedy St and a...",
+  "this is a great place to walk around and enjoy the epitome of harvard university and surrounding neighborhood.  while swarmed by harvard students, you'll...",
+  "Cool, cool, cool. So much history. So many greats have been here. Great food in this area. Do not eat before you go here. Try Mr. Bartley's. The burgers and..."
+ ]
+},{
+ "name": "Castle Island Beach",
+ "address": "2010 William Day Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/sjyu7Rf0MUY9wUih9Wwffg/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "I like this area in the winter as much as the other seasons. Sullivan's takeout closed until late February. Plenty of parking.  Runners, walkers, dogs and...",
+  "Love the landscape! \nNice to come here around sunset time! Amazing view!\nA lot of parking spaces",
+  "I was visiting some family in Boston and they recommended I check out the Castle Island Beach, so I did. \n\nIt's located around 15 minutes from downtown..."
+ ]
+},{
+ "name": "Central Square",
+ "address": "Central Sq",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/uF3Cnpb2gjS1x37eOmsw4g/o.jpg",
+ "tags": [
+  "experience"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Specifically my 5 star review is for graffiti alley. \n\nI found out about this lil gem through a friend and have been here twice to experience the daily...",
+  "Central Square has its good and bad sections . Cambridge has always been known as one of the most diverse places to visit there's many places to stop to...",
+  "Dangerous, unsafe, dirty. What can one even say. I frequent here a lot because I live nearby but I can honestly say it's quite frightening. Panhandlers,..."
+ ]
+},{
+ "name": "Escape The Room Boston",
+ "address": "33 West Street",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/aetLRcbYLmkd9i5Miy6opg/o.jpg",
+ "tags": [
+  "unique"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "This place is great! A truly fun and challenging affair for people of all ages and skill levels!\n\nI came here alone last Friday to celebrate my birthday and...",
+  "We had never done an escape room before and upon arriving we were worried it was going to be lame because of how sparsely decorated the waiting area was....",
+  "We did the cartman's escape room here as a group of 6. There were a lot of unique features that we really enjoyed (the sounds effects are fantastic ) but..."
+ ]
+},{
+ "name": "A4cade by Area Four",
+ "address": "292 Massachusetts Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/oSAMtE9o5sqHLRdxemj9_A/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I've only been here once so far and it has such a cool vibe. I was lucky in that I was able to get in with a friend since he knows someone who works there....",
+  "We came here on a Saturday night so there was a line to get in. The wait wasn't too bad but it was kind of chilly outside. Note that this is inside of...",
+  "This place was so much fun! They have lots of great arcade games: basketball, skeeball, shooting games, driving games, Pac Man, Guitar Hero, and everything..."
+ ]
+},{
+ "name": "Haunted Boston Ghost Tours",
+ "address": "",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/PfQL1Hq_UWKjqFYTM3WQqw/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Super fun an informative tour!  Our tour guide was extremely funny and engaging.  She was really great at keeping everyone interested and a great story...",
+  "My first walking tour in Boston. I've lived here 2 years and love soaking up all things Boston. I'm also a HUGE fan of all things spooky. That being said,...",
+  "Fun tour led by our tour guide Harry which started at the Central Burying Ground and ended by the Omni Parker House. While the tour does include a mix of..."
+ ]
+},{
+ "name": "East Coast Divers",
+ "address": "213 Boylston St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/SoIC-dsc7Z-p7mg-9U8jSw/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I took an SSI Equipment Webinar with EC Divers in the evening, and it was great.  I was able to do it from the comfort of my basement in NJ and did not have...",
+  "Super recommend. I did the snorkeling class and before i started i was absolutely terrified to even enter the pool, i was raised to be scared of pools,...",
+  "Well...it's official .. east coast divers has ruined me  I LOVE DIVING!!!! and I owe it all to Nick, Dan, PJ and the rest of the crew over there. I was part..."
+ ]
+},{
+ "name": "East Boston Piers Park",
+ "address": "95 Marginal St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/3ZTuNPSJN_l0agSLBffC9g/o.jpg",
+ "tags": [
+  "kids"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Love it is safe and clean you have the best views \nThe kids always have s great time \nIs relaxing for long walks bring your book and music \nThe best...",
+  "Shhh dont tell too many people! this place is a hidden gem. if you want to see a great view of the city skyline without all the loud noise and hussle and...",
+  "This was a great, quiet, pretty place to end a long day of walking around Boston. It is a beautiful location to watch the sunset behind the city from across..."
+ ]
+},{
+ "name": "Sacco's Bowl Haven",
+ "address": "45 Day St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vOseRUtiHLl0CtL2RYk6fg/o.jpg",
+ "tags": [
+  "history"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "My boyfriend and I came here on a weekday night to try out candlepin bowling. I grew up playing bowling quite a bit, but never did candlepin bowling until I...",
+  "Came here for a team event and had a good time. First time playing bowling in this kind. Love to visit  places which has a lot of history towards it. About...",
+  "After reading all of the reviews, I was prepared for the worst, but thankfully the worst never happened.\n\nWe had our end of summer company party here. We..."
+ ]
+},{
+ "name": "Blue Hill Helicopters",
+ "address": "125 Access Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/egrkq1C_JlNhyoT6xEfC5g/o.jpg",
+ "tags": [
+  "experience"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "It's extremely expensive to take flying lessons, but I got a 70% discount from a LivingSocial promo so was able to check this off my list of \"Gotta do...",
+  "Amazing late afternoon flight over the city. Our pilot and tour guide, Christian, was a wealth of knowledge.",
+  "What a beautiful and fun experience! My husband and I went for a Boston sunset tour for our 10th anniversary and it was amazing! Christian was our pilot and..."
+ ]
+},{
+ "name": "Alien Motorsports",
+ "address": "55 Pond St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/gC5ARe-w-N18_MCAWO3piQ/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I was able to get a lot of modifications for a good rate. Fantastic service. I was super happy to see all the upgrades put on super well.",
+  "William is a great guy to get your bike serviced with, I met him this summer when he helped out to get Genuine Stella running and fix minor electrical bugs...",
+  "They fully built a motor on my 50cc scooter and I couldn't be more happy with, good prices, very professional staff, work was done in a timely manner, and..."
+ ]
+},{
+ "name": "City of Boston",
+ "address": "",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/Tmw723qrO6N9cjP2HkEX1g/o.jpg",
+ "tags": [
+  "free",
+  "history"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Love this city. It is a lot more laid back than NYC and definitely feels more like home here. The work environment and the people are more relaxed. It is...",
+  "My home away from home how I love thee! I love wandering around your clean streets and experiencing all you have to offer. There always seems to be so much...",
+  "Got the chance for a free weekend trip to Boston.  I knew it was full of history but it had much more that interests.  I enjoyed the whale watching, old..."
+ ]
+},{
+ "name": "Encore Boston Harbor",
+ "address": "1 Broadway",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/X9swX0uVy2yDOTahiUAZQQ/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Pre covid19 review:\n\nI left $7 richer!\n\nWe came during the first month, on a Monday, expecting it to be quiet, and it was...in parts. We only wanted to try...",
+  "I like the atmosphere here, but the casino is quite small. It is a cool place to visit and go to have fun. Lots more I still haven't done here. The...",
+  "August 2019\nParking is expensive, traffic is horrendous, the food is expensive and you have to pay to get into any of the clubs that we saw. \n\nWith all of..."
+ ]
+},{
+ "name": "Old Town Trolley Tours of Boston",
+ "address": "3 Park Plaza",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/T3e7zQ77msVXNO3UCM6CTg/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I like to start a trip in a new town with a bus tour to get oriented. I appreciated Old Town Trolley's real live guides who talk to you during the tour,...",
+  "(12/6-12/7/19) I made my initial mistake on my first day in Boston thinking I could actually see the city on my own. One exhausting and bewildering day...",
+  "We bought tickets online as it is cheaper. They have over 20 stops and if you stay on for the duration it is about 2 hours (including traffic). All tour..."
+ ]
+},{
+ "name": "Toro",
+ "address": "1704 Washington St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vavJneJjBulHvZAGit-bdQ/o.jpg",
+ "tags": [
+  "drink",
+  "food",
+  "food"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "This is one of the most popular restaurants in the city.\n\nOnly reason I'm giving the place a 4 star is because they have changed their drink menu, and...",
+  "This restaurant is always packed; however, it's a little easier to get a table after 9:00pm.\n\nPros: The food is pretty good. The grilled octopus, the pig...",
+  "The food here is really good. I love the seafood paella, croquettes, and bone marrow dIshes. \n\nBut, what I don't understand is why the restaurant has to..."
+ ]
+},{
+ "name": "Boston Segway Tours",
+ "address": "199 State St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/he7wFm5mM48G3VxPuWTvRg/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Awesome tour! It was a team building event at work. They gave lessons before going out in the street and I rode it like a pro the first time out of the gate...",
+  "This was a great tour! We have done this in other cities, and would recommend it to anyone looking for a fun way to get an overview of the area.\n\nWe were...",
+  "Amazing way to see the city! Andy was our guide and made us feel very comfortable and was very informative! \nWe saw a lot and would def recommend the 2hr..."
+ ]
+},{
+ "name": "Middlesex Fells Reservation",
+ "address": "4 Woodland Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/NqtLOjjReBZvvszY-p1Z3A/o.jpg",
+ "tags": [
+  "hike"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Great park, great trails. A pretty large place with a lot of variety in terrain and type of trails which is good. \n\nLots of hilltops with great views of the...",
+  "Great variety of well maintained trails. They have something for everyone with easy trails to trails with difficult rock scrambles. Watch out for mountain...",
+  "Love coming here to hike in the spring! So many trails and quite well-marked. Depending on which trail you choose, you can figure out where to park. Trails..."
+ ]
+},{
+ "name": "Chez Vous Roller Skating Rink",
+ "address": "11 Rhoades St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/PNb2fCrMd4PeK7gSDEYAAg/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "This place deserves a 5 star review, and I rarely give reviews. Came here for my birthday (trying to be young and fun again) with a group of people. The...",
+  "I haven't been to Chez Vous since I was a teenager, we're talking over 20 years. We took my 7 year old daughter who is just learning to skate. We had a...",
+  "This is a hidden gem in Dorchester.   The staff is welcoming and helpful even when it gets crowded.   \nIt's $10 to skate and the price includes rentals...."
+ ]
+},{
+ "name": "Tours of The Freedom Trail",
+ "address": "139 Tremont St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/sjZ23fYkF5dbUNjj5_lK6g/o.jpg",
+ "tags": [
+  "walk",
+  "kids"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Our tour guide was excellent.  He was informative and patient.  The highlight of the tour occurred somewhat early during the walk. Went to a cemetery where...",
+  "Had tons of fun with Chris this morning. Great guide, insightful and funny. Quick little tour was great for us with kids since we'd never been to Boston.",
+  "Had a great time and the price is right. The guide was a lot of fun and really knew his stuff. While it's true you don't go into any of the places you cover..."
+ ]
+},{
+ "name": "Coolidge Corner Theatre",
+ "address": "290 Harvard St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/RFVooG_0PxwZCHryoi2kzQ/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "The main theater is gorgeous--restored Art Deco detail and huge screen. The small screening room is pretty uncomfortable and some of the seats actually have...",
+  "I have an enduring love for older movie theaters.  Palaces, really, places built for a time when going to see a movie was an event.  There were thousands...",
+  "I mean how cute is this movie theater!?\n\nThe owners preserved this place well. It was clean (restrooms were too) and staff were very friendly. The box..."
+ ]
+},{
+ "name": "Archery Games Boston",
+ "address": "121 Webster Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/7hFs0yP8tJWMr80Z5a3gOw/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "Came here as a group of 14 on a Sunday afternoon and had such a good time (despite being super sore after). \n\nIt was everyone's first time so we started...",
+  "Came here for a company team building event so I had no idea what to expect. I thought this would be laid-back like laser tag but I was sooooo wrong. Be...",
+  "Went here for a Bachelor's Party and didn't know what to expect - however it blew my expectations.\nThe place is incredibly clean, and looks extremely..."
+ ]
+},{
+ "name": "Central Rock Gym",
+ "address": "445 High St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Ei9U5S_uyw4Mgujh7LDewg/o.jpg",
+ "tags": [
+  "kids",
+  "learn",
+  "free"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Great for kids and the price is the cherry on top, $10 for kids that are climbing and that includes all rental gear for them! Amazing! My 4 year old goes up...",
+  "My visit to this place with my friends was so amazing. Although the tutorial was 44 mins it was a good trip and it was very fun. If you visit this place you...",
+  "Love CRG.  Everyone in the gym is nice, and there are a lot of good climbers to learn from.\n\nMembers get a bunch of benefits like free climbing progression..."
+ ]
+},{
+ "name": "The Institute of Contemporary Art/Boston",
+ "address": "25 Harbor Shore Dr",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/nL0k43Ms6wKr5QbkGgEPIA/o.jpg",
+ "tags": [
+  "free",
+  "experience",
+  "free"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "I recently visited on President's Day when they offered free admission to both the ICA and for Love is Calling. I got there around 10:30 and there was no...",
+  "Such an amazing experience! Came here as a chaperone on a field trip and all of the students had such a great time. Our tour guide, Lennie, was great (we...",
+  "Came here excited to see the \"Love Is Calling\" exhibit. Turns out you need to book your free ticket in advance, and they are all sold out through February...."
+ ]
+},{
+ "name": "Mary Baker Eddy Library",
+ "address": "200 Massachusetts Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/00gEDgem4xP644oV0Xjcag/o.jpg",
+ "tags": [
+  "walk",
+  "history"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Like most people, I came here to check out the Mapparium. It is a short tourist spot where you walk into a \"world globe\" where they give you the history of...",
+  "As many people do, I only came for the Mapparium exhibit.\n\nFor the Mapparium, tickets are quite decent at $6/adults. They have time slots running every...",
+  "This was simply jus amazing, a must see, and #Bucketlister for me!! This was on my list for many yrs and it was all that and then some...It was a cold rainy..."
+ ]
+},{
+ "name": "Classic Harbor Line Boston",
+ "address": "60 Rowes Wharf",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/KoqebtJAebz94gCol9UZXw/o.jpg",
+ "tags": [
+  "experience"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "I booked the Northern Lights cruise in Boston Harbor on Groupon for my birthday weekend. I really wanted to do a night-lights cruise and the Ghost and...",
+  "This was a fun way to see the Boston harbor.  The yacht is nice downstairs.  There are couches,  comfy chairs, tables and air conditioning.  The upstairs is...",
+  "My wife and I took a sunset cruise of Boston harbor. It was overall, a pleasant experience. If you want to obtain a couch you will need to line up at least..."
+ ]
+},{
+ "name": "Boston Harbor Walk",
+ "address": "88 Black Falcon Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/7PqnJlRZml-7BP3KIQOIFA/o.jpg",
+ "tags": [
+  "walk"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "It is a parking lot with a view of Conley terminal and the channel. It is private during the week.  You can not stay here long past a limit. I don't...",
+  "Harborwalk extends around quite a bit of Boston's waterline. I've been able to enjoy parts of it in East Boston near the Airport which have been nice and...",
+  "I had to walk on the Harbor Walk in order to get to my City Lights cruise on the Northern Lights boat. It goes along the wharfs by the Wharf Waterfront..."
+ ]
+},{
+ "name": "Prudential Center",
+ "address": "800 Boylston St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/At9mYrJLokuiXlc1jvPA2A/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "It's essential to Republican and Christian agendas, that there be some seriously anti-sex folks in power, even in a place like Massachusetts. In fact,...",
+  "I really do love this shopping center. It is very clean, the stores are amazing and high end, and they have a Warby Parker where I can try on alllllll the...",
+  "The Prudential Center is a major office and mall complex in Boston's renowned Back Bay. Websites list it as 23-acres which contains office buildings,..."
+ ]
+},{
+ "name": "Sky Zone Trampoline Park",
+ "address": "69 Norman St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/jTdxD8okTPK_z_FzoFCTuA/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "We went during the week right before closing with our family and there was only one other group of young boys there. Staff was super friendly and helpful...",
+  "I took my son here for toddler time during the morning hours on a weekday. The place was pretty empty save for a few employees. This location is in a random...",
+  "Tom D was great during our party. He really went out of his way to make sure that we had a special time. The entire facility was nice and clean. The..."
+ ]
+},{
+ "name": "Myers & Chang",
+ "address": "1145 Washington St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/sDQyH9TnCR_VnCuWTXHLow/o.jpg",
+ "tags": [
+  "food",
+  "cheap",
+  "food"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Not sure why or how it took me so long to go here, and to be fair, I only ordered take-out, so shame on me again. Very satisfied with the food we ordered;...",
+  "First and foremost, 5 stars for the service!\n\nThe waiters and waitresses were so kind and very attentive to my tree nut allergy. I don't think I've been to...",
+  "I went here around 2 weeks ago for the \"cheap date night\" special. It was a ton of food for a really reasonable price, and all of it was very tasty. We got..."
+ ]
+},{
+ "name": "Jamaica Pond",
+ "address": "507 Jamaicaway",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/TWqLrpfUtB2a0QtAootTwg/o.jpg",
+ "tags": [
+  "walk",
+  "walk",
+  "run"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "Beautiful neighborhood gem to walk around the most beautiful city pond and see beautiful scenery. People like to fish and go boating here. I think it's...",
+  "Love this place! You can come here to run, walk and it's beautiful! There is a 1.5 mile loop around the pond and you can see almost all the way around. The...",
+  "Beautiful for events, great atmosphere especially in the fall. I have bumped into so many people here and they all seem to be down to earth, will give the..."
+ ]
+},{
+ "name": "VinKari Safari",
+ "address": "10 Micro Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/0N5JH_BsBPswawxfRrOFqw/o.jpg",
+ "tags": [
+  "kids",
+  "run"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "I am super impressed by this place.  I don't know where to even begin....it's clean, it's stocked full of toys, it's sanitary, it's colorful and bright,...",
+  "Updating my review since it is 4 years old.  Still maintains well-deserved five star rating!  Just got done hosting my daughter's fifth consecutive party at...",
+  "This place is great and I can't believe there aren't more places in Boston like this. A huge indoor play area for kids to run around when it's too cold to..."
+ ]
+},{
+ "name": "Quincy Quarries Reservation",
+ "address": "77 Ricciuti Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/f-stavu-w_pWrp6mDuA9Qg/o.jpg",
+ "tags": [
+  "experience"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "We came here to celebrate our anniversary and it was a great experience. We came in the weekend and walked around a bit. If you just want to merely browse,...",
+  "This place is a dope hang out spot. The graffiti art is cool. The views are fantastic. Very instagramable if you're into that. Great if you're into rock...",
+  "This reservation right here is a little slice of heaven! I was told about this place by a friend and I did a photo shoot here I love it so stinking much I'm..."
+ ]
+},{
+ "name": "Menotomy Rocks Park",
+ "address": "Jason Street And Gray St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/5Lf58tJATvTI_tQeje05kQ/o.jpg",
+ "tags": [
+  "experience"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "This park makes us happy.\n\nGreat spot to bring your dog, and I've found most dogs are well behaved. Sooooo quiet despite being tight w/ mass ave and the...",
+  "This is a good place for a stroll with your pet and there's  a small trial. Half of the road is paved and the other half is not. Not really a big place but...",
+  "I came here one time to supervise a friend who wanted to do acid while surrounded by nature. She narrated the whole experience to me; apparently the rocks..."
+ ]
+},{
+ "name": "Marina Bay Sportsplex",
+ "address": "260 Victory Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/41k-g1GPqc02ZnkE5N9L2Q/o.jpg",
+ "tags": [],
+ "source": "Yelp",
+ "reviews": [
+  "I bet you're wondering what I was doing at something called the \"Sportsplex\", but rest assured, I was here for theatre, believe it or not! I recently..."
+ ]
+},{
+ "name": "Red Apple Farm",
+ "address": "100 Hanover St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/qitvYWPQEmbPFxaesxaU7w/o.jpg",
+ "tags": [
+  "delicious"
+ ],
+ "source": "Yelp",
+ "reviews": [
+  "The best apple cider donut ...especially when it's right out of the hopper! We really wanted more than one but a friend and I shared just one ($1) and it...",
+  "What is equally important to a delicious apple cider donut? Customer service!! The workers here are always SO SO kind. \n\nThe donuts are made fresh right in...",
+  "Being from Texas, I've never heard or seen apple cider donuts until now. I thought they were going to feel like cake donuts, but that's far from the case...."
+ ]
+}]

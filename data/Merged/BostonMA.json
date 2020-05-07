@@ -2,7 +2,9 @@
 {
  "name": "Fenway Park",
  "address": "4 Yawkey Way",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/06/f7/4f/view-from-the-club.jpg"
@@ -19,7 +21,9 @@
 },{
  "name": "Freedom Trail",
  "address": "139 Tremont St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/e7/9a/ed/photo0jpg.jpg"
@@ -39,7 +43,9 @@
 },{
  "name": "Museum of Fine Arts",
  "address": "465 Huntington Ave Avenue of the Arts",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/7d/01/6e/photo3jpg.jpg"
@@ -55,7 +61,9 @@
 },{
  "name": "Boston Tea Party Ships & Museum",
  "address": "306 Congress St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/16/9b/54/d7/sailing-ship-at-berth.jpg"
@@ -81,7 +89,9 @@
 },{
  "name": "North End",
  "address": "",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/1b/f6/ff/north-end.jpg"
@@ -99,7 +109,9 @@
 },{
  "name": "Boston Public Garden",
  "address": "4 Charles St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/07/d8/78/ad/publiczny-ogrod-w-bostonie.jpg"
@@ -117,7 +129,9 @@
 },{
  "name": "John F. Kennedy Presidential Museum & Library",
  "address": "Columbia Point",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0c/a1/1b/f6/photo0jpg.jpg"
@@ -135,7 +149,9 @@
 },{
  "name": "Samuel Adams Brewery",
  "address": "30 Germania St Jamaica Plain",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/68/c9/2b/photo0jpg.jpg"
@@ -155,7 +171,9 @@
 },{
  "name": "Boston Public Library",
  "address": "700 Boylston St At Copley Sq.",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/14/9e/97/87/the-very-quiet-reading.jpg"
@@ -175,7 +193,9 @@
 },{
  "name": "Museum of Science",
  "address": "1 Science Park",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/19/bb/58/02/experience-the-sights.jpg"
@@ -195,7 +215,9 @@
 },{
  "name": "Isabella Stewart Gardner Museum",
  "address": "25 Evans Way",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/17/2a/b6/dc/photo1jpg.jpg"
@@ -212,7 +234,9 @@
 },{
  "name": "Boston Common",
  "address": "139 Tremont St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/1c/8a/46/boston-common.jpg"
@@ -229,7 +253,9 @@
 },{
  "name": "USS Constitution",
  "address": "Bldg. 5, Charlestown Navy Yard",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0f/a1/96/53/photo3jpg.jpg"
@@ -251,7 +277,9 @@
 },{
  "name": "Beacon Hill",
  "address": "Between Beacon St and Cambridge St Beacon Hill",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/5b/bf/a1/beacon-hill.jpg"
@@ -270,7 +298,9 @@
 },{
  "name": "USS Constitution Museum",
  "address": "Bldg 22 Charlestown Navy Yard Charlestown",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/4f/42/4f/uss-constitution-museum.jpg"
@@ -291,7 +321,9 @@
 },{
  "name": "Quincy Market",
  "address": "4 S Market St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/15/74/1f/86/quincy-market.jpg"
@@ -309,34 +341,39 @@
 },{
  "name": "Faneuil Hall Marketplace",
  "address": "1 Faneuil Hall Sq Quincy Market",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  3.5,
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Os-rDFd_gQHt6gKJ2Ob0aQ/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/11/55/38/98/faneuil-hall-marketplace.jpg"
  ],
  "tags": [
-  "food",
-  "walk",
-  "history",
   "historic",
   "food",
-  "history",
-  "historic"
+  "walk",
+  "history"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "Newbury Street",
  "address": "10 Newbury St",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": [
+  4.0,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0d/37/22/1b/photo3jpg.jpg"
-  ],
-  "../data/Photographs/yelp_image_WCtYlaTgPqmOnwtlQIBw1Q.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/B1LbGEZX86VxDMIN864mBw/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/37/22/1b/photo3jpg.jpg"
  ],
  "tags": [
   "wander",
@@ -352,7 +389,9 @@
 },{
  "name": "Back Bay",
  "address": "",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/02/77/70/fa/by-leatherndevil-available.jpg"
@@ -369,7 +408,9 @@
 },{
  "name": "New England Aquarium",
  "address": "1 Central Wharf",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/02/31/a2/05/tropical-fish.jpg"
@@ -382,7 +423,9 @@
 },{
  "name": "The Mapparium",
  "address": "200 Massachusetts Ave The Mary Baker Eddy Library",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0f/cd/c1/15/the-mapparium.jpg"
@@ -398,32 +441,31 @@
 },{
  "name": "Boston Children's Museum",
  "address": "308 Congress St",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/0a/a5/b8/c5/boston-children-s-museum.jpg"
-  ],
-  "../data/Photographs/yelp_image_fb5mXak0EtyNGvLc92_hAw.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/a5/b8/c5/boston-children-s-museum.jpg"
  ],
  "tags": [
-  "experience",
-  "experience",
-  "kids",
   "family",
-  "run"
+  "experience",
+  "run",
+  "kids",
+  "kids",
+  "kids"
  ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Old North Church & Historic Site",
  "address": "193 Salem St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/19/8c/6e/7c/this-spire-is-a-most.jpg"
@@ -441,7 +483,9 @@
 },{
  "name": "HarborWalk",
  "address": "Harborwalk",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/33/11/66/photo9jpg.jpg"
@@ -463,7 +507,9 @@
 },{
  "name": "Castle Island",
  "address": "2010 William J Day Blvd end of Carson Beach, on Pleasure Bay",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/10/7d/79/df/fort-independence-castle.jpg"
@@ -481,7 +527,9 @@
 },{
  "name": "Skywalk Observatory",
  "address": "800 Boylston Street Prudential Center",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/13/dc/0e/41/vue-du-50e-etage.jpg"
@@ -499,25 +547,34 @@
 },{
  "name": "Bunker Hill Monument",
  "address": "Monument Square Charlestown",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/1adtxEw7udLlAq5sHx6PyA/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/0a/26/2d/97/bunker-hill-monument.jpg"
  ],
  "tags": [
-  "walk",
+  "kids",
   "history",
-  "free",
-  "kids"
+  "walk",
+  "free"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "New England Holocaust Memorial",
  "address": "Between Congress and Union Streets",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/8a/b9/fd/20150521-125015-largejpg.jpg"
@@ -534,32 +591,29 @@
 },{
  "name": "Arnold Arboretum",
  "address": "125 Arborway Jamaica Plain",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/09/14/93/3c/arnold-arboretum.jpg"
-  ],
-  "../data/Photographs/yelp_image_62crUnXQip4_Cdz2_HOdPA.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/14/93/3c/arnold-arboretum.jpg"
  ],
  "tags": [
+  "experience",
   "walk",
-  "jog",
-  "run",
   "walk",
   "experience"
  ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Charles River Esplanade",
  "address": "Storrow Drive",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/f4/09/83/photo3jpg.jpg"
@@ -575,68 +629,2741 @@
  ],
  "reviews": []
 },{
- "name": "Aeronaut Brewing Company",
- "address": "14 Tyler St",
- "avg_visitor_review": 4.0,
+ "name": "Brookline Recreation Department",
+ "address": "133 Eliot St, Chestnut Hill, MA 02467, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_w_MxXl29Pnpc94EU6S39cg.jpg"
+  null
  ],
  "tags": [],
  "source": [
-  "Yelp"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "The Friendly Toast",
- "address": "35 Stanhope St",
- "avg_visitor_review": 4.0,
+ "name": "Little Field Park",
+ "address": "60 Eliot St, Chestnut Hill, MA 02467, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_xlOMKjE4omTgkI1eduWj8A.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Somerville Theatre",
- "address": "55 Davis Sq",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_baDOjuroMSOc-o17egiVcg.jpg"
+  null
  ],
  "tags": [
+  "walk",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Daniel J. Warren Playground",
+ "address": "133 Eliot St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fisher Hill Reservoir Park",
+ "address": "78-144 Fisher Ave, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "free"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "bclee",
+ "address": "35 Fisher Ave, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Inky Fingers Graphics",
+ "address": "697 Boylston St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Brookline Reservoir Park",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "jog",
+  "walk"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chiharu Sushi & Noodle",
+ "address": "370 Boylston St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zaaki Food Truck",
+ "address": "374 Boylston St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Morehouse Gallery Fine Arts",
+ "address": "3 Regent Cir, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Little Free Library #26534",
+ "address": "78 Brington Rd, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Friedman Park",
+ "address": "387-413 Walnut St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New Lincoln School Field",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Clark Rd/Mbta Land",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "BESS'S CAFE",
+ "address": "224 Cypress St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "delicious",
+  "free",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pizza Stop",
+ "address": "226 Cypress St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Drive-By Pies",
+ "address": "248A Cypress St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rifrullo Cafe",
+ "address": "147 Cypress St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Clark Playground",
+ "address": "195 Cypress St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "family"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Oakland Point Garden",
+ "address": "39-43 Oakland Rd, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cypress Street Playground",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "walk"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boylston Street Playground",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Morra",
+ "address": "48 Boylston St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Little Free Library #45251",
+ "address": "4 Hart St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Davis Path",
+ "address": "Davis Ave, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Emerson Garden",
+ "address": "82 Davis Ave, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "peaceful",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Philbrick Square",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juniper Street Playground",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Margaret E Robinson Playground",
+ "address": "Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Omori Izakaya",
+ "address": "195 Washington St, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olmsted Park",
+ "address": "217 Jamaicaway, Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "history",
+  "experience",
+  "peaceful",
+  "walk",
+  "peaceful",
+  "peaceful"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Allerton Overlook",
+ "address": "203 Pond Ave, Brookline, MA 02445, USA",
+ "avg_visitor_review": [
+  2.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Willow Pond Meadow",
+ "address": "Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Subway",
+ "address": "2 S Huntington Ave, Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Joseph's Sub Shop & Pizza",
+ "address": "8 S Huntington Ave, Jamaica Plain, MA 02130, USA",
+ "avg_visitor_review": [
+  2.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Healthy Wok MA",
+ "address": "23 S Huntington Ave, Jamaica Plain, MA 02130, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "free",
+  "cheap",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dunkin'",
+ "address": "37 S Huntington Ave Unit #2, Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  4.4,
+  2.6,
+  4.2,
+  4.2,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "tags": [
+  "food",
+  "experience",
+  "delicious",
+  "walk"
+ ],
+ "source": [
+  [
+   [
+    [
+     [
+      "GoogleMaps"
+     ],
+     "GoogleMaps"
+    ],
+    "GoogleMaps"
+   ],
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jefferson Playground",
+ "address": "Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "BNAF Parcel",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Iroquois Street Woods",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hayden Street Stairway",
+ "address": "Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lawn Street Garden",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Butterfly Garden",
+ "address": "Bucknam St, Mission Hill, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hennigan Schoolyard",
+ "address": "Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chacho's Pizza & Subs",
+ "address": "Tremont St, Roxbury Crossing, MA 02120, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "affordable",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Milkweed",
+ "address": "1508 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "family",
+  "delicious",
   "experience"
  ],
  "source": [
-  "Yelp"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Saus",
- "address": "33 Union St",
- "avg_visitor_review": 4.0,
+ "name": "Crispy Dough Pizzeria",
+ "address": "1514 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_VFvCFOYtyK9ae4Skxvf3vA.jpg"
+  null
  ],
  "tags": [
-  "unique"
+  "walk",
+  "food",
+  "affordable"
  ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lillys Gourmet Pasta Express",
+ "address": "1528 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ugi's Pizza",
+ "address": "69 Heath St, Jamaica Plain, MA 02130, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "cheap"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bucktown Chicken & Fish",
+ "address": "1522 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chilacates Mission Hill",
+ "address": "1482 A Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "unique",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mike's Donuts",
+ "address": "1524 Tremont St A, CROSSING, MA 02120, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "cheap"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boba Me",
+ "address": "1520 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "drink",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Forests & Parks Rg 2 Mss Division",
+ "address": "38 New Heath St, Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kevin W. Fitzgerald Park",
+ "address": "145-157 St Alphonsus St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "educational"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mission Hill Community Garden",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gibbons Playground",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Heath Square",
+ "address": "Boston, MA 02130, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mission Hill Playground",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Domino's Pizza",
+ "address": "1400 Tremont St Space D, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "run",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "AK's Takeout & Delivery",
+ "address": "1427 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ashur Restaurant",
+ "address": "291 Roxbury St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dahabshiil",
+ "address": "1420 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ascia Kitchen + Cafe",
+ "address": "100 Malcolm X Blvd, Roxbury, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Common Word Cafe",
+ "address": "100 Malcolm X Blvd, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nachlo Mexican & Pakistani Cuisine",
+ "address": "1443 Tremont St, Roxbury, MA 02120, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "creative",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Butterfly Falafel",
+ "address": "1420 Tremont St, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Centre Place Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Linwood Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "John Eliot Square Urban Wild",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Highland Park 400 Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cedar Street Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Allan Crite Community Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kittredge Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Highland Avenue Community Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "King Street Play Area",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Margaret Wright Memorial Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alvah Kittredge Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jeep Jones Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Highland Park",
+ "address": "980 Harrison Ave, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.0,
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null,
+  null
+ ],
+ "tags": [],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St Monica's Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Justice Edward O. Gourdin Veterans Memorial Park",
+ "address": "2405 Washington St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Roxbury Heritage State Park",
+ "address": "183 Roxbury St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "jog",
+  "family"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "John Eliot Square",
+ "address": "42 Centre St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "peaceful",
+  "historic",
+  "peaceful",
+  "history"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "First Church In Roxbury",
+ "address": "10 Putnam St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "history"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lambert Avenue Playground",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rockledge Street Urban Wild",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Park Village CG",
+ "address": "Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Peking House",
+ "address": "160 Dudley St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Simon's Seafood Market & Take-Out",
+ "address": "154 Dudley St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Yummy Yummy",
+ "address": "2360 Washington St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "food",
+  "run",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bintimani Restaurant",
+ "address": "1127 Harrison Ave, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "experience",
+  "food",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Suya Joint Restaurant",
+ "address": "185 Dudley St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "walk",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dudley Square Grille",
+ "address": "150 Dudley St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  2.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Joe's Famous Steak Subs",
+ "address": "140 Dudley St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arizona BBQ",
+ "address": "2360 Washington St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Silver Slipper Restaurant",
+ "address": "2387 Washington St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food",
+  "food",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fasika Cafe",
+ "address": "51 Roxbury St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "ROYAL FRIED CHICKEN (rfcri.com)",
+ "address": "2360 Washington St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Golden Krust Caribbean Restaurant",
+ "address": "41 Warren St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "walk",
+  "drink",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mario's Sub & Salads",
+ "address": "28 Warren St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "cheap",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Khadija's Express cafe",
+ "address": "1127 Harrison Ave, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  3.6666666666666665
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dudley Cafe",
+ "address": "15 Warren St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "peaceful",
+  "experience",
+  "food",
+  "run",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Express Cafe",
+ "address": "1127 Harrison Ave, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "cheap",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "JazzUrbane Cafe",
+ "address": "2300 Washington St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Park High",
+ "address": "2 Madison Park Ct, Boston, MA 02120, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "academic"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dudley Square Plaza",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boys Club Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St. James Street Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Evening Academy Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alpine Street Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "P & R Restaurant",
+ "address": "208 Dudley St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maxine's On Saint James",
+ "address": "304 Dudley St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Stop & Taste Pizza",
+ "address": "239 Dudley St #2503, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Mondonguito",
+ "address": "221 Dudley St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "delicious",
+  "food",
+  "family",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Vasquez Pizza And Spanish Food",
+ "address": "258 Dudley St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "cheap",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Haley House Bakery Caf\u00e9",
+ "address": "12 Dade St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Phyllis Wheatley/Warren Place Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mount Pleasant Play Area",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Orchard Park",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Winthrop Street Community Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Melnea Cass Boulevard",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Orchard Park Maintenance",
+ "address": "20 Prescott St, Roxbury, MA 02119, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dudley Town Common",
+ "address": "383 Dudley St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eustis Street Playground",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jardin De La Amistad Community Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hen House Wings 'n Waffles",
+ "address": "1033 Massachusetts Ave, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "free",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Salads & Prepared Foods",
+ "address": "26-32 Chesterton St, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McDonald's",
+ "address": "870 Massachusetts Ave, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "experience"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New Market Pizza",
+ "address": "850 Massachusetts Ave #2604, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "run",
+  "food",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Liberty Diner",
+ "address": "1003 Massachusetts Ave, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "free",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Spaht Food Truck",
+ "address": "155 Southampton St, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "delicious",
+  "food",
+  "affordable",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "CAFE 1010",
+ "address": "1010 Massachusetts Ave, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "delicious",
+  "food",
+  "food",
+  "cheap",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Casablanc",
+ "address": "169 Norfolk Ave, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Clifford Playground",
+ "address": "171 Norfolk Ave, Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mason Schoolyard",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Magazine Street Community Garden",
+ "address": "Boston, MA 02119, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Victoria's Diner",
+ "address": "1024 Massachusetts Ave, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Max Ultimate Food",
+ "address": "10 Newmarket Square, Boston, MA 02118, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pizza Hut Express",
+ "address": "7 Allstate Rd, Dorchester, MA 02125, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olive Garden Italian Restaurant",
+ "address": "11 Allstate Rd B, Dorchester, MA 02125, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "experience",
+  "food",
+  "family",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafe Polonia",
+ "address": "611 Dorchester Ave, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Potato Tomato",
+ "address": "7 Ellery St Ste. B, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Panera Bread",
+ "address": "8 Allstate Rd Suite 3, Dorchester, MA 02125, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "experience",
+  "food",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Bistro \u2013 Eat. Drink. Connect.\u00ae",
+ "address": "63 Boston St, Boston, MA 02125, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston 13F",
+ "address": "8 Allstate Rd, Dorchester, MA 02125, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Line Pizza",
+ "address": "582 Dorchester Ave, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Square House of Pizza",
+ "address": "395 Dorchester St #2740, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  3.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Molly's Farmhouse Coffee",
+ "address": "16 Preble St, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wine & Spirits",
+ "address": "295 Old Colony Ave, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  3.3333333333333335
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Supreme House of Pizza",
+ "address": "313 Old Colony Ave, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  3.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "ROTARY VARIETY",
+ "address": "309 Old Colony Ave, South Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Low Art Tile",
+ "address": "488 Dorchester Ave, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Veterans Park",
+ "address": "Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "drink",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sterling Square",
+ "address": "Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Telegraph Hill",
+ "address": "289 Dorchester St, Boston, MA 02127, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Harbor Islands National Park Area Ferry",
+ "address": "190 Atlantic Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/XGszXjOA1uR_mZ0SUgAFIA/o.jpg"
+ ],
+ "tags": [],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Shojo",
- "address": "9A Tyler St",
- "avg_visitor_review": 4.0,
+ "name": "Bites of Boston Food Tours",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Q8g68ZDAt93h_n_wTbwshA.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/TxEjXQEdTT1AbYwpGJRONQ/o.jpg"
  ],
  "tags": [
   "food"
@@ -646,12 +3373,156 @@
  ],
  "reviews": []
 },{
- "name": "Sky Zone Trampoline Park",
- "address": "69 Norman St",
- "avg_visitor_review": 3.5,
+ "name": "Abigail's Tea Room",
+ "address": "306 Congress St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_F8kOcUJL-IgbWWrG6jGT3Q.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/CcOVyO_bN5mZbd3K6v0dtw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bully Boy Distillers",
+ "address": "44 Cedric St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/Ng3oReN5qirKBxMRrebvvw/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Trapology Boston",
+ "address": "177 Tremont St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/TVbRb3ybFtM0k5WdGXXjcA/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Somerville Theatre",
+ "address": "55 Davis Sq",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ERcePNEweEXfIpqKHYBRwg/o.jpg"
+ ],
+ "tags": [
+  "experience",
+  "independent"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Copley Square",
+ "address": "560 Boylston St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/C4LP_W61nQw4Wi2RPz-AbA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Free Tours By Foot",
+ "address": "42 Robinwood Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/V6PO1MqgQebh2CL9Lb550g/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "ComedySportz Boston",
+ "address": "5 Basile St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/JFPDUDWdnVupmPlmcrsYrw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Slutcracker: A Burlesque",
+ "address": "55 Davis Sq",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/9yXvUFrvMsgiZozrXhkYpQ/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fenway Park Tours",
+ "address": "4 Yawkey Way",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/bVbe1n1-V0TtrEH03Kk-_Q/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Urban AdvenTours",
+ "address": "103 Atlantic Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Byn9Rpe2Olchf95bnubHbQ/o.jpg"
  ],
  "tags": [
   "family"
@@ -661,12 +3532,213 @@
  ],
  "reviews": []
 },{
- "name": "Gaslight",
- "address": "560 Harrison Ave",
- "avg_visitor_review": 4.0,
+ "name": "Harvard Square",
+ "address": "18 Brattle St",
+ "avg_visitor_review": [
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_5TsjdwNt10gxGChQtGGpdg.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/vRdAJGm-dpx13K9-Qkou0A/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "history"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Castle Island Beach",
+ "address": "2010 William Day Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/sjyu7Rf0MUY9wUih9Wwffg/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Central Square",
+ "address": "Central Sq",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/uF3Cnpb2gjS1x37eOmsw4g/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Escape The Room Boston",
+ "address": "33 West Street",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/aetLRcbYLmkd9i5Miy6opg/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "A4cade by Area Four",
+ "address": "292 Massachusetts Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/oSAMtE9o5sqHLRdxemj9_A/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Haunted Boston Ghost Tours",
+ "address": "",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/PfQL1Hq_UWKjqFYTM3WQqw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "East Coast Divers",
+ "address": "213 Boylston St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/SoIC-dsc7Z-p7mg-9U8jSw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "East Boston Piers Park",
+ "address": "95 Marginal St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/3ZTuNPSJN_l0agSLBffC9g/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sacco's Bowl Haven",
+ "address": "45 Day St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/vOseRUtiHLl0CtL2RYk6fg/o.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Blue Hill Helicopters",
+ "address": "125 Access Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/egrkq1C_JlNhyoT6xEfC5g/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alien Motorsports",
+ "address": "55 Pond St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/gC5ARe-w-N18_MCAWO3piQ/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "City of Boston",
+ "address": "",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Tmw723qrO6N9cjP2HkEX1g/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "history"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Encore Boston Harbor",
+ "address": "1 Broadway",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/X9swX0uVy2yDOTahiUAZQQ/o.jpg"
  ],
  "tags": [
   "food"
@@ -678,10 +3750,12 @@
 },{
  "name": "Old Town Trolley Tours of Boston",
  "address": "3 Park Plaza",
- "avg_visitor_review": 3.5,
+ "avg_visitor_review": [
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_TWjMEPa_E5anUSMEnCP_fw.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/T3e7zQ77msVXNO3UCM6CTg/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -689,68 +3763,18 @@
  ],
  "reviews": []
 },{
- "name": "Wilson Farm",
- "address": "10 Pleasant St",
- "avg_visitor_review": 4.0,
+ "name": "Toro",
+ "address": "1704 Washington St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_n1K5s55F6MTN6C4ci-EUtA.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "X1 Boston",
- "address": "290 Wood Rd",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Ca5LN_wVClTPKW3mAnmalg.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/vavJneJjBulHvZAGit-bdQ/o.jpg"
  ],
  "tags": [
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Copley Square Farmers Market",
- "address": "Copley Square",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_W2vFw6Qfo8jaszJNRU47gg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Museum Of Fine Arts",
- "address": "465 Huntington Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_8xuUthCjEwYO-40S7FPMqQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Craigie On Main",
- "address": "853 Main St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_58cDJU4cub1o0o0B4h9GrA.jpg"
- ],
- "tags": [
+  "drink",
+  "food",
   "food"
  ],
  "source": [
@@ -760,10 +3784,12 @@
 },{
  "name": "Boston Segway Tours",
  "address": "199 State St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Pr5u2GdpnQxBNECpAV-8rA.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/he7wFm5mM48G3VxPuWTvRg/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -771,316 +3797,33 @@
  ],
  "reviews": []
 },{
- "name": "Harvard Square",
- "address": "18 Brattle St",
- "avg_visitor_review": 3.5,
+ "name": "Middlesex Fells Reservation",
+ "address": "4 Woodland Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_UGs6J02mK_DTxDPfrJoviw.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/NqtLOjjReBZvvszY-p1Z3A/o.jpg"
  ],
  "tags": [
-  "walk",
-  "history",
-  "food"
+  "hike"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Boston Foodie Tours",
- "address": null,
- "avg_visitor_review": 5.0,
+ "name": "Chez Vous Roller Skating Rink",
+ "address": "11 Rhoades St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_nS8uRoVeqe20VsDDH59jHQ.jpg"
- ],
- "tags": [
-  "food",
-  "experience",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Haunted Boston Ghost Tours",
- "address": "",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_sHabl64lgS0Ar8eKNZD5Gw.jpg"
- ],
- "tags": [
-  "history"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Saltie Girl",
- "address": "281 Dartmouth St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_sA2gVTJOBH7Qk32p48ENdQ.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PNb2fCrMd4PeK7gSDEYAAg/o.jpg"
  ],
  "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rabia's",
- "address": "73 Salem St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_7kCMcEEKXqItFv5m0-Yj4g.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Kings Dining & Entertainment",
- "address": "50 Dalton St",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_TLtykd3vG5_BG-8MP66RHg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Blue Man Group",
- "address": "74 Warrenton St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_kv_TA8clRqZ0uapjuo5VlA.jpg"
- ],
- "tags": [
-  "experience",
-  "interactive"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Copley Square",
- "address": "560 Boylston St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_AIBp7CZNAqzLlLc_Kpc9JA.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Picco Pizza & Ice Cream",
- "address": "513 Tremont St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_1qwxzGRcU1y3tJrsoYQ4Rw.jpg"
- ],
- "tags": [
-  "delicious"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bully Boy Distillers",
- "address": "44 Cedric St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_8bLMFB8Cev2Le7YEFUfnrg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Maggiano's Little Italy",
- "address": "4 Columbus Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_nqKL5PbJbwwoCK_Xon31kA.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bites of Boston Food Tours",
- "address": "",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_tIa6Ru-KG27JwOdd1_xw5g.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The North End",
- "address": "",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_96RV4GvZdPahV-brg3hnOQ.jpg"
- ],
- "tags": [
-  "family",
-  "kids",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Giacomo's",
- "address": "431 Columbus Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_q5HPp961WsjoVDaOmN8SwQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Union Oyster House",
- "address": "41 Union St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Ruq91rmQNweZ78TzKylQMg.jpg"
- ],
- "tags": [
-  "history",
-  "run",
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sacco's Bowl Haven",
- "address": "45 Day St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_HizkMc0Z2olL8GFpsj-LQg.jpg"
- ],
- "tags": [
-  "history"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tipsy Chocolate Tours",
- "address": "303 Newbury St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_uNTc6lrgSuKBJeWivw04UA.jpg"
- ],
- "tags": [
-  "history",
-  "delicious"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rock Spot Climbing",
- "address": "67 Sprague St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_NBcUDQ4aJKgMgUd49YfyRw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "South End Buttery",
- "address": "314 Shawmut Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_WR6RXp1I9QmO7-21lsqD8g.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Encore Boston Harbor",
- "address": "1 Broadway",
- "avg_visitor_review": 2.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_AgL_YxOdpxKgIlvqIetB4g.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Museum of Bad Art",
- "address": "55 Davis Sq",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_8_91dxiY4bbBds5Y8S-8kw.jpg"
- ],
- "tags": [
-  "free"
- ],
  "source": [
   "Yelp"
  ],
@@ -1088,10 +3831,12 @@
 },{
  "name": "Tours of The Freedom Trail",
  "address": "139 Tremont St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_e0EyjSJfWjOyZE1-ubjZ0w.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/sjZ23fYkF5dbUNjj5_lK6g/o.jpg"
  ],
  "tags": [
   "walk",
@@ -1102,27 +3847,149 @@
  ],
  "reviews": []
 },{
- "name": "East Boston Piers Park",
- "address": "95 Marginal St",
- "avg_visitor_review": 4.5,
+ "name": "Coolidge Corner Theatre",
+ "address": "290 Harvard St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_tVgf6OZ14PTa7p6oYjm2ww.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/RFVooG_0PxwZCHryoi2kzQ/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Archery Games Boston",
+ "address": "121 Webster Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/7hFs0yP8tJWMr80Z5a3gOw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Central Rock Gym",
+ "address": "445 High St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Ei9U5S_uyw4Mgujh7LDewg/o.jpg"
  ],
  "tags": [
-  "kids"
+  "kids",
+  "learn",
+  "free"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Urban AdvenTours",
- "address": "103 Atlantic Ave",
- "avg_visitor_review": 4.5,
+ "name": "The Institute of Contemporary Art/Boston",
+ "address": "25 Harbor Shore Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_sxJQzTN6Iy9DQwFBHGhWbw.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/nL0k43Ms6wKr5QbkGgEPIA/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "experience",
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mary Baker Eddy Library",
+ "address": "200 Massachusetts Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/00gEDgem4xP644oV0Xjcag/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Classic Harbor Line Boston",
+ "address": "60 Rowes Wharf",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/KoqebtJAebz94gCol9UZXw/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Harbor Walk",
+ "address": "88 Black Falcon Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/7PqnJlRZml-7BP3KIQOIFA/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Prudential Center",
+ "address": "800 Boylston St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/At9mYrJLokuiXlc1jvPA2A/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sky Zone Trampoline Park",
+ "address": "69 Norman St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/jTdxD8okTPK_z_FzoFCTuA/o.jpg"
  ],
  "tags": [
   "family"
@@ -1132,28 +3999,38 @@
  ],
  "reviews": []
 },{
- "name": "The Original Tremont Tearoom",
- "address": "333 Washington St",
- "avg_visitor_review": 3.0,
+ "name": "Myers & Chang",
+ "address": "1145 Washington St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_VIHsQBf_T7oR61mi5opW4g.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/sDQyH9TnCR_VnCuWTXHLow/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "cheap",
+  "food"
+ ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "The Publick House",
- "address": "1648 Beacon St",
- "avg_visitor_review": 4.0,
+ "name": "Jamaica Pond",
+ "address": "507 Jamaicaway",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_rK-fgI2_-x0T4lxwF9L4Ww.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/TWqLrpfUtB2a0QtAootTwg/o.jpg"
  ],
  "tags": [
-  "food"
+  "walk",
+  "walk",
+  "run"
  ],
  "source": [
   "Yelp"
@@ -1162,10 +4039,12 @@
 },{
  "name": "VinKari Safari",
  "address": "10 Micro Dr",
- "avg_visitor_review": 5.0,
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_IcG9VJtsH6xzfVInMzAv1A.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/0N5JH_BsBPswawxfRrOFqw/o.jpg"
  ],
  "tags": [
   "kids",
@@ -1176,55 +4055,48 @@
  ],
  "reviews": []
 },{
- "name": "Barking Crab",
- "address": "88 Sleeper St",
- "avg_visitor_review": 3.0,
+ "name": "Quincy Quarries Reservation",
+ "address": "77 Ricciuti Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_oz882XuZCxajKo64Opgq_Q.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bow Market",
- "address": "1 Bow Market Way",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_U2_TwzWxMGX0u9o9T1nIUA.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/f-stavu-w_pWrp6mDuA9Qg/o.jpg"
  ],
  "tags": [
-  "food"
+  "experience"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Ruth's Chris Steak House",
- "address": "45 School St",
- "avg_visitor_review": 4.0,
+ "name": "Menotomy Rocks Park",
+ "address": "Jason Street And Gray St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image__VEQpntwiMLUbNPLvxvwzA.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/5Lf58tJATvTI_tQeje05kQ/o.jpg"
  ],
  "tags": [
-  "food"
+  "experience"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "A4cade by Area Four",
- "address": "292 Massachusetts Ave",
- "avg_visitor_review": 3.5,
+ "name": "Marina Bay Sportsplex",
+ "address": "260 Victory Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_3UtlwidZDSxtT9ukO79bHA.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/41k-g1GPqc02ZnkE5N9L2Q/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -1232,27 +4104,18 @@
  ],
  "reviews": []
 },{
- "name": "Deep Ellum",
- "address": "477 Cambridge St",
- "avg_visitor_review": 4.0,
+ "name": "Red Apple Farm",
+ "address": "100 Hanover St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_vdO-x0KEP_c-hFB37viK9w.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/qitvYWPQEmbPFxaesxaU7w/o.jpg"
  ],
- "tags": [],
- "source": [
-  "Yelp"
+ "tags": [
+  "delicious"
  ],
- "reviews": []
-},{
- "name": "Prudential Center",
- "address": "800 Boylston St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_kOAw7z-GdwZOdcMja2PeBg.jpg"
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],

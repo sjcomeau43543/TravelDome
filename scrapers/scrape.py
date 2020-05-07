@@ -66,7 +66,6 @@ def main():
 
             # Scrape
             activities = yelpscraper.scrape(city, state)
-            import pdb; pdb.set_trace()
 
             if args.write:
                 with open("../data/Yelp/"+city+state+".json", "w") as outfile:

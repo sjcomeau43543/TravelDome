@@ -2,7 +2,9 @@
 {
  "name": "Denver Botanic Gardens",
  "address": "1007 York Street",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/98/6d/74/denver-botanic-gardens.jpg"
@@ -18,7 +20,9 @@
 },{
  "name": "Mount Evans",
  "address": "",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/ac/db/70/on-the-sawtooth.jpg"
@@ -35,7 +39,9 @@
 },{
  "name": "Denver Union Station",
  "address": "1701 Wynkoop St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/16/44/17/57/travel-by-train.jpg"
@@ -55,7 +61,9 @@
 },{
  "name": "Coors Field",
  "address": "2001 Blake St At 20th St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/14/11/a0/d8/imag1087-largejpg.jpg"
@@ -76,7 +84,9 @@
 },{
  "name": "Mount Evans Scenic Byway",
  "address": "",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/9f/58/e5/photo0jpg.jpg"
@@ -92,7 +102,9 @@
 },{
  "name": "Denver Museum of Nature & Science",
  "address": "2001 N Colorado Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/20/5b/4c/front-of-the-museum.jpg"
@@ -109,13 +121,12 @@
 },{
  "name": "Denver Art Museum",
  "address": "13th Avenue Between Broadway and Bannock Streets",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/01/35/6f/3b/dam-looking-north-up.jpg"
-  ],
-  "../data/Photographs/yelp_image_P_jFGrrz_aOYEmakW3NKjQ.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/35/6f/3b/dam-looking-north-up.jpg"
  ],
  "tags": [
   "history",
@@ -125,16 +136,15 @@
   "free"
  ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Stranahan's Colorado Whiskey Tour",
  "address": "200 S Kalamath St",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/10/21/9e/d7/first-distilling-pots.jpg"
@@ -150,7 +160,9 @@
 },{
  "name": "Denver Zoo",
  "address": "2300 N Steele St Denver City Park",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/57/fc/6a/denver-zoo.jpg"
@@ -167,7 +179,9 @@
 },{
  "name": "Molly Brown House Museum",
  "address": "1340 N Pennsylvania St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/18/88/0e/fb/photo1jpg.jpg"
@@ -184,7 +198,9 @@
 },{
  "name": "Forney Museum of Transportation",
  "address": "4303 Brighton Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/dd/70/be/forney-transportation.jpg"
@@ -202,7 +218,9 @@
 },{
  "name": "Larimer Square",
  "address": "1430 Larimer St",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0b/d8/0f/c7/larimer-square.jpg"
@@ -219,7 +237,9 @@
 },{
  "name": "Sports Authority Field at Mile High",
  "address": "1701 Bryant St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/d6/42/92/2015.jpg"
@@ -236,7 +256,9 @@
 },{
  "name": "Washington Park",
  "address": "S. Downing St. & E. Louisiana Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/10/fe/db/67/photo0jpg.jpg"
@@ -258,7 +280,9 @@
 },{
  "name": "History Colorado Center",
  "address": "1200 N Broadway",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/06/b6/71/0b/history-colorado-center.jpg"
@@ -278,7 +302,9 @@
 },{
  "name": "Kirkland Museum of Fine & Decorative Art",
  "address": "1201 Bannock Street",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/11/46/46/77/kirkland-museum-s-new.jpg"
@@ -294,7 +320,9 @@
 },{
  "name": "Downtown Aquarium",
  "address": "700 Water St",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/50/6b/ff/downtown-aquarium.jpg"
@@ -312,7 +340,9 @@
 },{
  "name": "Colorado State Capitol",
  "address": "200 E Colfax Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/36/b6/66/colorado-state-capitol.jpg"
@@ -327,7 +357,9 @@
 },{
  "name": "Wings Over the Rockies Air & Space Museum",
  "address": "7711 E Academy Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/b7/f0/bd/wings-over-the-rockies.jpg"
@@ -345,27 +377,36 @@
  "reviews": []
 },{
  "name": "16th Street Mall",
- "address": "16th St",
- "avg_visitor_review": "4.0",
+ "address": "1515 Arapahoe St",
+ "avg_visitor_review": [
+  3.0,
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/RZbZpK_RyzeoTcSuA6voNg/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/01/44/03/e8/denver-s-sixteenth-street.jpg"
  ],
  "tags": [
   "walk",
+  "walk",
   "family",
   "free",
-  "experience",
-  "family"
+  "experience"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "Denver Mountain Parks",
  "address": "3000 E 1st Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/35/1d/1f/denver-mountain-parks.jpg"
@@ -380,7 +421,9 @@
 },{
  "name": "National Ballpark Museum",
  "address": "1940 Blake St",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/dc/aa/f1/b-s-ballpark-museum.jpg"
@@ -397,7 +440,9 @@
 },{
  "name": "LoDo",
  "address": "Lower Downtown",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/39/e1/1d/lodo.jpg"
@@ -414,7 +459,9 @@
 },{
  "name": "Cathedral of the Immaculate Conception",
  "address": "1530 N Logan St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/59/db/cathedral-from-the-outside.jpg"
@@ -430,7 +477,9 @@
 },{
  "name": "City Park - Denver",
  "address": "Colorado Blvd. and York St.",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/59/72/04/lake-and-mountains.jpg"
@@ -446,7 +495,9 @@
 },{
  "name": "Clyfford Still Museum",
  "address": "1250 Bannock St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/1a/71/3a/90/clyfford-still-museum.jpg"
@@ -461,25 +512,34 @@
 },{
  "name": "United States Mint",
  "address": "West Colfax & West 14th Street",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  3.5,
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/FEDA_PAiA1ymI2uutoAeAg/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/c0/98/us-mint-in-denver.jpg"
  ],
  "tags": [
-  "kids",
+  "learn",
   "history",
-  "history",
-  "learn"
+  "free",
+  "kids"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "Balistreri Vineyards",
  "address": "1946 E 66th Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/04/7c/35/84/balistreri-vineyards.jpg"
@@ -495,7 +555,9 @@
 },{
  "name": "Colorado Convention Center",
  "address": "700 14th St",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/76/46/2f/the-big-bear-at-the-colorado.jpg"
@@ -511,13 +573,14 @@
 },{
  "name": "Cheesman Park",
  "address": "8th Ave & Franklin St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/00/18/6a/fe/gorgeous-fall-foliage.jpg"
-  ],
-  "../data/Photographs/yelp_image_zw0r0ZkS4xO_gzl2BtnfOQ.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/9h9x40ac_evk1fv-BzbOHQ/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/18/6a/fe/gorgeous-fall-foliage.jpg"
  ],
  "tags": [
   "energy",
@@ -532,68 +595,1881 @@
  ],
  "reviews": []
 },{
- "name": "Tiny Town",
- "address": "6249 S Turkey Creek Rd",
- "avg_visitor_review": 4.0,
+ "name": "Governor Grant Park",
+ "address": "Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_qI2KIOeh7982CPx_LrGS-g.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Adventures - Zipline Tours",
- "address": "26267 Conifer Rd",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_otitP19qVfjUQFY1jOjXxw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Children's Museum of Denver at Marsico Campus",
- "address": "2121 Childrens Museum Dr",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_NqkblxIwviVB17Qscv8v8A.jpg"
+  null
  ],
  "tags": [
-  "unique"
+  "kids",
+  "hike",
+  "kids",
+  "kids",
+  "walk"
  ],
  "source": [
-  "Yelp"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Blue Sushi Sake Grill",
- "address": "1616 16th St",
- "avg_visitor_review": 4.0,
+ "name": "Olive Garden Italian Restaurant",
+ "address": "5380 S Wadsworth Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_BKRLsUCryeR1JJtyGVWW_g.jpg"
+  null
  ],
  "tags": [
   "food"
  ],
  "source": [
-  "Yelp"
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Good Times Burgers & Frozen Custard",
+ "address": "8500 W Crestline Ave, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  2.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Market",
+ "address": "8500 W Crestline Ave, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  2.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chick-fil-A",
+ "address": "5260 S Wadsworth Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  3.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Del Taco",
+ "address": "5240 S Wadsworth Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "cheap",
+  "food",
+  "food",
+  "food",
+  "free"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "5250 S Wadsworth Blvd, Lakewood, CO 80123, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "gourmet",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Taco Bell",
+ "address": "8500 W Crestline Ave Unit 8, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  1.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "run"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fontana Sushi",
+ "address": "8601 W Cross Dr, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cody Street Park",
+ "address": "Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bonefish Grill",
+ "address": "8100 W Crestline Ave, Denver, CO 80123, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Angelina's Italian Restaurant",
+ "address": "8100 W Crestline Ave, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "food",
+  "experience"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wingstop",
+ "address": "8100 W Crestline Ave Ste A10, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Buffalo Wild Wings",
+ "address": "5138 S Wadsworth Blvd, Lakewood, CO 80123, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Which Wich Superior Sandwiches",
+ "address": "8100 W Crestline Ave Unit A-3, Denver, CO 80123, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Smashburger | Delivery & Takeout Available",
+ "address": "8100 W Crestline Ave Suite 2290B, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  2.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "experience",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chipotle Mexican Grill",
+ "address": "8100 W Crestline Ave Unit A1, Denver, CO 80123, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Slife's Devil Dogs",
+ "address": "5258 S Wadsworth Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "cheap",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crazy Pho You",
+ "address": "8100 W Crestline Ave Unit A9, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pho 18",
+ "address": "8100 W Crestline Ave Unit A9, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "experience",
+  "food",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ccr Galleries",
+ "address": "7145 W Belmont Dr, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bowles Lake",
+ "address": "Lakeshore Dr, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "energy",
+  "run"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cimarron Trail Park",
+ "address": "5482 Bow Mar Dr, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.25,
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null,
+  null
+ ],
+ "tags": [],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cimarron Park",
+ "address": "Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wawaez games",
+ "address": "5432 S Camargo Rd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Walter's303 Bow Mar",
+ "address": "5194 S Lowell Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "delicious",
+  "unique",
+  "delicious",
+  "food",
+  "delicious",
+  "family"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Car Wash",
+ "address": "5200 S Lowell Blvd, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "klhjj kjhkk",
+ "address": "5186 S Lowell Blvd d3, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Berry Park",
+ "address": "3400 W Berry Ave, Littleton, CO 80121, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fraco's Bar",
+ "address": "5302 S Federal Cir, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "South Suburban Parks",
+ "address": "3200 W Berry Ave, Littleton, CO 80123, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hello Sharpness",
+ "address": "5201 S Federal Blvd, Greenwood Village, CO 80110, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Piccino Wood Oven Pizza",
+ "address": "5350 S Santa Fe Dr, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "delicious",
+  "active",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "LaMar's Donuts and Coffee",
+ "address": "5350 S Santa Fe Dr E, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Lost Cajun - Littleton",
+ "address": "5350 S Santa Fe Dr F, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Panda Express",
+ "address": "5350 S Santa Fe Dr, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  1.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food",
+  "walk",
+  "experience"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Poncho's Mexican Grill",
+ "address": "5350 S Santa Fe Dr unit c, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "City of Littleton",
+ "address": "2255 W Berry Ave, Littleton, CO 80165, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Geneva Park",
+ "address": "West Crestline Avenue, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "run",
+  "kids",
+  "free"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arapahoe County Support Services",
+ "address": "5334 S Prince St, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Slaughterhouse Gulch Park",
+ "address": "5562 S Crocker St, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Big Dry Creek Trail at Progress Park",
+ "address": "Englewood, CO 80110, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Powers Park",
+ "address": "Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  "",
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null,
+  null
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Elati Park",
+ "address": "5340 S Elati St, Littleton, CO 80120, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Big dry creek trail",
+ "address": "Big Dry Creek,, Englewood, CO 80110, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Papa John's Pizza",
+ "address": "5194 S Broadway, Englewood, CO 80113, USA",
+ "avg_visitor_review": [
+  2.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "free",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Old Santa Fe Express",
+ "address": "5501 S Broadway, Littleton, CO 80121, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "unique",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Duffeyroll Cafe Bakery",
+ "address": "5198 S Broadway, Englewood, CO 80113, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food",
+  "delicious",
+  "family",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "QDOBA Mexican Eats",
+ "address": "5188 S Broadway Unit B2, Englewood, CO 80113, USA",
+ "avg_visitor_review": [
+  3.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Waffle Works",
+ "address": "Mobile, Englewood, CO 80110, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Brookridge Park",
+ "address": "S Grant St, Littleton, CO 80121, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Greenwood Pines Park",
+ "address": "5289 S Franklin Cir, Greenwood Village, CO 80121, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Joellyn Duesberry",
+ "address": "2800 Willamette Ln, Greenwood Village, CO 80121, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Artful Exposures",
+ "address": "5205 S Steele St, Greenwood Village, CO 80121, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Marjorie Perry Nature Preserve",
+ "address": "Greenwood Village, CO 80121, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cattail Park",
+ "address": "7500 E Prentice Pl, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monaco - Crestline Park",
+ "address": "6363 E Crestline Ave, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Running Fox Park",
+ "address": "5290 S Quebec St, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "run",
+  "peaceful"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pizza Republica Greenwood Village",
+ "address": "5375 Landmark Pl Ste 113, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "JING Denver",
+ "address": "5370 Greenwood Plaza Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food",
+  "experience",
+  "knowledgeable",
+  "food",
+  "food",
+  "drink"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lucy Restaurant",
+ "address": "5345 Landmark Pl, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "experience",
+  "food",
+  "food",
+  "experience",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Slattery's Pub & Grill",
+ "address": "5364 Greenwood Plaza Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "creative",
+  "food",
+  "walk",
+  "food",
+  "drink",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hapa Sushi Grill and Sake Bar",
+ "address": "5380 Greenwood Plaza Blvd #101, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "creative",
+  "drink",
+  "delicious",
+  "creative",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ted's Montana Grill",
+ "address": "5370 Greenwood Plaza Blvd #110, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "experience",
+  "knowledgeable",
+  "food",
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Yanni's Greek Restaurant",
+ "address": "5425 Landmark Pl #1951, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Early Bird Restaurant-The Landmark",
+ "address": "5425 Landmark Pl #101, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bad Daddy's Burger Bar",
+ "address": "5380 Greenwood Plaza Blvd Ste 106, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zeal Food DTC",
+ "address": "5370 Greenwood Plaza Blvd Suite 107, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "free",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monk & Mongoose Coffee Co",
+ "address": "5370 Greenwood Plaza Blvd #109, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "experience",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Scissors & Scotch",
+ "address": "7600 Landmark Way #107, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "run",
+  "family",
+  "experience",
+  "drink"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lila B. Lounge",
+ "address": "5345 Landmark Pl, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zurich",
+ "address": "5445 DTC Pkwy #100, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sandwich Board",
+ "address": "5445 DTC Pkwy g10, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cuba Cuba Sandwicheria",
+ "address": "5322 DTC Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rmr Colorado",
+ "address": "5347 S Valentia Way, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Prentice Cafe",
+ "address": "8101 E Prentice Ave, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "affordable",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lil' Ricci's DTC",
+ "address": "5322 DTC Blvd #100, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Delectable Egg",
+ "address": "5312 DTC Blvd #100, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "affordable",
+  "walk",
+  "delicious",
+  "free",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cherry Bean Coffee",
+ "address": "5322 DTC Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.75
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crave Coffee Roasters",
+ "address": "5322 DTC Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lindsay Park",
+ "address": "8300 E Prentice Ave, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tavern Tech Center",
+ "address": "5336 DTC Blvd, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "drink",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Burnt End BBQ in Denver",
+ "address": "5332 DTC Blvd #100, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "ASA Sushi",
+ "address": "5302 DTC Blvd #100, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience",
+  "food",
+  "delicious"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hoffman Park",
+ "address": "5302 S Boston St, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "family"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Francis H. Williams Park",
+ "address": "5730 S Florence Ct, Greenwood Village, CO 80111, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bear Park",
+ "address": "5361 S Havana Ct, Englewood, CO 80111, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jason's Deli",
+ "address": "5440 S Parker Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "run",
+  "experience",
+  "food",
+  "free",
+  "food",
+  "free",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sabor",
+ "address": "5350 S Parker Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Thirsty 30 Craft Kitchen & Tap House",
+ "address": "5428 S Parker Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "drink",
+  "free",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shipley's Donuts",
+ "address": "5400 S Parker Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jabanero's Mexican Grill",
+ "address": "5584 S Parker Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Indian Ridge Samsung Galaxy Project",
+ "address": "16501 E Progress Dr, Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crestline Park",
+ "address": "Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "walk",
+  "run",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arapahoe County Open Space Grant Supported Project",
+ "address": "17230 E Progress Ave, Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Smoky Hill Park",
+ "address": "Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Goldrush Park",
+ "address": "Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Big Sandy Park",
+ "address": "17903 E Progress Pl, Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "walk"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arrowhead Park",
+ "address": "Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sonic Drive-In",
+ "address": "18535 E Smoky Hill Rd, Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  2.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Corner Store",
+ "address": "18565 E Smoky Hill Rd, Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  3.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Papa Murphy's Take 'N' Bake Pizza",
+ "address": "18525 E Smoky Hill Rd Suite J, Centennial, CO 80015, USA",
+ "avg_visitor_review": [
+  2.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pioneer Park",
+ "address": "Aurora, CO 80015, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "kids"
+ ],
+ "source": [
+  "GoogleMaps"
  ],
  "reviews": []
 },{
  "name": "Belleview Park",
  "address": "5001 S Inca Dr",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Kiwpo1BeBZ423ZkaQoG2jQ.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/rPfrF8YG6WmLwIm07XzzVg/o.jpg"
  ],
  "tags": [
   "kids"
@@ -603,130 +2479,16 @@
  ],
  "reviews": []
 },{
- "name": "Axe Whooping",
- "address": "437 N Broadway",
- "avg_visitor_review": 5.0,
+ "name": "Punch Bowl Social Stapleton",
+ "address": "3120 N Uinta St",
+ "avg_visitor_review": [
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_TKl2I1RdyIZHpFTWAPIwCQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cherry Cricket",
- "address": "2641 E 2nd Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_JJiugrBcZrNpX0ueUBuvrg.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/WIi4REyRJ9YtShb4WlSsSQ/o.jpg"
  ],
  "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Work & Class",
- "address": "2500 Larimer St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_svJWwW0ilssyqk_UML0mUg.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Platform Strength",
- "address": "3198 Blake St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_OrJhLmdE09puDoRu2Z5gKg.jpg"
- ],
- "tags": [
-  "free"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Water World",
- "address": "8801 N Pecos St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_4oJRL2XxKJDs0ezAoUrTsg.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Museum of Contemporary Art Denver",
- "address": "1485 Delgany St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_k7zoKFP3BbTsU0Z4Y0m6Sw.jpg"
- ],
- "tags": [
-  "unique",
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "City of Denver",
- "address": "",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_8y-dMLmtSjUIlohx_otPTA.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Class Axe Throwing",
- "address": "3400 E 52nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Ou_zP0h_TJ2kUrAEbU-BOw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Hornet",
- "address": "76 Broadway",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_QmgLDVzZl_91e3-GceV-5w.jpg"
- ],
- "tags": [
-  "food",
   "delicious",
   "food"
  ],
@@ -735,32 +2497,48 @@
  ],
  "reviews": []
 },{
- "name": "Root Down - Denver International Airport",
- "address": "9100 Pe\u00f1a Blvd",
- "avg_visitor_review": 4.5,
+ "name": "Bad Axe Throwing",
+ "address": "7338 Washington St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_wVKt2_DR_p2ayqRtdzGJPQ.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/wTc6yCxhrHpms3lJsdoJwg/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Banjo Billy's Bus Tours",
+ "address": "14TH And California St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/hqfuOT6KAyHwfOGMbzjpZQ/o.jpg"
  ],
  "tags": [
-  "food",
-  "food"
+  "history"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Forest Room 5",
- "address": "2532 15th St",
- "avg_visitor_review": 3.0,
+ "name": "Puzzah!",
+ "address": "1440 Blake St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Ft2XeH0TNB3y7YW5mmYPUA.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Z1uNPcOpa1QlYdT2-nfwfw/o.jpg"
  ],
  "tags": [
-  "low",
-  "unique",
   "unique"
  ],
  "source": [
@@ -768,56 +2546,18 @@
  ],
  "reviews": []
 },{
- "name": "City Park",
- "address": "17TH Ave Colorado Blvd",
- "avg_visitor_review": 4.0,
+ "name": "The Clue Room",
+ "address": "7286 S Yosemite St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_kmR72csienO4Tu4bkMeoYg.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/NuXWCQvaLngI3bCGzee7pA/o.jpg"
  ],
  "tags": [
-  "walk"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Hops & Pie",
- "address": "3920 Tennyson St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_7Wb-Y0dxakfRkLTAIG4Bmw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "City Sessions Denver",
- "address": "3377 Blake St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_ulc3uPBryRnoQOKShU2cjQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denver Zoo Lights",
- "address": "2900 E 23rd Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_B6A_ULTEt6fs4430FC2mBQ.jpg"
- ],
- "tags": [
-  "low"
+  "family",
+  "experience"
  ],
  "source": [
   "Yelp"
@@ -826,10 +2566,12 @@
 },{
  "name": "Historic Downtown Golden",
  "address": "Washington Ave & 12th St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_wR3-yKmbaM6KUodjZGO7rw.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/L3kxHS_hv5b_4r7YNVA2WQ/o.jpg"
  ],
  "tags": [
   "experience",
@@ -840,12 +2582,14 @@
  ],
  "reviews": []
 },{
- "name": "Centennial Center Park",
- "address": "13050 E Peakview Ave",
- "avg_visitor_review": 4.5,
+ "name": "Great Divide Brewing Company",
+ "address": "2201 Arapahoe St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image__BrVKOsOx0_tEKFTpVYBwA.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/KAccMuhlXGS1PqkdUNpGJA/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -853,244 +2597,82 @@
  ],
  "reviews": []
 },{
- "name": "Colorado State Government: Capitol Building",
- "address": "200 E Colfax Ave",
- "avg_visitor_review": 4.5,
+ "name": "Four Mile Historic Park",
+ "address": "715 S Forest St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_lzjoyf-Z0b4LwQzF0dtLrQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Citron Bistro",
- "address": "3535 S Yosemite St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_uFS6icNrfhdJfgktv2Nhzg.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg"
  ],
  "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Film on the Rocks",
- "address": "18300 W Alameda Pkwy",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_4FfQvQP1oSkCHqNsombq1A.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Grand Adventures",
- "address": "78311 US Hwy 40",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_xwEnM4zvEdasGO8hvfBvzQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Vesta",
- "address": "1822 Blake St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_UTV40d3C0P7vfUUqmPl3vA.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Puzzle Effect - Denver",
- "address": "11674 Huron St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_g0xBysiOo57Dfg-3Grshuw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rioja",
- "address": "1431 Larimer St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_ywFvkNZVJoXUQbZoq7fr1w.jpg"
- ],
- "tags": [
-  "delicious",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Boondocks Northglenn",
- "address": "11425 Community Center Dr",
- "avg_visitor_review": 2.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Eo-5z5Nt3d0HrKfq_SLOJQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "88 Drive In Theatre",
- "address": "8780 Rosemary St",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Fsv7RrGNkJk2YY5NbCaf0Q.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Clue Room",
- "address": "7286 S Yosemite St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_xcIHEcPEp93E_xjRODI6Xw.jpg"
- ],
- "tags": [
-  "experience",
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sloan's Lake Park",
- "address": "Sheridan Blvd & W 17th Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_MFTPNon25FnYkEtqJ79XOg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Unser Karting & Events",
- "address": "7300 Broadway",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image__OILVkGVtbsYP0ObP3u5Hg.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Scratch Burrito & Happy Tap",
- "address": "4262 Lowell Blvd",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_u8Ux0Ym_V2HgG38mckFbGg.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Clocktower Cabaret",
- "address": "1601 Arapahoe St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_LmiieWKBQwbXnDXWquLtSg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mayan Theatre",
- "address": "110 Broadway",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_U6y1yz1gVQ5dpa4-tLImQg.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Epic Escape Game",
- "address": "1750 N Gilpin St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_K5Om2BiUZWQeEe9SDbFMCw.jpg"
- ],
- "tags": [
-  "family",
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nick's Garden Center & Farm Market",
- "address": "2001 S Chambers Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_j7NJAZPqMuFjC0kU5ime5A.jpg"
- ],
- "tags": [
+  "food",
   "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The DIA Giant Blue Bronco",
+ "address": "8500 Pena Blvd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/lAqlEzTBryfyNKuv6-t3ug/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fiske Planetarium",
+ "address": "2414 Regent Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/pCO7N18v-5pnO7CVMqK1Nw/o.jpg"
+ ],
+ "tags": [
+  "cheap"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mt. Sanitas Trail",
+ "address": "4TH St And Mapleton Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/cVoo72zOYObIk0pykoyYdg/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bookbar",
+ "address": "4280 Tennyson St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ryTsYNUU8NaHViXSd3h8zQ/o.jpg"
+ ],
+ "tags": [
+  "food"
  ],
  "source": [
   "Yelp"
@@ -1099,10 +2681,12 @@
 },{
  "name": "The Infinite Monkey Theorem",
  "address": "3200 Larimer St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_NH5lTGAbsOa7tjKiacZeOQ.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -1110,16 +2694,186 @@
  ],
  "reviews": []
 },{
- "name": "Shells & Sauce",
- "address": "2600 E 12th Ave",
- "avg_visitor_review": 4.0,
+ "name": "Film on the Rocks",
+ "address": "18300 W Alameda Pkwy",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_7UWt_282vPsGQPtrquRR9Q.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ot07ezqpuSxWsxxCKbKU8w/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Peter Pan Park",
+ "address": "4800 W 92nd Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/I8zt7vhjyaWQFqFXWgcbKw/o.jpg"
  ],
  "tags": [
-  "low"
+  "kids"
  ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Nightly Spirits",
+ "address": "1400 Market St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/JZGUL0_zryzSp0M0KnThuA/o.jpg"
+ ],
+ "tags": [
+  "experience",
+  "knowledgeable",
+  "history"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "88 Drive In Theatre",
+ "address": "8780 Rosemary St",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/fxF-AujsjfA8AtR-d1T1Ig/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Water World",
+ "address": "8801 N Pecos St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/G5NwwXgimTm0N8s4L2mj_w/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sloan's Lake Park",
+ "address": "Sheridan Blvd & W 17th Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/vhp4jcZVVFTUJLSjThfABA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Royal Arch",
+ "address": "Royal Arch Trl",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/jtKXSBce7z43CeANd-Txlw/o.jpg"
+ ],
+ "tags": [
+  "hike",
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Unser Karting & Events",
+ "address": "7300 Broadway",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/hdD6ick4bXc9QRRGSCPSXg/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Monster Mini Golf",
+ "address": "8227 S Holly St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/t0ezN5PIRr9NfSUdIle9qg/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Contemporary Art Denver",
+ "address": "1485 Delgany St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/XAsTBSMM1IU7k19k6vDI1w/o.jpg"
+ ],
+ "tags": [
+  "unique",
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Puzzle Effect - Denver",
+ "address": "11674 Huron St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/U9KQCU0NULhrVfcCdkHNbA/o.jpg"
+ ],
+ "tags": [],
  "source": [
   "Yelp"
  ],
@@ -1127,10 +2881,12 @@
 },{
  "name": "Cherry Creek Arts Festival",
  "address": "2 Steele St",
- "avg_visitor_review": 4.0,
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_1IZMYPM9ldo2Ao1zjn96gw.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Se0dDhZ-LTDGfMDgS2FrjQ/o.jpg"
  ],
  "tags": [
   "food"
@@ -1140,12 +2896,62 @@
  ],
  "reviews": []
 },{
- "name": "Dangerous Theatre",
- "address": "2620 W 2nd Ave",
- "avg_visitor_review": 4.5,
+ "name": "Mile High Adventure Rentals",
+ "address": "1044 S Grapevine Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_iyU1_azGFG4Mgxes7dbkBg.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/B1j8J6NcuyLQjMnFCBKtxA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Centennial Center Park",
+ "address": "13050 E Peakview Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/URldB0yOClLRphF5FIz-HA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Colorado Sightseer",
+ "address": "600 South Holly St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/JUH4Bj1H_D7EhCB0IOAbIw/o.jpg"
+ ],
+ "tags": [
+  "experience",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dangerous Theatre",
+ "address": "2620 W 2nd Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/1014Hgt56m5nrp7bGLX7Fw/o.jpg"
  ],
  "tags": [
   "delicious"
@@ -1155,12 +2961,14 @@
  ],
  "reviews": []
 },{
- "name": "Pepsi Center",
- "address": "1000 Chopper Cir",
- "avg_visitor_review": 3.5,
+ "name": "Boulder Farmers' Market",
+ "address": "1900 13th St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_QwSxTqOBY-Nmaf_Ime5Tgg.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/SXLjZlTHuZpYkh4SAI9z2w/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -1168,15 +2976,129 @@
  ],
  "reviews": []
 },{
- "name": "Osteria Marco",
- "address": "1453 Larimer St",
- "avg_visitor_review": 4.0,
+ "name": "EscapeWorks Denver",
+ "address": "1529 Champa St",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_jx5kzkP_9zwh9BW0WVPAWw.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/t3svSWFl8bzIIufTN1N3xA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Urban Air Adventure Park - Littleton",
+ "address": "8196 Bowles Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg"
  ],
  "tags": [
-  "experience",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Clear Creek Whitewater Park",
+ "address": "1201 10th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/ZHECi6-T7mycSXMi-BUIyw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Canvas and Cocktails",
+ "address": "6862 S University Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/y0YBDscXrbuNCgQ9X2RkIA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Class Axe Throwing",
+ "address": "3400 E 52nd Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mile High Flea Market",
+ "address": "7007 E 88th Ave",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "drink",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Uncorked Kitchen & Wine Bar",
+ "address": "8171 S Chester St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/FNkK5SN79SO76ERP-4MCzQ/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lower Maxwell Falls Trail Head",
+ "address": "S Brook Forest Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/DtXdHHW9HTlnw3LDvA_rlQ/o.jpg"
+ ],
+ "tags": [
   "walk"
  ],
  "source": [
@@ -1184,12 +3106,14 @@
  ],
  "reviews": []
 },{
- "name": "Bluebird Theater",
- "address": "3317 E Colfax Ave",
- "avg_visitor_review": 4.0,
+ "name": "Adventure Golf and Raceway",
+ "address": "9650 Sheridan Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_oAWkAw_C5ByIZQubcVgIBw.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/qr2XGKJh4-K-W1HqPn8lhQ/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -1197,12 +3121,65 @@
  ],
  "reviews": []
 },{
- "name": "Delicious Denver Food Tours",
- "address": "2129 Larimer St",
- "avg_visitor_review": 5.0,
+ "name": "Cherry Creek Trail",
+ "address": "2200 15th St",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_J1ZYh6oZ75PGRzsf2lKhGQ.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/J22OdciS-Vj1RH9WK93ydg/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Family Shooting Center at Cherry Creek State Park",
+ "address": "4201 S Parker Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/vgtWLtTNPObc7KtlSibXgA/o.jpg"
+ ],
+ "tags": [
+  "run"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bear Mountain Stables",
+ "address": "11778 Wonder Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/3Etkjvui4EGok6WRzV9dtw/o.jpg"
+ ],
+ "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Delicious Denver Food Tours",
+ "address": "2129 Larimer St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg"
  ],
  "tags": [
   "food",
@@ -1214,14 +3191,54 @@
  ],
  "reviews": []
 },{
- "name": "Bonfire Burritos",
- "address": "2221 Ford St",
- "avg_visitor_review": 4.5,
+ "name": "Maize in the City",
+ "address": "10451 McKay Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_9cwMGGtkdAPBoPGO33MPAw.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/pEedXEGMVTDAMYgtgYVrmg/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free",
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SeaQuest Littleton",
+ "address": "8501 W Bowles Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/E7Ifp8w6XI9LlkZThGlfkQ/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "E.B. Rains Park",
+ "address": "11801 Community Ctr Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/XAk5oY2wLJpsvtCzMtt1FA/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
  "source": [
   "Yelp"
  ],

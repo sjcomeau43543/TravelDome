@@ -2,7 +2,9 @@
 {
  "name": "Sunshine Skyway Bridge",
  "address": "",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/02/15/a3/wunderschone-brucke.jpg"
@@ -17,7 +19,9 @@
 },{
  "name": "Big Cat Rescue",
  "address": "12802 Easy St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/02/9d/08/71/filename-big-cat-pic.jpg"
@@ -32,7 +36,9 @@
 },{
  "name": "Tampa Riverwalk",
  "address": "Ashley Street",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/5e/d9/84/tampa-riverwalk.jpg"
@@ -51,7 +57,9 @@
 },{
  "name": "ZooTampa at Lowry Park",
  "address": "1101 W Sligh Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/19/8d/f0/aa/zootampa-at-lowry-park.jpg"
@@ -68,7 +76,9 @@
 },{
  "name": "The Florida Aquarium",
  "address": "701 Channelside Dr",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0f/72/c3/9d/the-florida-aquarium.jpg"
@@ -85,7 +95,9 @@
 },{
  "name": "Busch Gardens",
  "address": "10165 N McKinley Dr",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/17/4e/2d/12/rollercoaster.jpg"
@@ -104,7 +116,9 @@
 },{
  "name": "Lettuce Lake Regional Park",
  "address": "6920 E Fletcher Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/03/76/8d/0a/lettuce-lake-park.jpg"
@@ -123,7 +137,9 @@
 },{
  "name": "Ybor City",
  "address": "Northeast of the Downtown Tampa on I-4 at Exit 1",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/ca/6e/ybor-city.jpg"
@@ -139,7 +155,9 @@
 },{
  "name": "Bayshore Boulevard",
  "address": "312 Bayshore Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/11/3b/74/17/photo1jpg.jpg"
@@ -159,32 +177,30 @@
 },{
  "name": "Amalie Arena",
  "address": "401 Channelside Dr",
- "avg_visitor_review": 4.25,
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/01/73/43/69/st-pete-times-forum-i.jpg"
-  ],
-  "../data/Photographs/yelp_image_NiXwGOozHmBbCN3-GpsYFg.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/73/43/69/st-pete-times-forum-i.jpg"
  ],
  "tags": [
-  "experience",
-  "kids",
   "walk",
   "food",
-  "low"
+  "low",
+  "experience",
+  "food"
  ],
  "source": [
-  [
-   "TripAdvisor"
-  ],
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "TECO Line Streetcar System",
  "address": "1201 E 7th Ave",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/07/a6/03/teco-line-streetcar-system.jpg"
@@ -202,27 +218,40 @@
 },{
  "name": "Glazer Children's Museum",
  "address": "110 W Gasparilla Plz",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  4.0,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/NgfpvXR6_cENYMEZfV-Udw/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/02/57/41/82/glazer-children-s-museum.jpg"
  ],
  "tags": [
+  "family",
+  "walk",
+  "interactive",
   "experience",
   "educational",
-  "kids",
   "kids"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "Henry B. Plant Museum",
  "address": "401 W Kennedy Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  4.0,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ylqLsip7Ae5hAz5IaLFB7Q/o.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/14/b6/70/3c/the-plant-museum.jpg"
  ],
  "tags": [
@@ -231,13 +260,18 @@
   "history"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
  "name": "Yuengling Brewery",
  "address": "11111 N 30th St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0f/33/e0/94/entryway-with-tour-times.jpg"
@@ -255,13 +289,14 @@
 },{
  "name": "Tampa Bay History Center",
  "address": "801 Old Water St",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "https://media-cdn.tripadvisor.com/media/photo-s/1a/04/6e/68/the-tampa-bay-history.jpg"
-  ],
-  "../data/Photographs/yelp_image_bWgi0dQSRbTa44YZS6YtyA.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/qyoE9opLxSFl40hYAkAtww/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/04/6e/68/the-tampa-bay-history.jpg"
  ],
  "tags": [
   "family",
@@ -279,7 +314,9 @@
 },{
  "name": "Raymond James Stadium",
  "address": "4201 N Dale Mabry Hwy",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/08/28/dd/raymond-james-stadium.jpg"
@@ -297,7 +334,9 @@
 },{
  "name": "George M. Steinbrenner Field",
  "address": "1 Steinbrenner Dr",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/71/03/88/steinbrenner-field.jpg"
@@ -318,7 +357,9 @@
 },{
  "name": "Seminole Hard Rock Casino Tampa",
  "address": "5223 Orient Rd",
- "avg_visitor_review": "3.5",
+ "avg_visitor_review": [
+  "3.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/06/94/d5/ed/seminole-hard-rock-casino.jpg"
@@ -334,7 +375,9 @@
 },{
  "name": "International Plaza and Bay Street",
  "address": "2223 N West Shore Blvd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/07/26/da/d2/international-plaza-and.jpg"
@@ -354,7 +397,9 @@
 },{
  "name": "Adventure Island",
  "address": "10001 McKinley Dr",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/14/5b/80/big-splash-tube.jpg"
@@ -371,7 +416,9 @@
 },{
  "name": "Courtney Campbell Trail",
  "address": "",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/12/bf/b9/33/lots-of-trees.jpg"
@@ -386,7 +433,9 @@
 },{
  "name": "Cigar City Brewing",
  "address": "3924 W Spruce St",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/14/d5/f7/c3/the-tasting-room-really.jpg"
@@ -404,7 +453,9 @@
 },{
  "name": "Tampa Bay Downs",
  "address": "11225 Race Track Rd",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0a/6b/86/e6/tampa-bay-downs.jpg"
@@ -422,7 +473,9 @@
 },{
  "name": "Tampa Theatre",
  "address": "711 N Franklin St",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0e/6f/9b/d2/under-the-night-sky-in.jpg"
@@ -439,7 +492,9 @@
 },{
  "name": "Curtis Hixon Waterfront Park",
  "address": "600 N Ashley Dr",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/05/37/ed/86/mayor-s-river-o-green.jpg"
@@ -455,7 +510,9 @@
 },{
  "name": "Museum of Science and Industry",
  "address": "4801 E Fowler Ave",
- "avg_visitor_review": "3.5",
+ "avg_visitor_review": [
+  "3.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/01/ba/4b/f0/mosi-s-five-story-imax.jpg"
@@ -464,9 +521,9 @@
   "kids",
   "educational",
   "interactive",
-  "hands-on",
+  "handson",
   "kids",
-  "hands-on"
+  "handson"
  ],
  "source": [
   "TripAdvisor"
@@ -475,7 +532,9 @@
 },{
  "name": "SS American Victory Mariners' Memorial and Museum Ship",
  "address": "705 Channelside Dr",
- "avg_visitor_review": "4.0",
+ "avg_visitor_review": [
+  "4.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/14/47/d0/8c/outside-of-ship.jpg"
@@ -493,7 +552,9 @@
 },{
  "name": "Croc Encounters",
  "address": "8703 Bowles Rd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0c/5b/71/a6/croc-encounters.jpg"
@@ -511,7 +572,9 @@
 },{
  "name": "Sacred Heart Catholic Church",
  "address": "509 N Florida Ave",
- "avg_visitor_review": "5.0",
+ "avg_visitor_review": [
+  "5.0"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/08/57/ba/4b/beautiful-stained-glass.jpg"
@@ -528,7 +591,9 @@
 },{
  "name": "Wat Mongkolrata Temple",
  "address": "5306 Palm River Rd",
- "avg_visitor_review": "4.5",
+ "avg_visitor_review": [
+  "4.5"
+ ],
  "avg_time_spent": null,
  "photo_location": [
   "https://media-cdn.tripadvisor.com/media/photo-s/0d/f8/7b/1b/perspectiva.jpg"
@@ -546,15 +611,231 @@
  ],
  "reviews": []
 },{
- "name": "PK's PlayZone & Grille",
- "address": "10019 W Hillsborough Ave",
- "avg_visitor_review": 3.5,
+ "name": "Bird Island Living Breakwater",
+ "address": "Tampa Bay, Mandaree, ND 58757, USA",
+ "avg_visitor_review": [
+  4.666666666666667
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_WG-uWu0xnqfYQbYe64n-Cw.jpg"
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Pulpo Marisqueria Inc.",
+ "address": "10820 US Hwy 41 S, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tortilleria El Charro",
+ "address": "11011 US Hwy 41 S, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
  ],
  "tags": [
+  "experience"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tacos Y Tamales",
+ "address": "10920 US Hwy 41 S, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McDonald's",
+ "address": "9205 Gibsonton Dr, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  3.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dunkin'",
+ "address": "10608 East Bay Rd, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  2.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "family"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Four Stacks Brewing Company",
+ "address": "10656 New East Bay Rd, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "cheap"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rosemary Grill",
+ "address": "10660 New East Bay Rd, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zaxby's Chicken Fingers & Buffalo Wings",
+ "address": "10580 New East Bay Rd, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Baskin-Robbins",
+ "address": "10608 East Bay Rd, Gibsonton, FL 33534, USA",
+ "avg_visitor_review": [
+  1.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "drink"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cali Aji",
+ "address": "10662 US-301, Riverview, FL 33578, USA",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "food",
+  "food",
+  "family",
+  "food"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boyette Springs Park",
+ "address": "10419 Deepbrook Dr, Riverview, FL 33569, USA",
+ "avg_visitor_review": [
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "pets",
   "kids"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gigglewaters",
+ "address": "737 Main St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/4xtxZtqjdvxXSqv7DFIBJA/o.jpg"
+ ],
+ "tags": [
+  "food"
  ],
  "source": [
   "Yelp"
@@ -563,10 +844,12 @@
 },{
  "name": "Bayshore Linear Park Trail",
  "address": "312 Bayshore Blvd",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_ALI7emV1MbnjytCsNzEqqQ.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/PobtPYZlYPyj0sSu-JZVjw/o.jpg"
  ],
  "tags": [
   "run",
@@ -578,30 +861,37 @@
  ],
  "reviews": []
 },{
- "name": "Topgolf",
- "address": "10690 Palm River Rd",
- "avg_visitor_review": 4.0,
+ "name": "Grand Prix Tampa",
+ "address": "14320 N Nebraska Ave",
+ "avg_visitor_review": [
+  2.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_HuawlT4tXzCXL8ftyvCZ0Q.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/99e3hULLzS3eLYnLypvCeQ/o.jpg"
  ],
  "tags": [
-  "experience",
-  "food"
+  "cheap",
+  "kids"
  ],
  "source": [
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Pier 60 Sugar Sand Festival",
- "address": "7 Causeway Blvd",
- "avg_visitor_review": 4.5,
+ "name": "Caladesi Island State Park",
+ "address": "1 Causeway Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Pauipn8WPhEh-b2ahWw2ig.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/jYIQh2phrzKEc45lktbRGg/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "experience",
+  "hike"
+ ],
  "source": [
   "Yelp"
  ],
@@ -609,13 +899,14 @@
 },{
  "name": "Tampa Bay Grand Prix",
  "address": "12350 Automobile Blvd",
- "avg_visitor_review": 3.75,
+ "avg_visitor_review": [
+  4.0,
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  [
-   "../data/Photographs/yelp_image_stOjzKYiIjZHEtceePX46A.jpg"
-  ],
-  "../data/Photographs/yelp_image_Tq5Ri8FbpdoBdgM5ju1IvA.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/lQJdoUDLuk1lZ6NAlK_oNg/o.jpg",
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ces-koIDF0yW-JmVgcxCgQ/o.jpg"
  ],
  "tags": [
   "experience"
@@ -628,163 +919,14 @@
  ],
  "reviews": []
 },{
- "name": "On Swann",
- "address": "1501 W Swann Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_hExi86DTBlmIhB2FLvqrHg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sunsets at Pier 60",
- "address": "10 Pier 60 Dr",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_7YWMzI0VM_MyVGmktJcveg.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sarasota Jungle Gardens",
- "address": "3701 Bay Shore Rd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_7MxEct6LGIp-ivOGTBpVOQ.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tampa Museum of Art",
- "address": "120 W Gasparilla Plz",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_uoBmv4LIzOk6C-40MUVMuw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cooper's Hawk Winery & Restaurants - Tampa",
- "address": "4110 W Boy Scout Blvd",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_uYMVRPYEqpmVXWN2xOs5KQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Julian B. Lane Riverfront Park",
- "address": "1001 N Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_tA4igim9d4BTb_i0dD5QfQ.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cheese Please",
- "address": "3225 S MacDill Ave",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_MnjCw3oaM0Hq39bjONDU0Q.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Green Lemon",
- "address": "915 S Howard Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_H26zRyQkXXYzUZUOtppFcA.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Empower Adventures Tampa Bay",
- "address": "423 Lafayette Blvd",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_0XazM8VIswiJZ4-96raOjQ.jpg"
- ],
- "tags": [
-  "energy"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Coppertail Brewing Co",
- "address": "2601 E 2nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_9KiDjwHiQbHBV6iSTvIz7Q.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "eBOATS Tampa",
- "address": "333 S  Franklin St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_XPXyQZUlSeyP7U9x6EzXZw.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Flatwoods Park",
  "address": "42540 Bruce B Downs Blvd",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_jDgm0ntUSNj3meVCy1d6Ew.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Y3yCLsNuw_IutDFz8vjd_Q/o.jpg"
  ],
  "tags": [
   "walk",
@@ -795,74 +937,14 @@
  ],
  "reviews": []
 },{
- "name": "Edison: Food+Drink Lab",
- "address": "912 W Kennedy Blvd",
- "avg_visitor_review": 4.0,
+ "name": "Cheese Please",
+ "address": "3225 S MacDill Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_wIz_tZ88bj4W3VlrJTiiqQ.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "delicious"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Horse Power for Kids",
- "address": "8005 Race Track Rd S",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_fWsqniY9yRYEn9QlwUi2bA.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fun Lan Drive In Theatre",
- "address": "2302 E Hillsborough Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_UzPyocL2CE7cUQCXRjbb-Q.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lowry Parcade & Tavern",
- "address": "1213 W Waters Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_4MY3w1Spq0LFxLKmIkGRWg.jpg"
- ],
- "tags": [
-  "drink"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Murder House",
- "address": "1400 N Channelside Dr",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_sH7cZAjbzvrpiTudvwluHg.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/ivtkSP99mpZ4ULhAJ9vu1w/o.jpg"
  ],
  "tags": [],
  "source": [
@@ -870,12 +952,119 @@
  ],
  "reviews": []
 },{
- "name": "Gigglewaters",
- "address": "737 Main St",
- "avg_visitor_review": 4.5,
+ "name": "A Boat Day",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_htJyj7N2_QqVUAvXCK9aXA.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/1x_fNKPevtNdL1xQWRxo0Q/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Vertical Ventures",
+ "address": "5402 Pioneer Park Blvd",
+ "avg_visitor_review": [
+  4.5,
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Arybze3G7TWbYw6IPVhc5A/o.jpg",
+  "https://s3-media3.fl.yelpcdn.com/bphoto/5A3xFoJN3W1y5kX496Iwdw/o.jpg"
+ ],
+ "tags": [
+  "learn",
+  "family"
+ ],
+ "source": [
+  [
+   "Yelp"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Raider Axe Lodge",
+ "address": "5018 N Coolidge Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/FML28BkEOS-3GsYRiRYSzw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bury the Hatchet",
+ "address": "939 Oakfield Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/CSSUiwOfzrKI_QeWjYPb2w/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Weedon Island Preserve",
+ "address": "1800 Weedon Dr NE",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/X_EP7OK-iKqc8kgpXrEnHg/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Odyssey Cruises",
+ "address": "776 Dodecanese Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/2JxHL6GOcFTDdRnEResDQw/o.jpg"
+ ],
+ "tags": [
+  "experience",
+  "knowledgeable"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Improv Comedy Club",
+ "address": "1600 E 8th Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/5NzRJmhaQRLrICPJr2otKQ/o.jpg"
  ],
  "tags": [
   "food"
@@ -885,14 +1074,34 @@
  ],
  "reviews": []
 },{
- "name": "Altitude Trampoline Park",
- "address": "4340 West Hillsborough Ave",
- "avg_visitor_review": 3.5,
+ "name": "PedalPub St Petersburg",
+ "address": "1975 3rd Ave S",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_e1L8B0LggAay_zp_s73sXA.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Uilk7n9kKsiYKkv6Jb8FyQ/o.jpg"
  ],
  "tags": [
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Airosphere",
+ "address": "622 Ware Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Tgw--xDxelJmeOo9HVe_Gg/o.jpg"
+ ],
+ "tags": [
+  "kids",
   "kids"
  ],
  "source": [
@@ -900,16 +1109,50 @@
  ],
  "reviews": []
 },{
- "name": "Bay Area Renaissance Festival",
- "address": "11315 N 46th St",
- "avg_visitor_review": 3.5,
+ "name": "Clearwater Marine Aquarium",
+ "address": "249 Windward Passage",
+ "avg_visitor_review": [
+  3.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_7xLfsijRbCKcgj7zFaaEsA.jpg"
+  "https://s3-media1.fl.yelpcdn.com/bphoto/7ewnSpJ0wlhXlWzMGdRzGw/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Breakout's Imagine Escape Rooms",
+ "address": "2830 E Bearss Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Z7n_4D5bQcrb24gummfYxw/o.jpg"
  ],
  "tags": [
-  "delicious",
-  "food"
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cracker Country",
+ "address": "4800 Hwy 301 N",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/YXL6w2a5klB_1Sox-6FpyA/o.jpg"
+ ],
+ "tags": [
+  "historic",
+  "learn"
  ],
  "source": [
   "Yelp"
@@ -918,10 +1161,12 @@
 },{
  "name": "Captain Memo's Pirate Cruise",
  "address": "25 Causeway Blvd",
- "avg_visitor_review": 4.5,
+ "avg_visitor_review": [
+  4.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_3WKZeairiRsT7cMwn_1m4A.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/e6JCKpFdR3ZziFP2VcRtcA/o.jpg"
  ],
  "tags": [
   "experience",
@@ -933,70 +1178,33 @@
  ],
  "reviews": []
 },{
- "name": "Florida Orange Groves Winery",
- "address": "1500 Pasadena Ave S",
- "avg_visitor_review": 4.5,
+ "name": "Tampa Museum of Art",
+ "address": "120 W Gasparilla Plz",
+ "avg_visitor_review": [
+  3.5
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_yLO54UaaFeX4xn51Dfdh6Q.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/iiHDa0W7Kxy3GByX-OMSiA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Brew Tours By Thirsty Pelican",
+ "address": "7701 Blind Pass Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/FPnUHMj5Vx3uEQy-VQlh1g/o.jpg"
  ],
  "tags": [
   "experience"
  ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The C House",
- "address": "6005 N Florida Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_5JiFbBsbUdb-caBZWRyMSw.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "EG Simmons Park",
- "address": "2401 19th Ave NW",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_So_GzPoVBLo5GvRPJ8_ong.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Odyssey Cruises",
- "address": "776 Dodecanese Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_DIq0PN_L67ccOLiirWz8Uw.jpg"
- ],
- "tags": [
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Villagio Cinemas",
- "address": "11778 N Dale Mabry Hwy",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_WQ832PDnsDshhbQFm83ISg.jpg"
- ],
- "tags": [],
  "source": [
   "Yelp"
  ],
@@ -1004,209 +1212,15 @@
 },{
  "name": "Capt Jared",
  "address": "",
- "avg_visitor_review": 5.0,
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_Aau1q3xEeXzMbeoMGd_WvA.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/no68paLU9iuyfZ0o93lC2g/o.jpg"
  ],
  "tags": [
   "experience",
-  "experience"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Social House",
- "address": "6310 N Florida Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_LtX0VinSVVba0dUAKg2dhw.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "George Steinbrenner Field",
- "address": "1 Steinbrenner Dr",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_nl60kTdUtKs8L_DfnD4i7A.jpg"
- ],
- "tags": [
-  "energy",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Besito Mexican Restaurant",
- "address": "205 Westshore Plz",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_KP5OncF2jhT7_J1phHPPww.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Boca - Tampa",
- "address": "901 W Platt St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_MI7cUsPiQGYQRuQmn3MbtA.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Tropics Boat Tours",
- "address": "25 Causeway Blvd",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_ok17sZWhUiH6e48Wv1bk7g.jpg"
- ],
- "tags": [
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Shops at Wiregrass",
- "address": "28211 Paseo Dr",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_CGijrmxQjVj1sLJfTFtm4Q.jpg"
- ],
- "tags": [
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Bricks",
- "address": "1327 E 7th Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_dIpTuL2T1L98GQGU17IeSw.jpg"
- ],
- "tags": [
-  "drink",
-  "food"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Vertical Ventures",
- "address": "116 18th St S",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_6FnExlrZpopo3PiVmZl8dg.jpg"
- ],
- "tags": [
-  "learn",
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Circles Waterfront at Lands End Marina",
- "address": "1212 Apollo Beach Blvd",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_Dzm1y59cLFt8OjTsZRUC6w.jpg"
- ],
- "tags": [
-  "food",
-  "experience",
-  "family"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cracker Country",
- "address": "4800 Hwy 301 N",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_yayRBmUIVukcuAduT_7aWA.jpg"
- ],
- "tags": [
-  "historic",
-  "learn"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Parkesdale Farm Market",
- "address": "3702 W Baker St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_PEYgtOhGVoBoWwTJJg4M7A.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Philippe Park",
- "address": "2525 Philippe Pkwy",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_6byjkJsPtms6I0h5tkxQ5A.jpg"
- ],
- "tags": [],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mixon Fruit Farms",
- "address": "2525 27th St E",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": [
-  "../data/Photographs/yelp_image_O5-sBpAzUdQq7B6iB3ckgQ.jpg"
- ],
- "tags": [
   "experience"
  ],
  "source": [
@@ -1216,14 +1230,16 @@
 },{
  "name": "Ruskin Family Drive-In Theater",
  "address": "5011 US Hwy 41 N",
- "avg_visitor_review": 4.0,
+ "avg_visitor_review": [
+  4.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_b_WMjlfeTkDSNAmo_kMJ2w.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/HC_fwsemN0L8U_0KgdLYZA/o.jpg"
  ],
  "tags": [
-  "experience",
   "family",
+  "experience",
   "family"
  ],
  "source": [
@@ -1231,17 +1247,349 @@
  ],
  "reviews": []
 },{
- "name": "Mermaid Tavern",
- "address": "6719 N Nebraska Ave",
- "avg_visitor_review": 4.0,
+ "name": "Tampa Bay Sup Stand Up Paddleboarding & Kayaking",
+ "address": "110 Veterans Memorial Ln",
+ "avg_visitor_review": [
+  5.0
+ ],
  "avg_time_spent": null,
  "photo_location": [
-  "../data/Photographs/yelp_image_pNN5ggRc5KUBsnIzDdf_2A.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/ZTC-gMN76S8uhIzGvehbsA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Florida Orange Groves Winery",
+ "address": "1500 Pasadena Ave S",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/dshWRET9Kq7Eh5V_dOSmkg/o.jpg"
  ],
  "tags": [
-  "food",
-  "walk",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Shops at Wiregrass",
+ "address": "28211 Paseo Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/wF5MCLiPqdlTcTaKQeEfvA/o.jpg"
+ ],
+ "tags": [
   "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Florida Botanical Gardens",
+ "address": "12520 Ulmerton Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/btR7FtqmJAH4RxhDoc_F0w/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Parkesdale Farm Market",
+ "address": "3702 W Baker St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/M2U0qYuwF1TRyXLC627HXQ/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sarasota Jungle Gardens",
+ "address": "3701 Bay Shore Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/oVPsShwhSwkEm5sfVImZWA/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Philippe Park",
+ "address": "2525 Philippe Pkwy",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/5-w0y4Qt0a0st-pGaX9sVA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bay Area Renaissance Festival",
+ "address": "11315 N 46th St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/diXeEZKZ3OaqZohsMsUQmA/o.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Electric Glide Tours",
+ "address": "1805 E 9th Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/hIFIknzEbia9xSHJpdpWAQ/o.jpg"
+ ],
+ "tags": [
+  "experience",
+  "history",
+  "experience",
+  "experience"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Coconut Kayak Tours",
+ "address": "719 Gulf Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/KSVGU5iu8yZBWIEQ2VpQtA/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Trey Rod Fishing Charters",
+ "address": "5108 W Gandy Blvd Tampa",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/tiTy_0k2BQXxfDX-jiaigg/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tarpon Springs Aquarium",
+ "address": "850 Dodecanese Blvd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/1iCQKb7qhgPXyvwtZAGvoA/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Julian B. Lane Riverfront Park",
+ "address": "1001 N Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/hH2cOHGq6jpJk_df1BCX1w/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "PK's PlayZone & Grille",
+ "address": "10019 W Hillsborough Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/PyJSBt_Ze1iMNYkojtxwFA/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Worlds Largest Food Truck Rally EVER",
+ "address": "4800 US Hwy 301 N",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/VbYhKF23ymVLHLjL0yTVmw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cypress Breeze Farm",
+ "address": "8690 60th St N",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/2GShSLqteCXzQ1Scwm0OxQ/o.jpg"
+ ],
+ "tags": [
+  "peaceful",
+  "experience",
+  "experience",
+  "learn"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Gasparilla Pirate Festival",
+ "address": "Bayshore Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/rWByjqA3-gxAuvW61s2C9w/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Carrollwood Village Park",
+ "address": "4680 W Village Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/1zPXYUIkrJjI896XzRP92A/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Horse Power for Kids",
+ "address": "8005 Race Track Rd S",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/xV5qJxpt1048fmqPZOkzFQ/o.jpg"
+ ],
+ "tags": [],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Indian Rocks Beach",
+ "address": "1700 Gulf Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/F9rbORdAteFpH4m0MdTc0A/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dolphin Racer Speedboat",
+ "address": "3400 Pasadena Ave S",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/sXBo9pLuMOJyOs_K_OCknQ/o.jpg"
+ ],
+ "tags": [
+  "experience"
  ],
  "source": [
   "Yelp"

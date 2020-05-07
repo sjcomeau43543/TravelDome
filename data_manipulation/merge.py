@@ -45,26 +45,27 @@ class Merger:
                                 if ']' in actobj.tags: actobj.tags.remove(']')
 
                                 if actobj.name not in merged_activities.keys():
-                                    print("not duplicate", actobj.name)
                                     # make lists of what would have become lists for consistency
                                     actobj.source = [actobj.source]
                                     actobj.photo_location = [actobj.photo_location]
+                                    actobj.avg_visitor_review = [actobj.avg_visitor_review]
 
                                     merged_activities[actobj.name] = actobj
                                     actobj = 0
                                 else:
-                                    print("duplicate", actobj.name)
                                     ## handle duplicates
                                     # use more detailed address
                                     actobj.address = merged_activities[actobj.name].address if len(merged_activities[actobj.name].address) > len(actobj.address) else actobj.address
 
-                                    # average the visitor reviews
-                                    actobj.avg_visitor_review = (float(actobj.avg_visitor_review) + float(merged_activities[actobj.name].avg_visitor_review)) / 2
+                                    # average the visitor reviews                               
+                                    actobj.avg_visitor_review = [actobj.avg_visitor_review]
+                                    for rev in merged_activities[actobj.name].avg_visitor_review:
+                                        actobj.avg_visitor_review.append(rev)
 
                                     # TODO time spent
                                     ### default to the second source
                                     
-                                    # list of photos                               
+                                    # list of photos
                                     actobj.photo_location = [actobj.photo_location]
                                     for loc in merged_activities[actobj.name].photo_location:
                                         actobj.photo_location.append(loc)
