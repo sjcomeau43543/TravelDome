@@ -38,7 +38,7 @@ function loadFile(filename, callback) {
     var xobj = new XMLHttpRequest();
 
     xobj.overrideMimeType("application/json");
-    xobj.open("GET", "../../"+filename, true); // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
+    xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true); // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
     xobj.onreadystatechange = function () {
         if(xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
