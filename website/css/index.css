@@ -43,6 +43,14 @@ e4c5af - p
     padding: 10px;
 }
 
+.itineraryContainer, .resultsContainer {
+    margin-top: 10px;
+}
+
+.resultsContainer {
+    border-right: 5px solid black;
+}
+
 .sams-information {
     color: #585858;
     font-size: 12px;

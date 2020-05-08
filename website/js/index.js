@@ -24,7 +24,7 @@ var locations = new Array();
 var USERdestination;
 var USERadjectives = [];
 var USERitinerary = [];
-var USERrecommendations;
+var USERrecommendations = [];
 
 // page state
 var page_state = 1; // 1: search, 2: results, 3: itinerary
@@ -673,7 +673,6 @@ function generateRecommendations(){
                     var div = activityDiv(USERrecommendations[r], true);
 
                     container.appendChild(div);
-                    container.appendChild(document.createElement("BR"));
                 }
 
             }
@@ -717,7 +716,6 @@ function generateSecondaryRecommendations(originalActivity){
         var div = activityDiv(cleaned_recommendations[r], true);
 
         container.appendChild(div);
-        container.appendChild(document.createElement("BR"));
     } 
 }
 
@@ -737,18 +735,52 @@ function addActivity(originalActivity){
         }
     }
 
+    // move to sidebar
+    if(add) {
+        var containerto = document.getElementById("itineraryContainer");
+        var containerfrom = document.getElementById("resultsContainer");
+    } else {
+        var containerto = document.getElementById("resultsContainer");
+        var containerfrom = document.getElementById("itineraryContainer");
+    }
+
+    var index = locations.indexOf(USERdestination);
+    var activity_information = "";
+    for(var j=0; j<merged_location_data[index].length; j++){
+        if (originalActivity === merged_location_data[index][j].name){
+            activity_information = merged_location_data[index][j];
+            break;
+        }
+    }
+
+    if(containerto.childNodes.length){
+        // add to top of list
+        containerto.insertBefore(activityDiv(activity_information, true), containerto.childNodes[0]);
+    } else {
+        // just add
+        containerto.appendChild(activityDiv(activity_information, true));
+    }
+
+    //remove from original
+    for(var e=0; e<containerfrom.childNodes.length; e++){
+        if(containerfrom.childNodes[e].innerHTML.includes(originalActivity)){
+            containerfrom.removeChild(containerfrom.childNodes[e]);
+        }
+    }
     
     // edit itinerary
     if(add) {
         for(var i=0; i<USERrecommendations.length; i++){
             if(USERrecommendations[i].name === originalActivity) {
                 USERitinerary.push(USERrecommendations[i]);
+                USERrecommendations.splice(i, 1);
                 break;
             }
         }
     } else {
         for(var i=0; i<USERitinerary.length; i++){
             if(USERitinerary[i].name === originalActivity) {
+                USERrecommendations.push(USERitinerary[i]);
                 USERitinerary.splice(i, 1);
                 break;
             }
@@ -799,7 +831,6 @@ function generateItinerary(){
                     var div = activityDiv(USERitinerary[r], false);
 
                     container.appendChild(div);
-                    container.appendChild(document.createElement("BR"));
                 }
 
             }
@@ -854,35 +885,35 @@ function backToResults(){
     if(USERdestination === "" || USERadjectives.length === 0){
         document.getElementById("errormsg").innerHTML = "You need to select a destination and at least one adjective to describe yourself.";
     } else {
-        // load new page
-        var page = document.getElementById("pageContainerMain");
-        var page_loaded = false;
-        loadFile("website/results.html", function(response) {
-            page.innerHTML = response;
-            page_loaded = true;
-        });
+        if(USERrecommendations.length === 0){
+            generateRecommendations();
+        } else {
+            // load new page
+            var page = document.getElementById("pageContainerMain");
+            var page_loaded = false;
+            loadFile("website/results.html", function(response) {
+                page.innerHTML = response;
+                page_loaded = true;
+                page_state = 2;
+            });
 
-        // get activities
-        var recommendations = queryII(USERdestination, USERadjectives);
-        USERrecommendations = recommendations;
+            // wait for page to be loaded
+            var timeout = setInterval(function(){
+                if(page_loaded){
+                    clearInterval(timeout);
+                    
+                    // load the UI
+                    // put results from II in
+                    var container = document.getElementById("resultsContainer");
+                    for (var r=0; r<USERrecommendations.length; r++){
+                        var div = activityDiv(USERrecommendations[r], true);
 
-        // wait for page to be loaded
-        var timeout = setInterval(function(){
-            if(page_loaded){
-                clearInterval(timeout);
-                
-                // load the UI
-                // put results from II in
-                var container = document.getElementById("resultsContainer");
-                for (var r=0; r<recommendations.length; r++){
-                    var div = activityDiv(recommendations[r], true);
+                        container.appendChild(div);
+                    }
 
-                    container.appendChild(div);
-                    container.appendChild(document.createElement("BR"));
                 }
-
-            }
-        }, 100);
+            }, 100);
+        }
 
     } 
 }
