@@ -56,6 +56,11 @@ e4c5af - p
     color: #585858;
     font-size: 12px;
 }
+.sams-secondary-reason {
+    color: #585858;
+    font-size: 12px;
+    margin-bottom: -10px;
+}
 .sams-title {
 }
 .sams-input {

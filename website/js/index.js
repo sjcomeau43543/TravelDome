@@ -82,7 +82,7 @@ function loadResults(){
         // if we don't have recommendations yet get some
         if (somethingChanged){
             somethingChanged = false;
-            generateRecommendations();
+            USERrecommendations = generateRecommendations();
         }
 
         // load new page
@@ -680,7 +680,6 @@ function activityDiv(activity, plusminus) {
 
     // source
     var a = document.createElement("a");
-    console.log(activity);
     a.setAttribute("href", activity.link[0]);
     a.setAttribute("class", "sams-links-activities");
     var irow = document.createElement("div");
@@ -773,9 +772,10 @@ function generateRecommendations(){
     var recommendations = queryII(USERdestination, USERadjectives);
 
     // rank the recommendations
-    USERrecommendations = rank(recommendations);
+    recommendations = rank(recommendations);
 
-    return USERrecommendations;
+    // return top 10 at a time
+    return recommendations.slice(0,10);
 }
 
 /*
@@ -796,22 +796,33 @@ function generateSecondaryRecommendations(originalActivity){
                 // has already been recommended
                 break;
             } else if (USERrecommendations.length === (j+1)) {
-                // being recommended now
-                USERrecommendations.push(recommendations[i]);
-                cleaned_recommendations.push(recommendations[i]);
+                //check itinerary
+                for(var j=0; j < USERitinerary.length; j++){
+                    if(USERitinerary[j].name === recommendations[i].name) {
+                        // has already been recommended
+                        break;
+                    } else if (USERitinerary.length === (j+1)) {
+                        // is it in our location
+                        var index = locations.indexOf(USERdestination);
+                        var activity_information = "";
+                        for(var j=0; j<merged_location_data[index].length; j++){
+                            if (recommendations[i].name === merged_location_data[index][j].name){
+                                // being recommended now
+                                USERrecommendations.push(recommendations[i]);
+                                cleaned_recommendations.push(recommendations[i]);
+                                break;
+                            }
+                        }
+                    }
+                }
                 break;
             }
         }
         
+        
     }
 
-    // put results from clusters in
-    var container = document.getElementById("resultsContainer");
-    for (var r=0; r<cleaned_recommendations.length; r++){
-        var div = activityDiv(cleaned_recommendations[r], true);
-
-        container.appendChild(div);
-    } 
+    return cleaned_recommendations;
 }
 
 /*
@@ -848,12 +859,36 @@ function addActivity(originalActivity){
         }
     }
 
+
+    act_div = activityDiv(activity_information, true);
+
+    if(add) {
+        // add recommendations
+        var becauseyouliked = generateSecondaryRecommendations(originalActivity);
+
+        // dupes already removed
+        for(var newrec=0; newrec<becauseyouliked.length; newrec++){
+            // the recommendation
+            var activ = activityDiv(becauseyouliked[newrec], true);
+
+            // add text
+            var text = document.createElement("p");
+            text.setAttribute("class", "sams-secondary-reason");
+            var texte = document.createTextNode("Because you liked "+originalActivity);
+            text.appendChild(texte);
+            activ.insertBefore(text, activ.childNodes[0]);
+
+            // add to the container
+            containerfrom.insertBefore(activ, containerfrom.childNodes[0]);
+        }
+    }
+
     if(containerto.childNodes.length){
         // add to top of list
-        containerto.insertBefore(activityDiv(activity_information, true), containerto.childNodes[0]);
+        containerto.insertBefore(act_div, containerto.childNodes[0]);
     } else {
         // just add
-        containerto.appendChild(activityDiv(activity_information, true));
+        containerto.appendChild(act_div);
     }
 
     //remove from original
@@ -891,8 +926,6 @@ function addActivity(originalActivity){
         icon.setAttribute("class", "sams-icons sams-plus");
     }
 
-    // add recommendations
-    generateSecondaryRecommendations(originalActivity);
 
 }
 
