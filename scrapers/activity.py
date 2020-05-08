@@ -38,7 +38,7 @@ class Activity:
             self.tags.extend(self.tag(reviews))
 
     def tag(self, reviews):
-        if(len(reviews)):
+        if(reviews):
             with open('adjectives_extended.txt', 'r') as f:
                 adjs = [adj.strip(',') for adj in f.read().split()]
 
@@ -58,6 +58,8 @@ class Activity:
                         tags.extend(list(words & set(adjs))) 
 
                 return tags
+        else:
+            return []
 
     def encode(self):
         return {"name":self.name,

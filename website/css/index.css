@@ -43,11 +43,12 @@ e4c5af - p
     padding: 10px;
 }
 
-.itineraryContainer, .resultsContainer {
+.itineraryContainer {
     margin-top: 10px;
 }
 
 .resultsContainer {
+    margin-top: 10px;
     border-right: 5px solid black;
 }
 
