@@ -1,16 +1,17 @@
 '''
 Author:        Eda
-Last modified: 5.07.2020 by ez
+Last modified: 5.08.2020 by ez
 Status:        In progress
 
-Given a query (of the format below), returns ranked results (activities)
+Given a query (of the format below), gets ranked results (activities) and the quality of the results
 
 Query must be in the form ["location", "adjective1", "adjective2", ...]
     - The adjectives are the MAIN adjectives and their synonyms will be obtained
     from the ../scrapers/adjectives_extended.txt file
     - Example: ["BostonMA", "frugal", "foodie", "creative"]
 '''
-import json
+import json, requests, re
+import bs4 as BeautifulSoup
 
 # limit specifies what number of the top results should be returned
 # -1 (default) indicates to return ALL results that match query
@@ -93,10 +94,51 @@ def rank(act_data, adjs):
     ranked_act = [pair[1] for pair in scores]
     return ranked_act
 
+# Gived the original query and the ranked results, generates a quality score 0-1 (1 being perfect, 0 being terrible)
+# Quality is rated by looking at the first 5 google search results for 'activities' + location. Points are given based on what page activities show up on (1 for first page, 1/2 for second, 1/3 for third, etc.) or 0 if it doesn't ever appear
+# The score is normalized at the end by dividing by the max score (len(ranked_acts))
+def get_quality(query, ranked_acts):
+    result_names = []
+    for r in ranked_acts:
+        result_names.append(r['name'])
+    print(result_names, len(result_names))
+    # ---- Generate Google search URL---- #
+    url = 'https://www.google.com/search?q='
+    # this is for querying the adjectives as well
+    # for i in range(1, len(query)):
+    #     url = url + query[i] + '+'
+    url = url + 'activities+' + query[0]
+
+    # ---- Seach first 5 Google search pages for terms---- #
+    quality = 0
+    for page in range(1, 6):
+        response = requests.get(url)
+        if not response.ok:
+            print("Oops, something went wrong with GET and/or url: ", url)
+            return None
+
+        soup = BeautifulSoup.BeautifulSoup(response.text, features="html.parser")
+        for name in result_names[:]: # copy of result_names so we can remove it from the original
+            if soup.find(text=re.compile(name)): # if name on page
+                print('found: ' + name)
+                quality += (1 / page)
+                result_names.remove(name)
+
+        next_page = soup.find('a', attrs={'aria-label':'Next page'})
+        if not next_page:
+            break
+        url = 'https://www.google.com' + next_page['href']
+        print(quality, page)
+
+    score = quality / len(ranked_acts)
+    return score
+
 def main(): # this is just for testing :)
-    query = ["BostonMA", "frugal", "foodie", "creative"]
-    results = get_activities(query, 2)
-    print(results)
+    # query = ["BostonMA", "frugal", "foodie", "creative"]
+    query = ["BostonMA", "scholarly"]
+    results = get_activities(query)
+    score = get_quality(query, results)
+    print('Quality Score: ', score)
     return
 
 if __name__ == '__main__':
