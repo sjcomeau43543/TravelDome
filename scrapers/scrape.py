@@ -25,6 +25,7 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-y", "--yelp", action="store_true", default=False, help="Scrape Yelp")
+    parser.add_argument("-n", "--nps", action="store_true", default=False, help="Scrape National Parks Services")
     parser.add_argument("-g", "--maps", action="store_true", default=False, help="Scrape GoogleMaps")
     parser.add_argument("-t", "--tripadvisor", action="store_true", default=False, help="Scrape TripAdvisor")
     parser.add_argument("-l", "--locations", help="locations.txt file", required=True)
@@ -39,6 +40,11 @@ def main():
         locations = locations_file.readlines()
 
     # manage imports
+    if args.nps:
+        # import NPS
+        from scraper_nps import NPS
+        npsscraper = NPS()
+
     if args.yelp:
         # get credentials
         with open(args.yelpconfig, "r") as config:
@@ -59,6 +65,22 @@ def main():
 
     for location in locations:
         [city, state] = location.strip('\n').split(',')
+
+        if args.nps:
+            # NPS
+            print("Scraping National Parks Services for", city, state)
+
+            # Scrape
+            activities = npsscraper.scrape(city, state)
+
+            if args.write:
+                with open("../data/NPS/"+city+state+".json", "w") as outfile:
+                    outfile.write("[\n")
+                    for activity in activities:
+                        json.dump(activity.encode(), outfile, indent=1)
+                        if activity != activities[-1]:
+                            outfile.write(",")
+                    outfile.write("]\n")
 
         if args.yelp:
             # Yelp

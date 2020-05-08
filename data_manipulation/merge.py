@@ -47,6 +47,7 @@ class Merger:
                                 if actobj.name not in merged_activities.keys():
                                     # make lists of what would have become lists for consistency
                                     actobj.source = [actobj.source]
+                                    actobj.link = [actobj.link]
                                     actobj.photo_location = [actobj.photo_location]
                                     actobj.avg_visitor_review = [actobj.avg_visitor_review]
 
@@ -77,6 +78,9 @@ class Merger:
 
                                     # list of sources
                                     actobj.source = [merged_activities[actobj.name].source, actobj.source]
+
+                                    # list of links
+                                    actobj.link = [merged_activities[actobj.name].link, actobj.link]
 
                                     # replace the old entry
                                     merged_activities[actobj.name] = actobj

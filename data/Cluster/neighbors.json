@@ -659,6 +659,468 @@
    1.4142135623730951
   ]
  ],
+ "Adams": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Appalachian": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Blackstone River Valley": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Boston": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Boston African American": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Boston Harbor Islands": [
+  [
+   "New England",
+   1.4142135623730951
+  ],
+  [
+   "Saugus Iron Works",
+   1.4142135623730951
+  ],
+  [
+   "Springfield Armory",
+   1.4142135623730951
+  ],
+  [
+   "The Last Green Valley",
+   1.4142135623730951
+  ],
+  [
+   "Gateway",
+   1.4142135623730951
+  ]
+ ],
+ "Cape Cod": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Essex": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Frederick Law Olmsted": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "John Fitzgerald Kennedy": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "John H. Chafee Blackstone River Valley": [
+  [
+   "John H. Chafee Blackstone River Valley",
+   0.0
+  ],
+  [
+   "New England",
+   1.0
+  ],
+  [
+   "Saugus Iron Works",
+   1.0
+  ],
+  [
+   "Springfield Armory",
+   1.0
+  ],
+  [
+   "The Last Green Valley",
+   1.0
+  ]
+ ],
+ "Longfellow House Washington's Headquarters": [
+  [
+   "Essex",
+   1.0
+  ],
+  [
+   "General Grant",
+   1.0
+  ],
+  [
+   "Hudson River Valley",
+   1.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   1.0
+  ],
+  [
+   "Saratoga",
+   1.0
+  ]
+ ],
+ "Lowell": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Minute Man": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "New Bedford Whaling": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "New England": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "Salem Maritime": [
+  [
+   "Fire Island",
+   0.0
+  ],
+  [
+   "Essex",
+   1.0
+  ],
+  [
+   "New England",
+   1.0
+  ],
+  [
+   "Saugus Iron Works",
+   1.0
+  ],
+  [
+   "Springfield Armory",
+   1.0
+  ]
+ ],
+ "Saugus Iron Works": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "Springfield Armory": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "The Last Green Valley": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "Washington-Rochambeau Revolutionary Route": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
  "Brookline Recreation Department": [
   [
    "Brookline Recreation Department",
@@ -5545,24 +6007,24 @@
  ],
  "Ellis Island": [
   [
-   "La Morra",
+   "Timucuan",
    1.4142135623730951
   ],
   [
-   "pokebab",
-   1.4142135623730951
+   "Essex",
+   1.7320508075688772
   ],
   [
-   "Hph Hospitality Group",
-   1.4142135623730951
+   "Chesapeake Bay",
+   1.7320508075688772
   ],
   [
-   "New York Vietnam Veterans Memorial Plaza",
-   1.4142135623730951
+   "General Grant",
+   1.7320508075688772
   ],
   [
-   "Taco Bell",
-   1.4142135623730951
+   "Hudson River Valley",
+   1.7320508075688772
   ]
  ],
  "St. Patrick's Cathedral": [
@@ -5783,6 +6245,710 @@
   [
    "Boston Harbor Walk",
    1.4142135623730951
+  ]
+ ],
+ "African Burial Ground": [
+  [
+   "New England",
+   1.0
+  ],
+  [
+   "Saugus Iron Works",
+   1.0
+  ],
+  [
+   "Springfield Armory",
+   1.0
+  ],
+  [
+   "The Last Green Valley",
+   1.0
+  ],
+  [
+   "Gateway",
+   1.0
+  ]
+ ],
+ "Captain John Smith Chesapeake": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Castle Clinton": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Chesapeake Bay": [
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ],
+  [
+   "Boston African American",
+   1.0
+  ]
+ ],
+ "Eleanor Roosevelt": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Erie Canalway": [
+  [
+   "New England",
+   1.0
+  ],
+  [
+   "Saugus Iron Works",
+   1.0
+  ],
+  [
+   "Springfield Armory",
+   1.0
+  ],
+  [
+   "The Last Green Valley",
+   1.0
+  ],
+  [
+   "Gateway",
+   1.0
+  ]
+ ],
+ "Federal Hall": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Fire Island": [
+  [
+   "Fire Island",
+   0.0
+  ],
+  [
+   "Essex",
+   1.0
+  ],
+  [
+   "New England",
+   1.0
+  ],
+  [
+   "Saugus Iron Works",
+   1.0
+  ],
+  [
+   "Springfield Armory",
+   1.0
+  ]
+ ],
+ "Fort Stanwix": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Gateway": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "General Grant": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Governors Island": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Hamilton Grange": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Harriet Tubman": [
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ],
+  [
+   "Boston African American",
+   1.0
+  ]
+ ],
+ "Home Of Franklin D Roosevelt": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Hudson River Valley": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Lower East Side Tenement Museum": [
+  [
+   "Salem Maritime",
+   1.0
+  ],
+  [
+   "Fire Island",
+   1.0
+  ],
+  [
+   "Timucuan",
+   1.0
+  ],
+  [
+   "Essex",
+   1.4142135623730951
+  ],
+  [
+   "New England",
+   1.4142135623730951
+  ]
+ ],
+ "Martin Van Buren": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "National Parks of New York Harbor": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Niagara Falls": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "North Country": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Sagamore Hill": [
+  [
+   "Saugus Iron Works",
+   0.0
+  ],
+  [
+   "Springfield Armory",
+   0.0
+  ],
+  [
+   "The Last Green Valley",
+   0.0
+  ],
+  [
+   "Gateway",
+   0.0
+  ],
+  [
+   "Sagamore Hill",
+   0.0
+  ]
+ ],
+ "Saint Paul's Church": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Saratoga": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Statue Of Liberty": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Stonewall": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Theodore Roosevelt Birthplace": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Theodore Roosevelt Inaugural": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Thomas Cole": [
+  [
+   "Bent's Old Fort",
+   1.0
+  ],
+  [
+   "Lyndon B Johnson",
+   1.0
+  ],
+  [
+   "Gullah/Geechee",
+   1.0
+  ],
+  [
+   "Adams",
+   1.4142135623730951
+  ],
+  [
+   "Appalachian",
+   1.4142135623730951
+  ]
+ ],
+ "Upper Delaware": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Vanderbilt Mansion": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Women's Rights": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
   ]
  ],
  "Gigino At Wagner Park": [
@@ -23209,6 +24375,358 @@
    1.4142135623730951
   ]
  ],
+ "Bent's Old Fort": [
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ],
+  [
+   "Boston African American",
+   1.0
+  ]
+ ],
+ "Black Canyon Of The Gunnison": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "California": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Colorado": [
+  [
+   "Rocky Mountain",
+   0.0
+  ],
+  [
+   "Guadalupe Mountains",
+   0.0
+  ],
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ]
+ ],
+ "Curecanti": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Dinosaur": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Florissant Fossil Beds": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Great Sand Dunes": [
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ],
+  [
+   "Boston African American",
+   1.0
+  ]
+ ],
+ "Hovenweep": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Mesa Verde": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Old Spanish": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Pony Express": [
+  [
+   "Adams",
+   1.4142135623730951
+  ],
+  [
+   "Appalachian",
+   1.4142135623730951
+  ],
+  [
+   "Blackstone River Valley",
+   1.4142135623730951
+  ],
+  [
+   "Boston",
+   1.4142135623730951
+  ],
+  [
+   "Boston African American",
+   1.4142135623730951
+  ]
+ ],
+ "Rocky Mountain": [
+  [
+   "Rocky Mountain",
+   0.0
+  ],
+  [
+   "Guadalupe Mountains",
+   0.0
+  ],
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ]
+ ],
+ "Sand Creek Massacre": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Santa Fe": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Yucca House": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
  "Governor Grant Park": [
   [
    "Bear Park",
@@ -26666,23 +28184,23 @@
  "Providence Children's Museum": [
   [
    "Veterans Park",
-   2.23606797749979
+   2.0
   ],
   [
    "Central Rock Gym",
-   2.23606797749979
+   2.0
   ],
   [
    "Squibb Park",
-   2.23606797749979
+   2.0
   ],
   [
    "Veterans Park",
-   2.23606797749979
+   2.0
   ],
   [
    "Museum of Science",
-   2.449489742783178
+   2.23606797749979
   ]
  ],
  "Providence Train Station": [
@@ -27101,6 +28619,50 @@
   [
    "Banjo Billy's Bus Tours",
    1.4142135623730951
+  ]
+ ],
+ "Roger Williams": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Touro Synagogue": [
+  [
+   "Essex",
+   1.0
+  ],
+  [
+   "General Grant",
+   1.0
+  ],
+  [
+   "Hudson River Valley",
+   1.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   1.0
+  ],
+  [
+   "Saratoga",
+   1.0
   ]
  ],
  "Four Town Farm": [
@@ -28455,15 +30017,15 @@
    1.7320508075688772
   ],
   [
-   "Ellis Island",
-   1.7320508075688772
-  ],
-  [
    "New York Vietnam Veterans Memorial Plaza",
    1.7320508075688772
   ],
   [
    "OfficeOps",
+   1.7320508075688772
+  ],
+  [
+   "Stranahan's Colorado Whiskey Tour",
    1.7320508075688772
   ]
  ],
@@ -28795,6 +30357,358 @@
   [
    "Castle Island Beach",
    1.0
+  ]
+ ],
+ "Alibates Flint Quarries": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Amistad": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Big Bend": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Big Thicket": [
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ],
+  [
+   "Boston African American",
+   1.0
+  ]
+ ],
+ "Chamizal": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "El Camino Real de los Tejas": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "El Camino Real de Tierra Adentro": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Fort Davis": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Guadalupe Mountains": [
+  [
+   "Rocky Mountain",
+   0.0
+  ],
+  [
+   "Guadalupe Mountains",
+   0.0
+  ],
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ]
+ ],
+ "Lake Meredith": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Lyndon B Johnson": [
+  [
+   "Gullah/Geechee",
+   0.0
+  ],
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ]
+ ],
+ "Padre Island": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Palo Alto Battlefield": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Rio Grande": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "San Antonio Missions": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Waco Mammoth": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
   ]
  ],
  "Fanoosh - Burgers & Bites": [
@@ -33481,6 +35395,270 @@
   [
    "Habanero Caf\u00e9",
    1.4142135623730951
+  ]
+ ],
+ "Big Cypress": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Biscayne": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Canaveral": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Castillo de San Marcos": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "De Soto": [
+  [
+   "General Grant",
+   0.0
+  ],
+  [
+   "Hudson River Valley",
+   0.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   0.0
+  ],
+  [
+   "Saratoga",
+   0.0
+  ],
+  [
+   "Theodore Roosevelt Inaugural",
+   0.0
+  ]
+ ],
+ "Dry Tortugas": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Everglades": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Fort Caroline": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Fort Matanzas": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Gulf Islands": [
+  [
+   "Appalachian",
+   0.0
+  ],
+  [
+   "Blackstone River Valley",
+   0.0
+  ],
+  [
+   "Boston",
+   0.0
+  ],
+  [
+   "Boston African American",
+   0.0
+  ],
+  [
+   "Cape Cod",
+   0.0
+  ]
+ ],
+ "Gullah/Geechee": [
+  [
+   "Gullah/Geechee",
+   0.0
+  ],
+  [
+   "Adams",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Blackstone River Valley",
+   1.0
+  ],
+  [
+   "Boston",
+   1.0
+  ]
+ ],
+ "Timucuan": [
+  [
+   "Essex",
+   1.0
+  ],
+  [
+   "General Grant",
+   1.0
+  ],
+  [
+   "Hudson River Valley",
+   1.0
+  ],
+  [
+   "Lower East Side Tenement Museum",
+   1.0
+  ],
+  [
+   "National Parks of New York Harbor",
+   1.0
   ]
  ],
  "Bird Island Living Breakwater": [

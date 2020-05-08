@@ -25,7 +25,7 @@ class Activity:
     def __init__(self):
         pass
 
-    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, reviews=[], tags=[], get_tags=False):
+    def __init__(self, name, address, avg_visitor_review, avg_time_spent, photo_location, source, link=None, reviews=[], tags=[], get_tags=False):
         self.name = name
         self.address = address
         self.avg_visitor_review = avg_visitor_review
@@ -33,27 +33,30 @@ class Activity:
         self.photo_location = photo_location
         self.source = source
         self.reviews = reviews
+        self.link = link
         self.tags = tags 
         if get_tags:
-            self.tags = self.tag(reviews)
+            self.tags.extend(self.tag(reviews))
 
     ''' 
     Eda's stuff moved from tag.py
     '''
     def tag(self, reviews):
-        with open('adjectives_extended.txt', 'r') as f:
-            adjs = [adj.strip(',') for adj in f.read().split()]
+        if(len(reviews)):
+            with open('adjectives_extended.txt', 'r') as f:
+                adjs = [adj.strip(',') for adj in f.read().split()]
 
-            tags = []
-            for review in reviews:
-                 # get unique words in a list with no end punctuation
-                words = set([w.strip(string.punctuation) for w in review.split()])
+                tags = []
+                for review in reviews:
+                    if review:
+                        # get unique words in a list with no end punctuation
+                        words = set([w.strip(string.punctuation) for w in review.split()])
 
-                # get common words and add to tags
-                tags.extend(list(words & set(adjs))) 
+                        # get common words and add to tags
+                        tags.extend(list(words & set(adjs))) 
 
-            #tags = list(filter(None, tags)) # remove empty lists
-            return tags
+                #tags = list(filter(None, tags)) # remove empty lists
+                return tags
 
     def encode(self):
         return {"name":self.name,

@@ -77,6 +77,8 @@ e4c5af - p
     background-color: #216869;
     width: 150px; 
     height: 150px;
+    background-size: cover;
+    background-position: 50% 50%;
 
 }
 

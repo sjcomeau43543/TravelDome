@@ -201,7 +201,6 @@
  "tags": [
   "drink",
   "run",
-  "handson",
   "kids",
   "learn",
   "free",
@@ -575,6 +574,100 @@
  ],
  "source": [
   "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Blackstone River Valley",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/FA505F83-155D-451F-6740E60BA73208CF.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "John H. Chafee Blackstone River Valley",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/194A9801-1DD8-B71C-0E5BB5797FD4B92C.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "creative"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/BA678F26-1DD8-B71C-0E00A264701FBCEE.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Touro Synagogue",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/1B7568B0-1DD8-B71C-0E3E95BCFE8568D4.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "active",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/DBB87F90-155D-451F-6726CA2D6A3E1BDA.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
  ],
  "reviews": []
 },{

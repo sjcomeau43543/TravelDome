@@ -368,20 +368,27 @@
  "name": "Ellis Island",
  "address": "New York Harbor",
  "avg_visitor_review": [
+  "",
   "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/EE083DA7-1DD8-B71C-0E743BA5DB913F77.jpg",
   "https://media-cdn.tripadvisor.com/media/photo-s/13/d5/64/9c/ellis-island-canopy-with.jpg"
  ],
  "tags": [
+  "adventurous",
+  "parks",
   "experience",
   "food",
   "history",
   "learn"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "TripAdvisor"
+  ],
+  "NPS"
  ],
  "reviews": []
 },{
@@ -588,6 +595,639 @@
  ],
  "source": [
   "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "African Burial Ground",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/0BC8A680-155D-451F-673A59E88D18F3BB.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "free"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/AA071FC6-1DD8-B71C-07550F35390CBB43.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Captain John Smith Chesapeake",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/86C2A5B0-1DD8-B71C-0E77366CBDC1CF33.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Castle Clinton",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/1C0DFF9D-1DD8-B71C-0E47991C1BB68B65.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Bay",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8E6C023C-1DD8-B71C-0E3142AC97E37D47.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Eleanor Roosevelt",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/CDCC516F-155D-451F-67D2CCACEB3F8C25.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Erie Canalway",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/256E21B3-155D-451F-677EB380CF7B3BB5.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "low"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Federal Hall",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/81313CFE-1DD8-B71C-0E7D70396B21B4A0.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fire Island",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/B1542F98-155D-451F-67BBE81B869B76BE.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Stanwix",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/53F18869-1DD8-B71C-0E790A36A6B775BE.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gateway",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/E808F1E3-155D-451F-677943F859DE8237.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "General Grant",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8A18C1FE-1DD8-B71C-0E9E9B40037CB4F6.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Governors Island",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/DADC2F35-155D-9421-1F031774BFFAC55F.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hamilton Grange",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8BAB758E-1DD8-B71C-0E14D37F8D9C19A9.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Harriet Tubman",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Home Of Franklin D Roosevelt",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/A13662B6-155D-451F-678B3D6CC639E798.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hudson River Valley",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8CDADB4F-1DD8-B71C-0E3AE9CF5B0FD72E.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lower East Side Tenement Museum",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/51540445-155D-451F-672588ECACD10206.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "experience",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Martin Van Buren",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/B8B04E6A-1DD8-B71C-0EF5A0195108896E.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "National Parks of New York Harbor",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/47B5F5C3-1DD8-B71C-0EFDD5939F974D9D.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Niagara Falls",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/7F75B608-1DD8-B71C-0ECB47A16C724554.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/ECC19A52-1DD8-B71C-0E27B3B8FE5265EC.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Sagamore Hill",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/D59E6CB5-155D-451F-675D5CD67AF6B370.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Paul's Church",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/BD9F9C91-1DD8-B71C-0EDA0D81BC8FFF84.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saratoga",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8652CF8E-155D-451F-67436A3A84BE32BF.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Statue Of Liberty",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/1930BE33-1DD8-B71C-0E9D89D8CE114F15.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Stonewall",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Theodore Roosevelt Birthplace",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/8909E6EB-1DD8-B71C-0E9ABD42E771A139.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Theodore Roosevelt Inaugural",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/F0791988-1DD8-B71C-0EEA0AF86D3CFA72.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Thomas Cole",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/E787C115-1DD8-B71C-0ED41CC41306EA5B.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "peaceful",
+  "unique"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Upper Delaware",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/81654F1D-1DD8-B71C-0E90D51EF29E1CBA.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Vanderbilt Mansion",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/AC877A07-155D-451F-6725D894FE8D4E6C.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/DBB87F90-155D-451F-6726CA2D6A3E1BDA.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Women's Rights",
+ "address": "",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/1756D08C-1DD8-B71C-0E69A5F9EA92373A.jpg"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "source": [
+  "NPS"
  ],
  "reviews": []
 },{
