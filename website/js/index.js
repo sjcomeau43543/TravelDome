@@ -39,7 +39,7 @@ function loadFile(filename, callback) {
 
     xobj.overrideMimeType("application/json");
      // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
-     xobj.open("GET", "../../"+filename, true);
+     xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true);
     xobj.onreadystatechange = function () {
         if(xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
