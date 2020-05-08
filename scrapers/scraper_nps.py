@@ -44,6 +44,8 @@ class NPS:
                     if("clearfix" in classes):
                         # title
                         name = li.find("h3").string
+                        for child in li.find("h3").children:
+                            nameurl = "https://www.nps.gov/"+child["href"] + "/index.htm"
 
                         # "reviews"
                         if([li.find("p").string]):
@@ -51,17 +53,36 @@ class NPS:
                         else:
                             reviews = []
 
-                        # image
-                        img = li.find("img")
+                        # link
+                        link = li.find(lambda tag:tag.name=="a" and "Information" in tag.text)
+                        if(link):
+                            link = link["href"]
+                        else:
+                            link = None
+
+                        if(link):
+                            # get basic information page
+                            basicinfo_resp = requests.get(link)
+                            basicinfo_soup = BeautifulSoup(basicinfo_resp.text, features="lxml")
+                            address = basicinfo_soup.find("span", {"class":"street-address"})
+                            if(address):
+                                address = address.text
+                            else:
+                                address = None
+                        else:
+                            address = None
+
+                        # get better photo and reviews
+                        moreinfo = requests.get(nameurl)
+                        soupinfo = BeautifulSoup(moreinfo.text, features="lxml")
+                        img = soupinfo.find("img", {"class":"Feature-image"})
                         if img:
                             image = "https://www.nps.gov/"+img["src"]
                         else:
                             image = None
-                        # link
-                        link = li.find(lambda tag:tag.name=="a" and "Information" in tag.text)
 
                         # add to list
-                        a = Activity(name, "", "", None, image, "NPS", link=link, reviews=reviews, tags=["adventurous", "parks"], get_tags=True)
+                        a = Activity(name, address, "", None, image, "NPS", link=nameurl, reviews=reviews, tags=["adventurous", "parks"], get_tags=True)
                         activities.append(a)
 
         return activities

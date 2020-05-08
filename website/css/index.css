@@ -114,6 +114,12 @@ e4c5af - p
 .sams-link {
     content: url("../images/link.png");
 }
+.sams-links-activities {
+    color: black;
+}
+.sams-links-activities:hover {
+    color: black;
+}
 .sams-links-container {
     text-align: center;
 }

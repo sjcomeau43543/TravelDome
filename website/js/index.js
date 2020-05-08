@@ -39,7 +39,7 @@ function loadFile(filename, callback) {
 
     xobj.overrideMimeType("application/json");
      // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
-     xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true);
+     xobj.open("GET", "../../"+filename, true);
     xobj.onreadystatechange = function () {
         if(xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -514,6 +514,9 @@ function activityDiv(activity, plusminus) {
     col2.appendChild(irow);
 
     // source
+    var a = document.createElement("a");
+    a.setAttribute("href", activity.link[0]);
+    a.setAttribute("class", "sams-links-activities");
     var irow = document.createElement("div");
     irow.setAttribute("class", "row");
     var icon = document.createElement("div");
@@ -524,7 +527,8 @@ function activityDiv(activity, plusminus) {
     var src_t = document.createTextNode(activity.source);
     src.appendChild(src_t);
     irow.appendChild(src);
-    col2.appendChild(irow);
+    a.appendChild(irow);
+    col2.appendChild(a);
 
     // fix nodes
     row2.appendChild(col);

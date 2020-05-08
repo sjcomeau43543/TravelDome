@@ -1,27 +1,16 @@
 [
 {
- "name": "Four Town Farm",
- "address": "90 George St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/OzXwhqIMG2ld1NQt8S_skg/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I came here to pick fresh strawberries and found out there were peas too for people to pick. We were given a box for strawberries and then walked out to the...",
-  "Best corn in the area! I did extensive taste tasting last year of all the local farms and I declare this the winner.   I was there the first day they had...",
-  "I love it here. Fresh, quality vegetables and fruits! The set up inside the makes it easy to shop. The hayride in the fall leads to a great pumpkin patch!..."
- ]
-},{
  "name": "Mulberry Vineyard",
  "address": "95 Pound Rd",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/z6f3A_LUh99awxqfpnKbmQ/o.jpg",
  "tags": [
-  "family",
-  "food"
+  "winery",
+  "food",
+  "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Lovely, family-owned winery. We saw it on Google and decided to stop as we were driving by. They are only open for tastings on the weekend, and they were...",
@@ -35,6 +24,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/0qhdNwR3yhGIeM9YVFmbqw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Love this place SO much. We recently joined their new monthly membership plan which is such a deal! We did the elite option which is $34.99 a month at the...",
@@ -49,8 +39,10 @@
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/caw1O3C0DQoPRgQULmu9ew/o.jpg",
  "tags": [
   "independent",
-  "independent"
+  "independent",
+  "historic"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Nostalgic theater in the heart of College Hill. They usually show Sundance Film Festival films which are typically not my type. However, after being around...",
@@ -58,38 +50,18 @@
   "Historic independent one room theater. Saw won't you be my neighbor which was a great showing. The interior and seats were a bit outdated and uncomfortable..."
  ]
 },{
- "name": "Kabob and Curry",
- "address": "261 Thayer St",
- "avg_visitor_review": 4.0,
+ "name": "Providence Place",
+ "address": "One Providence Place",
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/cRv9hQyjeE-ZLf1TeOzluA/o.jpg",
- "tags": [
-  "family",
-  "delicious",
-  "food"
- ],
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/x6juCSg3KP3tNZ9oR4stlg/o.jpg",
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "I've been going to Kabob and Curry for years. It's one of my favorites because the staff treats you like family and the food is always delicious. Tonight, I...",
-  "Whenever I travelled to a new city, I absolutely  get excited about exploring an Indian restaurant in a new territory. I'd read really good Yelp reviews...",
-  "That's my first time and probably the last time I'll order there I order the lamb ribs and I can tell they were charcoal black and small burned out.\nFor 20$..."
- ]
-},{
- "name": "Dave Marchetti's Animal Experiences",
- "address": "29 Argyle Ave",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/dARRfVQCbHKfo6q77yUKYQ/o.jpg",
- "tags": [
-  "kids",
-  "experience",
-  "educational"
- ],
- "source": "Yelp",
- "reviews": [
-  "Dave is the reason my daughter had, and I quote, \"the coolest birthday party EVER!!!\" For her 6th birthday, she had 17 friends over to meet Dave's slew of...",
-  "We hired Dave last year for my son's 6th birthday party.  He brought lots of awesome creatures to teach about and allow the kids to interact with/touch. The...",
-  "My 10 year old son absolutely loved his animal experience birthday party. Dave was entertaining, educational and his show was hands-on! The parents who..."
+  "I'm surprised it's taken me years to review Providence Place.  The mall has had it's ups and downs for many years, however, I think this last upswing I feel...",
+  "This is a beautiful mall located in the heart of Providence. \n\nNot only do they have every possible store you can think of pretty much, but there's also a...",
+  "This mall is done with the loss of their anchor stores Nordstrom's and Macy's.  I sure Tiffany's and Brooks Brothers will be next.  There are no clothing..."
  ]
 },{
  "name": "Riffraff Bookstore and Bar",
@@ -98,6 +70,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/WYLttIKTKoa2WC7KkgUADg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I love to read, and I've spent time in my share of bookstores across the country. That said, Riffraff is a truly special place. It's got a well curated...",
@@ -111,6 +84,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/aNKybPwLMRQVPQXJTH_H6g/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "After years of debate, we finally scheduled a paint night at Paint and Vino...and I had an absolute blast! \n\nI have the artistic skill of a newborn baby....",
@@ -123,14 +97,31 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/QYffwTr8uqCmWCvfDsprXQ/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The Kayak Centre is the place to go in Rhode Island for purchasing a Hobie and accessories to outfit it. There is a wide selection of safety gear to include...",
   "I have purchased two kayaks here.  Great customer service from people that actually use their products.  They give spot on advice for whatever your use will...",
   "I had the best experience buying two paddle boards this Christmas. I went to the store multiple times to look at different boards and to ask questions, and..."
+ ]
+},{
+ "name": "Kabob and Curry",
+ "address": "261 Thayer St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/cRv9hQyjeE-ZLf1TeOzluA/o.jpg",
+ "tags": [
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I've been going to Kabob and Curry for years. It's one of my favorites because the staff treats you like family and the food is always delicious. Tonight, I...",
+  "Whenever I travelled to a new city, I absolutely  get excited about exploring an Indian restaurant in a new territory. I'd read really good Yelp reviews...",
+  "That's my first time and probably the last time I'll order there I order the lamb ribs and I can tell they were charcoal black and small burned out.\nFor 20$..."
  ]
 },{
  "name": "Slater Memorial Park",
@@ -139,8 +130,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/zs0q4idzU_6S5BqwWxApnQ/o.jpg",
  "tags": [
-  "kids"
+  "walking",
+  "kids",
+  "walking"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Wonderful large park with tons of space for parties and walking and biking and kids.  Apparently it's 197 acres of land altogether.\n\nLots of water to stare...",
@@ -148,14 +142,29 @@
   "This place is a jack of all trades with so much to do. A nice dog park for little and big dogs 2 separate sides. It's clean and very friendly. You can fish..."
  ]
 },{
+ "name": "Dave Marchetti's Animal Experiences",
+ "address": "29 Argyle Ave",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/dARRfVQCbHKfo6q77yUKYQ/o.jpg",
+ "tags": [
+  "kids"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Dave is the reason my daughter had, and I quote, \"the coolest birthday party EVER!!!\" For her 6th birthday, she had 17 friends over to meet Dave's slew of...",
+  "We hired Dave last year for my son's 6th birthday party.  He brought lots of awesome creatures to teach about and allow the kids to interact with/touch. The...",
+  "My 10 year old son absolutely loved his animal experience birthday party. Dave was entertaining, educational and his show was hands-on! The parents who..."
+ ]
+},{
  "name": "Neutaconkanut Park",
  "address": "675 Plainfield St",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/zeR3p-BFQvg3nfnQdrC88A/o.jpg",
- "tags": [
-  "peaceful"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Love this place as a child! Grew up hanging out at the baseball fields and pool AND THE FEAST OF ST JOSEPH!",
@@ -169,8 +178,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/egrkq1C_JlNhyoT6xEfC5g/o.jpg",
  "tags": [
-  "experience"
+  "tour",
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "It's extremely expensive to take flying lessons, but I got a 70% discount from a LivingSocial promo so was able to check this off my list of \"Gotta do...",
@@ -186,6 +197,7 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Lovely, lively staff! \nI attended a arts and crafts, meditation ceremony. \nThe instructor cried a bit, saying she was overwhelmed with joy. What a...",
@@ -201,22 +213,12 @@
  "tags": [
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Due to the pandemic my boyfriend and I decided to spice things up and do a date night take out from some where we've never been before. When I showed him...",
   "In a word, this place is fantastic!! If you like locally sourced ingredients and carefully cultivated beer and liquor selections, this is the place for you!...",
   "I found myself in Prov and I asked somebody best farm to table burger joint and two people said this place. \nIt's in a arcade and kinda cool and you walk in..."
- ]
-},{
- "name": "BLR Scooter",
- "address": "12 Plainfield St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/_IP265TVJ6dla40J2kZURw/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Best Scooter Rental in Prov area #GzUP #401BikeLife"
  ]
 },{
  "name": "Julians",
@@ -228,6 +230,7 @@
   "delicious",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The most delicious oat milk latte! YUMMY! YUMMY!YUMMY!\n\nFunky, fresh, eclectic, and inviting atmosphere! \n\nBartender/server is a little scattered, ordering...",
@@ -241,6 +244,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/JcmMnEG4PxgS951paT50gA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "LOVE this place!!\nWe try to come as often as we can for open mic night, always a fun time! Everyone always puts in their all and the performances are...",
@@ -254,6 +258,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/YNbfET_nHouk_StEwgydsQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "A little over a year ago, the City of Providence and the State of Rhode Island painted a green stripe on the sidewalk and called it The Independence Trail...."
@@ -267,6 +272,7 @@
  "tags": [
   "history"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "My son gave my wife and I a gift card for the Argia Mystic Cruise for our anniversary. \n\nThis was our first time on a Sailboat cruise, so I have nothing...",
@@ -282,11 +288,24 @@
  "tags": [
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Most recently ordered takeout from Mokban. I got the dumpling soup and was really happy with it. The variety of dumplings in the broth kept each bite...",
   "This place is in the heart of Providence. It offers great options for vegan and vegetarian food. The quantity is amazing for the price you pay. It is good...",
   "We ducked in here for a lunch while we were in the Providence area on a very blustery weekday. When we arrived, we were the only ones in the restaurant..."
+ ]
+},{
+ "name": "BLR Scooter",
+ "address": "12 Plainfield St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/_IP265TVJ6dla40J2kZURw/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Best Scooter Rental in Prov area #GzUP #401BikeLife"
  ]
 },{
  "name": "Mayflower Brewing Company",
@@ -297,6 +316,7 @@
  "tags": [
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "On a recent family trip to Plymouth decided to check out Mayflower. So glad we did. My mom and i\nBoth got the flight which is a 6 oz pour of 5 different...",
@@ -312,6 +332,7 @@
  "tags": [
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This was a fantastic all around family event. My daughter came up with the idea, my wife ordered the tickets and we were joined by my son. \n\n   This was a..."
@@ -322,9 +343,8 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/AjK_-gDqCNZqqdapbx5ykQ/o.jpg",
- "tags": [
-  "run"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We were lucky enough to catch the 2019 Christmas Carol today before it ends its run for the season--and let me tell you, it was pure magic. It's become a...",
@@ -337,7 +357,10 @@
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/WHyT2WmB-VcvV6ID-AIkdw/o.jpg",
- "tags": [],
+ "tags": [
+  "food"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "When we walked in, it was starting to get packed. Luckily, we were able to get a spot since it was just me, my husband and my daughter. \n\nThis place gets...",
@@ -354,6 +377,7 @@
   "food",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I've been going to this spot since I moved here and June. It is by far the  grooviest and most relaxed spot in Providence. Even with the COVID-19 they were...",
@@ -367,9 +391,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vuJaeZCcT_HFonfPuDLJ9A/o.jpg",
  "tags": [
-  "experience",
-  "history"
+  "nature",
+  "history",
+  "art"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The RISD Nature Lab is a fun experience and would best be combined with a visit to other attractions in the area like the RISD Museum, the Athenaeum, or...",
@@ -383,8 +409,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/JKZOW7qHG_J7FdKIPwpHKA/o.jpg",
  "tags": [
-  "affordable"
+  "music",
+  "affordable",
+  "music"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "the best music venue around! the staff and security is kind visit after visit and always welcome to helping anyone in need. the parking situation is quick...",
@@ -402,6 +431,7 @@
   "hike",
   "hike"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I feel like this place is just okay for a hike. There are some nice views, but nothing spectacular. It's in a good location and not hard to find as anyone...",
@@ -415,6 +445,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/Jhm5krNHi2gtq03EsNJoAQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I've dealt with weight issues my entire adult life. I have signed up at several gyms in the hopes of increasing my metabolism & losing weight. Every gym...",
@@ -428,6 +459,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/5xMleAXkfTGNVatJ8qQyEQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We are very lucky to have this beautiful waterfront public property right here in North Providence. The pond and park share a border with Lincoln.\n\nThe...",
@@ -442,11 +474,12 @@
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/1ycCehabs0R7W_HEYa9uow/o.jpg",
  "tags": [
   "delicious",
-  "creative",
   "food",
+  "creative",
   "food",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I love this spot!  The food is delicious and creative.  I have my favorites (the oyster mushroom po' boy and the carrot hot dog) but I always have good luck...",
@@ -460,9 +493,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/HbNy6fuR6X4mGGp151bX_w/o.jpg",
  "tags": [
-  "experience",
   "unique"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Vintage experience with modern flair.  This 3rd floor location in the Hope Artiste Village was a unique setting to catch up with an old friend on a Tuesday...",
@@ -477,9 +510,9 @@
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/keCfs2EfiKSZGg5BNrHfjQ/o.jpg",
  "tags": [
   "food",
-  "food",
-  "experience"
+  "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The place to be and get scallops, shrimp, lobster, oysters, clams, salmon, calamari.  \n\nOmg my mouth is watering just thinking about it!  \n\nTons of food...",
@@ -493,8 +526,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/xVPcb0S0z1BzF8x1oFP6NA/o.jpg",
  "tags": [
+  "food",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Very impressed with this restaurant. Food was of great quality and taste. Lobster ravioli had plenty of lobster and was the best I've had so far. Bolognese...",
@@ -511,6 +546,7 @@
   "unique",
   "drink"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Malted barley is a great place to hangout with friends enjoying the beers with hand mand pretzels. We were visiting Providence and looking for a place which...",
@@ -524,25 +560,15 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/E_D7q4VjfQ5Mtio1KKIJ8Q/o.jpg",
  "tags": [
+  "walk",
+  "tour",
   "knowledgeable",
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Very knowledgeable guide. Walk pace was perfect so I could take in all the sights along the way. Sunday 90min tour is free and quite fun. I enjoyed getting..."
- ]
-},{
- "name": "Tiny Bar",
- "address": "377 Richmond St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/snVkDM9KCw17yCq28WaTHA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I had been wanting to check this place out for some time although I had never noticed it before it became Tiny Bar. It's hard to miss now. It is exactly...",
-  "Tiny Bar is cozy, comfortable and extremely friendly. As the name suggests, it is tiny (max 20 people). I walked by it several times before noticing that...",
-  "Ok. Let's just get past the lack of indoor seating. There are seven chars. That's it! Hence... \"Tiny Bar\". Not much room for anything else. In the warm..."
  ]
 },{
  "name": "Farm Fresh Rhode Island",
@@ -553,6 +579,7 @@
  "tags": [
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We helped pack vegetable boxes last night and it was very inspiring. The team working there was excellent. They explained how the food box program works,...",
@@ -566,8 +593,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/kTR9T78F1uE-FUVJrJSTzg/o.jpg",
  "tags": [
-  "food"
+  "food",
+  "eat"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We made a reservation for lunch at Brass Monkey as part of a Bachelorette Party weekend before a Plant Party that Brass hosted in their activity room. I'd...",
@@ -581,6 +610,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/_4j-S2WInx23w4vy-xY1XA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Updated since my first review. They have sports betting now so that's a plus.\n\nUnfortunately, the lack of payouts with the slots is very noticable as other...",
@@ -594,6 +624,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/d5HXxpAGQ8tZN-6JuurMpw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "My son decided he wanted to do baseball & desperately needed batting practice. I called K R baseball and asked some questions the staff were very helpful...."
@@ -605,6 +636,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/3osIzZ-j0uvxW9HTYKfzDg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is a pretty fun haunted house. This was our second year in a row coming here!  Each year it's a different theme so it's completely unpredictable and...",
@@ -620,6 +652,7 @@
  "tags": [
   "historic"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "While the number of shops are limited, I really love going here during the week when it's very quiet to grab a coffee and check out the shops in peace and...",
@@ -627,43 +660,16 @@
   "I have always been enamored with this historic mall that sits in the middle of downtown Providence and has been there since 1828. \nToday there are a few..."
  ]
 },{
- "name": "Garden City Center",
- "address": "100 Midway Rd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ThzYjZ972aIAp3azWDfEiA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This is one of the most beautiful places you can visit in Cranston Rhode Island. \nUnfortunately due to the virus situation I just wanted to post pictures of...",
-  "Garden City has made a fantastic turn around in recent years!  As a child growing up, Garden City was the premier shopping center in Rhode Island.  Top...",
-  "A great selection of stores, restaurants and just about anything you need for your home, self or gift giving needs. \n\nIt is always such a great shopping..."
- ]
-},{
  "name": "Brown Design Workshop",
  "address": "355 Brook St",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/_78x2csRPV-Aw6ZGRm4ZqA/o.jpg",
- "tags": [
-  "run"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is a great makerspace, run by the Brown University engineering department. It is mostly used by Brown and RISD students, but theoretically open to all...."
- ]
-},{
- "name": "Providence Paintball",
- "address": "199 Thurston St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Ny1h3B4NILK64e3L3RTutg/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "CJ was extremely nice and helpful! The groupon is also an amazing deal. We had a great time!",
-  "I been to this place twice and both times I've had a lot of fun guys there are pretty cool and down to earth",
-  "K, here it is. I booked a birthday party here for my 12 year old son. I'll start off by saying the paintball was a lot of fun. However, for someone who has..."
  ]
 },{
  "name": "Annmary Brown Memorial",
@@ -672,8 +678,11 @@
  "avg_time_spent": null,
  "photo_location": "",
  "tags": [
+  "art",
+  "structure",
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Recently,I spent two hours enjoying fine paintings at this small,cozy art museum.I especially was captivated by their fine paintings by these American...",
@@ -687,14 +696,78 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/bAxCriDQpzPzK3poNzi3eA/o.jpg",
  "tags": [
+  "tour",
   "knowledgeable",
+  "tour",
+  "tour",
+  "family",
   "knowledgeable"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This tour was excellent! Very informative and a gracious and knowledgeable tour guide! Thank you, John! Excellent job!",
   "I was dubious about taking my 11 year old on a 6 hour tour but we had a blast. We had a wonderful time at an apple orchard, learning about maple syrup...",
   "Family in Providence for parents weekend.  The tour was excellent.  The driver and one of owners was very knowledgeable.  Took his time and explained a lot..."
+ ]
+},{
+ "name": "Tiny Bar",
+ "address": "377 Richmond St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/snVkDM9KCw17yCq28WaTHA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I had been wanting to check this place out for some time although I had never noticed it before it became Tiny Bar. It's hard to miss now. It is exactly...",
+  "Tiny Bar is cozy, comfortable and extremely friendly. As the name suggests, it is tiny (max 20 people). I walked by it several times before noticing that...",
+  "Ok. Let's just get past the lack of indoor seating. There are seven chars. That's it! Hence... \"Tiny Bar\". Not much room for anything else. In the warm..."
+ ]
+},{
+ "name": "Harry's Bar & Burger",
+ "address": "121 N Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/X9j58XTjq6mq7PMNC4bJng/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I had heard Harry's Bar & Burger was a must-visit in Providence, and it didn't disappoint although I must say it wasn't the best burgers I've ever had...",
+  "If you're looking for a quick bite that is relatively cheap(-ish), I'd recommend you stop into Harry's. The restaurant is kind of hole-in-the-wall-y. The...",
+  "Everyone should try their sliders. I really love the slider here and the chill atmosphere, for late night snack with a beer on the side! They do not have..."
+ ]
+},{
+ "name": "Garden City Center",
+ "address": "100 Midway Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ThzYjZ972aIAp3azWDfEiA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "This is one of the most beautiful places you can visit in Cranston Rhode Island. \nUnfortunately due to the virus situation I just wanted to post pictures of...",
+  "Garden City has made a fantastic turn around in recent years!  As a child growing up, Garden City was the premier shopping center in Rhode Island.  Top...",
+  "A great selection of stores, restaurants and just about anything you need for your home, self or gift giving needs. \n\nIt is always such a great shopping..."
+ ]
+},{
+ "name": "Bayberry Beer Hall",
+ "address": "381 W Fountain St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/pmcnhZ8apC_mLQ8-rnfOTw/o.jpg",
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Definitely one of the highlights of our quick day trip to Providence! Wide selection of beers and excellent food. We ordered the sourdough pretzel, crispy...",
+  "My first visit to Bayberry Beer Hall and I am hooked!\n\nThis place has it all... a fine selection of beer and wine, a mouth-watering menu, and a communal...",
+  "Great beer and wonderful accompanying food. They have a good, efficient system going where you order noms and they give you a little light up lager...."
  ]
 },{
  "name": "Georgiaville Pond Beach",
@@ -705,23 +778,11 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I wanted to give everyone a heads up that if you plug georgiaville pond into your GPS, you will not arrive at the correct location. I have no idea why it's...",
   "Ponds\ndams\nand\nbeaches\n\nGeorgiaville Pond Beach area is a whole lot more than just a beach.  The swimming area is quite popular in the summer, especially...",
   "I absolutely love this place! The water is so warm and clean the sand isn't the best sand to make a sandcastle but that's ok the kids have a lot of fun..."
- ]
-},{
- "name": "Harry's Bar & Burger",
- "address": "121 N Main St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/X9j58XTjq6mq7PMNC4bJng/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I had heard Harry's Bar & Burger was a must-visit in Providence, and it didn't disappoint although I must say it wasn't the best burgers I've ever had...",
-  "If you're looking for a quick bite that is relatively cheap(-ish), I'd recommend you stop into Harry's. The restaurant is kind of hole-in-the-wall-y. The...",
-  "Everyone should try their sliders. I really love the slider here and the chill atmosphere, for late night snack with a beer on the side! They do not have..."
  ]
 }]

@@ -1,74 +1,80 @@
 [
 {
  "name": "Blackstone River Valley",
- "address": "",
+ "address": "\n670 Linwood Ave\n",
  "avg_visitor_review": "",
  "avg_time_spent": null,
- "photo_location": "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/FA505F83-155D-451F-6740E60BA73208CF.jpg",
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/blrv/crop16_9/E70807E9-1DD8-B71B-0B1B7FB34DCEEFB2.jpg?width=307&quality=90&mode=crop",
  "tags": [
   "adventurous",
   "parks"
  ],
+ "link": "https://www.nps.gov//blrv//index.htm",
  "source": "NPS",
  "reviews": [
   "\nThe Blackstone River powered America's entry into the Age of Industry. The success of Samuel Slater's cotton spinning mill in Pawtucket, RI touched off a chain reaction that changed how people worked and where they lived, and continues to reverberate across the nation to this day. Come visit and see how this revolution transformed the landscape of the Blackstone Valley and then the United States.\n"
  ]
 },{
  "name": "John H. Chafee Blackstone River Valley",
- "address": "",
+ "address": "\n670 Linwood Avenue\n",
  "avg_visitor_review": "",
  "avg_time_spent": null,
- "photo_location": "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/194A9801-1DD8-B71C-0E5BB5797FD4B92C.jpg",
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/blac/crop16_9/25C7E966-1DD8-B71B-0B0A21685DBCF782.jpg?width=307&quality=90&mode=crop",
  "tags": [
   "adventurous",
   "parks",
   "historic",
   "creative"
  ],
+ "link": "https://www.nps.gov//blac//index.htm",
  "source": "NPS",
  "reviews": [
   "\nThe Blackstone River runs from Worcester, MA to Providence, RI. Its waters powered the Slater Mill in Pawtucket, RI, America's first successful cotton spinning mill. This creative spark began the nation's transformation from Farm to Factory. Today, the Blackstone River Valley is a special type of National Park - a living landscape containing thousands of natural and historic treasures.\n"
  ]
 },{
  "name": "Roger Williams",
- "address": "",
+ "address": "\n282 North Main Street\n",
  "avg_visitor_review": "",
  "avg_time_spent": null,
- "photo_location": "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/BA678F26-1DD8-B71C-0E00A264701FBCEE.jpg",
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/rowi/crop16_9/F805BA2F-1DD8-B71B-0BE32152357DD3AF.png",
  "tags": [
   "adventurous",
   "parks"
  ],
+ "link": "https://www.nps.gov//rowi//index.htm",
  "source": "NPS",
  "reviews": [
   "\nRoger Williams National Memorial commemorates the life of the founder of Rhode Island and a champion of the ideal of religious freedom. Williams, banished from Massachusetts for his beliefs, founded Providence in 1636. This colony served as a refuge where all could come to worship as their conscience dictated without interference from the state.\n"
  ]
 },{
  "name": "Touro Synagogue",
- "address": "",
+ "address": "\n85 Touro Street\n",
  "avg_visitor_review": "",
  "avg_time_spent": null,
- "photo_location": "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/1B7568B0-1DD8-B71C-0E3E95BCFE8568D4.jpg",
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/tosy/crop16_9/BC7DE5D5-1DD8-B71B-0B6FF9B3E6E7D498.png",
  "tags": [
   "adventurous",
   "parks",
-  "active",
-  "history"
+  "history",
+  "historic",
+  "active"
  ],
+ "link": "https://www.nps.gov//tosy//index.htm",
  "source": "NPS",
  "reviews": [
   "\nTouro Synagogue, a building of exquisite beauty and design, steeped in history and ideals, and one of the most historically significant Jewish buildings in America, was designated a National Historic Site in 1946.  Dedicated in 1763, it still serves an active congregation and each year greets over 30,000 visitors who come to see the magnificent interior and hear its remarkable story.\n"
  ]
 },{
  "name": "Washington-Rochambeau Revolutionary Route",
- "address": "",
+ "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
  "avg_visitor_review": "",
  "avg_time_spent": null,
- "photo_location": "https://www.nps.gov//customcf/apps/CMS_HandF/ParkSearchPics/DBB87F90-155D-451F-6726CA2D6A3E1BDA.jpg",
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop",
  "tags": [
   "adventurous",
   "parks"
  ],
+ "link": "https://www.nps.gov//waro//index.htm",
  "source": "NPS",
  "reviews": [
   "\nIn 1781, General Rochambeau\u2019s French Army joined forces with General Washington\u2019s Continental Army to fight the British Army in Yorktown, Virginia. With the French Navy in support, the allied armies moved hundreds of miles to become the largest troop movement of the American Revolution. The effort and cooperation between the two sides led to a victory at Yorktown and secured American independence.\n"

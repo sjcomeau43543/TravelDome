@@ -37,7 +37,7 @@ class Merger:
                         with open(os.path.abspath(root+"/"+file)) as activity_file:
                             activities = json.load(activity_file)
                             for activity in activities:
-                                actobj = Activity(activity["name"], activity["address"], activity["avg_visitor_review"], activity["avg_time_spent"], activity["photo_location"], activity["source"], reviews=[], tags=activity["tags"])
+                                actobj = Activity(activity["name"], activity["address"], activity["avg_visitor_review"], activity["avg_time_spent"], activity["photo_location"], activity["source"], link=activity["link"], reviews=[], tags=activity["tags"])
 
                                 # fix lists
                                 actobj.tags = list(actobj.tags)
@@ -52,7 +52,6 @@ class Merger:
                                     actobj.avg_visitor_review = [actobj.avg_visitor_review]
 
                                     merged_activities[actobj.name] = actobj
-                                    actobj = 0
                                 else:
                                     ## handle duplicates
                                     # use more detailed address

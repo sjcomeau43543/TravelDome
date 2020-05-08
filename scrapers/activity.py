@@ -1,15 +1,14 @@
 '''
 Author:        Samantha, Eda
-Last modified: 4.29.2020 by sjc
+Last modified: 5.7.2020 by sjc
 Status:        In progress
 
 This holds an activity and can translate it to a json string
-
-TODO why empty tag lists?
 '''
 
 import json
 import string
+import re
 
 class Activity:
     # Not sure we need these static members..? - Eda
@@ -34,13 +33,10 @@ class Activity:
         self.source = source
         self.reviews = reviews
         self.link = link
-        self.tags = tags 
+        self.tags = tags
         if get_tags:
             self.tags.extend(self.tag(reviews))
 
-    ''' 
-    Eda's stuff moved from tag.py
-    '''
     def tag(self, reviews):
         if(len(reviews)):
             with open('adjectives_extended.txt', 'r') as f:
@@ -49,13 +45,18 @@ class Activity:
                 tags = []
                 for review in reviews:
                     if review:
+                        # lowercase
+                        review = review.lower()
+
+                        # remove symbols
+                        re.sub(r'[^\w]', ' ', review)
+
                         # get unique words in a list with no end punctuation
                         words = set([w.strip(string.punctuation) for w in review.split()])
 
                         # get common words and add to tags
                         tags.extend(list(words & set(adjs))) 
 
-                #tags = list(filter(None, tags)) # remove empty lists
                 return tags
 
     def encode(self):
@@ -65,5 +66,6 @@ class Activity:
                 "avg_time_spent":self.avg_time_spent,
                 "photo_location":self.photo_location,
                 "tags":self.tags,
+                "link":self.link,
                 "source":self.source,
                 "reviews":self.reviews}

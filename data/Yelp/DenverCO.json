@@ -8,6 +8,7 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Another favorite park! Tennis courts... Basketball courts... Lots of grassy areas/trees. Big Plus are the Playgrounds! If you have kiddos that are climbers,...",
@@ -24,6 +25,7 @@
   "delicious",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I feel lame leaving a 5 star review for a 3-1/2 star place. I need to be bolder and stop liking everything. \n\nI actually don't see why the hate. Like what...",
@@ -37,6 +39,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/wTc6yCxhrHpms3lJsdoJwg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Went to Bad Axe last night for the first time and it was awesome. There were seven of us for a guys night out and Jason took great care of us from start to...",
@@ -50,44 +53,17 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/hqfuOT6KAyHwfOGMbzjpZQ/o.jpg",
  "tags": [
-  "history"
+  "history",
+  "tour",
+  "tour",
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I've done two banjo billy bus tours - the ghost tour and the Denver history tour. Both were an absolute blast and so well done. The guide we had yesterday...",
   "I loved this tour, would have given 5 stars if the bus had real windows that could be lowered for picture taking. \nThe guide was entertaining and made...",
   "I had a lot of reservations before getting on the bus. Was it going to be long enough? Would it be too short? Was the tour guide going to be annoying? \n\nBut..."
- ]
-},{
- "name": "Puzzah!",
- "address": "1440 Blake St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Z1uNPcOpa1QlYdT2-nfwfw/o.jpg",
- "tags": [
-  "unique"
- ],
- "source": "Yelp",
- "reviews": [
-  "Very unique escape room!   We have played hundreds and have never played any like THE MASK.  I would recommend it for players who want to try all...",
-  "I went to this escape room based on the good reviews online; however, I was wildly unimpressed. My boyfriend and I did the M.A.S.K. room - based on both...",
-  "Puzzah is a Bonafide room escape in downtown Denver! This is a review for Kazam!\n\nThe location is easy to find and has a large waiting lobby. We had to..."
- ]
-},{
- "name": "The Clue Room",
- "address": "7286 S Yosemite St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/NuXWCQvaLngI3bCGzee7pA/o.jpg",
- "tags": [
-  "family",
-  "experience"
- ],
- "source": "Yelp",
- "reviews": [
-  "My family and I had a blast here! We had researched several options in the area and this was by far the best price and best experience! We called ahead of...",
-  "I had a blast! I had never tried a clue or escape room, but it's all about keeping an open and curious mind and encouraging your team. \n\nThe event took an...",
-  "Decided to come here when looking for an activity to do together as a group on a gloomy day. We were able to book in advance a few hours before our time..."
  ]
 },{
  "name": "Historic Downtown Golden",
@@ -96,9 +72,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/L3kxHS_hv5b_4r7YNVA2WQ/o.jpg",
  "tags": [
-  "experience",
   "historic"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This town is quite cute. Unfortunately, it was raining when we visited so we couldn't fully experience the place. From what we saw it was awesome with many...",
@@ -111,7 +87,11 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/KAccMuhlXGS1PqkdUNpGJA/o.jpg",
- "tags": [],
+ "tags": [
+  "brewery",
+  "sampling"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Great downtown brewery. Stopped in for a couple drinks while i was down in Denver for a conference. If you are an IPA drinker, I highly recommend their...",
@@ -126,8 +106,10 @@
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg",
  "tags": [
   "food",
-  "free"
+  "free",
+  "historic"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This review was for their pumpkin festival.  Free admission but have to pay for food, rides and activities.  We parked for free at a parking garage down the...",
@@ -140,7 +122,11 @@
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/lAqlEzTBryfyNKuv6-t3ug/o.jpg",
- "tags": [],
+ "tags": [
+  "art",
+  "art"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I love the fact that Blucifer greets all you new arrivals to Denver with a scowl and laser eyes. You have to love a work of art that killed its creator.",
@@ -156,6 +142,7 @@
  "tags": [
   "cheap"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This place is really awesome. I went to see the android jones exhibit here and it was so cool!\n\nI would come Back and recommend this place to a friend :)",
@@ -169,11 +156,44 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/cVoo72zOYObIk0pykoyYdg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Have hiked this a few times.  It's a nice amount of exercise.  Took me about an hour to get from the bottom of the trail at about 5500 feet of elevation to...",
   "This is one of my fav hikes with my GSP, and I was surprised to see some people complaining about off leash dogs.  Boulder has online maps showing where...",
   "The climb up the trail is beautiful right now!  Everything is green and the wildflowers are blooming.  It took about an hour to the top with a\nfew photo..."
+ ]
+},{
+ "name": "The Clue Room",
+ "address": "7286 S Yosemite St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/NuXWCQvaLngI3bCGzee7pA/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "My family and I had a blast here! We had researched several options in the area and this was by far the best price and best experience! We called ahead of...",
+  "I had a blast! I had never tried a clue or escape room, but it's all about keeping an open and curious mind and encouraging your team. \n\nThe event took an...",
+  "Decided to come here when looking for an activity to do together as a group on a gloomy day. We were able to book in advance a few hours before our time..."
+ ]
+},{
+ "name": "Puzzah!",
+ "address": "1440 Blake St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Z1uNPcOpa1QlYdT2-nfwfw/o.jpg",
+ "tags": [
+  "unique"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Very unique escape room!   We have played hundreds and have never played any like THE MASK.  I would recommend it for players who want to try all...",
+  "I went to this escape room based on the good reviews online; however, I was wildly unimpressed. My boyfriend and I did the M.A.S.K. room - based on both...",
+  "Puzzah is a Bonafide room escape in downtown Denver! This is a review for Kazam!\n\nThe location is easy to find and has a large waiting lobby. We had to..."
  ]
 },{
  "name": "Bookbar",
@@ -184,6 +204,7 @@
  "tags": [
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Superb bookstore that serves food and beverages. There are times book clubs meet and the seating areas are reserved. We went midday on a Sunday and were...",
@@ -197,9 +218,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/RZbZpK_RyzeoTcSuA6voNg/o.jpg",
  "tags": [
+  "art",
   "walk",
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is a great strip of museums, art work, shops and restaurants. Buses navigate up and down the strip, so that if you do not want to walk, you can catch...",
@@ -213,6 +236,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I think I like this place. Super cute wine bar with not many choices but definitely a good selection of wines. \nIf you're a beer aficionados they have a...",
@@ -225,7 +249,11 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ot07ezqpuSxWsxxCKbKU8w/o.jpg",
- "tags": [],
+ "tags": [
+  "nature",
+  "music"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Film on the Rocks is def one of my FAVORITE summer happenings! A local band (sometimes even a comedy act) and a movie in the best outdoor venue for a mere...",
@@ -241,6 +269,7 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This park was built in 2010 as \"Westminster Center Park\" and nicknamed \"Peter Pan Park\" by locals. The play area surprises with a London theme, complete...",
@@ -254,10 +283,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JZGUL0_zryzSp0M0KnThuA/o.jpg",
  "tags": [
-  "experience",
-  "knowledgeable",
-  "history"
+  "history",
+  "tour",
+  "knowledgeable"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I had the most fun and interesting experience on my first haunted pub crawl tour! Our tour guide Joaquin was incredibly knowledgeable of the history of...",
@@ -270,9 +300,8 @@
  "avg_visitor_review": 3.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/fxF-AujsjfA8AtR-d1T1Ig/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "What a gem!! We had a great experience here. We showed up roughly 30 minutes before the first showing on a weeknight and we got a great spot and never had a...",
@@ -288,8 +317,11 @@
  "tags": [
   "learn",
   "history",
+  "tour",
+  "tour",
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I'm a history dork so this place was up my alley. Great to learn about America's currency, past and present. \n\nThey have weird hours and tour times....",
@@ -302,9 +334,8 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/G5NwwXgimTm0N8s4L2mj_w/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I came to Colorado for a wedding but I always make sure to make some time for a waterpark or theme park. I decided on this place because I heard so many...",
@@ -318,6 +349,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/vhp4jcZVVFTUJLSjThfABA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I agree with some of the others...do NOT, I repeat, do NOT use the restrooms.  I have never seen a women's restroom so disgusting.  No TP was the least of...",
@@ -334,6 +366,7 @@
   "hike",
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "what a gorgeous hike!! we truly enjoyed the view. it was a Wonderful trail! Steep and a little icy. Plenty of parking for a Saturday afternoon.  We go there...",
@@ -346,9 +379,8 @@
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/hdD6ick4bXc9QRRGSCPSXg/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Unser is a fun place! If you've never been, go! You need a valid driver's license and required to watch a safety video beforehand. My hubby and I went for...",
@@ -361,30 +393,13 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/t0ezN5PIRr9NfSUdIle9qg/o.jpg",
- "tags": [
-  "kids"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I bought a groupon to check this place out and stopped in with my 9 yr old on Sunday afternoon. The staff was super friendly. We got right in started our...",
-  "We had fun at Monster Mini Golf. Speaking for a five year old, swinging a golf club and counting didn't matter. Putting the ball in the hole was a point! I...",
-  "A lot of fun! Came on a Wednesday evening with no kids. No lines, no waiting and good music playing. \nGot a great deal on Groupon for the golf then stayed..."
- ]
-},{
- "name": "Museum of Contemporary Art Denver",
- "address": "1485 Delgany St",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/XAsTBSMM1IU7k19k6vDI1w/o.jpg",
- "tags": [
-  "unique",
-  "family"
- ],
- "source": "Yelp",
- "reviews": [
-  "Three floors of gallery space in a unique floor plan that allows room for wall space, open areas and interesting vistas - interior and gazing out into...",
-  "I'd give this a 2.5. While there is so much potential for this museum, it was a disappointment to my family. The space is either nearly empty or far too...",
-  "I'm particular about my art museums, my taste trends more contemporary but I really love sculpture. While there is little to no sculpture at the current..."
+  "It was a lot of fun for something different! We were from out of town looking for something relaxing to do",
+  "We had fun at Monster Mini Golf. Speaking for a five year old, swinging a golf club and counting didn't matter. Putting the ball in the hole was a point! I..."
  ]
 },{
  "name": "Puzzle Effect - Denver",
@@ -393,6 +408,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/U9KQCU0NULhrVfcCdkHNbA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "WOW! Puzzle Effect (Formerly Denver Escape Room) is a WONDERFUL place to do escape rooms. I am a veteran. After the first time, I was hooked and couldn't...",
@@ -406,8 +422,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Se0dDhZ-LTDGfMDgS2FrjQ/o.jpg",
  "tags": [
+  "art",
+  "art",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Dealing with difficulty things in life can take over in ones spiritual mind. That's why the art festival in Cherry Creek shopping center can certainly...",
@@ -421,40 +440,12 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/B1j8J6NcuyLQjMnFCBKtxA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Absolutely loved today! We rented snowmobiles. Rented for a half day and boy was it cold! Come prepared! It was 4*. (We rode up close to steamboat springs)...",
   "These guys where awesome!! I rented a atv for our weekend trip. All their equipment was newer and you can tell they take the time to keep their ATVs safe....",
   "We had the most awesome day riding moto in the mountains thanks to these guys.  They went above and beyond to make sure we had everything we needed.  Their..."
- ]
-},{
- "name": "Centennial Center Park",
- "address": "13050 E Peakview Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/URldB0yOClLRphF5FIz-HA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Centennial did a great job with this park. There's plenty of space here with a giant playground and even a splash pad going in the summer. My favorite part...",
-  "This is the flagship playground for the South metro area and boasts the largest sprayground in town, a huge climbing net, a stage for events, and a young...",
-  "This place probably has the best splash area around. Gets busy quickly. The playground is enormous. Great place for parties. They have events here all..."
- ]
-},{
- "name": "The Colorado Sightseer",
- "address": "600 South Holly St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JUH4Bj1H_D7EhCB0IOAbIw/o.jpg",
- "tags": [
-  "experience",
-  "experience"
- ],
- "source": "Yelp",
- "reviews": [
-  "My husband and I just got back from the incredible mountain tour with Will. He was so funny and personable! This was an amazing experience and one that I...",
-  "My boyfriend and I decided to go on the Red Rocks, Evergreen, and Echo Lake Tour, and we had an amazing experience. Although this was not our first choice...",
-  "We had a great time with our tour guide, Scott, during our tour. He was very informative throughout the entire ride and was a great host, offering water and..."
  ]
 },{
  "name": "Dangerous Theatre",
@@ -465,6 +456,7 @@
  "tags": [
   "delicious"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is a hidden gem! What a great venue for a small intimate crowd and such a welcoming host. She invited us in cheerfully and made a delicious breakfast....",
@@ -472,17 +464,22 @@
   "We were welcomed and offered snacks and pot( oh you said pop) There was a good variety of choices both of cold or hot drinks and chips, crackers or cookies..."
  ]
 },{
- "name": "Boulder Farmers' Market",
- "address": "1900 13th St",
- "avg_visitor_review": 4.0,
+ "name": "Museum of Contemporary Art Denver",
+ "address": "1485 Delgany St",
+ "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/SXLjZlTHuZpYkh4SAI9z2w/o.jpg",
- "tags": [],
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/XAsTBSMM1IU7k19k6vDI1w/o.jpg",
+ "tags": [
+  "unique",
+  "family",
+  "art"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "I love the farmer's market! I often don't go as much as I would like to, but I never regret it when I do. They have an amazing selection of organic and non...",
-  "SO GLAD WE WERE ABLE TO STOP BY. We decided to visit on our way up to longmont and im so glad we did! Although we got there a little later (~6:30pm), there...",
-  "Full of organic produce and small batch hand crafted sauces, moles oils.  I've been to farmers markets all over the country and this one has the most..."
+  "Three floors of gallery space in a unique floor plan that allows room for wall space, open areas and interesting vistas - interior and gazing out into...",
+  "I'd give this a 2.5. While there is so much potential for this museum, it was a disappointment to my family. The space is either nearly empty or far too...",
+  "I'm particular about my art museums, my taste trends more contemporary but I really love sculpture. While there is little to no sculpture at the current..."
  ]
 },{
  "name": "EscapeWorks Denver",
@@ -491,26 +488,12 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/t3svSWFl8bzIIufTN1N3xA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Had a great time and Savannah was a great game master! Would recommend again. \n\nI am continuing to write this review because Yelp won't let me leave a short...",
   "The Outbreak and Casino Heist rooms were solid and solvable, but the staff did not monitor their games the way game masters at every other escape room we've...",
   "What a terrific time at EscapeWorks. Emilia, Taylor and the rest of the team set up a great Christmas Story Escape Room with a lot of fun puzzles to solve...."
- ]
-},{
- "name": "Urban Air Adventure Park - Littleton",
- "address": "8196 Bowles Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg",
- "tags": [
-  "experience"
- ],
- "source": "Yelp",
- "reviews": [
-  "I emailed this company after a bad party experience and waited 2 MONTHS before posting a review and recieved ZERO response so now the whole world can...",
-  "So my friend and I both came here to check it out after we had finished up with our errands and it was overall a decent place. We are both adults and it...",
-  "So it's new and relatively clean. Rainy day so I brought my younger one after work. It's nice to see the old Walmart grocery being used so there's that. And..."
  ]
 },{
  "name": "Clear Creek Whitewater Park",
@@ -519,6 +502,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/ZHECi6-T7mycSXMi-BUIyw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I found this place my first trip to Denver. It is only a few minutes from downtown Denver and even less from west side suburbs. I can not add much to what...",
@@ -526,17 +510,48 @@
   "We went tubing in late June of 2019. Water levels and snow fall in Colorado are at a 20 year high, so we were cautious. Make sure you check the flow rates..."
  ]
 },{
+ "name": "Centennial Center Park",
+ "address": "13050 E Peakview Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/URldB0yOClLRphF5FIz-HA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Centennial did a great job with this park. There's plenty of space here with a giant playground and even a splash pad going in the summer. My favorite part...",
+  "This is the flagship playground for the South metro area and boasts the largest sprayground in town, a huge climbing net, a stage for events, and a young...",
+  "This place probably has the best splash area around. Gets busy quickly. The playground is enormous. Great place for parties. They have events here all..."
+ ]
+},{
  "name": "Canvas and Cocktails",
  "address": "6862 S University Blvd",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/y0YBDscXrbuNCgQ9X2RkIA/o.jpg",
- "tags": [],
+ "tags": [
+  "tour"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "SO. MUCH. FUN! \n\nI came here because of mine asked me to join her and her mom. I'm so thankful I did! I loved the entire atmosphere, and vibes of this...",
   "A great time was had by all. No alcohol needed but it doesn't hurt either.\n\nYou can paint whatever you like. Of course, there's the guided tour of the...",
   "Had a fantastic time on 1st date here. I had no idea what to expect. \n\nI think this is a good date idea. Great area for dinner, shopping, and painting; all..."
+ ]
+},{
+ "name": "Boulder Farmers' Market",
+ "address": "1900 13th St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/SXLjZlTHuZpYkh4SAI9z2w/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I love the farmer's market! I often don't go as much as I would like to, but I never regret it when I do. They have an amazing selection of organic and non...",
+  "SO GLAD WE WERE ABLE TO STOP BY. We decided to visit on our way up to longmont and im so glad we did! Although we got there a little later (~6:30pm), there...",
+  "Full of organic produce and small batch hand crafted sauces, moles oils.  I've been to farmers markets all over the country and this one has the most..."
  ]
 },{
  "name": "Class Axe Throwing",
@@ -545,11 +560,44 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We went here for a team-building activity on a Tuesday afternoon. For the first 2 hours, we had the whole place to ourself which was awesome. I could see...",
   "Updating my review because the morning after I visited, my coach trash-talked me on social media. Completely unprofessional and uncool. I traded my...",
   "Came here from a groupon (as of posting right now they still have it on groupons website so make sure to scoop it up!) and we didn't know what we were..."
+ ]
+},{
+ "name": "The Colorado Sightseer",
+ "address": "600 South Holly St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JUH4Bj1H_D7EhCB0IOAbIw/o.jpg",
+ "tags": [
+  "tour",
+  "tour",
+  "tour"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "My husband and I just got back from the incredible mountain tour with Will. He was so funny and personable! This was an amazing experience and one that I...",
+  "My boyfriend and I decided to go on the Red Rocks, Evergreen, and Echo Lake Tour, and we had an amazing experience. Although this was not our first choice...",
+  "We had a great time with our tour guide, Scott, during our tour. He was very informative throughout the entire ride and was a great host, offering water and..."
+ ]
+},{
+ "name": "Urban Air Adventure Park - Littleton",
+ "address": "8196 Bowles Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "So my friend and I both came here to check it out after we had finished up with our errands and it was overall a decent place. We are both adults and it...",
+  "So it's new and relatively clean. Rainy day so I brought my younger one after work. It's nice to see the old Walmart grocery being used so there's that. And...",
+  "USAA got my money back and they have blocked Urban Air from charging my account. Urban Air has made 4 attempts to charge my card again. They can keep trying..."
  ]
 },{
  "name": "Mile High Flea Market",
@@ -558,10 +606,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg",
  "tags": [
-  "kids",
   "drink",
-  "experience"
+  "kids",
+  "eat"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Great place to bring the kids. Sit inside the Chicken coop, eat chicken wings and drink beer while your kids ride rides, shop, and buy fresh farm produce...",
@@ -577,6 +626,7 @@
  "tags": [
   "knowledgeable"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I've been to two classes now - knife skills with Chef Logan and vegetarian winter classics with Chef Ian. Both classes were wonderful. The knife skills...",
@@ -592,6 +642,7 @@
  "tags": [
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I'm going to let you in\nIn on a little secret\nGo further\nTo the upper lot\nA little hard to find\nSearch the web for it\nSmall parking lot\nBut the walk to th3...",
@@ -605,6 +656,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/qr2XGKJh4-K-W1HqPn8lhQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We came here on a whim ... we passed this place once and were in the mood to go mini golf so decided to give this place a go.\n\nThis place has a really cool...",
@@ -620,6 +672,7 @@
  "tags": [
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Terrific trail in the heart of downtown Denver. The trail is clean and safe, with separate sides for bikes & runners vs pedestrians only. There are lots of...",
@@ -627,29 +680,13 @@
   "This bike trail was so busy and full of homeless like others have wrote about . . It's a flat trail that you can go for a long time but it's dangerous with..."
  ]
 },{
- "name": "Family Shooting Center at Cherry Creek State Park",
- "address": "4201 S Parker Rd",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vgtWLtTNPObc7KtlSibXgA/o.jpg",
- "tags": [
-  "run"
- ],
- "source": "Yelp",
- "reviews": [
-  "Honestly, I've been to a pretty wide variety of public shooting ranges before and they've been anywhere from well run and safe to downright scary. This one...",
-  "They do not provide a good training environment. You are unable to stand and shoot a rifle or shoot from the prone position.  They get upset you \"fire too...",
-  "I absolutely love this shooting center for multiple reasons. 1. If you are a novice they will take the time to teach you correct posture- grip-aim-load &..."
- ]
-},{
  "name": "Bear Mountain Stables",
  "address": "11778 Wonder Dr",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/3Etkjvui4EGok6WRzV9dtw/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We did a 1h ride with our 9yo daughter. This was an awesome stable and experience. They made sure we got a quick orientation and safety overview which I...",
@@ -663,8 +700,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/9h9x40ac_evk1fv-BzbOHQ/o.jpg",
  "tags": [
-  "energy"
+  "walking"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Look no further for an urban park in Denver. Surrounds with trees, buildings, downtown and mountain views. The park is centrally located is the...",
@@ -678,10 +716,14 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg",
  "tags": [
+  "tour",
   "food",
   "food",
-  "foodie"
+  "foodie",
+  "tour",
+  "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We did the Food Tour with Jill this past weekend and had some great food!  Jill was super friendly, threw in interesting facts about the city, and showed us...",
@@ -698,6 +740,7 @@
   "free",
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is a really great event - First of all, you can come check it out for free.  By free, I mean that you can get in to check everything out at no cost....",
@@ -714,6 +757,7 @@
   "kids",
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Wow! This place is surprisingly awesome!!!\n\nIt looks like a small, fun, quirky kids' aquarium. It's so much more! We got free admission with the GetOut pass...",
@@ -721,18 +765,33 @@
   "In a mall, miles from our house. This place was so fun and I had a blast!  \n\nI got to go with a girlfriend and her two little ones, it was very clean and..."
  ]
 },{
- "name": "E.B. Rains Park",
- "address": "11801 Community Ctr Dr",
- "avg_visitor_review": 4.5,
+ "name": "Family Shooting Center at Cherry Creek State Park",
+ "address": "4201 S Parker Rd",
+ "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/XAk5oY2wLJpsvtCzMtt1FA/o.jpg",
- "tags": [
-  "walk"
- ],
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vgtWLtTNPObc7KtlSibXgA/o.jpg",
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "HELL YES! Me and my Pok\u00e9mon friends love to come here, but we personally like to call it Evee Rains. We love to stroll around the park and play Pok\u00e9mon,...",
-  "It's my home away from home. I can bike, walk, or drive here- it's wonderful the access- the bike trail runs right into it. The paddleboats are neat in the...",
-  "Fantastic park to have a picnic in. Enjoy. You'll love the amount of space like the Champ de Mars."
+  "Honestly, I've been to a pretty wide variety of public shooting ranges before and they've been anywhere from well run and safe to downright scary. This one...",
+  "They do not provide a good training environment. You are unable to stand and shoot a rifle or shoot from the prone position.  They get upset you \"fire too...",
+  "I absolutely love this shooting center for multiple reasons. 1. If you are a novice they will take the time to teach you correct posture- grip-aim-load &..."
+ ]
+},{
+ "name": "Golden Puzzle Room",
+ "address": "860 Tabor St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/EGH4dw2KNXHBlVpWePcczA/o.jpg",
+ "tags": [
+  "kids"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "The husband and I went on our own to try out the Zephyr. This is my 5th escape room experience and ranked among one of my favorites. \n\nPros: This is one of...",
+  "My son requested a puzzle room birthday party for his 9th b-day and we held it at Golden Puzzle Room in Lakewood.  It was a great experience and the...",
+  "A great experience! We were in town from Salt Lake and needed something to do in our down time. Myself and 4 kids (43, 12, 12, 12, 15) booked online and..."
  ]
 }]

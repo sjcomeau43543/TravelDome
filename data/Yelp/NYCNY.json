@@ -1,26 +1,14 @@
 [
 {
- "name": "Arcadia Earth",
- "address": "718 Broadway",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/1GifGCHAz2ny88gP0HeQOA/o.jpg",
- "tags": [
-  "unique"
- ],
- "source": "Yelp",
- "reviews": [
-  "This place is definitely amazing. Definitely informative and beautiful. I love the message that this exhibit was trying to relay. We need to do something to...",
-  "Arcadia earth is a unique environmentally friendly museum. The message was clear and the different rooms showcased that message. I liked all the plastic...",
-  "This exhibition has various rooms that are interpretations of the natural environments of the earth and the impact of humans upon those environments. The..."
- ]
-},{
  "name": "Fat Cat Music",
  "address": "75 Christopher St",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/UUvXLKxNgJMAqMTBYz1W_w/o.jpg",
- "tags": [],
+ "tags": [
+  "music"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Like this place !\nThey have live music everyday , they have ping pong tables, pool tables, board games..\nNo wonder they always have long line every weekend!",
@@ -36,6 +24,7 @@
  "tags": [
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "One of the many beacons of New York City; Times Square!\n\nI walked over to Times Square from Penn Station which was about a 20 minute walk. Along the walk,...",
@@ -51,6 +40,7 @@
  "tags": [
   "creative"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This place was really hard to find. But, be ready to have some fun! The mechanics was well designed and some of them was really cool and creative. Recommend...",
@@ -64,6 +54,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/yoe6Wha7gQlTBNIeFO0UhQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I will be completely honest, I don't tend to be much of a museum person. However, this was well off the best museums I've ever been to. There's so much to...",
@@ -77,6 +68,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/AiPp4hgbvzvYJWVHRYW4mA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "If you like architecture, and things on a mini scale, then this is definitely a place to check out while roaming New York. You'll need to reserve a couple...",
@@ -90,9 +82,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/C89YnkBA6a5zVyl8QaKI1g/o.jpg",
  "tags": [
-  "kids",
-  "run"
+  "parks",
+  "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is one of the biggest parks in the borough of Brooklyn. There the Flatbush Avenue- prospect park  side ( Prospect park Zoo, across the street from...",
@@ -108,6 +101,7 @@
  "tags": [
   "cheap"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We have been to a few archery ranges in Queens, but this range is by far, the best one! We will only be coming to Proline. My husband was bow shopping and...",
@@ -120,9 +114,8 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/mcqNi3-g950LsmPGcXYeGw/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I've always wanted to checkout this show as part of my NYC bucketlist and finally had the chance! Friend snagged some guaranteed tickets (make it through...",
@@ -136,8 +129,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/fR7QKR7BxkHwmLAqTA47qA/o.jpg",
  "tags": [
+  "food",
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Nice place. Food was good. I tried the sunrise burger.. bacon and over easy egg. Burger was med well as asked for. And with good flavor. Definitely would...",
@@ -151,6 +146,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/U1SIPt9Ofcb-Sj00QyuUFQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Fun place! I came here on a Sunday night and there were a lot of people of all ages. A live band was playing which was amazing. Everyone looked drunk and...",
@@ -163,14 +159,29 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/8bCN-CR_ZTmmb1uydNNpsA/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This was the second challenge room I ever experienced. I entered with two friends and another group of four amazing humans! It was helpful to have many...",
   "My friends and I attempted the Wild West Saloon room. It was definitely one of the more difficult escape rooms I have tried. I felt that some of the...",
   "I just left the carnevil escape room in Patchogue.  I had a terrible experience. The room was horrific.  I called before to ask if it was hard and they said..."
+ ]
+},{
+ "name": "Arcadia Earth",
+ "address": "718 Broadway",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/1GifGCHAz2ny88gP0HeQOA/o.jpg",
+ "tags": [
+  "unique"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "This place is definitely amazing. Definitely informative and beautiful. I love the message that this exhibit was trying to relay. We need to do something to...",
+  "Arcadia earth is a unique environmentally friendly museum. The message was clear and the different rooms showcased that message. I liked all the plastic...",
+  "This exhibition has various rooms that are interpretations of the natural environments of the earth and the impact of humans upon those environments. The..."
  ]
 },{
  "name": "Fairytale Island",
@@ -179,24 +190,12 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Gm4BKyjfwLVB8eAUx-BJpQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Fairytale Island consistently gets a 5-star rating and it's well deserved. I booked a private birthday party for my 4-year old and Cathy the owner made sure...",
   "Just had my daughters birthday party here. What a wonderful place and most amazing management. They make it so easy for the client and really go out of...",
   "Birthday parties here are awesome\n\nJust be careful with the trampoline. That can be dangerous. \n\nLove that they check your forehead before entering, in case..."
- ]
-},{
- "name": "Laser Bounce",
- "address": "80-28 Cooper Ave",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/znf9MhQiT7ABbAaveo1BPg/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Went to an 8 year gold's birthday party and I had a blast.\nThe prices for the games are reasonable.\nThe chicken tenders are good. The buffalo wings were too...",
-  "It's Midwinter Recess, school is out, and as expected there was a crowd at the entrance eager to pay and play. Hubby and I looked at each other and...",
-  "Who says arcades are dead? We stopped in here to kill time and let me say that this place was amazing! The prices for the games are very reasonable and all..."
  ]
 },{
  "name": "Central Park Zoo",
@@ -205,10 +204,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vw15_dJS9kr5et8XSus-qQ/o.jpg",
  "tags": [
-  "walk",
   "family",
+  "walk",
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The Central Park Zoo is very cute and you'll have a good time, but you need to know upfront it's very small. Adults can cover it in an hour; if you have...",
@@ -223,9 +223,10 @@
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/ue85E6iae-a7o3IbE11alQ/o.jpg",
  "tags": [
   "food",
-  "creative",
-  "food"
+  "food",
+  "creative"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Love coming here. They usually screen all the movies you might want to see. \nThe service is great. \nMake sure to try the cocktail specials they have for the...",
@@ -233,17 +234,18 @@
   "Nitehawk is one of my favorite movie theaters. They get so creative with the intros to each movie, the special movie nights they host, and the food menu is..."
  ]
 },{
- "name": "Dinosaur Bar-B-Que",
- "address": "700 W 125th St",
+ "name": "Laser Bounce",
+ "address": "80-28 Cooper Ave",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/w4NDBIZY_0l4YSptnFFNKg/o.jpg",
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/znf9MhQiT7ABbAaveo1BPg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "They are open, Gyna! \n\nFood: 4\nPortion to $: 3\nQuality: 4\n\nAnd it's the only real BBQ I can get delivered. -5 star. \n\nYes, it's expensive and you don't have...",
-  "I have been waiting to try this place for 40 days. As a Catholic, I gave up meat completely for Lent and wanted to reward myself with a great restaurant and...",
-  "Harlem Dinosaur Bar-B-Que operating on a limited menu during the pandemic and we went in Sunday, May 3rd late afternoon. We ordered our cocktail + meal..."
+  "Went to an 8 year gold's birthday party and I had a blast.\nThe prices for the games are reasonable.\nThe chicken tenders are good. The buffalo wings were too...",
+  "It's Midwinter Recess, school is out, and as expected there was a crowd at the entrance eager to pay and play. Hubby and I looked at each other and...",
+  "Who says arcades are dead? We stopped in here to kill time and let me say that this place was amazing! The prices for the games are very reasonable and all..."
  ]
 },{
  "name": "Russian Baths on Neck Road",
@@ -255,40 +257,12 @@
   "food",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Love this place!\nYou pay 50$ and stay as much as you like. The saunas are great! Russian style(very hot) and some easier ones(like steaming sauna). The food...",
   "The place is very dirty, the staff there is VERY, VERY rude, they will treat you with their attitude like they are doing their favor. The level of customer...",
   "This place truly has the best Russian food in Brooklyn. I can't say enough about the feeling to which this place makes you return constantly. Warm ambience..."
- ]
-},{
- "name": "Gotham Archery",
- "address": "480 Baltic St",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/qd8p-2qTXe6M2uOr8HDLaQ/o.jpg",
- "tags": [
-  "knowledgeable",
-  "family"
- ],
- "source": "Yelp",
- "reviews": [
-  "The staff showing the class the ropes were enthusiastic, knowledgeable and hands on with each of us over the course of the instruction.  I started off...",
-  "My company had an event here and the staff was entertaining, accommodating, and well trained. The space is huge and comfortable for events. They worked with...",
-  "Amazing event with family! The instructors (Brendan, Corey...sorry if misspelled?) are awesome! They made it so much fun. They\nDid not make anyone feel..."
- ]
-},{
- "name": "Museum of Illusions",
- "address": "77 Eighth Ave",
- "avg_visitor_review": 3.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/4R0mDTiXgw29Rc9yG55uuA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I had SO MUCH FUN here! We stopped in for an impromptu visit Wednesday afternoon, there wasn't a line, we paid our $20 and entered the exhibit. It's much...",
-  "Wackkkkkkkk don't waste your time. There's a line to get in because it's tiny af inside ... when getting inside more lines, some of the art didn't make...",
-  "The museum was very small, there was a long line and not a lot of activities. *outside of the building looks very big but inside it is very small* there was..."
  ]
 },{
  "name": "Museum Hack",
@@ -299,8 +273,9 @@
  "tags": [
   "knowledgeable",
   "knowledgeable",
-  "experience"
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Lia. She's hilarious, knowledgeable, a human fun-making machine, an art/history buff, a fountain of obscure factoids, a fierce feminist, PLUS she has...",
@@ -308,28 +283,16 @@
   "Absolutely the best experience we've had! Wonderful tour and tour guides. Elizabeth & Scott had my husband and I beyond interested and I learned so many..."
  ]
 },{
- "name": "Jump into the Light",
- "address": "180 Orchard St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/LDPhQwRJ3bHuWixwJpnTwA/o.jpg",
- "tags": [
-  "experience",
-  "experience"
- ],
- "source": "Yelp",
- "reviews": [
-  "Worth the money for a fun experience! $40 gets you an entire day, but you might want to reserve the upstairs area if you actually want to spend more than a...",
-  "This is a fun place to spend a few hours! My brother and I came here on a Saturday afternoon and it wasn't too crowded. We purchased the all-day tickets...",
-  "Great place, perfect to go with small groups. Good customer service, I'm not tech savvy, received feedback through the whole gaming experience and game..."
- ]
-},{
  "name": "Creative Little Garden",
  "address": "530 E 6th St",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/X1NWjwfNgJJADwQ50ozZ3g/o.jpg",
- "tags": [],
+ "tags": [
+  "walking",
+  "creative"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Wonderful little garden off 6th St. in East Village. \n\nWalking past, my aunt and I noticed the lush bushes, flowers and small benches of this garden nestled...",
@@ -337,17 +300,20 @@
   "I passed by this place on my way to a subway\u200b station. Are you kidding me? When I was a kid growing up in Brooklyn in the 60's we called places like..."
  ]
 },{
- "name": "Tarot NYC",
- "address": "",
- "avg_visitor_review": 5.0,
+ "name": "Dinosaur Bar-B-Que",
+ "address": "700 W 125th St",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/mFDWUcfFxmTi8mlPYPo7WQ/o.jpg",
- "tags": [],
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/w4NDBIZY_0l4YSptnFFNKg/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "First off, I'll start by saying that I can see why this woman has hundreds of exceptional reviews and that I'll end up repeating what many others have said....",
-  "I had my very first reading with Veronica last week, She is the real deal!  \nSuper spot on, doesn't sugar coat.  I absolutely loved and enjoyed my session...",
-  "I am ashamed that it has taken me this long to write a review... swore I did, but I apparently did not. Sorry Veronica!!\n\nIf I could give Veronica 10000..."
+  "They are open, Gyna! \n\nFood: 4\nPortion to $: 3\nQuality: 4\n\nAnd it's the only real BBQ I can get delivered. -5 star. \n\nYes, it's expensive and you don't have...",
+  "I have been waiting to try this place for 40 days. As a Catholic, I gave up meat completely for Lent and wanted to reward myself with a great restaurant and...",
+  "Harlem Dinosaur Bar-B-Que operating on a limited menu during the pandemic and we went in Sunday, May 3rd late afternoon. We ordered our cocktail + meal..."
  ]
 },{
  "name": "Strawberry Fields",
@@ -355,7 +321,10 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/TZ0_BLd_H-zQNnnIdmWgvA/o.jpg",
- "tags": [],
+ "tags": [
+  "music"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This is always an inspirational place within Central Park on the west side. There are always flowers l, some music and a crowd when you visit. \n\nTake your...",
@@ -369,27 +338,14 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/aJE4uylBGfkHy81ADMWWnw/o.jpg",
  "tags": [
-  "family",
-  "experience"
+  "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This review is for the NYC Winter Lantern Festival at Snig Harbor cultural center.  The festival runs from November 20th 2019 to January 12th 2020.  It is...",
   "I took the family to the Winter Lantern Festival. It is promoted very well but executed poorly. The light display is wonderful. But that's it. First the...",
   "Came here for the Chinese Lantern Festival on NYE and it was such a fun experience! There's lots to see and there are shows and performances too. \n\nFor..."
- ]
-},{
- "name": "Kings County Distillery",
- "address": "299 Sands St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/oiORuHnfrccgwBx7ydwAfA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "I was slightly confused when I arrived to pick up my order, as the areas by the gatehouse are a part of the Wegman's parking lot.  But once I figured it out...",
-  "Coffee AND Whisk(e)y?!?! Sign me up!\n\nWe went here after a friend's glowing review and recommendation. I'm a big whiskey fan and King's County did not...",
-  "Some of my all-time favorite bourbon and one of my favorite spaces in Brooklyn. It's definitely worth getting flights when you go there so you can try a..."
  ]
 },{
  "name": "Rockefeller Center",
@@ -398,6 +354,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Ni0QU2U7iNjHyvr9GY9ceQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Rockefeller Center is a super awesome place to visit! I didn't realize how big it is, but it actually consists of 19 buildings that cover 22 acres (yes, I...",
@@ -405,35 +362,37 @@
   "This is the Rockefeller Center building, NBC-4  News headquarters is based in the building. it Holds the Annual Christmas Tree Lighting. There The Fao..."
  ]
 },{
- "name": "Classic Harbor Line",
- "address": "62 Chelsea Piers",
- "avg_visitor_review": 4.5,
+ "name": "Gotham Archery",
+ "address": "480 Baltic St",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/H1BwlWWLr33RYmd0CuuTxQ/o.jpg",
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/qd8p-2qTXe6M2uOr8HDLaQ/o.jpg",
  "tags": [
-  "experience",
-  "experience"
+  "knowledgeable",
+  "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "I have lived in NYC for 3 years...and this has become my favorite activity.  I take all of my guests on these Cruises.  Fabulous.  Best value for the dollar...",
-  "This was a great experience. If anything the cruise went by too quickly. The band was fun, beer and snacks available to buy, and great picture opportunities...",
-  "I just came back from a nice trip to New York and one of the highlights was definitely the Morimoto Sake and Sushi Sunset Sail experience. Tickets can be..."
+  "The staff showing the class the ropes were enthusiastic, knowledgeable and hands on with each of us over the course of the instruction.  I started off...",
+  "My company had an event here and the staff was entertaining, accommodating, and well trained. The space is huge and comfortable for events. They worked with...",
+  "Amazing event with family! The instructors (Brendan, Corey...sorry if misspelled?) are awesome! They made it so much fun. They\nDid not make anyone feel..."
  ]
 },{
- "name": "The Funplex",
- "address": "182 State Rt 10",
- "avg_visitor_review": 3.5,
+ "name": "Museum of Illusions",
+ "address": "77 Eighth Ave",
+ "avg_visitor_review": 3.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/HFrRrnuvP2IobGNaz0powA/o.jpg",
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/4R0mDTiXgw29Rc9yG55uuA/o.jpg",
  "tags": [
-  "food"
+  "art"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "If you come early you will be fine.  As the day goes in the crazier and dirtier it gets.  Come early and the go karts, laser tag and rides are empty.   We...",
-  "This place was awesome!\n\nIt was my nieces sixth birthday-- my aunt told me we were coming here to bowl. I didn't have the time t look on Yelp, prior to our...",
-  "Definitely entertaining - they had a work deal for 3 activities, food, and a separate room for $35, which was great - the laser tag, go-karts and bowling..."
+  "I had SO MUCH FUN here! We stopped in for an impromptu visit Wednesday afternoon, there wasn't a line, we paid our $20 and entered the exhibit. It's much...",
+  "Wackkkkkkkk don't waste your time. There's a line to get in because it's tiny af inside ... when getting inside more lines, some of the art didn't make...",
+  "The museum was very small, there was a long line and not a lot of activities. *outside of the building looks very big but inside it is very small* there was..."
  ]
 },{
  "name": "DreamCatcher",
@@ -442,6 +401,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/hJjR-cX8aMWsewhDiSGH2Q/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I thought it was a joke at first because theres never any arcades around the neighborhood. The hidden little gem is so adorable! It's kind of a tiny place...",
@@ -455,15 +415,34 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Q3WrMXvDJLrp5t46RH03nQ/o.jpg",
  "tags": [
+  "walking",
   "history",
+  "tour",
   "kids",
+  "tour",
+  "tour",
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Amazing amazing amazing, as a new yorker we tend to sometimes forget and neglect the history and beauty of our beloved city. Booking a walking tour was a...",
   "Went on a tour today, The Five Points Tour, with Wilhelmina (sp?) and she was great! My kids loved it and on top of being entertained by the stories, we saw...",
   "We enjoyed the tour very much, our tour guide Frankie is a true entertainer and a historian, it was a pleasure to walk around downtown and learning about..."
+ ]
+},{
+ "name": "Jump into the Light",
+ "address": "180 Orchard St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/LDPhQwRJ3bHuWixwJpnTwA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Worth the money for a fun experience! $40 gets you an entire day, but you might want to reserve the upstairs area if you actually want to spend more than a...",
+  "This is a fun place to spend a few hours! My brother and I came here on a Saturday afternoon and it wasn't too crowded. We purchased the all-day tickets...",
+  "Great place, perfect to go with small groups. Good customer service, I'm not tech savvy, received feedback through the whole gaming experience and game..."
  ]
 },{
  "name": "Queens County Farm Museum",
@@ -476,6 +455,7 @@
   "kids",
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Brought my family here to pick some pumpkins but ended up spending the whole day enjoying the petting area, the hayride, and everything in between! \nThis...",
@@ -488,7 +468,10 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/tpdkx4ADQzXG3D_Fby7IOQ/o.jpg",
- "tags": [],
+ "tags": [
+  "tour"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "When you consider how the City Reliquary had its start in the founder Dave Herman's nearby Williamsburg apartment as a window display of found artifacts...",
@@ -502,6 +485,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/z31R-9He76tRYqEeFMMIXQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Let's just say it's too small.\n\nIf you've been to the Boston Aquarium this place is 1/4 of its size maybe even smaller. They had some places closed off for...",
@@ -515,26 +499,12 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/KoZAE-gps8RO_yLgHdqUGA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I have played three episodes with Mission Escapes and decided it was finally time to review.  My work group has a tradition of doing an escape room whenever...",
   "This escape room was great!! I always did escape rooms  around this area and decided to try this one for my bday weekend with fam. Our gamemaster raymi was...",
   "Game: End of Days (A) [20% Escape Rate]\n9pm on a Saturday\n$30 (not added tax as of Feb 2020 when bought online)\nGame Master: Raymi \nHost: Hector\nTime..."
- ]
-},{
- "name": "Sea The City Jet Ski",
- "address": "Liberty Landing Marina",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/wawCKbceIznxxD8ppnVkMA/o.jpg",
- "tags": [
-  "experience"
- ],
- "source": "Yelp",
- "reviews": [
-  "Came here in summer 2017 and it was aweeesome!!! Came here with the sweetest guy I met in New York which was great too :)))\n\nCost was pretty high, over $100...",
-  "Review From A First Timer:\n\nThis was so much fun! If you are going with someone be sure to pay extra to drive your own jet ski. The couples that were riding...",
-  "A lot of fun and a great experience for a special occasion! Watch out for the ferries!\n\nI didn't have any personal watercraft (aka \"jet ski\" experience) but..."
  ]
 },{
  "name": "Summer Streets",
@@ -543,6 +513,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/nXEeNuoST72p61YgNt_hOw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I don't know how I literally just discovered Summer Streets despite living in the area for a few years now. For the first few Saturdays in August, NYC will...",
@@ -556,6 +527,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/QUrWPXHpf5-Lh9U88Ffg8g/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "6 stars? An A+? I don't know what accolades you can give to a place that deserves more than 5 stars. \n\nFirst, if this is your first time here, the process...",
@@ -570,9 +542,11 @@
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/A4h6aFQqssqLGRwHQjUI1w/o.jpg",
  "tags": [
   "hike",
-  "knowledgeable",
-  "hike"
+  "tour",
+  "hike",
+  "knowledgeable"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I went on a hike with Xcelerated. Chase our tour guide drove us from Manhattan to Sams Point in upstate New York. He took us through the lake, the...",
@@ -580,12 +554,30 @@
   "I highly recommend this business if you are looking for a great hiking day trip. I went to Breakneck and it was a blast. Loved seeing the awesome scenery..."
  ]
 },{
+ "name": "Tarot NYC",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/mFDWUcfFxmTi8mlPYPo7WQ/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "First off, I'll start by saying that I can see why this woman has hundreds of exceptional reviews and that I'll end up repeating what many others have said....",
+  "I had my very first reading with Veronica last week, She is the real deal!  \nSuper spot on, doesn't sugar coat.  I absolutely loved and enjoyed my session...",
+  "I am ashamed that it has taken me this long to write a review... swore I did, but I apparently did not. Sorry Veronica!!\n\nIf I could give Veronica 10000..."
+ ]
+},{
  "name": "Gate1",
  "address": "7200 4th Ave",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/tvoqj3GYW9DFHHWHwQFQYA/o.jpg",
- "tags": [],
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Here, here- now here this: if 5 stars=default-I'll only recognize and settle for a 10 stars description of this tour to Morocco-land of my forefathers and...",
@@ -593,12 +585,32 @@
   "Used gate 1 for China , very disappointed! Once the money was paid , couldn't get hold of the lady that booked me. Found out other travelers using travel..."
  ]
 },{
+ "name": "The Funplex",
+ "address": "182 State Rt 10",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/HFrRrnuvP2IobGNaz0powA/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "If you come early you will be fine.  As the day goes in the crazier and dirtier it gets.  Come early and the go karts, laser tag and rides are empty.   We...",
+  "This place was awesome!\n\nIt was my nieces sixth birthday-- my aunt told me we were coming here to bowl. I didn't have the time t look on Yelp, prior to our...",
+  "Definitely entertaining - they had a work deal for 3 activities, food, and a separate room for $35, which was great - the laser tag, go-karts and bowling..."
+ ]
+},{
  "name": "Flushing Meadows-Corona Park",
  "address": "11101 Corona Ave",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/hoAiN9v6iCjS3m7WNof8EQ/o.jpg",
- "tags": [],
+ "tags": [
+  "parks",
+  "free"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Writing a review for the cherry blossoms here! I visited a month ago (pre quarantine time) and the flowers were blooming nicely! The area I went to had...",
@@ -606,12 +618,29 @@
   "AN ABSOLUTELY MUST DO! 5 STARS!!! ONE OF THE COOLEST PARKS YOU WILL EVER GO TO! THE ADMISSION HERE IS FREE & FREE PARKING TOO! FREE PARKING IN NEW YORK YUP..."
  ]
 },{
+ "name": "Kings County Distillery",
+ "address": "299 Sands St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/oiORuHnfrccgwBx7ydwAfA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I was slightly confused when I arrived to pick up my order, as the areas by the gatehouse are a part of the Wegman's parking lot.  But once I figured it out...",
+  "Coffee AND Whisk(e)y?!?! Sign me up!\n\nWe went here after a friend's glowing review and recommendation. I'm a big whiskey fan and King's County did not...",
+  "Some of my all-time favorite bourbon and one of my favorite spaces in Brooklyn. It's definitely worth getting flights when you go there so you can try a..."
+ ]
+},{
  "name": "Brooklyn Heights Promenade",
  "address": "Columbia Heights",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/JIStSx572oPkc75syAJkdw/o.jpg",
- "tags": [],
+ "tags": [
+  "walking"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We found ourselves here totally by accident and I am SO glad we did!\n\nThe view was absolutely stellar and I loved seeing a more quaint part of the Brooklyn...",
@@ -619,32 +648,34 @@
   "I do love walking by this area in Brooklyn with its beautiful cozy shops, coffee shops, brownstones, playgrounds. It is so delightful to poke around and..."
  ]
 },{
- "name": "Watson Adventures Scavenger Hunts",
- "address": "330 W 38th St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/USClEKe7igbPX_wSMS182A/o.jpg",
- "tags": [
-  "run"
- ],
- "source": "Yelp",
- "reviews": [
-  "We had a blast! Secrets of Wall Street was a great hunt, very different from any that we have done before. Challenging, informative, and fun. We loved the...",
-  "I run a leadership conference each year and this year we decided to start with Watson's Trivia Slam.  It was a HUGE hit - our staff loved it and I've had...",
-  "This was a great team building exercise with a new group of interns/apprentices. I had a great time, as did my colleagues. Bobby is the best coach i ever..."
- ]
-},{
  "name": "Syndicated Bar Theater Kitchen",
  "address": "40 Bogart St",
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/OgidL4OFlysf2yuTtrh0CA/o.jpg",
- "tags": [],
+ "tags": [
+  "eat"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Omg what can I say this place is awesome! It's a great place to meet up have cocktails, eat and catch movie. The drinks are awesome and the atmosphere is in...",
   "Lol...this was my 3rd time coming here. First time was just for drinks, and we fell in love! Great deals, cool vibes, etc. the second time we came to see...",
   "The \"Hot Mess\" fried chicken sandwich y'all...is the stuff that dreams are made of. When you come, please order that and you will definitely be back. Also,..."
+ ]
+},{
+ "name": "Classic Harbor Line",
+ "address": "62 Chelsea Piers",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/H1BwlWWLr33RYmd0CuuTxQ/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "I have lived in NYC for 3 years...and this has become my favorite activity.  I take all of my guests on these Cruises.  Fabulous.  Best value for the dollar...",
+  "This was a great experience. If anything the cruise went by too quickly. The band was fun, beer and snacks available to buy, and great picture opportunities...",
+  "I just came back from a nice trip to New York and one of the highlights was definitely the Morimoto Sake and Sushi Sunset Sail experience. Tickets can be..."
  ]
 },{
  "name": "Jersey City Archery",
@@ -653,6 +684,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/AQenZLNL3DhD7lQ_aTXr6Q/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Had an amazing time trying Archery for the first time. Very challenging but fun activity to try. We signed up for the Archery 101 class as it was our first...",
@@ -660,14 +692,27 @@
   "Such a fun place to go to with friends! This was my first time trying archery and we had a blast! There was only one person assisting everyone and checking..."
  ]
 },{
+ "name": "Sea The City Jet Ski",
+ "address": "Liberty Landing Marina",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/wawCKbceIznxxD8ppnVkMA/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Came here in summer 2017 and it was aweeesome!!! Came here with the sweetest guy I met in New York which was great too :)))\n\nCost was pretty high, over $100...",
+  "Review From A First Timer:\n\nThis was so much fun! If you are going with someone be sure to pay extra to drive your own jet ski. The couples that were riding...",
+  "A lot of fun and a great experience for a special occasion! Watch out for the ferries!\n\nI didn't have any personal watercraft (aka \"jet ski\" experience) but..."
+ ]
+},{
  "name": "Clue Chase",
  "address": "1114 6th Ave",
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/nMMz-4lT9u0qKU71Xb3mMw/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Hmmm...did not expect this much fun on level -1 of the WR Grace building.  This was my first escape room experience and it set the bar high for future...",
@@ -680,7 +725,10 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/OHhvX_-MUlZyX-TXEz2Rgg/o.jpg",
- "tags": [],
+ "tags": [
+  "walking"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "What an awesome park! I haven't been here in years but spontaneously came by yesterday with a friend. We were meeting some pals who live in Astoria for...",
@@ -694,9 +742,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/OBJeJ4NjRzqPUP6Ul0YvGQ/o.jpg",
  "tags": [
-  "experience",
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Best escape room I've ever been to! Corinne is super helpful and makes sure that you get the full escape room experience. I can here with a group of eleven...",
@@ -712,10 +760,28 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "The Conservatory Garden is accessed through the Vanderbilt Gate on Fifth Avenue south of 105th Street. It is the only formal garden in Central Park. This is...",
   "What would we do without escaping to central park. Pups running, kids playing. It's our go-to weekend location. Time to smell the flowers.",
   "Within New York City with all it's skyscrapers and the hustle and bustle you will find Central Park.  There are tons of things to do and see in Central Park..."
+ ]
+},{
+ "name": "Fort Totten Park",
+ "address": "Totten Ave & Cross Island Pkwy",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ZeKkg0Nih05SUQWjaf0Iwg/o.jpg",
+ "tags": [
+  "field",
+  "kids"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Perfect park! It's perfectly maintained and they have lots of space to spread out! Love it here!",
+  "Public NYC park that use to be an old military base. Large soccer fields and a few softball field for kids as well. Nice playground area, even paved roads...",
+  "Game of Thrones Fans!  The Iron Throne is in NYC!   Up until this Monday 7pm.  It's deep down inside the Fort so you get the feel like it's really part of..."
  ]
 }]

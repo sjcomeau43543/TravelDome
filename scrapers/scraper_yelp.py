@@ -61,6 +61,8 @@ class Yelp:
                     else:
                         photo_location = None 
 
+                    # TODO get URL
+
                     # add to list
                     a = Activity(business["name"], business["location"]["address1"], business["rating"], None, photo_location, "Yelp", reviews=reviews, tags=[], get_tags=True)
                     activities.append(a)

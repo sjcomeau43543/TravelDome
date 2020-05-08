@@ -1,37 +1,5 @@
 [
 {
- "name": "Gigglewaters",
- "address": "737 Main St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/4xtxZtqjdvxXSqv7DFIBJA/o.jpg",
- "tags": [
-  "food"
- ],
- "source": "Yelp",
- "reviews": [
-  "This review is for Gigglewaters current offerings of curbside ordering. \n\nFirst up are the Sweet and Salty Popcorn - savory goodness of lightly caramel...",
-  "This place has amazing food and great drinks! \nI'm giving it 4 stars instead of 5 stars because the placement of the bathroom was three feet away from our...",
-  "Hubby and I took our son out for lunch on Wednesday for his 29th birthday.\nOur server was pretty awesome she was on top of her game!\nThe ambience was really..."
- ]
-},{
- "name": "Bayshore Linear Park Trail",
- "address": "312 Bayshore Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/PobtPYZlYPyj0sSu-JZVjw/o.jpg",
- "tags": [
-  "run",
-  "walk",
-  "peaceful"
- ],
- "source": "Yelp",
- "reviews": [
-  "Since the Duke of the Bayshore Linear Park Trail recommended I take a run here while visiting Tampa, I couldn't say no.     This trail is beautiful and flat...",
-  "I love bayshore! The walk down bayshore is just perfection. Florida is extremely hot so on days we can actually take advantage of good weather, being...",
-  "A great spot to take a peaceful stroll. It's relatively quiet (except for the cars of course), well kept, very clean, and feels very safe - even when..."
- ]
-},{
  "name": "Grand Prix Tampa",
  "address": "14320 N Nebraska Ave",
  "avg_visitor_review": 2.5,
@@ -41,6 +9,7 @@
   "cheap",
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Five stars for the mini golf!!! \nA nice honestly cheap  date - $14 for one round of mini golf for two. This place definitely is like an older  style course...",
@@ -54,9 +23,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/jYIQh2phrzKEc45lktbRGg/o.jpg",
  "tags": [
-  "experience",
   "hike"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Only accessible by boat, this island is the closest experience I have had to a Caribbean island. Situated on outside of the town of Dunedin on the Gulf of...",
@@ -64,14 +33,29 @@
   "Do you want to escape the everyday stress? Hop the ferry over to Caladesi Island State Park! One of the keys off the gulf cost- Caladesi has beautiful..."
  ]
 },{
+ "name": "eBOATS Tampa",
+ "address": "333 S  Franklin St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/-CNzc9fhbaspkpSBtORkzA/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "A group of us from church spent a day fabulous afternoon on the water with eBOATS. This was on my to do list for sure. The Riverwalk area in Tampa is...",
+  "Great activity on the bay for families looking for something to do for fun. Reserving a boat is a great idea for families that give you an option of driving...",
+  "KC was great! The boat ride was so relaxing and the view was perfect! Love the idea of being able to bring on food and drinks. Very safe ...Had my little..."
+ ]
+},{
  "name": "Tampa Bay Grand Prix",
  "address": "3404 Cragmont Dr",
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/ces-koIDF0yW-JmVgcxCgQ/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Really fun you can ride Go-Karts and it's totally fun I would be suprised if any puts a 1star",
@@ -85,27 +69,14 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Y3yCLsNuw_IutDFz8vjd_Q/o.jpg",
  "tags": [
-  "walk",
-  "run"
+  "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I freakin love this loop!\n\nFor a place to run, walk, bike, rollerblade and explore, this place is the best around.\n\nAccessible from 2 exits off I75, this 8...",
   "As someone who had not been able to ride a bicycle since age 13 due to an undiagnosed disability, the seven miles of park (which includes paved trails) in...",
   "Great paved biking trails. Convenient locations on Bruce B Downs and Morris Bridge Roads. Plenty of parking. $2 fee is a bargain. Rest rooms, maps, water..."
- ]
-},{
- "name": "Cheese Please",
- "address": "3225 S MacDill Ave",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/ivtkSP99mpZ4ULhAJ9vu1w/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This place sets the standard for all wine and cheese places!! The owner is extremely friendly, and informative when it comes to which cheeses to order. I've...",
-  "I visited Cheese Please with a group of 5 for a Friday evening tasting.  The tasting was Spain vs. Italy.  \n\nCheese Please has a small bar that you can...",
-  "Cheese, meats and wine! What more could you ask for? We ponied up to the bar at Cheese Please on a rainy Friday night. This place is so cute!! You can pick..."
  ]
 },{
  "name": "A Boat Day",
@@ -116,6 +87,7 @@
  "tags": [
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This past Thanksgiving we booked the Funship, a two story pontoon boat with a water slide for our extended family to enjoy Florida. Captain Randy...",
@@ -123,17 +95,20 @@
   "Captain Randy made our trip! We had such an amazing day on the ocean with him. He took us around to see the dolphins and manatees. We even saw a sea turtle...."
  ]
 },{
- "name": "Vertical Ventures",
- "address": "5402 Pioneer Park Blvd",
- "avg_visitor_review": 4.0,
+ "name": "Gigglewaters",
+ "address": "737 Main St",
+ "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/5A3xFoJN3W1y5kX496Iwdw/o.jpg",
- "tags": [],
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/4xtxZtqjdvxXSqv7DFIBJA/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "Had a real fun time today at VV -Tampa. This was the first time my brother and I tried indoor rock climbing and their Intro to Belay class made everything...",
-  "My friends invited me here one evening and I was pretty nervous. In addition to having no skill climbing or bouldering, I'm a little larger and have extreme...",
-  "This gym is the bomb!   The bouldering area is huge with many options from level 1-10.  Several top roping courses and auto-belays to choose from and a..."
+  "This review is for Gigglewaters current offerings of curbside ordering. \n\nFirst up are the Sweet and Salty Popcorn - savory goodness of lightly caramel...",
+  "This place has amazing food and great drinks! \nI'm giving it 4 stars instead of 5 stars because the placement of the bathroom was three feet away from our...",
+  "Hubby and I took our son out for lunch on Wednesday for his 29th birthday.\nOur server was pretty awesome she was on top of her game!\nThe ambience was really..."
  ]
 },{
  "name": "Raider Axe Lodge",
@@ -142,24 +117,12 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/FML28BkEOS-3GsYRiRYSzw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Raider Axe Lodge is nestled in between some warehouses and set up nicely. Perfect for events and my wife and I decided to set up her company Christmas party...",
   "I came here at the end of an event and man is it a great stress reliever. All my frustrations from the week were released when I threw my first axe. It...",
   "We had so much fun axe throwing. I was sceptical about this but we all had a blast! Frederick the owner does a great job. He was patient in teaching us..."
- ]
-},{
- "name": "Bury the Hatchet",
- "address": "939 Oakfield Dr",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/CSSUiwOfzrKI_QeWjYPb2w/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Our niece was visiting and when we drove by she asked to go in and check it out. We left excited to come back at night and we ended up having such a fun...",
-  "We had the greatest time here. The place was very impressive. It's very clean, big and spacious. David was our axe master and he showed us the ropes, walked...",
-  "We had such an amazing time! I was actually pretty nervous to be throwing an axe, mainly because of it bouncing back at me. Well, after I threw and it stuck..."
  ]
 },{
  "name": "Weedon Island Preserve",
@@ -170,6 +133,7 @@
  "tags": [
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This was a really cool spot. If you like kayaking and paddle boarding, there are water trails for you. If you love hiking they have bridges everywhere.   We...",
@@ -183,9 +147,9 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/2JxHL6GOcFTDdRnEResDQw/o.jpg",
  "tags": [
-  "experience",
   "knowledgeable"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This was awesome! $18.99/person and we did a two hour excursion. We saw a few dolphins and they stuck around for awhile! Then we went to an island and got...",
@@ -193,34 +157,34 @@
   "Great experience. Fun and knowledgeable captains. Great shelling on the island and we were lucky enough to see dolphins too! It does get windy on the boat..."
  ]
 },{
- "name": "Improv Comedy Club",
- "address": "1600 E 8th Ave",
- "avg_visitor_review": 3.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/5NzRJmhaQRLrICPJr2otKQ/o.jpg",
- "tags": [
-  "food"
- ],
- "source": "Yelp",
- "reviews": [
-  "This was first time for my husband I visiting comedy club. We watched Mark Viera. Never heard of him except a small preview on YouTube before we bought...",
-  "I would give the club, talent, service and seating arrangement 5 stars and the food 0. \n\nI recently tried the dip trio and became violently ill afterward. I...",
-  "We come here regularly to see popular comedians we like. There are pros and cons to this place but compared to other improves I have been this isn't too..."
- ]
-},{
  "name": "PedalPub St Petersburg",
  "address": "1975 3rd Ave S",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/Uilk7n9kKsiYKkv6Jb8FyQ/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "HIGHLY recommend!\n\nWe came down for a bachelorette weekend, and wanted to do a trolley pub as an activity. We are so glad that we did. The 2 hours truly...",
   "I had the best time! I was invited to a birthday party for a dear friend and she chose to celebrate with PedalPub! The day we were to go, the rain was...",
   "I celebrated my birthday by renting out a bike with my friends... best decision I've ever made! This experience was so much fun and I will recommend this to..."
+ ]
+},{
+ "name": "Cheese Please",
+ "address": "3225 S MacDill Ave",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/ivtkSP99mpZ4ULhAJ9vu1w/o.jpg",
+ "tags": [
+  "tasting"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "This place sets the standard for all wine and cheese places!! The owner is extremely friendly, and informative when it comes to which cheeses to order. I've...",
+  "I visited Cheese Please with a group of 5 for a Friday evening tasting.  The tasting was Spain vs. Italy.  \n\nCheese Please has a small bar that you can...",
+  "Cheese, meats and wine! What more could you ask for? We ponied up to the bar at Cheese Please on a rainy Friday night. This place is so cute!! You can pick..."
  ]
 },{
  "name": "The Airosphere",
@@ -232,6 +196,7 @@
   "kids",
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Place was pretty darn cool! When here for my little nephews birthday party and enjoyed it. Not a lot of seating for parents not wanting to jump around, but...",
@@ -245,6 +210,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/7ewnSpJ0wlhXlWzMGdRzGw/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I love this Aquarium! I like that this Aquarium is set up to rehabilitate animals and make sure they are helping the wildlife in the area. \n\nI really...",
@@ -252,32 +218,32 @@
   "Holy moLy what a f--king disaster. If you can comfortably accommodate people then why not close until  or roper rEnovatiOns can be made. THis place is an..."
  ]
 },{
- "name": "Tampa Bay Grand Prix",
- "address": "12350 Automobile Blvd",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/lQJdoUDLuk1lZ6NAlK_oNg/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "This is NOT a go kart track where you will be able to bump into others or drive crazy. Safety is strictly enforced. They stop you if you don't follow rules....",
-  "We had a blast last weekend! We went pretty late but they squeezed us in and quickly went over the rules so we could do 2 laps. I haven't been go karting in...",
-  "Ok a big thanks to Tampa Bay Grand Prix.  I got to go to my first official \"adult birthday party\".  One of my friends organized the party package for a..."
- ]
-},{
- "name": "Breakout's Imagine Escape Rooms",
- "address": "2830 E Bearss Ave",
+ "name": "Bury the Hatchet",
+ "address": "939 Oakfield Dr",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Z7n_4D5bQcrb24gummfYxw/o.jpg",
- "tags": [
-  "experience"
- ],
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/CSSUiwOfzrKI_QeWjYPb2w/o.jpg",
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "By far one of the best escape rooms I've been to! Robbie was our guide and he was incredibly helpful and personable! Thanks for making this such a great...",
-  "Been to over 50 escape venues. This is in the bottom three in terms of customer experience. I've heard from others it was much better before Breakout bought...",
-  "On a Sunday afternoon, we came up with the idea of tryiNg one of the escape rooms with my son. We called and scheduled an appointment or signed up online...."
+  "Our niece was visiting and when we drove by she asked to go in and check it out. We left excited to come back at night and we ended up having such a fun...",
+  "We had the greatest time here. The place was very impressive. It's very clean, big and spacious. David was our axe master and he showed us the ropes, walked...",
+  "We had such an amazing time! I was actually pretty nervous to be throwing an axe, mainly because of it bouncing back at me. Well, after I threw and it stuck..."
+ ]
+},{
+ "name": "Vertical Ventures",
+ "address": "5402 Pioneer Park Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/5A3xFoJN3W1y5kX496Iwdw/o.jpg",
+ "tags": [],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Had a real fun time today at VV -Tampa. This was the first time my brother and I tried indoor rock climbing and their Intro to Belay class made everything...",
+  "My friends invited me here one evening and I was pretty nervous. In addition to having no skill climbing or bouldering, I'm a little larger and have extreme...",
+  "This gym is the bomb!   The bouldering area is huge with many options from level 1-10.  Several top roping courses and auto-belays to choose from and a..."
  ]
 },{
  "name": "Cracker Country",
@@ -287,8 +253,11 @@
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/YXL6w2a5klB_1Sox-6FpyA/o.jpg",
  "tags": [
   "historic",
+  "learn",
+  "field",
   "learn"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Cracker Country is my favorite part of the Florida State Fair. It's more like visiting a historic area, such as Colonial Williamsburg, where characters in...",
@@ -301,7 +270,12 @@
  "avg_visitor_review": 4.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ylqLsip7Ae5hAz5IaLFB7Q/o.jpg",
- "tags": [],
+ "tags": [
+  "free",
+  "art",
+  "tour"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "For a few years, I been going to the Victorian Christmas Stroll at the museum because I usually get a FREE ticket. \n\nSome people do not know this but the...",
@@ -309,21 +283,36 @@
   "2/22/20 This is an absolute gem in the middle of Tampa!! It is part of the University of Tampa campus. The tour is of a  small wing of what was known as the..."
  ]
 },{
- "name": "Captain Memo's Pirate Cruise",
- "address": "25 Causeway Blvd",
- "avg_visitor_review": 4.5,
+ "name": "Improv Comedy Club",
+ "address": "1600 E 8th Ave",
+ "avg_visitor_review": 3.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/e6JCKpFdR3ZziFP2VcRtcA/o.jpg",
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/5NzRJmhaQRLrICPJr2otKQ/o.jpg",
  "tags": [
-  "experience",
-  "kids",
-  "kids"
+  "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "This was great experience especially with a kiddo. The staff were great pirates and so attentive with the kids on board and had a lot of activities! We saw...",
-  "The pirates tried to get us to participate in the shop and we had blast!!  The staff were wonderful and entertained the kids. Water guns and face paintings...",
-  "We had a blast on Captain Memo's cruise! At first I was a little leary of going because the price was a little high but I am so happy we did go. The crew..."
+  "This was first time for my husband I visiting comedy club. We watched Mark Viera. Never heard of him except a small preview on YouTube before we bought...",
+  "I would give the club, talent, service and seating arrangement 5 stars and the food 0. \n\nI recently tried the dip trio and became violently ill afterward. I...",
+  "We come here regularly to see popular comedians we like. There are pros and cons to this place but compared to other improves I have been this isn't too..."
+ ]
+},{
+ "name": "Tampa Bay Grand Prix",
+ "address": "12350 Automobile Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/lQJdoUDLuk1lZ6NAlK_oNg/o.jpg",
+ "tags": [
+  "organized"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "This is NOT a go kart track where you will be able to bump into others or drive crazy. Safety is strictly enforced. They stop you if you don't follow rules....",
+  "We had a blast last weekend! We went pretty late but they squeezed us in and quickly went over the rules so we could do 2 laps. I haven't been go karting in...",
+  "Ok a big thanks to Tampa Bay Grand Prix.  I got to go to my first official \"adult birthday party\".  One of my friends organized the party package for a..."
  ]
 },{
  "name": "Tampa Museum of Art",
@@ -331,7 +320,10 @@
  "avg_visitor_review": 3.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/iiHDa0W7Kxy3GByX-OMSiA/o.jpg",
- "tags": [],
+ "tags": [
+  "art"
+ ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "A really nice museum, that's not the biggest, but very classy with large open spaces.  We were there for their 100 year exhibit and it was filled with many...",
@@ -345,8 +337,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/FPnUHMj5Vx3uEQy-VQlh1g/o.jpg",
  "tags": [
-  "experience"
+  "tour",
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We had an awesome tour, guided by owner Maris, in a Mercedes Benz Stinger...first class all the way. They pick you up and drop you off, no having to drive!...",
@@ -359,10 +353,8 @@
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/no68paLU9iuyfZ0o93lC2g/o.jpg",
- "tags": [
-  "experience",
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Jared is the kind of dude you want to take you fishing. He's a great fisherman and keeps you on the fish all day. I will be back soon to test his fly...",
@@ -377,9 +369,9 @@
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/HC_fwsemN0L8U_0KgdLYZA/o.jpg",
  "tags": [
   "family",
-  "experience",
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We never go anywhere else. Best place for great family movie experience! Friendly. SUPER CLEAN! Comfy. Different than your average movie theater. Family...",
@@ -393,6 +385,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/ZTC-gMN76S8uhIzGvehbsA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Perfect day with a few hours to kill so I dropped by on a whim to get  out on the water. Hunter had me on my way quickly with fun, friendly, and...",
@@ -406,8 +399,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/dshWRET9Kq7Eh5V_dOSmkg/o.jpg",
  "tags": [
-  "experience"
+  "winery",
+  "winery",
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I have had Florida Orange Groves Winery bookmarked for the longest time. I was saving it for a fabulous girls' weekend...and then all weekends got...",
@@ -415,19 +411,18 @@
   "Not the best wine or tour guides. Interesting variety but overall not the best experience"
  ]
 },{
- "name": "The Shops at Wiregrass",
- "address": "28211 Paseo Dr",
- "avg_visitor_review": 4.0,
+ "name": "Breakout's Imagine Escape Rooms",
+ "address": "2830 E Bearss Ave",
+ "avg_visitor_review": 5.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/wF5MCLiPqdlTcTaKQeEfvA/o.jpg",
- "tags": [
-  "food"
- ],
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Z7n_4D5bQcrb24gummfYxw/o.jpg",
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "What a wonderful four door mall. They have so many events, I love it. It's a beautiful venue to spend time. And I'm so excited for all the new additions and...",
-  "Nice outside mall. There is ample parking, a decent array of restaurants, a good selection of shops and services, businesses that give up their lease don't...",
-  "Muzak forced upon my ears so i can't hear the fountains and at most 5 food choices. I don't say restaurants because the best deal here is Pretzel Twist...."
+  "By far one of the best escape rooms I've been to! Robbie was our guide and he was incredibly helpful and personable! Thanks for making this such a great...",
+  "Been to over 50 escape venues. This is in the bottom three in terms of customer experience. I've heard from others it was much better before Breakout bought...",
+  "On a Sunday afternoon, we came up with the idea of tryiNg one of the escape rooms with my son. We called and scheduled an appointment or signed up online...."
  ]
 },{
  "name": "Florida Botanical Gardens",
@@ -438,6 +433,7 @@
  "tags": [
   "free"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Florida Botanical Gardens is dog friendly and free (including free parking too). But donations are accepted and appreciated.\n\nI came here for a visit with...",
@@ -451,11 +447,29 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/M2U0qYuwF1TRyXLC627HXQ/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This place is nice, but it was a bit too busy for me. There was a line all the way to the road.  You can find jams of every flavor there, and salad...",
   "I've passed the sign for Parkesdale Farm Market on I-4 at least several hundred times and never stopped.  This road side market is AMAZING, especially...",
   "We made a pit stop at Parkesdale on our way through Plant City and I'm so glad we did! Hadn't been there in years , and it was just as good as I..."
+ ]
+},{
+ "name": "Captain Memo's Pirate Cruise",
+ "address": "25 Causeway Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/e6JCKpFdR3ZziFP2VcRtcA/o.jpg",
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "This was great experience especially with a kiddo. The staff were great pirates and so attentive with the kids on board and had a lot of activities! We saw...",
+  "The pirates tried to get us to participate in the shop and we had blast!!  The staff were wonderful and entertained the kids. Water guns and face paintings...",
+  "We had a blast on Captain Memo's cruise! At first I was a little leary of going because the price was a little high but I am so happy we did go. The crew..."
  ]
 },{
  "name": "Sarasota Jungle Gardens",
@@ -466,24 +480,12 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Cute place to spend an afternoon.  We were able to catch the bird show at the front of the park which was cute and the kids were enthralled with what...",
   "Anyone who knows me knows I am a flamingo freak.  I just love them - my favorite color!\n\nThis place has all kinds of animals, even reptiles (not my...",
   "Had a great time visiting with a friend for a few hours. Gorgeous birds\nFriendly staff\nTidy gardens and greenery\nWent specifically to feed the flamingos and..."
- ]
-},{
- "name": "Philippe Park",
- "address": "2525 Philippe Pkwy",
- "avg_visitor_review": 5.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/5-w0y4Qt0a0st-pGaX9sVA/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Oh we are so thankful for this park, especially during the quarantine. It was a bit of heaven on earth. \nSo nice to simply set and enjoy nature. \nThank you",
-  "I visited here because an orginazation I belong to was having a get together. It was a bright, but chilly autumn afternoon, and the park was full of people....",
-  "Being born and raised in Tampa, this has been one of my favorite parks.  The only negative is there is no turn lane at the entrance when turning left, which..."
  ]
 },{
  "name": "Bay Area Renaissance Festival",
@@ -495,6 +497,7 @@
   "delicious",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We go here every year when the Ren fest comes to town. We absolutely love it!  Great food, delicious food, beer, cider and the best people\nWatching!  Fun...",
@@ -509,9 +512,9 @@
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/NgfpvXR6_cENYMEZfV-Udw/o.jpg",
  "tags": [
   "family",
-  "walk",
-  "interactive"
+  "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Not gonna lie, Blippi took us here.  His YouTube videos showed him playing at this huge children's museum, so our family had to go check it out ourselves....",
@@ -525,11 +528,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/hIFIknzEbia9xSHJpdpWAQ/o.jpg",
  "tags": [
-  "experience",
   "history",
-  "experience",
-  "experience"
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Awesome experience. We went on Tuesday afternoon. Very informative local history. Russell was a great guide. Safety is a priority and they make sure you...",
@@ -537,20 +539,20 @@
   "An absolutely fantastic first time experience on a segway!  My husband, son and I met with Russell on a Sunday afternoon for a tour of ybor city.  Russell..."
  ]
 },{
- "name": "Vertical Ventures",
- "address": "116 18th St S",
- "avg_visitor_review": 4.5,
+ "name": "The Shops at Wiregrass",
+ "address": "28211 Paseo Dr",
+ "avg_visitor_review": 4.0,
  "avg_time_spent": null,
- "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Arybze3G7TWbYw6IPVhc5A/o.jpg",
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/wF5MCLiPqdlTcTaKQeEfvA/o.jpg",
  "tags": [
-  "learn",
-  "family"
+  "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "Up up! \nVertical Venues hooks you up with all the gear to safely climb. \nA fear of falling? That will be conquered here as you learn how to let go (and let...",
-  "There is plenty of parking around the area of this gym, parking was not a issue at all for us. \n\nAs we came in we saw that the place is pretty nice and...",
-  "When here last time night with the family, I have a 5 + 7 year old, and we had a BLAST!\nZarin, gave us our tour and we set to climbing. Such a fun activity..."
+  "What a wonderful four door mall. They have so many events, I love it. It's a beautiful venue to spend time. And I'm so excited for all the new additions and...",
+  "Nice outside mall. There is ample parking, a decent array of restaurants, a good selection of shops and services, businesses that give up their lease don't...",
+  "Muzak forced upon my ears so i can't hear the fountains and at most 5 food choices. I don't say restaurants because the best deal here is Pretzel Twist...."
  ]
 },{
  "name": "Coconut Kayak Tours",
@@ -559,6 +561,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/KSVGU5iu8yZBWIEQ2VpQtA/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "You know when you find a hidden gem activity that you would do over and over and over again.\n\nThis is it.\n\nKC picked us up from the hotel (who cares about...",
@@ -572,6 +575,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/tiTy_0k2BQXxfDX-jiaigg/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This was an amazing trip from start to finish. I have been on many charters and Captain Trey was the best of the best from start to finish. He had..."
@@ -586,24 +590,12 @@
   "kids",
   "walk"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "This really is the best place to take kids. We tried to leave about a half dozen times, but our three boys wanted to stay longer! Paige and the other staff...",
   "This Aquarium is very old and smells pretty bad right when you walk in. The animals are in small and dirty enclosures. It's pretty clear no one cleans the...",
   "This aquarium is a total must! It's only $8 to get in (it is small but 100% worth it!) I have always walked by it but seen it was so small and never did it..."
- ]
-},{
- "name": "Julian B. Lane Riverfront Park",
- "address": "1001 N Blvd",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/hH2cOHGq6jpJk_df1BCX1w/o.jpg",
- "tags": [],
- "source": "Yelp",
- "reviews": [
-  "Why 5 stars? Because what else could you want in a park?\n\n   ---   ---   ---\n\nAs the parent's of a one-year old, we're constantly on the hunt for places to...",
-  "This is park wonderful.  Normally, I like to go walking here but it's good for a little festival.  Today, it's a nice day for The Flavor of West Tampa with...",
-  "Very open space with amazing views of downtown Tampa.  Located near the armature works/tampa prep area.  The park itself is new and very clean.  Well padded..."
  ]
 },{
  "name": "PK's PlayZone & Grille",
@@ -614,11 +606,29 @@
  "tags": [
   "kids"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "We love this place. There is so much to do and the prices aren't bad. They have laser tag, bowling, a ninja course, rock wall, sky trail, mini golf, arcade...",
   "First tim here for a birthday party and there is somEthing for all ages. I'm not too suRe on the cost. There is zip lining, rock climbing, bowling, obstacle...",
   "Fun place to go for kids and adults alike. They have laser tag, ropes course, rock wall, ninja course, candle pin bowling, plenty of games with tickets and..."
+ ]
+},{
+ "name": "Philippe Park",
+ "address": "2525 Philippe Pkwy",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/5-w0y4Qt0a0st-pGaX9sVA/o.jpg",
+ "tags": [
+  "nature",
+  "parks"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Oh we are so thankful for this park, especially during the quarantine. It was a bit of heaven on earth. \nSo nice to simply set and enjoy nature. \nThank you",
+  "I visited here because an orginazation I belong to was having a get together. It was a bright, but chilly autumn afternoon, and the park was full of people....",
+  "Being born and raised in Tampa, this has been one of my favorite parks.  The only negative is there is no turn lane at the entrance when turning left, which..."
  ]
 },{
  "name": "The Worlds Largest Food Truck Rally EVER",
@@ -627,8 +637,11 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/VbYhKF23ymVLHLjL0yTVmw/o.jpg",
  "tags": [
+  "food",
+  "food",
   "food"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "How could this be the World's Largest Food Truck Rally Ever? That's a joke to me. I haven't been to the prior ones, and this is the third one so from my...",
@@ -642,16 +655,14 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/2GShSLqteCXzQ1Scwm0OxQ/o.jpg",
  "tags": [
-  "peaceful",
-  "experience",
-  "experience",
-  "learn"
+  "tour"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
-  "My wife and I went to for a wonderful trail early in the morning. It was so peaceful and quiet. Our guide, Jules, made sure that we felt comfortable on our...",
+  "A lot of fun for a small price. Very friendly staff and really nice horses! \n\nThe trails were very pretty. Monica was extremely personable and knowledgable....",
   "Let me start by saying a tour guid will make or break an experience especially one like this, sad to say we were robbed of an enjoyable \"trail\" ride...",
-  "This was a great experience,  the horses had different personalities which was interesting to experience and learn. The guider was pleasant and very..."
+  "My wife and I went to for a wonderful trail early in the morning. It was so peaceful and quiet. Our guide, Jules, made sure that we felt comfortable on our..."
  ]
 },{
  "name": "Gasparilla Pirate Festival",
@@ -660,6 +671,7 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/rWByjqA3-gxAuvW61s2C9w/o.jpg",
  "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "I love gasparilla! \nYou will see tons of pirate ship floats and catch beads no matter where you are.\n\nKeep in mind you will be using port-a potty's (it...",
@@ -675,6 +687,7 @@
  "tags": [
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Our Favorite Park ! \nWe visit often \nWe love The Splash Pad on a Hot Sunny Day \nWe Never Forget Our Swimsuits ! & \nThe Hammocks for Relaxing & Watching...",
@@ -687,9 +700,16 @@
  "avg_visitor_review": 4.5,
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/xV5qJxpt1048fmqPZOkzFQ/o.jpg",
- "tags": [],
+ "tags": [
+  "kids"
+ ],
+ "link": null,
  "source": "Yelp",
- "reviews": []
+ "reviews": [
+  "I loved this place it is a little gem I highly recommend taking the membership if you have small kids they will really enjoy this little farm. The petting...",
+  "Nice place off the beaten path. They have more animals than I thought. My daughter rode a pony, held a guinea pig and saw animals that she never thought...",
+  "I don't think that they should have certain wild animals if they do not have appropriately sized enclosures.  The Wolf dogs, as well as many other animals..."
+ ]
 },{
  "name": "Indian Rocks Beach",
  "address": "1700 Gulf Blvd",
@@ -697,8 +717,10 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/F9rbORdAteFpH4m0MdTc0A/o.jpg",
  "tags": [
+  "walking",
   "family"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Amazing little beach community! The beaches are super clean and inviting, the people are very friendly.\n\nThere are lots of restaurants in walking distance,...",
@@ -706,14 +728,31 @@
   "My wedding took place at a cottage on Indian Rocks Beach. It was the middle of May and surprisingly a quiet weekend. The ceremony took place outside at..."
  ]
 },{
+ "name": "Vertical Ventures",
+ "address": "116 18th St S",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Arybze3G7TWbYw6IPVhc5A/o.jpg",
+ "tags": [
+  "learn",
+  "tour",
+  "family"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Up up! \nVertical Venues hooks you up with all the gear to safely climb. \nA fear of falling? That will be conquered here as you learn how to let go (and let...",
+  "There is plenty of parking around the area of this gym, parking was not a issue at all for us. \n\nAs we came in we saw that the place is pretty nice and...",
+  "When here last time night with the family, I have a 5 + 7 year old, and we had a BLAST!\nZarin, gave us our tour and we set to climbing. Such a fun activity..."
+ ]
+},{
  "name": "Dolphin Racer Speedboat",
  "address": "3400 Pasadena Ave S",
  "avg_visitor_review": 5.0,
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/sXBo9pLuMOJyOs_K_OCknQ/o.jpg",
- "tags": [
-  "experience"
- ],
+ "tags": [],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Go go go, \nIf you do nothing else on the west side of this beautiful state, go to Dolphin Racer. You literally race with the dolphins. Capital Mike and his...",
@@ -727,13 +766,31 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/qyoE9opLxSFl40hYAkAtww/o.jpg",
  "tags": [
+  "history",
   "family",
   "history"
  ],
+ "link": null,
  "source": "Yelp",
  "reviews": [
   "Tampa Bay History Center makes for a great family outing. We stopped in for the Brick History event and opted to become members for the added benefits...",
   "A very cool museum!! Multiple levels with so much to see and do.  Definitely need multiple visits.  \n\nWe were here for the lego exhibit and it did not...",
   "I was quite impressed by this beautiful museum right on the Riverwalk. There is so much interesting information here regarding the history of the Seminole..."
+ ]
+},{
+ "name": "Margarita Wars",
+ "address": "4121 N 50th St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/MQaHVlyEHItEeaz1BsfQcA/o.jpg",
+ "tags": [
+  "delicious"
+ ],
+ "link": null,
+ "source": "Yelp",
+ "reviews": [
+  "Such an awesome event I tried so many drinks and the atmosphere was amazing. I can't wait to go back next year. I will let the pictures speak for...",
+  "Oh my goodness this event was so much fun! I was very happy that I purchased the VIP package which included 1 hour early entry and 2 draft beer tickets (...",
+  "This was a fabulous event.  Tons of delicious Margarita samples with lots of friendly staff.  The entry process was very smooth.  The VIP area had great..."
  ]
 }]
