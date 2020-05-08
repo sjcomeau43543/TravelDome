@@ -6,22 +6,26 @@ Status:        In Progress
 
 <div class="container">
     <div class="row">
-        <div class="col">
+        <div class="col-3">
+            <!--DESCRIPTION-->
+            <p class="sams-information">Choose your location, adjectives, and then click submit or the settings wheel above to see your activity recommendations!</p>
+
             <!--LOCATION-->
             <div class="form-group sams-input">
                 <input type="location" class="form-control" id="locationContainer" placeholder="BostonMA">
             </div>
-        </div>
-        <div class="col-6">
-            <!--ADJECTIVES-->
-            <ul id="adjectivesContainer" class="list-group"></ul>
-        </div>
-        <div class="col">
             <!--SUBMIT-->
             <div class="btn btn-primary sams-button" onclick="generateRecommendations()">Submit</div>
             
             <!--ERROR-->
             <p id="errormsg"></p>
+        </div>
+        <div class="col">
+            <!--DESCRIPTION-->
+            <p class="sams-information">Describe yourself by choosing what kind of activities you are looking for!</p>
+
+            <!--ADJECTIVES-->
+            <ul id="adjectivesContainer" class="list-group"></ul>
         </div>
     </div>
 </div>

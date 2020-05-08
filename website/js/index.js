@@ -150,7 +150,15 @@ function loadAdjectives(){
 
     // add the elements
     var l;
-    for(l=0; l<adjectives.length; l++){    
+    var row = document.createElement("div");
+    row.setAttribute("class", "row");
+    for(l=0; l<adjectives.length; l++){   
+        var col = document.createElement("div");
+        col.setAttribute("class", "col");
+
+        var containercol = document.createElement("div");
+        containercol.setAttribute("class", "sams-adjectives-container-col");
+                
         var li = document.createElement("li");
         li.setAttribute("class", "list-group-item sams-adjectives");
         li.setAttribute("id", "listitem"+adjectives[l]);
@@ -159,7 +167,37 @@ function loadAdjectives(){
         var newp = document.createTextNode(adjectives[l]);
         li.appendChild(newp);
 
-        container.appendChild(li);
+        containercol.appendChild(li);
+
+        // wait for data to be loaded
+        if(adjectives_ext[adjectives[adjectives.length-1]].length > 0){
+            // synonyms
+            var synText = document.createElement("p");
+            synText.setAttribute("class", "sams-synonyms");
+            for(var s=0; s<adjectives_ext[adjectives[l]].length; s++){
+                var p = document.createTextNode(adjectives_ext[adjectives[l]][s]+" ");
+                synText.appendChild(p);
+            }
+            containercol.appendChild(synText);
+
+        } 
+
+
+        col.appendChild(containercol);
+        row.appendChild(col);
+
+        if((l+1) % 3 === 0){
+            container.appendChild(row);
+            var row = document.createElement("div");
+            row.setAttribute("class", "row");
+        } else if (l === adjectives.length-1) {
+            for(var filler=0; filler<((l+1) % 3)+1; filler++){
+                var col = document.createElement("div");
+                col.setAttribute("class", "col");
+                row.appendChild(col);
+            }
+            container.appendChild(row);
+        }
     }
 }
 
@@ -274,15 +312,15 @@ function main(){
 
     // wait for data to be loaded
     var timeout = setInterval(function(){
-        if(adjectives.length){
+        if(adjectives.length && adjectives_ext){
             clearInterval(timeout);
-            
+
             // load the UI
             loadAdjectives();
             loadLocations();
 
         }
-    }, 100); 
+    }, 150); 
 }
 
 main();
@@ -795,11 +833,11 @@ function backToForm(){
 
                 document.getElementById("locationContainer").value = USERdestination;
 
-                var list_of = document.getElementById("adjectivesContainer").childNodes;
-                for(var c=0; c<list_of.length; c++){
+                var items = document.getElementsByClassName("sams-adjectives");
+                for(var c=0; c<items.length; c++){
                     for (var d=0; d<USERadjectives.length; d++){
-                        if("listitem"+USERadjectives[d] === list_of[c].id){
-                            list_of[c].classList.add("sams-adjectives-active");
+                        if("listitem"+USERadjectives[d] === items[c].id){
+                            items[c].classList.add("sams-adjectives-active");
                         }
                     }
                 }

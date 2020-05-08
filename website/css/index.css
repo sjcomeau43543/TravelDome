@@ -43,19 +43,42 @@ e4c5af - p
     padding: 10px;
 }
 
+.sams-information {
+    color: #585858;
+    font-size: 12px;
+}
 .sams-title {
 }
 .sams-input {
 }
 
 .sams-input-dropdown {
-    background-color: #99cfc1;
+    background-color: #def7f0;
+    border-color: black;
     padding: 10px;
 }
+.sams-adjectives:hover {
+    cursor: pointer;
+}
+.sams-adjectives-container-col {
+    height: 150px;
+    text-align: center left;
+    
+    margin-bottom: 5px;
 
-.sams-adjectives {
+    background-color: #f7dbc7;
+
+    border-radius: 25px;
+    border-color: black;
+
+}
+.adjectivesContainer{
+
 }
 
+.sams-synonyms {
+    margin: 10px;
+}
 .sams-adjectives-active {
     background-color: #e4c5af;
 }
