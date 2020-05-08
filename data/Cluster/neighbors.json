@@ -461,6 +461,72 @@
    0.0
   ]
  ],
+ "Abigail's Tea Room": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Tipsy Chocolate Tours": [
+  [
+   "Haunted Boston Ghost Tours",
+   1.4142135623730951
+  ],
+  [
+   "Banjo Billy's Bus Tours",
+   1.4142135623730951
+  ],
+  [
+   "Free Tours By Foot",
+   1.7320508075688772
+  ],
+  [
+   "Fenway Park Tours",
+   1.7320508075688772
+  ],
+  [
+   "Haunted Manhattan",
+   1.7320508075688772
+  ]
+ ],
+ "Bunker Hill Monument": [
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "VinKari Safari",
+   1.0
+  ],
+  [
+   "The Conservatory Garden",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ],
+  [
+   "Peter Pan Park",
+   1.0
+  ]
+ ],
  "Newbury Street": [
   [
    "Abigail's Tea Room",
@@ -475,11 +541,11 @@
    1.0
   ],
   [
-   "Central Square",
+   "East Coast Divers",
    1.0
   ],
   [
-   "A4cade by Area Four",
+   "Central Square",
    1.0
   ]
  ],
@@ -505,94 +571,6 @@
    1.0
   ]
  ],
- "Bites of Boston Food Tours": [
-  [
-   "Blue Hill Helicopters",
-   1.0
-  ],
-  [
-   "Old Town Trolley Tours of Boston",
-   1.0
-  ],
-  [
-   "Boston Segway Tours",
-   1.0
-  ],
-  [
-   "Gate1",
-   1.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.0
-  ]
- ],
- "Abigail's Tea Room": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Bully Boy Distillers": [
-  [
-   "Blue Hill Helicopters",
-   1.4142135623730951
-  ],
-  [
-   "Old Town Trolley Tours of Boston",
-   1.4142135623730951
-  ],
-  [
-   "Boston Segway Tours",
-   1.4142135623730951
-  ],
-  [
-   "Gate1",
-   1.4142135623730951
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.4142135623730951
-  ]
- ],
- "Bunker Hill Monument": [
-  [
-   "Sacco's Bowl Haven",
-   1.0
-  ],
-  [
-   "VinKari Safari",
-   1.0
-  ],
-  [
-   "The Conservatory Garden",
-   1.0
-  ],
-  [
-   "Belleview Park",
-   1.0
-  ],
-  [
-   "Peter Pan Park",
-   1.0
-  ]
- ],
  "Trapology Boston": [
   [
    "Florida Botanical Gardens",
@@ -611,8 +589,30 @@
    1.0
   ],
   [
-   "Central Square",
+   "East Coast Divers",
    1.0
+  ]
+ ],
+ "Bully Boy Distillers": [
+  [
+   "Old Town Trolley Tours of Boston",
+   1.4142135623730951
+  ],
+  [
+   "Boston Segway Tours",
+   1.4142135623730951
+  ],
+  [
+   "Blue Hill Helicopters",
+   1.4142135623730951
+  ],
+  [
+   "Gate1",
+   1.4142135623730951
+  ],
+  [
+   "Blue Hill Helicopters",
+   1.4142135623730951
   ]
  ],
  "Somerville Theatre": [
@@ -629,121 +629,11 @@
    1.0
   ],
   [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "Copley Square": [
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "Free Tours By Foot": [
-  [
-   "Fenway Park Tours",
-   0.0
-  ],
-  [
-   "The Colorado Sightseer",
-   0.0
-  ],
-  [
-   "Urban AdvenTours",
-   1.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.0
-  ],
-  [
-   "Old Town Trolley Tours of Boston",
-   1.0
-  ]
- ],
- "ComedySportz Boston": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "The Slutcracker: A Burlesque": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
+   1.0
   ],
   [
    "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Fenway Park Tours": [
-  [
-   "Fenway Park Tours",
-   0.0
-  ],
-  [
-   "The Colorado Sightseer",
-   0.0
-  ],
-  [
-   "Urban AdvenTours",
-   1.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.0
-  ],
-  [
-   "Old Town Trolley Tours of Boston",
    1.0
   ]
  ],
@@ -761,12 +651,144 @@
    1.0
   ],
   [
-   "Blue Hill Helicopters",
+   "Old Town Trolley Tours of Boston",
    1.4142135623730951
   ],
   [
-   "Old Town Trolley Tours of Boston",
+   "Boston Segway Tours",
    1.4142135623730951
+  ]
+ ],
+ "Copley Square": [
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.0
+  ],
+  [
+   "East Coast Divers",
+   1.0
+  ],
+  [
+   "Central Square",
+   1.0
+  ]
+ ],
+ "Free Tours By Foot": [
+  [
+   "Fenway Park Tours",
+   0.0
+  ],
+  [
+   "The Colorado Sightseer",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Boston Segway Tours",
+   1.0
+  ]
+ ],
+ "ComedySportz Boston": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "The Slutcracker: A Burlesque": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Fenway Park Tours": [
+  [
+   "Fenway Park Tours",
+   0.0
+  ],
+  [
+   "The Colorado Sightseer",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Boston Segway Tours",
+   1.0
+  ]
+ ],
+ "Faneuil Hall Marketplace": [
+  [
+   "City of Boston",
+   1.0
+  ],
+  [
+   "Brooklyn Heights Promenade",
+   1.0
+  ],
+  [
+   "Historic Downtown Golden",
+   1.0
+  ],
+  [
+   "Cheesman Park",
+   1.0
+  ],
+  [
+   "The Arcade Providence",
+   1.0
   ]
  ],
  "Harvard Square": [
@@ -801,15 +823,103 @@
    0.0
   ],
   [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
    "The Clue Room",
    0.0
   ],
   [
    "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
+ "East Coast Divers": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "East Boston Piers Park": [
+  [
+   "Monster Mini Golf",
+   1.0
+  ],
+  [
+   "City of Boston",
+   1.4142135623730951
+  ],
+  [
+   "VinKari Safari",
+   1.4142135623730951
+  ],
+  [
+   "Fat Cat Music",
+   1.4142135623730951
+  ],
+  [
+   "Strawberry Fields",
+   1.4142135623730951
+  ]
+ ],
+ "Old Town Trolley Tours of Boston": [
+  [
+   "Boston Segway Tours",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Gate1",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Brew Tours By Thirsty Pelican",
+   0.0
+  ]
+ ],
+ "Boston Segway Tours": [
+  [
+   "Boston Segway Tours",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Gate1",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Brew Tours By Thirsty Pelican",
    0.0
   ]
  ],
@@ -823,15 +933,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -857,7 +967,7 @@
    1.0
   ]
  ],
- "A4cade by Area Four": [
+ "Alien Motorsports": [
   [
    "ComedySportz Boston",
    0.0
@@ -867,25 +977,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "East Coast Divers": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -893,56 +985,8 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Faneuil Hall Marketplace": [
-  [
-   "City of Boston",
-   1.0
-  ],
-  [
-   "Brooklyn Heights Promenade",
-   1.0
-  ],
-  [
-   "Astoria Park",
-   1.0
-  ],
-  [
-   "Historic Downtown Golden",
-   1.0
-  ],
-  [
-   "Cheesman Park",
-   1.0
-  ]
- ],
- "East Boston Piers Park": [
-  [
-   "City of Boston",
-   1.4142135623730951
-  ],
-  [
-   "VinKari Safari",
-   1.4142135623730951
-  ],
-  [
-   "Fat Cat Music",
-   1.4142135623730951
-  ],
-  [
-   "Strawberry Fields",
-   1.4142135623730951
-  ],
-  [
-   "Brooklyn Heights Promenade",
-   1.4142135623730951
   ]
  ],
  "Sacco's Bowl Haven": [
@@ -969,11 +1013,11 @@
  ],
  "Blue Hill Helicopters": [
   [
-   "Old Town Trolley Tours of Boston",
+   "Boston Segway Tours",
    0.0
   ],
   [
-   "Boston Segway Tours",
+   "Blue Hill Helicopters",
    0.0
   ],
   [
@@ -989,7 +1033,29 @@
    0.0
   ]
  ],
- "Alien Motorsports": [
+ "The Institute of Contemporary Art/Boston": [
+  [
+   "Trapology Boston",
+   1.7320508075688772
+  ],
+  [
+   "Contemporary Arts Museum Houston",
+   1.7320508075688772
+  ],
+  [
+   "Henry B. Plant Museum",
+   1.7320508075688772
+  ],
+  [
+   "Florida Botanical Gardens",
+   1.7320508075688772
+  ],
+  [
+   "Flushing Meadows-Corona Park",
+   2.0
+  ]
+ ],
+ "A4cade by Area Four": [
   [
    "ComedySportz Boston",
    0.0
@@ -999,15 +1065,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -1017,15 +1083,15 @@
    0.0
   ],
   [
-   "Astoria Park",
-   0.0
-  ],
-  [
    "Cheesman Park",
    0.0
   ],
   [
    "Terry Hershey Park",
+   0.0
+  ],
+  [
+   "Julian B. Lane Riverfront Park",
    0.0
   ],
   [
@@ -1043,25 +1109,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "Archery Games Boston": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -1069,34 +1117,30 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Old Town Trolley Tours of Boston": [
+ "Mary Baker Eddy Library": [
   [
-   "Old Town Trolley Tours of Boston",
-   0.0
+   "Sacco's Bowl Haven",
+   1.0
   ],
   [
-   "Boston Segway Tours",
-   0.0
+   "Boston Harbor Walk",
+   1.0
   ],
   [
-   "Gate1",
-   0.0
+   "Times Square",
+   1.0
   ],
   [
-   "Blue Hill Helicopters",
-   0.0
+   "Lower Maxwell Falls Trail Head",
+   1.0
   ],
   [
-   "Brew Tours By Thirsty Pelican",
-   0.0
+   "Cherry Creek Trail",
+   1.0
   ]
  ],
  "Toro": [
@@ -1117,41 +1161,11 @@
    1.0
   ],
   [
-   "Bayberry Beer Hall",
+   "Haute Wheels Food Truck Festival",
    1.0
   ]
  ],
- "Boston Segway Tours": [
-  [
-   "Old Town Trolley Tours of Boston",
-   0.0
-  ],
-  [
-   "Boston Segway Tours",
-   0.0
-  ],
-  [
-   "Gate1",
-   0.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   0.0
-  ],
-  [
-   "Brew Tours By Thirsty Pelican",
-   0.0
-  ]
- ],
  "Middlesex Fells Reservation": [
-  [
-   "Blue Hills Reservation",
-   0.0
-  ],
-  [
-   "Caladesi Island State Park",
-   0.0
-  ],
   [
    "Abigail's Tea Room",
    1.0
@@ -1162,6 +1176,14 @@
   ],
   [
    "The Slutcracker: A Burlesque",
+   1.0
+  ],
+  [
+   "East Coast Divers",
+   1.0
+  ],
+  [
+   "Central Square",
    1.0
   ]
  ],
@@ -1175,29 +1197,29 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
  "Tours of The Freedom Trail": [
-  [
-   "Blue Hill Helicopters",
-   1.4142135623730951
-  ],
   [
    "Old Town Trolley Tours of Boston",
    1.4142135623730951
   ],
   [
    "Boston Segway Tours",
+   1.4142135623730951
+  ],
+  [
+   "Blue Hill Helicopters",
    1.4142135623730951
   ],
   [
@@ -1223,11 +1245,11 @@
    1.0
   ],
   [
-   "Urban AdvenTours",
+   "Tipsy Chocolate Tours",
    1.4142135623730951
   ],
   [
-   "Blue Hill Helicopters",
+   "Urban AdvenTours",
    1.4142135623730951
   ]
  ],
@@ -1253,6 +1275,50 @@
    0.0
   ]
  ],
+ "Archery Games Boston": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Sky Zone Trampoline Park": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
  "Central Rock Gym": [
   [
    "Maize in the City",
@@ -1263,126 +1329,16 @@
    1.0
   ],
   [
+   "Ladd Observatory",
+   1.0
+  ],
+  [
    "Trapology Boston",
    1.4142135623730951
   ],
   [
    "VinKari Safari",
    1.4142135623730951
-  ],
-  [
-   "Queens County Farm Museum",
-   1.4142135623730951
-  ]
- ],
- "The Institute of Contemporary Art/Boston": [
-  [
-   "Trapology Boston",
-   1.7320508075688772
-  ],
-  [
-   "Sam Houston Boat Tour",
-   1.7320508075688772
-  ],
-  [
-   "Contemporary Arts Museum Houston",
-   1.7320508075688772
-  ],
-  [
-   "Henry B. Plant Museum",
-   1.7320508075688772
-  ],
-  [
-   "Florida Botanical Gardens",
-   1.7320508075688772
-  ]
- ],
- "Mary Baker Eddy Library": [
-  [
-   "Sacco's Bowl Haven",
-   1.0
-  ],
-  [
-   "Boston Harbor Walk",
-   1.0
-  ],
-  [
-   "Times Square",
-   1.0
-  ],
-  [
-   "Lower Maxwell Falls Trail Head",
-   1.0
-  ],
-  [
-   "Cherry Creek Trail",
-   1.0
-  ]
- ],
- "Boston Harbor Walk": [
-  [
-   "Times Square",
-   0.0
-  ],
-  [
-   "Lower Maxwell Falls Trail Head",
-   0.0
-  ],
-  [
-   "Cherry Creek Trail",
-   0.0
-  ],
-  [
-   "Rogue Island Local Kitchen & Bar",
-   0.0
-  ],
-  [
-   "McGovern Centennial Gardens",
-   0.0
-  ]
- ],
- "Sky Zone Trampoline Park": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Myers & Chang": [
-  [
-   "Russian Baths on Neck Road",
-   1.0
-  ],
-  [
-   "Ogie's Trailer Park",
-   1.0
-  ],
-  [
-   "Rhode Island Seafood Festival",
-   1.0
-  ],
-  [
-   "Massimo Restaurant",
-   1.0
-  ],
-  [
-   "Bayberry Beer Hall",
-   1.0
   ]
  ],
  "Jamaica Pond": [
@@ -1407,6 +1363,28 @@
    1.0
   ]
  ],
+ "Red Apple Farm": [
+  [
+   "Dangerous Theatre",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.0
+  ],
+  [
+   "East Coast Divers",
+   1.0
+  ]
+ ],
  "VinKari Safari": [
   [
    "The Conservatory Garden",
@@ -1421,11 +1399,143 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "Dave Marchetti's Animal Experiences",
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "Classic Harbor Line Boston": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Boston Harbor Walk": [
+  [
+   "Times Square",
+   0.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   0.0
+  ],
+  [
+   "Cherry Creek Trail",
+   0.0
+  ],
+  [
+   "Rogue Island Local Kitchen & Bar",
+   0.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ]
+ ],
+ "Prudential Center": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Harvard Art Museums": [
+  [
+   "The DIA Giant Blue Bronco",
+   0.0
+  ],
+  [
+   "Coolidge Corner Theatre",
+   1.0
+  ],
+  [
+   "Quincy Quarries Reservation",
+   1.0
+  ],
+  [
+   "Museum of Illusions",
+   1.0
+  ],
+  [
+   "Cherry Creek Arts Festival",
+   1.0
+  ]
+ ],
+ "Myers & Chang": [
+  [
+   "Russian Baths on Neck Road",
+   1.0
+  ],
+  [
+   "Ogie's Trailer Park",
+   1.0
+  ],
+  [
+   "Rhode Island Seafood Festival",
+   1.0
+  ],
+  [
+   "Massimo Restaurant",
+   1.0
+  ],
+  [
+   "Haute Wheels Food Truck Festival",
+   1.0
+  ]
+ ],
+ "Stone Zoo": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -1449,116 +1559,6 @@
   [
    "Tampa Museum of Art",
    0.0
-  ]
- ],
- "Menotomy Rocks Park": [
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "Marina Bay Sportsplex": [
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "Red Apple Farm": [
-  [
-   "Dangerous Theatre",
-   0.0
-  ],
-  [
-   "Margarita Wars",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ]
- ],
- "Blue Hills Reservation": [
-  [
-   "Blue Hills Reservation",
-   0.0
-  ],
-  [
-   "Caladesi Island State Park",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ]
- ],
- "Harvard Art Museums": [
-  [
-   "The DIA Giant Blue Bronco",
-   0.0
-  ],
-  [
-   "Coolidge Corner Theatre",
-   1.0
-  ],
-  [
-   "Quincy Quarries Reservation",
-   1.0
-  ],
-  [
-   "Museum of Illusions",
-   1.0
-  ],
-  [
-   "Cherry Creek Arts Festival",
-   1.0
   ]
  ],
  "African Burial Ground": [
@@ -2287,6 +2287,94 @@
    0.0
   ]
  ],
+ "Midnight Market": [
+  [
+   "Dinosaur Bar-B-Que",
+   1.0
+  ],
+  [
+   "The Funplex",
+   1.0
+  ],
+  [
+   "Bookbar",
+   1.0
+  ],
+  [
+   "Mokban Korean Bistro",
+   1.0
+  ],
+  [
+   "Sura Korean BBQ",
+   1.0
+  ]
+ ],
+ "Bane Haunted House": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Challenge Escape Rooms": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Arcadia Earth": [
+  [
+   "Arcadia Earth",
+   0.0
+  ],
+  [
+   "Puzzah!",
+   0.0
+  ],
+  [
+   "Breaktime Bowl and Bar",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ]
+ ],
  "Fat Cat Music": [
   [
    "Strawberry Fields",
@@ -2331,72 +2419,6 @@
    0.0
   ]
  ],
- "Enigma Escape Games": [
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "National September 11 Memorial Museum": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Gulliver's Gate": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Prospect Park": [
   [
    "VinKari Safari",
@@ -2415,30 +2437,30 @@
    1.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    1.0
   ]
  ],
- "Pro Line Archery Lanes": [
+ "Central Park Zoo": [
   [
-   "Fiske Planetarium",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
+   "Bayou Bend Collection and Gardens",
    1.0
   ],
   [
-   "ComedySportz Boston",
+   "Glazer Children's Museum",
    1.0
   ],
   [
-   "The Slutcracker: A Burlesque",
-   1.0
+   "Trapology Boston",
+   1.4142135623730951
   ],
   [
-   "Central Square",
-   1.0
+   "Castle Island Beach",
+   1.4142135623730951
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.4142135623730951
   ]
  ],
  "The Daily Show": [
@@ -2451,15 +2473,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -2485,72 +2507,6 @@
    1.0
   ]
  ],
- "Bohemian Hall & Beer Garden": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Challenge Escape Rooms": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Arcadia Earth": [
-  [
-   "Arcadia Earth",
-   0.0
-  ],
-  [
-   "Puzzah!",
-   0.0
-  ],
-  [
-   "Breaktime Bowl and Bar",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ]
- ],
  "Fairytale Island": [
   [
    "ComedySportz Boston",
@@ -2561,59 +2517,37 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
+  ]
+ ],
+ "Enigma Escape Games": [
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.0
   ],
   [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "Central Park Zoo": [
-  [
-   "Bayou Bend Collection and Gardens",
    1.0
   ],
   [
-   "Glazer Children's Museum",
-   1.0
-  ],
-  [
-   "Trapology Boston",
-   1.4142135623730951
-  ],
-  [
-   "Castle Island Beach",
-   1.4142135623730951
-  ],
-  [
-   "Boston Harbor Walk",
-   1.4142135623730951
-  ]
- ],
- "Nitehawk Cinema": [
-  [
-   "Russian Baths on Neck Road",
-   1.0
-  ],
-  [
-   "Ogie's Trailer Park",
-   1.0
-  ],
-  [
-   "Rhode Island Seafood Festival",
-   1.0
-  ],
-  [
-   "Massimo Restaurant",
-   1.0
-  ],
-  [
-   "Bayberry Beer Hall",
+   "Central Square",
    1.0
   ]
  ],
@@ -2627,82 +2561,60 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Pro Line Archery Lanes": [
+  [
+   "Fiske Planetarium",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.0
+  ],
+  [
+   "East Coast Divers",
+   1.0
+  ]
+ ],
+ "Bohemian Hall & Beer Garden": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
-  ]
- ],
- "Russian Baths on Neck Road": [
+  ],
   [
-   "Ogie's Trailer Park",
+   "Central Square",
    0.0
   ],
   [
-   "Rhode Island Seafood Festival",
+   "Alien Motorsports",
    0.0
-  ],
-  [
-   "Massimo Restaurant",
-   0.0
-  ],
-  [
-   "Bayberry Beer Hall",
-   0.0
-  ],
-  [
-   "Haute Wheels Food Truck Festival",
-   0.0
-  ]
- ],
- "Museum Hack": [
-  [
-   "Nightly Spirits",
-   1.4142135623730951
-  ],
-  [
-   "Uncorked Kitchen & Wine Bar",
-   1.4142135623730951
-  ],
-  [
-   "Odyssey Cruises",
-   1.4142135623730951
-  ],
-  [
-   "Bully Boy Distillers",
-   1.7320508075688772
-  ],
-  [
-   "Gotham Archery",
-   1.7320508075688772
-  ]
- ],
- "Creative Little Garden": [
-  [
-   "City of Boston",
-   1.0
-  ],
-  [
-   "Enigma Escape Games",
-   1.0
-  ],
-  [
-   "Brooklyn Heights Promenade",
-   1.0
-  ],
-  [
-   "Astoria Park",
-   1.0
-  ],
-  [
-   "Cheesman Park",
-   1.0
   ]
  ],
  "Dinosaur Bar-B-Que": [
@@ -2727,70 +2639,26 @@
    0.0
   ]
  ],
- "Strawberry Fields": [
+ "Russian Baths on Neck Road": [
   [
-   "Strawberry Fields",
+   "Ogie's Trailer Park",
    0.0
   ],
   [
-   "The Music Box Theater",
+   "Rhode Island Seafood Festival",
    0.0
   ],
   [
-   "The Secret Group",
+   "Massimo Restaurant",
    0.0
   ],
   [
-   "Abigail's Tea Room",
+   "Haute Wheels Food Truck Festival",
+   0.0
+  ],
+  [
+   "Toro",
    1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ]
- ],
- "Snug Harbor Cultural Center & Botanical Garden": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "Rockefeller Center": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
   ]
  ],
  "Gotham Archery": [
@@ -2807,11 +2675,11 @@
    1.0
   ],
   [
-   "Amazing Escape Room Staten Island NY",
+   "The Clue Room",
    1.0
   ],
   [
-   "The Clue Room",
+   "Uncorked Kitchen & Wine Bar",
    1.0
   ]
  ],
@@ -2847,38 +2715,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Haunted Manhattan": [
+ "Museum Hack": [
   [
-   "Tours of The Freedom Trail",
+   "Nightly Spirits",
+   1.4142135623730951
+  ],
+  [
+   "Uncorked Kitchen & Wine Bar",
+   1.4142135623730951
+  ],
+  [
+   "Mixon Fruit Farms",
+   1.4142135623730951
+  ],
+  [
+   "Odyssey Cruises",
+   1.4142135623730951
+  ],
+  [
+   "Bully Boy Distillers",
    1.7320508075688772
-  ],
-  [
-   "Haunted Boston Ghost Tours",
-   1.7320508075688772
-  ],
-  [
-   "Banjo Billy's Bus Tours",
-   1.7320508075688772
-  ],
-  [
-   "Free Tours By Foot",
-   2.0
-  ],
-  [
-   "Fenway Park Tours",
-   2.0
   ]
  ],
  "Jump into the Light": [
@@ -2891,38 +2759,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Queens County Farm Museum": [
+ "Nitehawk Cinema": [
   [
-   "Maize in the City",
+   "Russian Baths on Neck Road",
    1.0
   ],
   [
-   "SeaQuest Littleton",
+   "Ogie's Trailer Park",
    1.0
   ],
   [
-   "Puppies For Breakfast",
+   "Rhode Island Seafood Festival",
    1.0
   ],
   [
-   "Trapology Boston",
-   1.4142135623730951
+   "Massimo Restaurant",
+   1.0
   ],
   [
-   "Castle Island Beach",
-   1.4142135623730951
+   "Haute Wheels Food Truck Festival",
+   1.0
   ]
  ],
  "The City Reliquary": [
@@ -2957,19 +2825,85 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Mission Escape Games": [
+ "Creative Little Garden": [
+  [
+   "City of Boston",
+   1.0
+  ],
+  [
+   "Enigma Escape Games",
+   1.0
+  ],
+  [
+   "Brooklyn Heights Promenade",
+   1.0
+  ],
+  [
+   "Cheesman Park",
+   1.0
+  ],
+  [
+   "Terry Hershey Park",
+   1.0
+  ]
+ ],
+ "Queens County Farm Museum": [
+  [
+   "Maize in the City",
+   1.0
+  ],
+  [
+   "SeaQuest Littleton",
+   1.0
+  ],
+  [
+   "Ladd Observatory",
+   1.0
+  ],
+  [
+   "Puppies For Breakfast",
+   1.0
+  ],
+  [
+   "Trapology Boston",
+   1.4142135623730951
+  ]
+ ],
+ "Xcelerated Adventures": [
+  [
+   "Middlesex Fells Reservation",
+   1.7320508075688772
+  ],
+  [
+   "Osamequin Wildlife Sanctuary",
+   1.7320508075688772
+  ],
+  [
+   "Royal Arch",
+   2.0
+  ],
+  [
+   "Boston Harbor Islands National Park Area Ferry",
+   2.23606797749979
+  ],
+  [
+   "Museum Hack",
+   2.23606797749979
+  ]
+ ],
+ "Tarot NYC": [
   [
    "ComedySportz Boston",
    0.0
@@ -2979,19 +2913,63 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Summer Streets": [
+ "Strawberry Fields": [
+  [
+   "Strawberry Fields",
+   0.0
+  ],
+  [
+   "The Music Box Theater",
+   0.0
+  ],
+  [
+   "The Secret Group",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ]
+ ],
+ "Snug Harbor Cultural Center & Botanical Garden": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
+ "Kings County Distillery": [
   [
    "ComedySportz Boston",
    0.0
@@ -3001,15 +2979,37 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Rockefeller Center": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -3023,41 +3023,19 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Xcelerated Adventures": [
-  [
-   "Middlesex Fells Reservation",
-   1.7320508075688772
-  ],
-  [
-   "Blue Hills Reservation",
-   1.7320508075688772
-  ],
-  [
-   "Osamequin Wildlife Sanctuary",
-   1.7320508075688772
-  ],
-  [
-   "Caladesi Island State Park",
-   1.7320508075688772
-  ],
-  [
-   "Royal Arch",
-   2.0
-  ]
- ],
- "Tarot NYC": [
+ "Classic Harbor Line": [
   [
    "ComedySportz Boston",
    0.0
@@ -3067,37 +3045,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Gate1": [
-  [
-   "Old Town Trolley Tours of Boston",
-   0.0
-  ],
-  [
-   "Boston Segway Tours",
-   0.0
-  ],
-  [
-   "Gate1",
-   0.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   0.0
-  ],
-  [
-   "Brew Tours By Thirsty Pelican",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -3123,6 +3079,204 @@
    0.0
   ]
  ],
+ "Haunted Manhattan": [
+  [
+   "Tipsy Chocolate Tours",
+   1.7320508075688772
+  ],
+  [
+   "Tours of The Freedom Trail",
+   1.7320508075688772
+  ],
+  [
+   "Haunted Boston Ghost Tours",
+   1.7320508075688772
+  ],
+  [
+   "Banjo Billy's Bus Tours",
+   1.7320508075688772
+  ],
+  [
+   "Free Tours By Foot",
+   2.0
+  ]
+ ],
+ "Mission Escape Games": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Jersey City Archery": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Sea The City Jet Ski": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Summer Streets": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "The Conservatory Garden": [
+  [
+   "The Conservatory Garden",
+   0.0
+  ],
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Peter Pan Park",
+   0.0
+  ],
+  [
+   "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "Fort Totten Park": [
+  [
+   "VinKari Safari",
+   1.0
+  ],
+  [
+   "The Conservatory Garden",
+   1.0
+  ],
+  [
+   "Belleview Park",
+   1.0
+  ],
+  [
+   "Peter Pan Park",
+   1.0
+  ],
+  [
+   "Dave Marchetti's Animal Experiences",
+   1.0
+  ]
+ ],
+ "Queens Museum": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Gate1": [
+  [
+   "Boston Segway Tours",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Gate1",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
+   0.0
+  ],
+  [
+   "Brew Tours By Thirsty Pelican",
+   0.0
+  ]
+ ],
  "Flushing Meadows-Corona Park": [
   [
    "Trapology Boston",
@@ -3145,35 +3299,9 @@
    1.4142135623730951
   ]
  ],
- "Kings County Distillery": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Brooklyn Heights Promenade": [
   [
    "Brooklyn Heights Promenade",
-   0.0
-  ],
-  [
-   "Astoria Park",
    0.0
   ],
   [
@@ -3185,95 +3313,33 @@
    0.0
   ],
   [
+   "Julian B. Lane Riverfront Park",
+   0.0
+  ],
+  [
    "Abigail's Tea Room",
    1.0
   ]
  ],
- "Syndicated Bar Theater Kitchen": [
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
-   1.0
-  ],
-  [
-   "A4cade by Area Four",
-   1.0
-  ]
- ],
- "Classic Harbor Line": [
+ "Watson Adventures Scavenger Hunts": [
   [
    "ComedySportz Boston",
    0.0
   ],
   [
    "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
-  ]
- ],
- "Jersey City Archery": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
   ],
   [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Sea The City Jet Ski": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -3287,104 +3353,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Ros\u00e9 Mansion": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
-  ]
- ],
- "Astoria Park": [
+  ],
   [
-   "Brooklyn Heights Promenade",
+   "Central Square",
    0.0
   ],
   [
-   "Astoria Park",
+   "Alien Motorsports",
    0.0
-  ],
-  [
-   "Cheesman Park",
-   0.0
-  ],
-  [
-   "Terry Hershey Park",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ]
- ],
- "Amazing Escape Room Staten Island NY": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "The Conservatory Garden": [
-  [
-   "The Conservatory Garden",
-   0.0
-  ],
-  [
-   "Belleview Park",
-   0.0
-  ],
-  [
-   "Peter Pan Park",
-   0.0
-  ],
-  [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
-   "Dave Marchetti's Animal Experiences",
-   0.0
-  ]
- ],
- "Fort Totten Park": [
-  [
-   "VinKari Safari",
-   1.0
-  ],
-  [
-   "The Conservatory Garden",
-   1.0
-  ],
-  [
-   "Belleview Park",
-   1.0
-  ],
-  [
-   "Peter Pan Park",
-   1.0
-  ],
-  [
-   "Golden Puzzle Room",
-   1.0
   ]
  ],
  "Bent's Old Fort": [
@@ -3753,11 +3753,11 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "Dave Marchetti's Animal Experiences",
+   "Hope Artiste Village",
    0.0
   ]
  ],
@@ -3793,15 +3793,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -3819,12 +3819,78 @@
    1.0
   ],
   [
-   "Urban AdvenTours",
+   "Tipsy Chocolate Tours",
    1.4142135623730951
   ],
   [
-   "Blue Hill Helicopters",
+   "Urban AdvenTours",
    1.4142135623730951
+  ]
+ ],
+ "Four Mile Historic Park": [
+  [
+   "Trapology Boston",
+   1.4142135623730951
+  ],
+  [
+   "Dinosaur Bar-B-Que",
+   1.4142135623730951
+  ],
+  [
+   "The Funplex",
+   1.4142135623730951
+  ],
+  [
+   "Historic Downtown Golden",
+   1.4142135623730951
+  ],
+  [
+   "Bookbar",
+   1.4142135623730951
+  ]
+ ],
+ "Puzzah!": [
+  [
+   "Arcadia Earth",
+   0.0
+  ],
+  [
+   "Puzzah!",
+   0.0
+  ],
+  [
+   "Breaktime Bowl and Bar",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ]
+ ],
+ "The Clue Room": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
   ]
  ],
  "Historic Downtown Golden": [
@@ -3863,33 +3929,11 @@
    1.4142135623730951
   ],
   [
+   "East Coast Divers",
+   1.4142135623730951
+  ],
+  [
    "Central Square",
-   1.4142135623730951
-  ],
-  [
-   "A4cade by Area Four",
-   1.4142135623730951
-  ]
- ],
- "Four Mile Historic Park": [
-  [
-   "Trapology Boston",
-   1.4142135623730951
-  ],
-  [
-   "Dinosaur Bar-B-Que",
-   1.4142135623730951
-  ],
-  [
-   "The Funplex",
-   1.4142135623730951
-  ],
-  [
-   "Historic Downtown Golden",
-   1.4142135623730951
-  ],
-  [
-   "Bookbar",
    1.4142135623730951
   ]
  ],
@@ -3933,7 +3977,7 @@
    1.0
   ],
   [
-   "Central Square",
+   "East Coast Divers",
    1.0
   ]
  ],
@@ -3947,60 +3991,16 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "The Clue Room": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "Puzzah!": [
-  [
-   "Arcadia Earth",
-   0.0
-  ],
-  [
-   "Puzzah!",
-   0.0
-  ],
-  [
-   "Breaktime Bowl and Bar",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
   ]
  ],
  "Bookbar": [
@@ -4047,33 +4047,7 @@
    1.4142135623730951
   ]
  ],
- "The Infinite Monkey Theorem": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Film on the Rocks": [
-  [
-   "Menotomy Rocks Park",
-   1.0
-  ],
   [
    "Fat Cat Music",
    1.0
@@ -4089,6 +4063,10 @@
   [
    "The Secret Group",
    1.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.4142135623730951
   ]
  ],
  "Peter Pan Park": [
@@ -4105,11 +4083,11 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "Dave Marchetti's Animal Experiences",
+   "Hope Artiste Village",
    0.0
   ]
  ],
@@ -4145,27 +4123,19 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
  "United States Mint": [
-  [
-   "Sam Houston Boat Tour",
-   1.4142135623730951
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.7320508075688772
-  ],
   [
    "Old Town Trolley Tours of Boston",
    1.7320508075688772
@@ -4175,7 +4145,15 @@
    1.7320508075688772
   ],
   [
+   "Blue Hill Helicopters",
+   1.7320508075688772
+  ],
+  [
    "Gate1",
+   1.7320508075688772
+  ],
+  [
+   "Banjo Billy's Bus Tours",
    1.7320508075688772
   ]
  ],
@@ -4189,15 +4167,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -4211,15 +4189,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -4233,15 +4211,15 @@
    1.0
   ],
   [
-   "Blue Hills Reservation",
-   1.0
-  ],
-  [
    "The Conservatory Garden",
    1.0
   ],
   [
    "Belleview Park",
+   1.0
+  ],
+  [
+   "Peter Pan Park",
    1.0
   ]
  ],
@@ -4255,19 +4233,19 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Monster Mini Golf": [
+ "The Infinite Monkey Theorem": [
   [
    "ComedySportz Boston",
    0.0
@@ -4277,16 +4255,82 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Monster Mini Golf": [
+  [
+   "East Boston Piers Park",
+   1.0
+  ],
+  [
+   "VinKari Safari",
+   1.0
+  ],
+  [
+   "Fat Cat Music",
+   1.0
+  ],
+  [
+   "Strawberry Fields",
+   1.0
+  ],
+  [
+   "The Conservatory Garden",
+   1.0
+  ]
+ ],
+ "Mile High Adventure Rentals": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Museum of Contemporary Art Denver": [
+  [
+   "Castle Island Beach",
+   1.4142135623730951
+  ],
+  [
+   "Escape The Room Boston",
+   1.4142135623730951
+  ],
+  [
+   "Coolidge Corner Theatre",
+   1.4142135623730951
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.4142135623730951
+  ],
+  [
+   "Quincy Quarries Reservation",
+   1.4142135623730951
   ]
  ],
  "Puzzle Effect - Denver": [
@@ -4299,15 +4343,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -4333,7 +4377,7 @@
    1.4142135623730951
   ]
  ],
- "Mile High Adventure Rentals": [
+ "Centennial Center Park": [
   [
    "ComedySportz Boston",
    0.0
@@ -4343,25 +4387,65 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Class Axe Throwing": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "The Colorado Sightseer": [
+  [
+   "Fenway Park Tours",
+   0.0
+  ],
+  [
+   "The Colorado Sightseer",
+   0.0
+  ],
+  [
+   "Urban AdvenTours",
+   1.0
+  ],
+  [
+   "Old Town Trolley Tours of Boston",
+   1.0
+  ],
+  [
+   "Boston Segway Tours",
+   1.0
   ]
  ],
  "Dangerous Theatre": [
   [
    "Dangerous Theatre",
-   0.0
-  ],
-  [
-   "Margarita Wars",
    0.0
   ],
   [
@@ -4375,28 +4459,10 @@
   [
    "The Slutcracker: A Burlesque",
    1.0
-  ]
- ],
- "Museum of Contemporary Art Denver": [
-  [
-   "Castle Island Beach",
-   1.4142135623730951
   ],
   [
-   "Escape The Room Boston",
-   1.4142135623730951
-  ],
-  [
-   "Coolidge Corner Theatre",
-   1.4142135623730951
-  ],
-  [
-   "Sky Zone Trampoline Park",
-   1.4142135623730951
-  ],
-  [
-   "Quincy Quarries Reservation",
-   1.4142135623730951
+   "East Coast Divers",
+   1.0
   ]
  ],
  "EscapeWorks Denver": [
@@ -4409,15 +4475,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -4431,38 +4497,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "Centennial Center Park": [
+ "Mile High Flea Market": [
   [
-   "ComedySportz Boston",
-   0.0
+   "The Boardwalk",
+   1.0
   ],
   [
-   "The Slutcracker: A Burlesque",
-   0.0
+   "VinKari Safari",
+   1.4142135623730951
   ],
   [
-   "Central Square",
-   0.0
+   "The Conservatory Garden",
+   1.4142135623730951
   ],
   [
-   "A4cade by Area Four",
-   0.0
+   "Belleview Park",
+   1.4142135623730951
   ],
   [
-   "East Coast Divers",
-   0.0
+   "Peter Pan Park",
+   1.4142135623730951
   ]
  ],
  "Canvas and Cocktails": [
@@ -4497,25 +4563,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "Class Axe Throwing": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -4523,34 +4571,8 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "The Colorado Sightseer": [
-  [
-   "Fenway Park Tours",
-   0.0
-  ],
-  [
-   "The Colorado Sightseer",
-   0.0
-  ],
-  [
-   "Urban AdvenTours",
-   1.0
-  ],
-  [
-   "Blue Hill Helicopters",
-   1.0
-  ],
-  [
-   "Old Town Trolley Tours of Boston",
-   1.0
   ]
  ],
  "Urban Air Adventure Park - Littleton": [
@@ -4563,41 +4585,67 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Bear Mountain Stables": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
   ]
  ],
- "Mile High Flea Market": [
+ "Delicious Denver Food Tours": [
   [
-   "The Boardwalk",
-   1.0
+   "The Worlds Largest Food Truck Rally EVER",
+   2.23606797749979
   ],
   [
-   "VinKari Safari",
-   1.4142135623730951
+   "Russian Baths on Neck Road",
+   2.449489742783178
   ],
   [
-   "Syndicated Bar Theater Kitchen",
-   1.4142135623730951
+   "Ogie's Trailer Park",
+   2.449489742783178
   ],
   [
-   "The Conservatory Garden",
-   1.4142135623730951
+   "Rhode Island Seafood Festival",
+   2.449489742783178
   ],
   [
-   "Belleview Park",
-   1.4142135623730951
+   "Massimo Restaurant",
+   2.449489742783178
   ]
  ],
  "Uncorked Kitchen & Wine Bar": [
+  [
+   "Mixon Fruit Farms",
+   0.0
+  ],
   [
    "Odyssey Cruises",
    0.0
@@ -4612,10 +4660,6 @@
   ],
   [
    "The Slutcracker: A Burlesque",
-   1.0
-  ],
-  [
-   "Central Square",
    1.0
   ]
  ],
@@ -4651,16 +4695,60 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Maize in the City": [
+  [
+   "SeaQuest Littleton",
    0.0
   ],
   [
-   "East Coast Divers",
+   "Ladd Observatory",
    0.0
+  ],
+  [
+   "Trapology Boston",
+   1.0
+  ],
+  [
+   "Central Rock Gym",
+   1.0
+  ],
+  [
+   "VinKari Safari",
+   1.0
+  ]
+ ],
+ "SeaQuest Littleton": [
+  [
+   "SeaQuest Littleton",
+   0.0
+  ],
+  [
+   "Ladd Observatory",
+   0.0
+  ],
+  [
+   "Trapology Boston",
+   1.0
+  ],
+  [
+   "Central Rock Gym",
+   1.0
+  ],
+  [
+   "VinKari Safari",
+   1.0
   ]
  ],
  "Cherry Creek Trail": [
@@ -4685,7 +4773,7 @@
    0.0
   ]
  ],
- "Bear Mountain Stables": [
+ "Family Shooting Center at Cherry Creek State Park": [
   [
    "ComedySportz Boston",
    0.0
@@ -4695,25 +4783,21 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
  "Cheesman Park": [
   [
    "Brooklyn Heights Promenade",
-   0.0
-  ],
-  [
-   "Astoria Park",
    0.0
   ],
   [
@@ -4725,77 +4809,15 @@
    0.0
   ],
   [
+   "Julian B. Lane Riverfront Park",
+   0.0
+  ],
+  [
    "Abigail's Tea Room",
    1.0
   ]
  ],
- "Delicious Denver Food Tours": [
-  [
-   "Bites of Boston Food Tours",
-   2.23606797749979
-  ],
-  [
-   "The Worlds Largest Food Truck Rally EVER",
-   2.23606797749979
-  ],
-  [
-   "Russian Baths on Neck Road",
-   2.449489742783178
-  ],
-  [
-   "Ogie's Trailer Park",
-   2.449489742783178
-  ],
-  [
-   "Rhode Island Seafood Festival",
-   2.449489742783178
-  ]
- ],
- "Maize in the City": [
-  [
-   "SeaQuest Littleton",
-   0.0
-  ],
-  [
-   "Trapology Boston",
-   1.0
-  ],
-  [
-   "Central Rock Gym",
-   1.0
-  ],
-  [
-   "VinKari Safari",
-   1.0
-  ],
-  [
-   "Queens County Farm Museum",
-   1.0
-  ]
- ],
- "SeaQuest Littleton": [
-  [
-   "SeaQuest Littleton",
-   0.0
-  ],
-  [
-   "Trapology Boston",
-   1.0
-  ],
-  [
-   "Central Rock Gym",
-   1.0
-  ],
-  [
-   "VinKari Safari",
-   1.0
-  ],
-  [
-   "Queens County Farm Museum",
-   1.0
-  ]
- ],
- "Family Shooting Center at Cherry Creek State Park": [
+ "Conflict Colorado": [
   [
    "ComedySportz Boston",
    0.0
@@ -4805,37 +4827,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Golden Puzzle Room": [
-  [
-   "The Conservatory Garden",
-   0.0
-  ],
-  [
-   "Belleview Park",
-   0.0
-  ],
-  [
-   "Peter Pan Park",
-   0.0
-  ],
-  [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
-   "Dave Marchetti's Animal Experiences",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -4883,6 +4883,50 @@
    1.4142135623730951
   ]
  ],
+ "Ladd Observatory": [
+  [
+   "SeaQuest Littleton",
+   0.0
+  ],
+  [
+   "Ladd Observatory",
+   0.0
+  ],
+  [
+   "Trapology Boston",
+   1.0
+  ],
+  [
+   "Central Rock Gym",
+   1.0
+  ],
+  [
+   "VinKari Safari",
+   1.0
+  ]
+ ],
+ "Providence Place": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
  "Mulberry Vineyard": [
   [
    "Topgolf",
@@ -4927,94 +4971,6 @@
    2.23606797749979
   ]
  ],
- "Providence Place": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Riffraff Bookstore and Bar": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Paint and Vino": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "The Kayak Centre": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Kabob and Curry": [
   [
    "Topgolf",
@@ -5037,26 +4993,48 @@
    1.4142135623730951
   ]
  ],
- "Slater Memorial Park": [
+ "The Kayak Centre": [
   [
-   "East Boston Piers Park",
-   1.4142135623730951
+   "ComedySportz Boston",
+   0.0
   ],
   [
-   "City of Boston",
-   1.4142135623730951
+   "The Slutcracker: A Burlesque",
+   0.0
   ],
   [
-   "Brooklyn Heights Promenade",
-   1.4142135623730951
+   "East Coast Divers",
+   0.0
   ],
   [
-   "Astoria Park",
-   1.4142135623730951
+   "Central Square",
+   0.0
   ],
   [
-   "Cheesman Park",
-   1.4142135623730951
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Neutaconkanut Park": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
   ]
  ],
  "Dave Marchetti's Animal Experiences": [
@@ -5073,15 +5051,15 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "Dave Marchetti's Animal Experiences",
+   "Hope Artiste Village",
    0.0
   ]
  ],
- "Neutaconkanut Park": [
+ "Riffraff Bookstore and Bar": [
   [
    "ComedySportz Boston",
    0.0
@@ -5091,59 +5069,37 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Paint and Vino": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
-  ]
- ],
- "Hope Artiste Village": [
+  ],
   [
-   "The Conservatory Garden",
+   "Central Square",
    0.0
   ],
   [
-   "Belleview Park",
-   0.0
-  ],
-  [
-   "Peter Pan Park",
-   0.0
-  ],
-  [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
-   "Dave Marchetti's Animal Experiences",
-   0.0
-  ]
- ],
- "Rogue Island Local Kitchen & Bar": [
-  [
-   "Times Square",
-   0.0
-  ],
-  [
-   "Lower Maxwell Falls Trail Head",
-   0.0
-  ],
-  [
-   "Cherry Creek Trail",
-   0.0
-  ],
-  [
-   "Rogue Island Local Kitchen & Bar",
-   0.0
-  ],
-  [
-   "McGovern Centennial Gardens",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5169,29 +5125,73 @@
    1.0
   ]
  ],
- "The Parlour": [
+ "Slater Memorial Park": [
   [
-   "ComedySportz Boston",
+   "East Boston Piers Park",
+   1.4142135623730951
+  ],
+  [
+   "City of Boston",
+   1.4142135623730951
+  ],
+  [
+   "Brooklyn Heights Promenade",
+   1.4142135623730951
+  ],
+  [
+   "Cheesman Park",
+   1.4142135623730951
+  ],
+  [
+   "Terry Hershey Park",
+   1.4142135623730951
+  ]
+ ],
+ "Hope Artiste Village": [
+  [
+   "The Conservatory Garden",
    0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
+   "Belleview Park",
    0.0
   ],
   [
-   "Central Square",
+   "Peter Pan Park",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "East Coast Divers",
+   "Hope Artiste Village",
    0.0
   ]
  ],
- "Independence Trail": [
+ "Rogue Island Local Kitchen & Bar": [
+  [
+   "Times Square",
+   0.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   0.0
+  ],
+  [
+   "Cherry Creek Trail",
+   0.0
+  ],
+  [
+   "Rogue Island Local Kitchen & Bar",
+   0.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ]
+ ],
+ "BLR Scooter": [
   [
    "ComedySportz Boston",
    0.0
@@ -5201,15 +5201,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5235,6 +5235,94 @@
    1.0
   ]
  ],
+ "The Parlour": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Trinity Rep": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Mayflower Brewing Company": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
+ "Independence Trail": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
  "Mokban Korean Bistro": [
   [
    "The Funplex",
@@ -5257,50 +5345,6 @@
    0.0
   ]
  ],
- "BLR Scooter": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Mayflower Brewing Company": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
  "Providence Mystery Room": [
   [
    "Sky Zone Trampoline Park",
@@ -5311,37 +5355,15 @@
    0.0
   ],
   [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
    "The Clue Room",
    0.0
   ],
   [
    "Mayflower Brewing Company",
    0.0
-  ]
- ],
- "Trinity Rep": [
-  [
-   "ComedySportz Boston",
-   0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Providence Mystery Room",
    0.0
   ]
  ],
@@ -5381,11 +5403,55 @@
    0.0
   ],
   [
-   "Bayberry Beer Hall",
+   "Haute Wheels Food Truck Festival",
    0.0
   ],
   [
-   "Haute Wheels Food Truck Festival",
+   "Toro",
+   1.0
+  ]
+ ],
+ "The Arcade Providence": [
+  [
+   "The Arcade Providence",
+   0.0
+  ],
+  [
+   "Avant Garden BAR",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.0
+  ]
+ ],
+ "Farm Fresh Rhode Island": [
+  [
+   "The Funplex",
+   0.0
+  ],
+  [
+   "Bookbar",
+   0.0
+  ],
+  [
+   "Mokban Korean Bistro",
+   0.0
+  ],
+  [
+   "Sura Korean BBQ",
+   0.0
+  ],
+  [
+   "Farm Fresh Rhode Island",
    0.0
   ]
  ],
@@ -5403,34 +5469,12 @@
    1.4142135623730951
   ],
   [
-   "Menotomy Rocks Park",
-   1.4142135623730951
-  ],
-  [
    "Museum of Illusions",
    1.4142135623730951
-  ]
- ],
- "F\u00eate Music Hall": [
-  [
-   "Fat Cat Music",
-   1.4142135623730951
   ],
   [
-   "Strawberry Fields",
+   "Argia Mystic Cruises",
    1.4142135623730951
-  ],
-  [
-   "The Music Box Theater",
-   1.4142135623730951
-  ],
-  [
-   "The Secret Group",
-   1.4142135623730951
-  ],
-  [
-   "Film on the Rocks",
-   1.7320508075688772
   ]
  ],
  "Osamequin Wildlife Sanctuary": [
@@ -5443,16 +5487,16 @@
    2.0
   ],
   [
-   "Blue Hills Reservation",
-   2.0
-  ],
-  [
-   "Caladesi Island State Park",
-   2.0
-  ],
-  [
    "Royal Arch",
    2.23606797749979
+  ],
+  [
+   "Boston Harbor Islands",
+   2.8284271247461903
+  ],
+  [
+   "Abigail's Tea Room",
+   3.0
   ]
  ],
  "Rondeaus Kickboxing": [
@@ -5465,15 +5509,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5487,15 +5531,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5521,28 +5565,6 @@
    1.7320508075688772
   ]
  ],
- "Breaktime Bowl and Bar": [
-  [
-   "Arcadia Earth",
-   0.0
-  ],
-  [
-   "Puzzah!",
-   0.0
-  ],
-  [
-   "Breaktime Bowl and Bar",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ]
- ],
  "Rhode Island Seafood Festival": [
   [
    "Ogie's Trailer Park",
@@ -5557,12 +5579,12 @@
    0.0
   ],
   [
-   "Bayberry Beer Hall",
+   "Haute Wheels Food Truck Festival",
    0.0
   ],
   [
-   "Haute Wheels Food Truck Festival",
-   0.0
+   "Toro",
+   1.0
   ]
  ],
  "Massimo Restaurant": [
@@ -5579,12 +5601,34 @@
    0.0
   ],
   [
-   "Bayberry Beer Hall",
+   "Haute Wheels Food Truck Festival",
    0.0
   ],
   [
-   "Haute Wheels Food Truck Festival",
-   0.0
+   "Toro",
+   1.0
+  ]
+ ],
+ "Experience Rhode Island Tours": [
+  [
+   "Tipsy Chocolate Tours",
+   2.0
+  ],
+  [
+   "Bully Boy Distillers",
+   2.0
+  ],
+  [
+   "Urban AdvenTours",
+   2.0
+  ],
+  [
+   "Free Tours By Foot",
+   2.23606797749979
+  ],
+  [
+   "Fenway Park Tours",
+   2.23606797749979
   ]
  ],
  "The Malted Barley": [
@@ -5631,25 +5675,25 @@
    1.7320508075688772
   ]
  ],
- "Farm Fresh Rhode Island": [
+ "Tiny Bar": [
   [
-   "The Funplex",
+   "ComedySportz Boston",
    0.0
   ],
   [
-   "Bookbar",
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
-   "Mokban Korean Bistro",
+   "East Coast Divers",
    0.0
   ],
   [
-   "Sura Korean BBQ",
+   "Central Square",
    0.0
   ],
   [
-   "Farm Fresh Rhode Island",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5663,15 +5707,15 @@
    1.0
   ],
   [
-   "Syndicated Bar Theater Kitchen",
-   1.0
-  ],
-  [
    "Bookbar",
    1.0
   ],
   [
    "Mokban Korean Bistro",
+   1.0
+  ],
+  [
+   "Sura Korean BBQ",
    1.0
   ]
  ],
@@ -5685,15 +5729,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5707,15 +5751,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -5729,25 +5773,29 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "The Arcade Providence": [
+ "Breaktime Bowl and Bar": [
   [
-   "The Arcade Providence",
+   "Arcadia Earth",
    0.0
   ],
   [
-   "Avant Garden BAR",
+   "Puzzah!",
+   0.0
+  ],
+  [
+   "Breaktime Bowl and Bar",
    0.0
   ],
   [
@@ -5757,10 +5805,28 @@
   [
    "ComedySportz Boston",
    1.0
+  ]
+ ],
+ "Garden City Center": [
+  [
+   "ComedySportz Boston",
+   0.0
   ],
   [
    "The Slutcracker: A Burlesque",
-   1.0
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
   ]
  ],
  "Brown Design Workshop": [
@@ -5773,16 +5839,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
+  ]
+ ],
+ "F\u00eate Music Hall": [
+  [
+   "Fat Cat Music",
+   1.4142135623730951
   ],
   [
-   "East Coast Divers",
-   0.0
+   "Strawberry Fields",
+   1.4142135623730951
+  ],
+  [
+   "The Music Box Theater",
+   1.4142135623730951
+  ],
+  [
+   "The Secret Group",
+   1.4142135623730951
+  ],
+  [
+   "Film on the Rocks",
+   1.7320508075688772
   ]
  ],
  "Annmary Brown Memorial": [
@@ -5807,116 +5895,6 @@
    1.4142135623730951
   ]
  ],
- "Experience Rhode Island Tours": [
-  [
-   "Bully Boy Distillers",
-   2.0
-  ],
-  [
-   "Urban AdvenTours",
-   2.0
-  ],
-  [
-   "Free Tours By Foot",
-   2.23606797749979
-  ],
-  [
-   "Fenway Park Tours",
-   2.23606797749979
-  ],
-  [
-   "Museum Hack",
-   2.23606797749979
-  ]
- ],
- "Tiny Bar": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Harry's Bar & Burger": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Garden City Center": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Bayberry Beer Hall": [
-  [
-   "Ogie's Trailer Park",
-   0.0
-  ],
-  [
-   "Rhode Island Seafood Festival",
-   0.0
-  ],
-  [
-   "Massimo Restaurant",
-   0.0
-  ],
-  [
-   "Bayberry Beer Hall",
-   0.0
-  ],
-  [
-   "Haute Wheels Food Truck Festival",
-   0.0
-  ]
- ],
  "Georgiaville Pond Beach": [
   [
    "The Conservatory Garden",
@@ -5931,11 +5909,55 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "Harry's Bar & Burger": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Dave & Buster's - Temporarily Closed": [
+  [
+   "The Conservatory Garden",
+   0.0
+  ],
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Peter Pan Park",
    0.0
   ],
   [
    "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
    0.0
   ]
  ],
@@ -6291,6 +6313,28 @@
    0.0
   ]
  ],
+ "Escape The Room Texas": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
  "The Children's Museum of Houston": [
   [
    "The Conservatory Garden",
@@ -6305,34 +6349,34 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
+   "Dave Marchetti's Animal Experiences",
    0.0
   ],
   [
-   "Dave Marchetti's Animal Experiences",
+   "Hope Artiste Village",
    0.0
   ]
  ],
- "Sam Houston Boat Tour": [
+ "The Music Box Theater": [
   [
-   "Electric Glide Tours",
+   "Strawberry Fields",
+   0.0
+  ],
+  [
+   "The Music Box Theater",
+   0.0
+  ],
+  [
+   "The Secret Group",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
    1.0
   ],
   [
-   "Boston Harbor Islands National Park Area Ferry",
-   1.4142135623730951
-  ],
-  [
-   "Trapology Boston",
-   1.4142135623730951
-  ],
-  [
-   "Sacco's Bowl Haven",
-   1.4142135623730951
-  ],
-  [
-   "The City Reliquary",
-   1.4142135623730951
+   "ComedySportz Boston",
+   1.0
   ]
  ],
  "Axelrad": [
@@ -6379,6 +6423,28 @@
    1.0
   ]
  ],
+ "Bayou Bend Collection and Gardens": [
+  [
+   "Trapology Boston",
+   1.0
+  ],
+  [
+   "Boston Harbor Walk",
+   1.0
+  ],
+  [
+   "Times Square",
+   1.0
+  ],
+  [
+   "Central Park Zoo",
+   1.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   1.0
+  ]
+ ],
  "Texas Air Adventures": [
   [
    "ComedySportz Boston",
@@ -6389,15 +6455,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -6407,15 +6473,15 @@
    0.0
   ],
   [
-   "Astoria Park",
-   0.0
-  ],
-  [
    "Cheesman Park",
    0.0
   ],
   [
    "Terry Hershey Park",
+   0.0
+  ],
+  [
+   "Julian B. Lane Riverfront Park",
    0.0
   ],
   [
@@ -6433,38 +6499,38 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
- "The Music Box Theater": [
+ "McGovern Centennial Gardens": [
   [
-   "Strawberry Fields",
+   "Times Square",
    0.0
   ],
   [
-   "The Music Box Theater",
+   "Lower Maxwell Falls Trail Head",
    0.0
   ],
   [
-   "The Secret Group",
+   "Cherry Creek Trail",
    0.0
   ],
   [
-   "Abigail's Tea Room",
-   1.0
+   "Rogue Island Local Kitchen & Bar",
+   0.0
   ],
   [
-   "ComedySportz Boston",
-   1.0
+   "McGovern Centennial Gardens",
+   0.0
   ]
  ],
  "The Boardwalk": [
@@ -6489,28 +6555,6 @@
    1.7320508075688772
   ]
  ],
- "Bayou Bend Collection and Gardens": [
-  [
-   "Trapology Boston",
-   1.0
-  ],
-  [
-   "Boston Harbor Walk",
-   1.0
-  ],
-  [
-   "Times Square",
-   1.0
-  ],
-  [
-   "Central Park Zoo",
-   1.0
-  ],
-  [
-   "Lower Maxwell Falls Trail Head",
-   1.0
-  ]
- ],
  "The Escape Game Houston": [
   [
    "Battlefield Houston",
@@ -6526,6 +6570,50 @@
   ],
   [
    "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ]
+ ],
+ "Pirates Bay Water Park": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
+ "National Museum of Funeral History": [
+  [
+   "Argia Mystic Cruises",
+   0.0
+  ],
+  [
+   "National Museum of Funeral History",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "Bunker Hill Monument",
    1.0
   ],
   [
@@ -6555,160 +6643,6 @@
    1.0
   ]
  ],
- "Downtown Houston": [
-  [
-   "Trapology Boston",
-   1.0
-  ],
-  [
-   "Syndicated Bar Theater Kitchen",
-   1.0
-  ],
-  [
-   "Florida Botanical Gardens",
-   1.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.4142135623730951
-  ],
-  [
-   "ComedySportz Boston",
-   1.4142135623730951
-  ]
- ],
- "The Secret Group": [
-  [
-   "Strawberry Fields",
-   0.0
-  ],
-  [
-   "The Music Box Theater",
-   0.0
-  ],
-  [
-   "The Secret Group",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ]
- ],
- "McGovern Centennial Gardens": [
-  [
-   "Times Square",
-   0.0
-  ],
-  [
-   "Lower Maxwell Falls Trail Head",
-   0.0
-  ],
-  [
-   "Cherry Creek Trail",
-   0.0
-  ],
-  [
-   "Rogue Island Local Kitchen & Bar",
-   0.0
-  ],
-  [
-   "McGovern Centennial Gardens",
-   0.0
-  ]
- ],
- "Pirates Bay Water Park": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "Avant Garden BAR": [
-  [
-   "The Arcade Providence",
-   0.0
-  ],
-  [
-   "Avant Garden BAR",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   1.0
-  ]
- ],
- "National Museum of Funeral History": [
-  [
-   "Argia Mystic Cruises",
-   0.0
-  ],
-  [
-   "National Museum of Funeral History",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
-  [
-   "Bunker Hill Monument",
-   1.0
-  ],
-  [
-   "ComedySportz Boston",
-   1.0
-  ]
- ],
- "Truck Yard - Houston": [
-  [
-   "Fat Cat Music",
-   1.0
-  ],
-  [
-   "Strawberry Fields",
-   1.0
-  ],
-  [
-   "The Music Box Theater",
-   1.0
-  ],
-  [
-   "The Secret Group",
-   1.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.4142135623730951
-  ]
- ],
  "Atv 4x4 Adventure Rentals": [
   [
    "ComedySportz Boston",
@@ -6719,47 +6653,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "East End Park": [
-  [
-   "City of Boston",
-   1.0
-  ],
-  [
-   "Boston Harbor Walk",
-   1.0
-  ],
-  [
-   "Times Square",
-   1.0
-  ],
-  [
-   "Brooklyn Heights Promenade",
-   1.0
-  ],
-  [
-   "Astoria Park",
-   1.0
-  ]
- ],
- "Houston Axe Throwing": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -6767,11 +6661,7 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -6797,25 +6687,223 @@
    1.7320508075688772
   ]
  ],
- "Escape Zone Houston": [
+ "Downtown Houston": [
   [
-   "Quincy Quarries Reservation",
+   "Trapology Boston",
+   1.0
+  ],
+  [
+   "Florida Botanical Gardens",
+   1.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.4142135623730951
+  ],
+  [
+   "ComedySportz Boston",
+   1.4142135623730951
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   1.4142135623730951
+  ]
+ ],
+ "Houston Panic Room": [
+  [
+   "ComedySportz Boston",
    0.0
   ],
   [
-   "Museum of Illusions",
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
-   "Escape Zone Houston",
+   "East Coast Divers",
    0.0
   ],
   [
-   "Cullen Sculpture Garden",
+   "Central Square",
    0.0
   ],
   [
-   "Tampa Museum of Art",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Holocaust Museum Houston": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Top Gun": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Truck Yard - Houston": [
+  [
+   "Fat Cat Music",
+   1.0
+  ],
+  [
+   "Strawberry Fields",
+   1.0
+  ],
+  [
+   "The Music Box Theater",
+   1.0
+  ],
+  [
+   "The Secret Group",
+   1.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.4142135623730951
+  ]
+ ],
+ "East End Park": [
+  [
+   "City of Boston",
+   1.0
+  ],
+  [
+   "Boston Harbor Walk",
+   1.0
+  ],
+  [
+   "Times Square",
+   1.0
+  ],
+  [
+   "Brooklyn Heights Promenade",
+   1.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   1.0
+  ]
+ ],
+ "Houston Axe Throwing": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "The Secret Group": [
+  [
+   "Strawberry Fields",
+   0.0
+  ],
+  [
+   "The Music Box Theater",
+   0.0
+  ],
+  [
+   "The Secret Group",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
+  [
+   "ComedySportz Boston",
+   1.0
+  ]
+ ],
+ "Crazy Cat Escape Room": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Studio Movie Grill": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -6833,15 +6921,15 @@
    0.0
   ],
   [
-   "Bayberry Beer Hall",
+   "Haute Wheels Food Truck Festival",
    0.0
   ],
   [
-   "Haute Wheels Food Truck Festival",
-   0.0
+   "Toro",
+   1.0
   ]
  ],
- "Houston Panic Room": [
+ "T&T Fish and Reef": [
   [
    "ComedySportz Boston",
    0.0
@@ -6851,15 +6939,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -6885,28 +6973,6 @@
    1.0
   ]
  ],
- "Holocaust Museum Houston": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Battlefield Houston": [
   [
    "Battlefield Houston",
@@ -6929,26 +6995,26 @@
    1.0
   ]
  ],
- "Top Gun": [
+ "Avant Garden BAR": [
+  [
+   "The Arcade Providence",
+   0.0
+  ],
+  [
+   "Avant Garden BAR",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
   [
    "ComedySportz Boston",
-   0.0
+   1.0
   ],
   [
    "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
+   1.0
   ]
  ],
  "Urban Air Adventure Park - Pearland": [
@@ -6961,47 +7027,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "Texas Axe Throwing": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "Crazy Cat Escape Room": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -7009,11 +7035,29 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Escape Zone Houston": [
+  [
+   "Quincy Quarries Reservation",
    0.0
   ],
   [
-   "East Coast Divers",
+   "Museum of Illusions",
+   0.0
+  ],
+  [
+   "Escape Zone Houston",
+   0.0
+  ],
+  [
+   "Cullen Sculpture Garden",
+   0.0
+  ],
+  [
+   "Tampa Museum of Art",
    0.0
   ]
  ],
@@ -7039,7 +7083,7 @@
    0.0
   ]
  ],
- "Studio Movie Grill": [
+ "ExitusVR": [
   [
    "ComedySportz Boston",
    0.0
@@ -7049,15 +7093,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -7071,15 +7115,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -7093,15 +7137,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -7115,15 +7159,15 @@
    0.0
   ],
   [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
    "The Clue Room",
    0.0
   ],
   [
    "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
    0.0
   ]
  ],
@@ -7141,56 +7185,12 @@
    1.0
   ],
   [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   1.0
-  ],
-  [
    "Queens County Farm Museum",
    1.0
-  ]
- ],
- "Ratchet Hatchet Houston": [
-  [
-   "ComedySportz Boston",
-   0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "T&T Fish and Reef": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
+   "Snug Harbor Cultural Center & Botanical Garden",
+   1.0
   ]
  ],
  "Burke Baker Planetarium": [
@@ -7203,15 +7203,37 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Texas Axe Throwing": [
+  [
+   "Sky Zone Trampoline Park",
    0.0
   ],
   [
-   "East Coast Divers",
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
    0.0
   ]
  ],
@@ -7237,51 +7259,15 @@
    1.0
   ]
  ],
- "Mad Hatter Tea Party Sculpture-Evelyn's Park": [
+ "Magnolia Gardens Park": [
   [
-   "ComedySportz Boston",
+   "Potters' Place",
    0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
+   "Ruskin Family Drive-In Theater",
    0.0
   ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Texas Rock Gym": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Citycentre": [
   [
    "Castle Island Beach",
    1.0
@@ -7293,17 +7279,9 @@
   [
    "Snug Harbor Cultural Center & Botanical Garden",
    1.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   1.0
-  ],
-  [
-   "The Clue Room",
-   1.0
   ]
  ],
- "ExitusVR": [
+ "Mad Hatter Tea Party Sculpture-Evelyn's Park": [
   [
    "ComedySportz Boston",
    0.0
@@ -7313,15 +7291,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -7335,19 +7313,85 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Texas Rock Gym": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
    "East Coast Divers",
    0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
   ]
  ],
- "Sylvan Beach": [
+ "Napa Udon House and Wine Bar": [
+  [
+   "Times Square",
+   0.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   0.0
+  ],
+  [
+   "Cherry Creek Trail",
+   0.0
+  ],
+  [
+   "Rogue Island Local Kitchen & Bar",
+   0.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ]
+ ],
+ "Potters' Place": [
+  [
+   "Potters' Place",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
+  [
+   "Castle Island Beach",
+   1.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   1.0
+  ]
+ ],
+ "Armand Bayou Nature Center": [
   [
    "The Conservatory Garden",
    0.0
@@ -7361,33 +7405,11 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
    "Dave Marchetti's Animal Experiences",
    0.0
-  ]
- ],
- "Hermann Park Trail": [
-  [
-   "ComedySportz Boston",
-   0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Hope Artiste Village",
    0.0
   ]
  ],
@@ -7655,35 +7677,13 @@
    0.0
   ]
  ],
- "Grand Prix Tampa": [
+ "Mixon Fruit Farms": [
   [
-   "VinKari Safari",
-   1.0
-  ],
-  [
-   "Pro Line Archery Lanes",
-   1.0
-  ],
-  [
-   "The Conservatory Garden",
-   1.0
-  ],
-  [
-   "Belleview Park",
-   1.0
-  ],
-  [
-   "Fiske Planetarium",
-   1.0
-  ]
- ],
- "Caladesi Island State Park": [
-  [
-   "Blue Hills Reservation",
+   "Mixon Fruit Farms",
    0.0
   ],
   [
-   "Caladesi Island State Park",
+   "Odyssey Cruises",
    0.0
   ],
   [
@@ -7699,91 +7699,25 @@
    1.0
   ]
  ],
- "eBOATS Tampa": [
-  [
-   "The Funplex",
-   0.0
-  ],
-  [
-   "Bookbar",
-   0.0
-  ],
-  [
-   "Mokban Korean Bistro",
-   0.0
-  ],
-  [
-   "Sura Korean BBQ",
-   0.0
-  ],
-  [
-   "Farm Fresh Rhode Island",
-   0.0
-  ]
- ],
- "Tampa Bay Grand Prix": [
-  [
-   "Battlefield Houston",
-   0.0
-  ],
-  [
-   "JINYA Ramen Bar",
-   0.0
-  ],
-  [
-   "Tampa Bay Grand Prix",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ],
+ "Can You Escape?": [
   [
    "ComedySportz Boston",
-   1.0
-  ]
- ],
- "Flatwoods Park": [
-  [
-   "Times Square",
    0.0
   ],
   [
-   "Lower Maxwell Falls Trail Head",
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
-   "Cherry Creek Trail",
+   "East Coast Divers",
    0.0
   ],
   [
-   "Rogue Island Local Kitchen & Bar",
+   "Central Square",
    0.0
   ],
   [
-   "McGovern Centennial Gardens",
-   0.0
-  ]
- ],
- "A Boat Day": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -7809,26 +7743,48 @@
    0.0
   ]
  ],
- "Raider Axe Lodge": [
+ "Bayshore Linear Park Trail": [
+  [
+   "Times Square",
+   0.0
+  ],
+  [
+   "Lower Maxwell Falls Trail Head",
+   0.0
+  ],
+  [
+   "Cherry Creek Trail",
+   0.0
+  ],
+  [
+   "Rogue Island Local Kitchen & Bar",
+   0.0
+  ],
+  [
+   "McGovern Centennial Gardens",
+   0.0
+  ]
+ ],
+ "Tampa Bay Grand Prix": [
+  [
+   "Battlefield Houston",
+   0.0
+  ],
+  [
+   "JINYA Ramen Bar",
+   0.0
+  ],
+  [
+   "Tampa Bay Grand Prix",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ],
   [
    "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
+   1.0
   ]
  ],
  "Weedon Island Preserve": [
@@ -7855,6 +7811,10 @@
  ],
  "Odyssey Cruises": [
   [
+   "Mixon Fruit Farms",
+   0.0
+  ],
+  [
    "Odyssey Cruises",
    0.0
   ],
@@ -7869,31 +7829,27 @@
   [
    "The Slutcracker: A Burlesque",
    1.0
-  ],
-  [
-   "Central Square",
-   1.0
   ]
  ],
- "PedalPub St Petersburg": [
+ "Flatwoods Park": [
   [
-   "ComedySportz Boston",
+   "Times Square",
    0.0
   ],
   [
-   "The Slutcracker: A Burlesque",
+   "Lower Maxwell Falls Trail Head",
    0.0
   ],
   [
-   "Central Square",
+   "Cherry Creek Trail",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Rogue Island Local Kitchen & Bar",
    0.0
   ],
   [
-   "East Coast Divers",
+   "McGovern Centennial Gardens",
    0.0
   ]
  ],
@@ -7911,12 +7867,34 @@
    1.0
   ],
   [
-   "Central Square",
+   "East Coast Divers",
    1.0
   ],
   [
-   "A4cade by Area Four",
+   "Central Square",
    1.0
+  ]
+ ],
+ "A Boat Day": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
   ]
  ],
  "The Airosphere": [
@@ -7941,50 +7919,6 @@
    1.0
   ]
  ],
- "Clearwater Marine Aquarium": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Bury the Hatchet": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Vertical Ventures": [
   [
    "Boston Harbor Islands National Park Area Ferry",
@@ -7999,34 +7933,56 @@
    1.4142135623730951
   ],
   [
-   "Snug Harbor Cultural Center & Botanical Garden",
+   "The City Reliquary",
    1.4142135623730951
   ],
   [
-   "The City Reliquary",
+   "Snug Harbor Cultural Center & Botanical Garden",
    1.4142135623730951
   ]
  ],
- "Cracker Country": [
+ "Clearwater Marine Aquarium": [
   [
-   "Central Rock Gym",
-   2.23606797749979
+   "ComedySportz Boston",
+   0.0
   ],
   [
-   "Historic Downtown Golden",
-   2.23606797749979
+   "The Slutcracker: A Burlesque",
+   0.0
   ],
   [
-   "The Arcade Providence",
-   2.23606797749979
+   "East Coast Divers",
+   0.0
   ],
   [
-   "Avant Garden BAR",
-   2.23606797749979
+   "Central Square",
+   0.0
   ],
   [
-   "Vertical Ventures",
-   2.23606797749979
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Bury the Hatchet": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
   ]
  ],
  "Henry B. Plant Museum": [
@@ -8073,6 +8029,28 @@
    0.0
   ]
  ],
+ "PedalPub St Petersburg": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
  "Tampa Museum of Art": [
   [
    "Quincy Quarries Reservation",
@@ -8095,13 +8073,79 @@
    0.0
   ]
  ],
- "Brew Tours By Thirsty Pelican": [
+ "Raider Axe Lodge": [
   [
-   "Old Town Trolley Tours of Boston",
+   "ComedySportz Boston",
    0.0
   ],
   [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Breakout's Imagine Escape Rooms": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Cracker Country": [
+  [
+   "Central Rock Gym",
+   2.23606797749979
+  ],
+  [
+   "Historic Downtown Golden",
+   2.23606797749979
+  ],
+  [
+   "The Arcade Providence",
+   2.23606797749979
+  ],
+  [
+   "Avant Garden BAR",
+   2.23606797749979
+  ],
+  [
+   "Vertical Ventures",
+   2.23606797749979
+  ]
+ ],
+ "Brew Tours By Thirsty Pelican": [
+  [
    "Boston Segway Tours",
+   0.0
+  ],
+  [
+   "Blue Hill Helicopters",
    0.0
   ],
   [
@@ -8117,50 +8161,6 @@
    0.0
   ]
  ],
- "Capt Jared": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Ruskin Family Drive-In Theater": [
-  [
-   "Castle Island Beach",
-   1.0
-  ],
-  [
-   "Sky Zone Trampoline Park",
-   1.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   1.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   1.0
-  ],
-  [
-   "The Clue Room",
-   1.0
-  ]
- ],
  "Tampa Bay Sup Stand Up Paddleboarding & Kayaking": [
   [
    "ComedySportz Boston",
@@ -8171,15 +8171,15 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
@@ -8205,28 +8205,6 @@
    2.0
   ]
  ],
- "Breakout's Imagine Escape Rooms": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
  "Florida Botanical Gardens": [
   [
    "Florida Botanical Gardens",
@@ -8245,7 +8223,7 @@
    1.0
   ],
   [
-   "Central Square",
+   "East Coast Divers",
    1.0
   ]
  ],
@@ -8259,16 +8237,60 @@
    0.0
   ],
   [
+   "East Coast Divers",
+   0.0
+  ],
+  [
    "Central Square",
    0.0
   ],
   [
-   "A4cade by Area Four",
+   "Alien Motorsports",
    0.0
+  ]
+ ],
+ "Glazer Children's Museum": [
+  [
+   "Castle Island Beach",
+   1.0
   ],
   [
-   "East Coast Divers",
-   0.0
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "Boston Harbor Walk",
+   1.0
+  ],
+  [
+   "Times Square",
+   1.0
+  ],
+  [
+   "Central Park Zoo",
+   1.0
+  ]
+ ],
+ "Electric Glide Tours": [
+  [
+   "Boston Harbor Islands National Park Area Ferry",
+   1.0
+  ],
+  [
+   "Sacco's Bowl Haven",
+   1.0
+  ],
+  [
+   "The City Reliquary",
+   1.0
+  ],
+  [
+   "Nightly Spirits",
+   1.0
+  ],
+  [
+   "Canvas and Cocktails",
+   1.0
   ]
  ],
  "Captain Memo's Pirate Cruise": [
@@ -8307,43 +8329,47 @@
    0.0
   ],
   [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
    "Dave Marchetti's Animal Experiences",
    0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
   ]
  ],
- "Bay Area Renaissance Festival": [
+ "Capt Jared": [
   [
-   "Julians",
+   "ComedySportz Boston",
    0.0
   ],
   [
-   "Bay Area Renaissance Festival",
+   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
-   "Red Apple Farm",
-   1.0
+   "East Coast Divers",
+   0.0
   ],
   [
-   "Dinosaur Bar-B-Que",
-   1.0
+   "Central Square",
+   0.0
   ],
   [
-   "The Funplex",
-   1.0
+   "Alien Motorsports",
+   0.0
   ]
  ],
- "Glazer Children's Museum": [
+ "Ruskin Family Drive-In Theater": [
+  [
+   "Potters' Place",
+   0.0
+  ],
+  [
+   "Ruskin Family Drive-In Theater",
+   0.0
+  ],
   [
    "Castle Island Beach",
-   1.0
-  ],
-  [
-   "Boston Harbor Walk",
    1.0
   ],
   [
@@ -8351,33 +8377,7 @@
    1.0
   ],
   [
-   "Times Square",
-   1.0
-  ],
-  [
-   "Central Park Zoo",
-   1.0
-  ]
- ],
- "Electric Glide Tours": [
-  [
-   "Boston Harbor Islands National Park Area Ferry",
-   1.0
-  ],
-  [
-   "Sacco's Bowl Haven",
-   1.0
-  ],
-  [
-   "The City Reliquary",
-   1.0
-  ],
-  [
-   "Nightly Spirits",
-   1.0
-  ],
-  [
-   "Canvas and Cocktails",
+   "Snug Harbor Cultural Center & Botanical Garden",
    1.0
   ]
  ],
@@ -8413,25 +8413,7 @@
    0.0
   ],
   [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
    "East Coast Divers",
-   0.0
-  ]
- ],
- "Trey Rod Fishing Charters": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
    0.0
   ],
   [
@@ -8439,21 +8421,17 @@
    0.0
   ],
   [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
+   "Alien Motorsports",
    0.0
   ]
  ],
  "Tarpon Springs Aquarium": [
   [
-   "Boston Harbor Walk",
+   "VinKari Safari",
    1.0
   ],
   [
-   "VinKari Safari",
+   "Boston Harbor Walk",
    1.0
   ],
   [
@@ -8469,33 +8447,7 @@
    1.0
   ]
  ],
- "PK's PlayZone & Grille": [
-  [
-   "The Conservatory Garden",
-   0.0
-  ],
-  [
-   "Belleview Park",
-   0.0
-  ],
-  [
-   "Peter Pan Park",
-   0.0
-  ],
-  [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
-   "Dave Marchetti's Animal Experiences",
-   0.0
-  ]
- ],
  "Philippe Park": [
-  [
-   "Menotomy Rocks Park",
-   1.0
-  ],
   [
    "Yucca House",
    1.0
@@ -8511,160 +8463,32 @@
   [
    "Blackstone River Valley",
    1.4142135623730951
+  ],
+  [
+   "Boston",
+   1.4142135623730951
   ]
  ],
- "The Worlds Largest Food Truck Rally EVER": [
+ "Bay Area Renaissance Festival": [
   [
-   "Russian Baths on Neck Road",
+   "Julians",
+   0.0
+  ],
+  [
+   "Bay Area Renaissance Festival",
+   0.0
+  ],
+  [
+   "Red Apple Farm",
    1.0
   ],
   [
-   "Ogie's Trailer Park",
+   "Dinosaur Bar-B-Que",
    1.0
   ],
   [
-   "Rhode Island Seafood Festival",
+   "The Funplex",
    1.0
-  ],
-  [
-   "Massimo Restaurant",
-   1.0
-  ],
-  [
-   "Bayberry Beer Hall",
-   1.0
-  ]
- ],
- "Cypress Breeze Farm": [
-  [
-   "The City Reliquary",
-   0.0
-  ],
-  [
-   "Canvas and Cocktails",
-   0.0
-  ],
-  [
-   "The Orange Show",
-   0.0
-  ],
-  [
-   "Cypress Breeze Farm",
-   0.0
-  ],
-  [
-   "Abigail's Tea Room",
-   1.0
-  ]
- ],
- "Gasparilla Pirate Festival": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
-  ]
- ],
- "Carrollwood Village Park": [
-  [
-   "Sky Zone Trampoline Park",
-   0.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   0.0
-  ],
-  [
-   "Amazing Escape Room Staten Island NY",
-   0.0
-  ],
-  [
-   "The Clue Room",
-   0.0
-  ],
-  [
-   "Mayflower Brewing Company",
-   0.0
-  ]
- ],
- "Horse Power for Kids": [
-  [
-   "The Conservatory Garden",
-   0.0
-  ],
-  [
-   "Belleview Park",
-   0.0
-  ],
-  [
-   "Peter Pan Park",
-   0.0
-  ],
-  [
-   "Golden Puzzle Room",
-   0.0
-  ],
-  [
-   "Dave Marchetti's Animal Experiences",
-   0.0
-  ]
- ],
- "Indian Rocks Beach": [
-  [
-   "Castle Island Beach",
-   1.0
-  ],
-  [
-   "City of Boston",
-   1.0
-  ],
-  [
-   "Sky Zone Trampoline Park",
-   1.0
-  ],
-  [
-   "Snug Harbor Cultural Center & Botanical Garden",
-   1.0
-  ],
-  [
-   "Brooklyn Heights Promenade",
-   1.0
-  ]
- ],
- "Dolphin Racer Speedboat": [
-  [
-   "ComedySportz Boston",
-   0.0
-  ],
-  [
-   "The Slutcracker: A Burlesque",
-   0.0
-  ],
-  [
-   "Central Square",
-   0.0
-  ],
-  [
-   "A4cade by Area Four",
-   0.0
-  ],
-  [
-   "East Coast Divers",
-   0.0
   ]
  ],
  "Tampa Bay History Center": [
@@ -8689,25 +8513,223 @@
    1.7320508075688772
   ]
  ],
- "Margarita Wars": [
+ "Cypress Breeze Farm": [
   [
-   "Dangerous Theatre",
+   "The City Reliquary",
    0.0
   ],
   [
-   "Margarita Wars",
+   "Canvas and Cocktails",
+   0.0
+  ],
+  [
+   "The Orange Show",
+   0.0
+  ],
+  [
+   "Cypress Breeze Farm",
    0.0
   ],
   [
    "Abigail's Tea Room",
    1.0
-  ],
+  ]
+ ],
+ "Trey Rod Fishing Charters": [
   [
    "ComedySportz Boston",
-   1.0
+   0.0
   ],
   [
    "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Julian B. Lane Riverfront Park": [
+  [
+   "Brooklyn Heights Promenade",
+   0.0
+  ],
+  [
+   "Cheesman Park",
+   0.0
+  ],
+  [
+   "Terry Hershey Park",
+   0.0
+  ],
+  [
+   "Julian B. Lane Riverfront Park",
+   0.0
+  ],
+  [
+   "Abigail's Tea Room",
+   1.0
+  ]
+ ],
+ "Ballast Point Park": [
+  [
+   "The Conservatory Garden",
+   0.0
+  ],
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Peter Pan Park",
+   0.0
+  ],
+  [
+   "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "PK's PlayZone & Grille": [
+  [
+   "The Conservatory Garden",
+   0.0
+  ],
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Peter Pan Park",
+   0.0
+  ],
+  [
+   "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "The Worlds Largest Food Truck Rally EVER": [
+  [
+   "Russian Baths on Neck Road",
+   1.0
+  ],
+  [
+   "Ogie's Trailer Park",
+   1.0
+  ],
+  [
+   "Rhode Island Seafood Festival",
+   1.0
+  ],
+  [
+   "Massimo Restaurant",
+   1.0
+  ],
+  [
+   "Haute Wheels Food Truck Festival",
+   1.0
+  ]
+ ],
+ "Gasparilla Pirate Festival": [
+  [
+   "ComedySportz Boston",
+   0.0
+  ],
+  [
+   "The Slutcracker: A Burlesque",
+   0.0
+  ],
+  [
+   "East Coast Divers",
+   0.0
+  ],
+  [
+   "Central Square",
+   0.0
+  ],
+  [
+   "Alien Motorsports",
+   0.0
+  ]
+ ],
+ "Carrollwood Village Park": [
+  [
+   "Sky Zone Trampoline Park",
+   0.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   0.0
+  ],
+  [
+   "The Clue Room",
+   0.0
+  ],
+  [
+   "Mayflower Brewing Company",
+   0.0
+  ],
+  [
+   "Providence Mystery Room",
+   0.0
+  ]
+ ],
+ "Horse Power for Kids": [
+  [
+   "The Conservatory Garden",
+   0.0
+  ],
+  [
+   "Belleview Park",
+   0.0
+  ],
+  [
+   "Peter Pan Park",
+   0.0
+  ],
+  [
+   "Dave Marchetti's Animal Experiences",
+   0.0
+  ],
+  [
+   "Hope Artiste Village",
+   0.0
+  ]
+ ],
+ "Indian Rocks Beach": [
+  [
+   "Castle Island Beach",
+   1.0
+  ],
+  [
+   "City of Boston",
+   1.0
+  ],
+  [
+   "Sky Zone Trampoline Park",
+   1.0
+  ],
+  [
+   "Snug Harbor Cultural Center & Botanical Garden",
+   1.0
+  ],
+  [
+   "Brooklyn Heights Promenade",
    1.0
   ]
  ]

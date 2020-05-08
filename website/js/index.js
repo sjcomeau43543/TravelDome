@@ -680,6 +680,7 @@ function activityDiv(activity, plusminus) {
 
     // source
     var a = document.createElement("a");
+    console.log(activity);
     a.setAttribute("href", activity.link[0]);
     a.setAttribute("class", "sams-links-activities");
     var irow = document.createElement("div");
