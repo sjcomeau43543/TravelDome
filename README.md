@@ -1,27 +1,35 @@
 # TravelDome
 
-## Workflow
+## Data Collection
 
 ### Scrape data
 First, we needed to scrape activity information.
 
 [Scraping script](scrapers/scrape.py)
 
-This script will scrape Yelp, TripAdvisor, and GoogleMaps depending on the flags you provide it. For example, to run them all you would run 
+This script will scrape Yelp, TripAdvisor, National Parks Service, and GoogleMaps depending on the flags you provide it. For example, to run them all you would run 
 ```
-python3 scrape.py -y -c YELPCONFIG -g -t -l locations.txt -o
+python3 scrape.py -y -c YELPCONFIG -n -g -t -l locations.txt -o
 ```
 
 The yelp configuration for the REST API is not provided on github, since this is a public repository. 
+
+
+## Data Manipulation
+
+Alternatively to running all these scripts separately, you can run the bash script `runall.sh`.
+```
+./runall.sh
+```
 
 ### Merge data
 Next, we needed to store this data in one place for each location so we could merge the results that were the same from multiple sites. 
 
 [Merging script](data_manipulation/merge.py)
 
-This script will walk the `data` repository for the `Yelp`, `TripAdvisor` and `GoogleMaps` folders and the location data inside them. The merged results for each location are then stored in the `Merged` directory. A sample run looks like 
+This script will walk the `data` repository for the `Yelp`, `TripAdvisor`, `NPS`, and `GoogleMaps` folders and the location data inside them. The merged results for each location are then stored in the `Merged` directory. A sample run looks like 
 ```
-python3 merge.py ../scrapers/locations.txt
+python3 merge.py -l ../scrapers/locations.txt
 ```
 
 ### Store data
@@ -31,7 +39,7 @@ After merging the data, it needs to be stored in an inverted index for easy look
 
 This script will convert the documents in the `data/Merged` folder into a single inverted index which is then stored in `data/InvertedIndex`. For each adjective in the provided adjectives file (either extended or standard) the activities that are tagged with that location are stored in the index as the documents. A sample run looks like 
 ```
-python3 storage.py -l ../scrapers/locations.txt -a ../scrapers/adjectives.txt
+python3 storage.py -l ../scrapers/locations.txt -a ../scrapers/adjectives_extended.txt
 ``` 
 
 ### KNN 
@@ -44,5 +52,20 @@ This script will vectorize the activities in the `data/Merged` folder as vectors
 python3 clustering.py -e ../scrapers/adjectives_extended.txt -n 5
 ```
 
+## Website 
+
+The only change needed to run a local instance of the website is in the `loadFile()` function where it references the filepath to the data files. Using this repository, [Secure Server](https://github.com/sjcomeau43543/secure_server), you can run `python3 secure_server.py -d TravelDome/` to run a local instance.
+
 ### Querying data
-...?
+Data querying is handled in `Javascript`.
+
+The functions used to query data are `generateRecommendations()`, `generateSecondaryRecommendations()`, `loadAdjectives()`, and `loadLocations()`. All our data is loaded using the `loadData()` function.
+
+### Ranking data
+Originally the plan was to rank data before the actual query. However, we found it simpler and speedy enough to do this on the fly. Data ranking is handled in the `rank()` function in javascript. We only return the top 10 results because it simplifies the User Interface.
+
+### Displaying data
+A combination of `html`, `css`, `javascript`, and `Bootstrap` were used to produce the frontend for the user.
+
+### Visit website
+[TraveDome](https://sjcomeau43543.github.io/TravelDome)
