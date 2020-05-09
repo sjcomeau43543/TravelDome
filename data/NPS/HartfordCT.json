@@ -1,0 +1,82 @@
+[
+{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//appa//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nThe Appalachian Trail is a 2,180+ mile long public footpath that traverses the scenic, wooded, pastoral, wild, and culturally resonant lands of the Appalachian Mountains. Conceived in 1921, built by private citizens, and completed in 1937, today the trail is managed by the National Park Service, US Forest Service, Appalachian Trail Conservancy, numerous state agencies and thousands of volunteers.\n"
+ ]
+},{
+ "name": "New England",
+ "address": "\nOne Armory Square\nSuite 2\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/neen/crop16_9/4DD85F1F-A61E-8427-A95B5F0980C97B55.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//neen//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFrom the Sound to the Summits: the New England Trail covers 215 miles from Long Island Sound across long ridges to scenic mountain summits in Connecticut and Massachusetts. The trail offers panoramic vistas and close-ups of New England\u2019s natural and cultural landscape: traprock ridges, historic village centers, farmlands, unfragmented forests, quiet streams, steep river valleys and waterfalls.\n"
+ ]
+},{
+ "name": "The Last Green Valley",
+ "address": "\n203 B Main Street, 2nd Floor\nP.O. Box 29\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/qush/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//qush//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nDiscover the beauty of The Last Green Valley National Heritage Corridor!  Spanning 35 towns in northeastern Connecticut and south-central Massachusetts, The Last Green Valley is surprisingly rural and uniquely historic. With 1,100 square miles that are still 77% forests and farms, the pastoral landscape is interspersed with powerful rivers, mill villages, and vibrant town centers.\n"
+ ]
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//waro//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nIn 1781, General Rochambeau\u2019s French Army joined forces with General Washington\u2019s Continental Army to fight the British Army in Yorktown, Virginia. With the French Navy in support, the allied armies moved hundreds of miles to become the largest troop movement of the American Revolution. The effort and cooperation between the two sides led to a victory at Yorktown and secured American independence.\n"
+ ]
+},{
+ "name": "Weir Farm",
+ "address": "\n735 Nod Hill Road\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/wefa/crop16_9/DE9B9F30-1DD8-B71B-0B6E1FD297C17069.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "creative",
+  "walk"
+ ],
+ "link": "https://www.nps.gov//wefa//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nVisit the home and studio of America's most beloved Impressionist, J. Alden Weir, and walk in the footsteps of generations of world-class artists. Set amidst more than 60 acres of painterly woods, fields, and waterways, you\u2019ll soon see why Weir described his home as the \"Great Good Place.\" Weir\u2019s farm is a national legacy to American Impressionism, the creative spirit, and historic preservation.\n"
+ ]
+}]

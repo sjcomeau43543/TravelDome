@@ -1,0 +1,95 @@
+[
+{
+ "name": "Chickasaw",
+ "address": "\n901 W. 1st Street\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/chic/crop16_9/C6BCDFC9-1DD8-B71B-0B5ED39C793454CA.JPG?width=307&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//chic//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nSprings, streams, lakes - whatever its form, water is the attraction at Chickasaw National Recreation Area. Relax in the coolness of shaded streams or take a dip in a swimming hole. Little Niagara and Rock Creek beckon waders and swimmers. Veterans Lake calls anglers to test their skills. Lake of the Arbuckles provides excellent opportunities for motorboating, skiing, fishing, and swimming.\n"
+ ]
+},{
+ "name": "Fort Smith",
+ "address": "\n301 Parker Ave\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/fosm/crop16_9/5A5E931E-1DD8-B71B-0B5F334C38742241.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": "https://www.nps.gov//fosm//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFrom the establishment of the first Fort Smith on December 25, 1817, to the final days of Judge Isaac C. Parker's jurisdiction over Indian Territory in 1896, Fort Smith National Historic Site preserves almost 80 years of history.\nExplore life on the edge of Indian Territory through the stories of soldiers, the Trail of Tears, dangerous outlaws, and the brave lawmen who pursued them.\n"
+ ]
+},{
+ "name": "Oklahoma City",
+ "address": "\nOklahoma City National Memorial\n301 NW 6th Street, Suite 305\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/okci/crop16_9/C7AB1FDD-1DD8-B71B-0B3D639A4609634A.jpeg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//okci//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nThe outdoor symbolic memorial is a place of quiet reflection, honoring victims, survivors, rescuers, and all who were changed forever on April 19, 1995. It encompasses the now sacred soil where the Alfred P. Murrah Federal Building once stood, capturing and preserving forever the place and events that changed the world.\n"
+ ]
+},{
+ "name": "Santa Fe",
+ "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//safe//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nYou can almost hear the whoops and cries of \"All's set!\" as trail hands hitched their oxen to freight wagons carrying cargo between western Missouri and Santa Fe, New Mexico. Follow the Santa Fe National Historic Trail through five states and you'll find adventure and evidence of past travelers who made this remarkable trip before you!\n"
+ ]
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//trte//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nRemember and commemorate the survival of the Cherokee people, forcefully removed from their homelands in Georgia, Alabama, and Tennessee to live in Indian Territory, now Oklahoma. They traveled by foot, horse, wagon, or steamboat in 1838-1839.\n"
+ ]
+},{
+ "name": "Washita Battlefield",
+ "address": "\n18555 Hwy 47A, Ste. A\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/waba/crop16_9/07D4F50F-AF1B-2BE7-494630557C22465D.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//waba//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nOn November 27, 1868, Lt. Colonel George Armstrong Custer led the 7th U.S. Cavalry on a surprise dawn attack on a Cheyenne village led by Peace Chief Black Kettle. The event was an example of the tragic clash of cultures that occurred during the Great Plains Wars. It is also a place of remembrance and reflection for those who died here.\n"
+ ]
+}]

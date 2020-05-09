@@ -1,0 +1,155 @@
+[
+{
+ "name": "Badlands",
+ "address": "\n25216 Ben Reifel Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/badl/crop16_9/5818D3D9-B2C0-4198-8B2736402AFB76BD.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//badl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Jewel Cave",
+ "address": "\n11149 U.S. Hwy. 16\nBuilding B12\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/jeca/crop16_9/1CCFC308-A51A-1535-597D9716B9897F3B.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//jeca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Minuteman Missile",
+ "address": "\n24545 Cottonwood Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mimi/crop16_9/BEDD9238-1DD8-B71B-0BBD01D3C368E9A9.png"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mimi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Missouri",
+ "address": "\n508 East 2nd Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mnrr/crop16_9/0E0DDFD9-91B8-C232-267D0EB93313B08A.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "free",
+  "nature"
+ ],
+ "link": [
+  "https://www.nps.gov//mnrr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mount Rushmore",
+ "address": "\n13000 Highway 244\nBuilding 31, Suite 1\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/moru/crop16_9/62F4AD75-1DD8-B71B-0BD958C5E247D3C7.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//moru//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wind Cave",
+ "address": "\n26611 US Highway 385\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/wica/crop16_9/2875C4C9-B332-1943-F60B8930D4DB71D3.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//wica//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+}]

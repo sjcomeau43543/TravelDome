@@ -1,0 +1,720 @@
+[
+{
+ "name": "Colby College Museum of Art",
+ "address": "5600 Mayflower Hill Dr",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/IzJFsyDil53QF_Nx4lp3Sw/o.jpg",
+ "tags": [
+  "free",
+  "art",
+  "art"
+ ],
+ "link": "https://www.yelp.com/biz/colby-college-museum-of-art-waterville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The best thing about this museum is that it's free. I know they have received a ton of great art over the years but five of the galleries were closed off....",
+  "For a small college like Colby, this art museum is surprisingly comparable to museums at much larger universities. And it keeps getting bigger and better....",
+  "Surprisingly nice collection and the Marsden Hartley exhibit was excellent!!"
+ ]
+},{
+ "name": "Johnson Hall Theater",
+ "address": "280 Water St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/GM6csKlydvQkFTFWAZJQ6A/o.jpg",
+ "tags": [
+  "theatre",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/johnson-hall-theater-gardiner?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great place for community theatre and local music shows.  I used to go watch bands play there all the time when I was in high school.  Located in downtown..."
+ ]
+},{
+ "name": "Applewald Farms",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ov_dQkdslePBDEKKEqQ_VQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/applewald-farms-litchfield?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "First time review despite the fact been coming here for years.  Love the fresh produce and good prices.  Baked goods are really good.  Hands down the best...",
+  "I love this farm! The produce is the best with great prices. We ordered pies and they called to remind us of pick up and the pies were amazing! I buy their...",
+  "I absolutely love Applewald Farms! The produce is beautiful and fresh, as well as the baked goods she sells. The jams, pickles, and apple cider are..."
+ ]
+},{
+ "name": "Mill Park",
+ "address": "1 Water St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/LAmms0VnhdF-sLFGd55tUQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/mill-park-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Along the Kennebec River as it enters downtown Augusta, Mill Park looks like maybe it's been flooded a few times but these days, it is a large grassy space...."
+ ]
+},{
+ "name": "Camp Laurel",
+ "address": "1218 Pond Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/73ewcMfZx7XGuqh-RJnh5Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/camp-laurel-mount-vernon?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My experience at Camp Laurel has been nothing short of impeccable. I showed up on my first \"beautiful day in the state of Maine\" not knowing a single staff...",
+  "The moment I stumbled upon Camp Laurel online, I knew this was a magical place and had to submit an application. I was completing my final semester of my...",
+  "As my daughter prepares for her final summer at Camp Laurel Maine as a Super Senior I am experiencing two distinct emotions.  The first would be Gratitude...."
+ ]
+},{
+ "name": "Maine International Film Festival",
+ "address": "10 Water St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/maine-international-film-festival-waterville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "There's only one word that adequately describes The Maine International Film Festival: A-M-A-Z-I-N-G!  This year is the 21st and the festival runs through..."
+ ]
+},{
+ "name": "Smith's True Fitness",
+ "address": "499 Riverside Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/7oc1MPabsVVRAri902gcuQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/smiths-true-fitness-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Super excited to find this place when I visited my daughter last week.  $10 day fee is comparable with other places.  I'm a frequent flyer and normally...",
+  "Kevin has been fortunate enough to finally open a brick and mortar location! He and his business partner Ruth have worked hard to open up another 24hour gym...",
+  "Vacationed in the area for a week... wanted to get a few lifts in while I was up. This gym was perfect and fit every single need. Awesome owners who you can..."
+ ]
+},{
+ "name": "Margaritas Mexican Restaurant",
+ "address": "390 Western Ave",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/w-p52flzGEtZbjExUcVGXA/o.jpg",
+ "tags": [
+  "food",
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/margaritas-mexican-restaurant-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We stopped in and had some after shopping lunch and had a great experience!\n\nOur food was amazing. We got the month flight of margaritas and they were all...",
+  "Came here on Veteran's Day, because they had a promo where a vet and one friend could both order anything on the menu for free... What a deal! So of course...",
+  "I have been a regular at this Margarita's for as long as I can remember. When I'm craving chips and salsa and a refreshing Blue Moon Margarita after a long..."
+ ]
+},{
+ "name": "Town Of Belgrade Penisula Park",
+ "address": "16 Augusta Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/_sdLGhykB1Xlq19SbT8k4Q/o.jpg",
+ "tags": [
+  "kids"
+ ],
+ "link": "https://www.yelp.com/biz/town-of-belgrade-penisula-park-rome?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Cute little Public park with benches overlooking Long Pond and just steps away from Days Store. Seems like a lot of people bring their lunch, kids and read...",
+  "This little picnic area is nestled in the downtown area of Belgrade. A few picnic tables, benches, and plenty of spots to throw a cast. There is a few..."
+ ]
+},{
+ "name": "1-7-10 Sports Center",
+ "address": "2246 N Belfast Ave",
+ "avg_visitor_review": 1.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/hHoXrzhoHeXlHxDZTPO5ww/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/1-7-10-sports-center-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "You can't visit Maine without going Candle Pin bowling at least once. With skinny pins and miniature bowling balls, this is sure fun for the whole family....",
+  "First of all it's not normal bowling. It's candle stick bowling. It's not advertised and was unexpected to see small pins and funny little balls. \nSecondly,...",
+  "Only employee working took a 20 minute smoke break, we had a group of fifty children and they knew that ahead of time. Arcade is complete rip off (not..."
+ ]
+},{
+ "name": "Seaman's Farm",
+ "address": "1844 Hallowell Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/seamans-farm-litchfield?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Excellent farm stand in Litchfield, Maine. I personally have been coming here my entire life. My grandparents used to to come to the same stand with the..."
+ ]
+},{
+ "name": "Echo Lake Lodge & Cottages",
+ "address": "230 Echo Lodge Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/6WB0lhTeNCsbNtItqxkf7Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/echo-lake-lodge-and-cottages-fayette?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The lodge is very nice. I loved the kitchen with the commercial appliances and ice maker. Very private setting. Would love to go back in the summer. The...",
+  "Great place!!! Definately wanna stay in this place if I go to Maine again. \n\nStayed there with 14 other friends this Columbus weekend in the lodge. The...",
+  "Stayed for a weekend spring of 2016,  in Birch. It's adorable. The owners were very friendly. Loved the little screen porch off the bedroom. Looks singing..."
+ ]
+},{
+ "name": "Floods Cove",
+ "address": "77 Flood Cove Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/4C_BJaBRdwwNAnEOc140Mg/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/floods-cove-friendship-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Flood's Cove was just what we needed for the long Labor Day weekend. We needed to disconnect from city life and what better way to start it off with a short...",
+  "Update: Now that Scott and I connected, he did issue me a refund and he contacted hip camp to inform them I needed to cancel the reservation due to COVID19....",
+  "Perfect getaway... this was our 2nd time and we are going back in a few days! \n\nWe love the website and how nice the family is. The price for renting a..."
+ ]
+},{
+ "name": "Lake St. George",
+ "address": "278 Belfast Augusta Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/lake-st-george-liberty?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I found myself here one random Saturday as I took a drive to literally nowhere, and I'm glad I happened to come across this park!  It is a state park, so as..."
+ ]
+},{
+ "name": "Camden National Bank Ice Vault",
+ "address": "203 Whitten Rd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/w5y8LKnJmGnDpuLeWHO8rA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/camden-national-bank-ice-vault-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "$4 skate rental\n$5 entry fee\n\nSkate sharpen in the pro shop.\n\nThere's no lockers, but fairly easy to find a spot to put your boots at the seating area....",
+  "The Bank of Maine Ice Vault recently replaced the old Kennebec Ice Arena which was destroyed by too much snow on its roof several years ago.\n\nThe new..."
+ ]
+},{
+ "name": "Gardiner Waterfront Park",
+ "address": "33 Maine Ave",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/gardiner-waterfront-park-gardiner?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Awesome waterfront park in Gardiner, Maine on the Kennebec river. It has a boat launch to launch boats with lots of trailer parking and car parking. Huge..."
+ ]
+},{
+ "name": "Regal Augusta",
+ "address": "23 Market Place Dr",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/7QxF-27rk_ZgJdKJjjwASw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/regal-augusta-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What's better than picking your seat online and then lounging in uber-comfy chairs while watching a movie? Does it get better than this? Not in public, in...",
+  "Great place to see a movie in Augusta. Close to a few good places for dinner (we like Elevation Burger) and shopping beforehand, plenty of parking and easy...",
+  "Even though we sat in the front row, with the new reclining chairs it wasn't too close, even for a 3D movie. No headaches for me this time! We really..."
+ ]
+},{
+ "name": "Mount Phillip Trail",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/zy3e5bf4FwElc39F4fEaaQ/o.jpg",
+ "tags": [
+  "hike"
+ ],
+ "link": "https://www.yelp.com/biz/mount-phillip-trail-rome?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great spot for hiking especially with your furry best friend. Not really any spots for viewing but still a good hike.",
+  "Wonderful hiking trail to the top of a mountain in Rome. Good amount of parking with a large sign with plenty of info on the trail, mountain, and area. The..."
+ ]
+},{
+ "name": "Granite City Park",
+ "address": "1 Winthrop St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/FmAwOp631Cb3_nez5AIp8g/o.jpg",
+ "tags": [
+  "drink",
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/granite-city-park-hallowell?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This parking area supports both downtown Hallowell and the Granite City Park itself, with signs mounted that parking is free. On my way in to get a drink, I..."
+ ]
+},{
+ "name": "The Maine House",
+ "address": "119 Water St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/gI0YcOJBtW1CtJqXuS2uXA/o.jpg",
+ "tags": [
+  "creative",
+  "delicious",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/the-maine-house-hallowell-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is our absolute favorite place to go for a cocktail and an app. The cocktails are not only delicious but also whimsical and so creative. Leah is a true...",
+  "Updating this review to say that the Maine House's Wednesday night food series is tha bomb! \n\nThis week featured Peruvian cuisine. Chef Kirk's ceviche...",
+  "Came in for oyster night. The bar was NOT busy. The wait staff were no where in sight. I sat with my party and it took a good twenty minutes for the..."
+ ]
+},{
+ "name": "The Proper Pig",
+ "address": "14 Common St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/YSCeoIrsH_lzmYdVFl5ZCA/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/the-proper-pig-waterville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We just left  this fabulous little spot. There were  5 of us so we had a little wait. Very understandable on a Saturday evening.  I ordered the cheeseburger...",
+  "The food is hit or miss, and it often seems like they try to use presentation to make up for low quality. The Bloody Mary is one of those meal-in-a-glass...",
+  "I have to admit I was surprisingly conflicted about eating here. My sister lives in the area and had been once previously so she gave it a very strong..."
+ ]
+},{
+ "name": "Beacon Boat Rentals",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/beacon-boat-rentals-wayne?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great afternoon on the lake for Labor Day! Andrew was so nice and helpful for our group of 6 and the pontoon was perfect."
+ ]
+},{
+ "name": "Atlantic Music Festival",
+ "address": "4000 Mayflower Hill",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/xO0EOckH9cQkBvzDEAnPUg/o.jpg",
+ "tags": [
+  "music",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/atlantic-music-festival-waterville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was at almost every concert in the last two weeks of the 09 festival. Had I known earlier, I would have gone to all of them. \n\nIf you're a classical music...",
+  "From July 12 to August 6, 2010, the Atlantic Music Festival is back again this season with world-renowned performances by some of today's most inspiring..."
+ ]
+},{
+ "name": "The Depot Sports Pub",
+ "address": "14 Maine Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/zQjh0UtFtaT922nQ4FBhcg/o.jpg",
+ "tags": [
+  "delicious"
+ ],
+ "link": "https://www.yelp.com/biz/the-depot-sports-pub-gardiner?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Excellent draft selection and great mixed drinks. Our server Morgan was outstanding last night, top notch customer service, attention to detail catered to...",
+  "Steak & Cheese is a must when you go to the depot. Wings have kind of gone downhill the past few years but still are good. Order your sauce in the side....",
+  "Homemade chicken tenders were delicious and the hand cut curly fries were as well! The drinks are awesome! And the staff is super friendly!"
+ ]
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "136 Western Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/uUvadn0S-kB6_d-LpdOR8g/o.jpg",
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/applebees-grill-bar-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I am torn between a 3 and a 4 star rating .. the waitress and the manager saved it for me I guess.  Three of us got burgers and very specifically asked they...",
+  "This salad looked delicious and the waitress highly recommended it. I never ever have not eaten a whole salad until this one. This was something I would...",
+  "The waiter was fantastic but the restaurant was sub-par: very dirty, and the bathrooms were disgusting. The food was terrible and not hot.  Silverware was..."
+ ]
+},{
+ "name": "The Raging Bull Saloon",
+ "address": "228 Water St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/sX7ZiHCRbgTSpDElNhOvOg/o.jpg",
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/the-raging-bull-saloon-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a great country western bar with great food! I had the yee haw sandwich which was spicy and delicious! Their cornbread is topped with honeycomb and...",
+  "Great atmosphere and drinks. Good bar food with excellent service. No other place around like it. I'm not a country music fan but thoroughly enjoyed it and..."
+ ]
+},{
+ "name": "Cobbossee Beverage Shop",
+ "address": "581 Maine Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/E6NMnRoWuS3jrMRzBuRZ6Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/cobbossee-beverage-shop-farmingdale-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This beverage store is almost invisible as you're driving by, and easy to miss with little to identify it as a prime resource for the beer and wine lovers...",
+  "This place reminds me of 'BevMo' aka Beverages and More (a store in California). \n\nThe cool part about this place is their beer cave. It's a room that is..."
+ ]
+},{
+ "name": "Theater at Monmouth",
+ "address": "796 Main St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/MzvWvNkW5BWWFraQWiC9CQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/theater-at-monmouth-monmouth?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We always go to at least two plays a year in Monmouth.  This small town in Maine has a very large and beautiful theater called Comstock Hall.  The town...",
+  "Micheivious Elves! Santaland Diaries! What a disappointment! Kept waiting for it to be funny! The theater it's self is very quaint and well kept! The play...",
+  "This theater is a little jewel tucked away in mid-state Maine. We've been to a number of production over several years and have enjoyed almost all of them...."
+ ]
+},{
+ "name": "East Forty Farm and Dairy",
+ "address": "2361 Friendship Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/LPn2JFm9C7zMxxyL71MpCA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/east-forty-farm-and-dairy-waldoboro?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This farm located in rural ME offers more than fresh eggs, it is also home to Lakin's Gorges Cheeses. The artisanal cheese selection is much more than..."
+ ]
+},{
+ "name": "Richmond-Dresden Bridge",
+ "address": "Ferry",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/0lq2HHe1k6siVq21Yy9RfQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/richmond-dresden-bridge-richmond?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great new bridge connecting Richmond to Dresden over the Kennebec river. It is very tall and steep and you get great views from the top. I did like the old..."
+ ]
+},{
+ "name": "Damariscotta Lake State Park",
+ "address": "8 State Park Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/damariscotta-lake-state-park-jefferson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Can get crowded fast... otherwise very beautiful place to bring family especially children. Clean and they have shaded area with some benches. 4 batbrooms,..."
+ ]
+},{
+ "name": "CrossFit Undaunted",
+ "address": "79 Leighton Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ZdclQ4RhEb9LnOHlMIjHbA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/crossfit-undaunted-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great box, excellent coach, awesome programing! \n\nI dropped in while traveling for work and I was throughly impressed with every aspect of this gym. Lynn..."
+ ]
+},{
+ "name": "The Harlow",
+ "address": "100 Water St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/9aPkqh5xYdDc1whEeLIQeg/o.jpg",
+ "tags": [
+  "art"
+ ],
+ "link": "https://www.yelp.com/biz/the-harlow-hallowell?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Really cute gallery with a range of art work from local artists. Includes water colors, oil paintings, and photography. Most of the work is already framed...."
+ ]
+},{
+ "name": "Fat Toad's Pub",
+ "address": "655 Maine Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/lA2tc3VbOwHfsOAeWQBf-w/o.jpg",
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/fat-toads-pub-farmingdale?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "New owners.. yeah.. stopped in later in the dinner hour for apps and beverages. Service was great! We ordered fried pickles and..wait.. baba ganoush! Soooo...",
+  "I love this place.  It has always been a good in terms of pub food, but the new owners have also added some Lebanese specials to the menu.  They still sell...",
+  "Food is fantastic the staff greats every customer at the door on the way in, very friendly and professional. Many Lebanese specialties and the best wings in..."
+ ]
+},{
+ "name": "Pownalborough Courthouse",
+ "address": "23 Courthouse Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/WOZpoIvg9lLzLZ5Yokk4Wg/o.jpg",
+ "tags": [
+  "historic",
+  "history"
+ ],
+ "link": "https://www.yelp.com/biz/pownalborough-courthouse-dresden?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Managed and operated by the Lincoln County Historical Association, this historic court house can make the claim (and validate it) that a former president...",
+  "Wow!\nI will be back. This spot is Wonderful for the history buffs out there! Come enjoy a day at the courthouse. It is very cool, nice wildlife too! \nI took..."
+ ]
+},{
+ "name": "Natanis Golf Course",
+ "address": "Webber Pond Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/96VLP0CAVSwuJ2edNz-bkw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/natanis-golf-course-vassalboro?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The staff is so friendly and attentive. The courses a very well maintained. There are several picturesque holes.",
+  "I've been playing here since the early 90's.  There are 2 18 hole courses to choose from, Arrowhead and Tomahawk.  Tomahawk is the more challenging course...",
+  "We played the Arrowhead course today (there is also the Tomahawk course there as well, and it's probably better than Arrowhead). Arrowhead is completely..."
+ ]
+},{
+ "name": "The Old Goat",
+ "address": "33 Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/IpOdfyePCfjL5s450smahg/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/the-old-goat-richmond?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Excellent food in a cool setting. We go there every 2 or 3 weeks and everything is always excellent, Shelby usually waits on us and the service is great. I...",
+  "Caters to Regulars: Outsiders will be treated as such \nI really wanted to give this place a better rating but I could not and I will explain.  I've been...",
+  "The best cheese pizza I've found in the state of Maine hands down. \n\nAs others have stated, it did feel as if the staff preferred talking with and serving..."
+ ]
+},{
+ "name": "Friends Camp",
+ "address": "729 Lakeview Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vbzLmZNAQl-FtekShI1ddQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/friends-camp-south-china?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This place has spaced my entire life. It is where I learned that it's okay to be myself and that people will love me for it. Camp is such an important part...",
+  "This is a wonderful Quaker camp (but you don't have to be a Quaker to go)! It truly embodies Quaker values of simplicity, peace, integrity, community, and..."
+ ]
+},{
+ "name": "Mainely Brews Restaurant & Brewhouse",
+ "address": "1 Post Office Sq",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vOiW74TaKdiNhoDgMU5sTQ/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/mainely-brews-restaurant-and-brewhouse-waterville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My sis and I came for lunch today and decided to split our 2 menu choices. The waitress brought the food out already separated!! Amazing thoughtful service.",
+  "My hunting buddy and I stopped by here for lunch on our way to deer camp. After lunch(which was good) we left to find we had a flat tire on the truck. We...",
+  "My husband and I had the weirdest experience here when we ventured in for a date night. The restaurant was not crowded (it was about 8 on a Saturday) yet we..."
+ ]
+},{
+ "name": "Damariscotta Farmer's Market",
+ "address": "110 Belvedere Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/0hJmeHAE4VN1b4LP1Gm3Ow/o.jpg",
+ "tags": [
+  "nature",
+  "history"
+ ],
+ "link": "https://www.yelp.com/biz/damariscotta-farmers-market-nobleboro?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "One of the nicest farmer's markets in Maine!  Beautiful location overlooking the Great Salt Bay, natural history and nature center next door, and great..."
+ ]
+},{
+ "name": "Town of Windsor",
+ "address": "",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/U5MGTprU2IgXgqDaNngGVw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/town-of-windsor-windsor-7?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We passed through here on our way from Portland, ME to Bar Harbor, ME. Not much to see, seems quaint. Lots of small towns along the way when you drive that...",
+  "Our town office is very friendly! Great people and staff that work there. always helpful but there sometimes a little slow if you have a line of people at..."
+ ]
+},{
+ "name": "Belgrade Boat Rentals",
+ "address": "31 Pinkhams Cove Rd",
+ "avg_visitor_review": 2.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/zabrDzc2jM1gXFn8591xBw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/belgrade-boat-rentals-belgrade?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We will never do business with this company again. Horrible experience. \n\nWe rented a boat and it stopped working on the 2nd day. The owner test drove the...",
+  "We've rented from them several years. Usually pretty good but not very punctual. This year motor didn't sound right after a week and a half. Called and...",
+  "The boat was very good, though a few small things (e.g. the horn) didn't work. But all in all, it was an excellent boat. Only a year or two old. They..."
+ ]
+},{
+ "name": "The Black & Tan",
+ "address": "18 Bridge St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/Daq3tP-Fp5lsKDhKJkDdhQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-black-and-tan-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great spot! Try the buffalo chicken pizza or their wings.  Burgers are big and craft beer selection is great.",
+  "We have gone her for over a year now. The pizza is really great. The Irish nachos and Black and Tan burger is awesome as well. It's a fun atmosphere with a...",
+  "My boyfriend, myself, and our dog were doing some traveling and although pups cannot sit inside they were more than happy to accommodate us outside. We..."
+ ]
+},{
+ "name": "Maine Boat Rental",
+ "address": "1117 China Rd",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/4lqKc5DxjfkPzzQ5MUaOfg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/maine-boat-rental-winslow?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I rented a pontoon boat from this company in August 2019. They make you sign a long contract that holds you liable for pretty much any thing because they...",
+  "Never said this about any business before; the owners are more worried about customer satisfaction than the customers money. Rented from them and had an..."
+ ]
+},{
+ "name": "Club Baxter",
+ "address": "Cottage Pl N",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/MZPq1wE6yi8Qj9EMr9k9iw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/club-baxter-unity?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "An amazing club in Unity. They're getting a jacuzzi and are renovating. A must to visit and dance your socks off!!!"
+ ]
+},{
+ "name": "Waterville Opera House",
+ "address": "1 Common St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/km9seGGN7uMEB0-F-_6zVg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/waterville-opera-house-waterville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Nice place, great staff, beautiful venue for the dance competition I went to. The bathrooms are really clean, has an upstairs balcony where you can see the..."
+ ]
+},{
+ "name": "Western View Golf Course",
+ "address": "130 Bolton Hill Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/OqdwXLS4ObSh8ensh4Wjeg/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/western-view-golf-course-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a nice course maintained ok but not great the view is very nice from most holes the clubhouse is nice good food and a very friendly staff go on..."
+ ]
+},{
+ "name": "The Maine Brew Bus",
+ "address": "79 Commercial St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/ldq7sCyO0eeyrSgwW5Sheg/o.jpg",
+ "tags": [
+  "knowledgeable",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/the-maine-brew-bus-portland-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Love these tours! I've done two and each time it was a great experience. The crew is friendly and knowledgeable and the breweries you visit give you such...",
+  "First I should start by saying that I cannot recommend this tour enough. Seriously it was very well done and you get to try a lot of beer. \n\nWe did this...",
+  "Had a fantastic time on the Maine Brew Bus this weekend. We decided to check out MBB for part of our bachelorette festivities and checked out Moderation..."
+ ]
+},{
+ "name": "Acker's Acres",
+ "address": "180 Dingley Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/FjxiepgI--46O-bV8GFQNw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/ackers-acres-bowdoinham?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What else can I say about Acres that has not already been said.  Barb and Dave are the nicest course owners in the state of Maine.  The layout is on a...",
+  "This place has 2 courses, the green or the orange. The green is considered the easier course. The owners live across the street and take great pride in..."
+ ]
+},{
+ "name": "Lintonia Bar & Grill",
+ "address": "1802 Lewiston Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Ft3m05MGuxG6LTkPl7UQcg/o.jpg",
+ "tags": [
+  "delicious"
+ ],
+ "link": "https://www.yelp.com/biz/lintonia-bar-and-grill-litchfield?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What a great restaurant! On the water and what a view! They have great pizza and French onion soup. The wings are huge!! There's a  full bar and an extended...",
+  "We tried this place tonight.   There were 8 of us.  The wings were delicious.  The steak which was local was amazing.   The staff was friendly.  Can't wait..."
+ ]
+}]

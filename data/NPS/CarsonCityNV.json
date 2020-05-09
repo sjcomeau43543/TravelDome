@@ -1,0 +1,115 @@
+[
+{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": "https://www.nps.gov//cali//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFollow in the footsteps of over 250,000 emigrants who traveled to the gold fields and rich farmlands of California during the 1840s and 1850s: the greatest mass migration in American history. The California National Historic Trail is over 5,000 miles long and covers portions of 10 states. Step into history along more than 1,000 miles of ruts and traces from travelers and their overland wagons.\n"
+ ]
+},{
+ "name": "Death Valley",
+ "address": null,
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/deva/crop16_9/9B65A85A-1DD8-B71B-0BDF4BF50595F57F.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//deva//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nIn this below-sea-level basin, steady drought and record summer heat make Death Valley a land of extremes. Yet, each extreme has a striking contrast. Towering peaks are frosted with winter snow. Rare rainstorms bring vast fields of wildflowers. Lush oases harbor tiny fish and refuge for wildlife and humans. Despite its morbid name, a great diversity of life survives in Death Valley.\n"
+ ]
+},{
+ "name": "Great Basin",
+ "address": "\nGreat Basin National Park\n100 Great Basin National Park\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/grba/crop16_9/30C3E666-1DD8-B71B-0B94BE038079EE10.jpg?width=307&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": "https://www.nps.gov//grba//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFrom the 13,063-foot summit of Wheeler Peak, to the sage-covered foothills, Great Basin National Park is a place to sample the stunning diversity of the larger Great Basin region. Come and partake of the solitude of the wilderness, walk among ancient bristlecone pines, bask in the darkest of night skies, and explore mysterious subterranean passages. There's a whole lot more than just desert here!\n"
+ ]
+},{
+ "name": "Lake Mead",
+ "address": "\n601 Nevada Way\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/lake/crop16_9/7E82DB2D-A7D8-90B4-57C31CFD7240D8DF.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike"
+ ],
+ "link": "https://www.nps.gov//lake//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nSwim, boat, hike, cycle, camp and fish at America\u2019s first and largest national recreation area. With striking landscapes and brilliant blue waters, this year-round playground spreads across 1.5 million acres of mountains, canyons, valleys and two vast lakes. See the Hoover Dam from the waters of Lake Mead or Lake Mohave, or find solitude in one of the park's nine wilderness areas.\n"
+ ]
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//olsp//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFollow the routes of mule pack trains across the Southwest on the Old Spanish National Historic Trail between Santa Fe, New Mexico, and Los Angeles, California. New Mexican traders moved locally produced merchandise across what are now six states to exchange for mules and horses.\n"
+ ]
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//poex//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nIt is hard to believe that young men once rode horses to carry mail from Missouri to California in the unprecedented time of only 10 days. This relay system along the Pony Express National Historic Trail in eight states was the most direct and practical means of east-west communications before the telegraph.\n"
+ ]
+},{
+ "name": "Tule Springs Fossil Beds",
+ "address": "\nNot to be used for navigation purposes\n Tule Springs Fossil Beds National Monument\n601 Nevada Way\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/tusk/crop16_9/5DACDFFD-1DD8-B71B-0B56FF102DBEDE0C.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": "https://www.nps.gov//tusk//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nMammoths, lions and camels once roamed along wetlands just north of what is now known as Las Vegas, Nevada. Their history is preserved at Tule Springs Fossil Beds National Monument and is ready to be discovered.\n"
+ ]
+}]

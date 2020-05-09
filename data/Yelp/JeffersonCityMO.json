@@ -1,0 +1,325 @@
+[
+{
+ "name": "Chick's Tap Room",
+ "address": "2713 Industrial Dr",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/-uql6VPrQLOgmAEfP75S3Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/chicks-tap-room-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great dive bar. Friendly staff.  Cold cold beer.  You need to add this one to your play list."
+ ]
+},{
+ "name": "CrossFit Unstoppable",
+ "address": "605 Missouri Blvd Ct",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/rU6-CIysA09bDHaL9hMNng/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/crossfit-unstoppable-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Crossfit Unstoppable in Jefferson Missouri, do not underestimate the humidity! The workout was a SOB, but the coaches and athletes were amazing! The...",
+  "Awesome place! Very happy we decided to workout here.",
+  "Crossfit Unstoppable was my introduction to, and continues to be my driving force for doing this sport of fitness known as CrossFit. The trainers are..."
+ ]
+},{
+ "name": "The Hartsburg Hitching Post",
+ "address": "10 N 2nd St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/FEORehIIZQlUtf9Ofnpjlg/o.jpg",
+ "tags": [
+  "drink"
+ ],
+ "link": "https://www.yelp.com/biz/the-hartsburg-hitching-post-hartsburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great small town atmosphere. Love the great service from the bartender! Cam is great! Excellent beer and liquor selection, with plenty of seating. I always...",
+  "Always a good time, friendly people, great bar staff. Only downside is they need a vent for all the cigarette smoke that accumulates in the building.",
+  "River town life. A country bar at its best. Come by for a cold beer, a super mixed drink, and step back from the fast pace. Discover the best of small town..."
+ ]
+},{
+ "name": "Capital Plaza West",
+ "address": "3702 West Truman Blvd",
+ "avg_visitor_review": 1.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/capital-plaza-west-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This hotel has been where we stay when there are state competitions for high school sports. The rooms smell musty but are clean for the most part. Do NOT..."
+ ]
+},{
+ "name": "High Street Pub",
+ "address": "209 E High St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/HOliIVK7f73ZC99lRKnexQ/o.jpg",
+ "tags": [
+  "drink"
+ ],
+ "link": "https://www.yelp.com/biz/high-street-pub-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My favorite bar in Jefferson City! Small and welcoming. Low prices, especially during happy hour which is 3pm-6pm Monday-Friday. Very laid back and fun with...",
+  "Great place to stop and have a few drinks with friends or co-workers. Great bartenders that pour heavy and always remember your drink. Prices are very...",
+  "Definitely a hole in the wall, but it has character.  This pub has memorabilia all over to check out"
+ ]
+},{
+ "name": "Spectators",
+ "address": "232 E High St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/PIQh3HfZfyoTpI37mjUPBA/o.jpg",
+ "tags": [
+  "food",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/spectators-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "On a Sunday night there were few options for dinner in Jefferson city so we ended up at Spectators .\n\nWe had the Spectators supreme and the Cuban sandwich...",
+  "Great known bar in Jeff! Staff is helpful and nice, and the food is right there with it. Place comes alive at night with live music amd the crowd is just as...",
+  "Cool spot in a nice location. The bartender was nice although seemed to be worried about going for a cigarette break than refilling our drinks. Salads were..."
+ ]
+},{
+ "name": "Eagle Knoll Golf Club",
+ "address": "5757 E Eagle Knoll Dr",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/eagle-knoll-golf-club-hartsburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This course offers splendid scenery to help you forget how many balls you're donating to the unforgiving rough.  If you are skilled enough to stay in the..."
+ ]
+},{
+ "name": "Jameys Lounge",
+ "address": "900 W McCarty St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/2V5bNasxATlOdGkIzYzNsg/o.jpg",
+ "tags": [
+  "drink",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/jameys-lounge-jefferson-cty?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is my go-to bar. They have all the drinks I drink but isn't a prissy bar. Just a down home bar. They have a juke box that has a good variety of music...."
+ ]
+},{
+ "name": "YMCA",
+ "address": "3507 Amazonas",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/0v3w_zJeTcaimPTl3m7yjw/o.jpg",
+ "tags": [
+  "free",
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/ymca-jefferson-city-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Squat racks and free weights belong in front of mirrors. SOOO many people here are lifting inappropriately and some times dangerously. Some of the trainers...",
+  "The 12 to 1 pm jammed lap lanes during the summer at indoor y,  and some staff at the Y swim at this time.  \n\nIf you go in a restaurant during the busy...",
+  "This is my gym, been a member since I was waiting for it to open. Have a ton of machines to take advantage of, also free weights and weight machines. Busy a..."
+ ]
+},{
+ "name": "Howard's Ata Black Belt Academy",
+ "address": "744 Stadium W Plz",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "kids"
+ ],
+ "link": "https://www.yelp.com/biz/howards-ata-black-belt-academy-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Probably the best ATA school in Missouri, especially for kids  , check where the state, district,national, world champs come from in Missouri ."
+ ]
+},{
+ "name": "Chili's",
+ "address": "3515 Missouri Blvd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/wa8ZONdg9FW5jsOB0f57VA/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/chilis-jefferson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We got here and had to wait for a seat. There were plenty of empty tables but people were waiting at the front door. Horrible service seating. \n\nWe got our...",
+  "They're really busy, and the waitress was trying, but they ran out of queso and brought me a skillet of queso \"soup\" to last me till they got the new batch...",
+  "Terrible service !!!! Had to wait over an hour for our food and then they forgot the fries!!!!!!!!!!!!!"
+ ]
+},{
+ "name": "J Pfenny's Sports Grill & Pub",
+ "address": "217 E High St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/en0ImFnGjY4_Uzdx7SmjKw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/j-pfennys-sports-grill-and-pub-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Thanks Yelp for finding us find a new and amazing lunch spot!\n\nI am a string believer that service can make or break and establishment and stopping here was...",
+  "A bit of a disappoint tonight. \n\nPrevious visits (a few) have been somewhere between above average and good. \n\nTonight, we experienced a long wait for...",
+  "We go to the bar at 8:30pm and waiting almost 20 min for someone to talk to us. Just to find out the kitchen was already closed. Will not go back."
+ ]
+},{
+ "name": "Buffalo Wild Wings",
+ "address": "707-B Stoneridge Pkwy",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/_-zg56sGxExCCvJElkQlcA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/buffalo-wild-wings-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The waitress was speedy and very attentive. \n\nI decided to try the \"boneless wings\" - tiny pieces of white meat called boneless wings.  Had a tiny ceasar...",
+  "Waitress apologized for ignoring us, because she wanted to get her other tables cleared off.  Refilled our own drinks.  \n\nNever had this bad of service...",
+  "Always lots of fun here. Drinks always refilled and orders come out in a timely manner. Love the rewards program, too."
+ ]
+},{
+ "name": "Anytime Fitness",
+ "address": "3220 W Edgewood Dr",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/p7QGI02-ygWb1ewmzZs42Q/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/anytime-fitness-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Manager is flippant and dismissive. Refused to honor the advertised free 7-day pass after being confirmed for it over phone and email. Charged $10 to enter...",
+  "The staff is great, the gym is always very clean, never too busy even in peak hours, quality equipment, great people to work out with, they have everything...",
+  "The yoga instructor is pretty flaky. They cancel the class ALL the time.  (It's all over their facebook). They go through a lot of staff here. The owner..."
+ ]
+},{
+ "name": "Bingham's",
+ "address": "1510 Jefferson St",
+ "avg_visitor_review": 2.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/binghams-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I always thought this place was overpriced and overrated. It's inside the ramada inn, so it attracts the travelers.  \n I just wasn't impressed with the...",
+  "Mother's Day Brunch @ Bingham's = Fiasco. \n\nWe arrived just before our 10 am reservation time.  The restaurant lobby was PACKED with people.  There was a..."
+ ]
+},{
+ "name": "Jefferson City Judo Club",
+ "address": "1102 Missouri Blvd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/13AqLlwLRjYtFrtFSMEUkQ/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/jefferson-city-judo-club-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great program. Awesome instructors. They really know their stuff and tailor the program to fit the student. The club is like a family."
+ ]
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "2319 Missouri Blvd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/LbUBJUH2N49BPvoXBWOxLQ/o.jpg",
+ "tags": [
+  "eat",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/applebees-grill-bar-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "As I've said, I review this for being Applebees, not compare it to anything else....\n  I would come here almost every Monday night for steak night with my...",
+  "Solid place to eat that won't let you down. Great staff and gluten-friendly as well. Staff spent majority of their time assuring us sides and meals were...",
+  "Ate there Sunday evening. Haven't been there in awhile. Was NOT busy. Service and food sucked. Waitress was a twit. Simple instructions. So simple a..."
+ ]
+},{
+ "name": "YMCA",
+ "address": "424 Stadium Blvd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "kids"
+ ],
+ "link": "https://www.yelp.com/biz/ymca-jefferson-city-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My children have been attending their summer camp and it's been awful. \n\nThe age groups have been combined and now you have K-2 in the same mob of kids. The...",
+  "there are lap hogs, who go for an hr or more, and often there are people waiting to get in.",
+  "I go to this Gym when I'm in that side of town. They have a nice indoor pool (check the schedule for availability). They also have a nice gym and indoor..."
+ ]
+},{
+ "name": "Tg's Lounge",
+ "address": "2125 Missouri Blvd",
+ "avg_visitor_review": 1.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "drink"
+ ],
+ "link": "https://www.yelp.com/biz/tgs-lounge-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The worst bar I've ever been to. The owner was extremely rude.  You are forced and rush to buy a drink before you're there and hour. The owner then jumps...",
+  "Much better bars in Jeff City. It's in the back of a few businesses, and you have to see the sign to know it's there.\n I though it was a little on the dead...",
+  "My friends and I went to tg's for New Years and had a good time until the bartender insisted that she had given my friend her credit card back. We finally..."
+ ]
+},{
+ "name": "Hooks Sports Bar and Grill",
+ "address": "512 Ellis Blvd",
+ "avg_visitor_review": 1.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/wgwE8NmevaeeJ2jMFJMWpQ/o.jpg",
+ "tags": [
+  "music",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/hooks-sports-bar-and-grill-jefferson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Bartenders and wait staff are slow, slow, slow.  Seems same music all the time.  I definitely do not recommend.",
+  "Beer selection is pitiful and crowd is about the same.  Wait Staff was ok but food took forever and was by far the worst food at a pub/bar/restaurant that I..."
+ ]
+},{
+ "name": "Planet Fitness",
+ "address": "3239 Missouri Blvd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/rlU9WDSNJKbA8QEfLZpD0w/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/planet-fitness-jefferson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Facility is \"OK\" - not the worst PF I've visited and certainly not the best. My main gripe - the 5g WiFi connection - it's a crap shoot at best. Was there...",
+  "Clean facility. Staff are nice and helpful. Patrons are decent. The equipment is good enough to give me a good workout",
+  "I had a great time. Super cool manager and employees. Great environment. Exactly what i think a planet fitness should be like. #keepupthegreatwork"
+ ]
+},{
+ "name": "Mid-American Coaches & Tours",
+ "address": "4530 Hwy 47",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/gktxeD-dcg2LcOJKaIeU7A/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/mid-american-coaches-and-tours-washington-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This wasn't my first ride on a Mid American. They've always been clean, good drivers, but tonight was exceptional.  Took the coach to Frozen On Ice at Scott..."
+ ]
+}]

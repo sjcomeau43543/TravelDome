@@ -1,0 +1,115 @@
+[
+{
+ "name": "Isle Royale",
+ "address": "\n800 East Lakeshore Drive\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/isro/crop16_9/2B4A6A37-C285-6E66-14FDD40511BEAC4B.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//isro//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nExplore a rugged, isolated island, far from the sights and sounds of civilization. Surrounded by Lake Superior, Isle Royale offers unparalleled solitude and adventures for backpackers, hikers, boaters, kayakers, canoeists and scuba divers. Here, amid stunning scenic beauty, you'll find opportunities for reflection and discovery, and make memories that last a lifetime.\n"
+ ]
+},{
+ "name": "Keweenaw",
+ "address": "\n25970 Red Jacket Road\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/kewe/crop16_9/A445BAAC-1DD8-B71B-0B19D14FCA2C58B1.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//kewe//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nFrom 7,000 years ago to the 1900s people mined Keweenaw copper. Native peoples made copper into tools and trade items. Investors and immigrants arrived in the 1800s in a great mineral rush, developing thriving industries and cosmopolitan communities. Though the mines have since closed, their mark is still visible on the land and people.\n"
+ ]
+},{
+ "name": "Motor Cities",
+ "address": "\n200 Renaissance Center, Suite 3148\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/auto/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "tour",
+  "history"
+ ],
+ "link": "https://www.nps.gov//auto//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nIf you are interested in automotive history, then MotorCities National Heritage Area is the place to be. Tour the factory where Henry Ford created and built the Model T. Learn the stories behind the creation of General Motors and DamilerChrysler. Come with us and learn about the long and sometimes tenuous relationship between Labor and Industry while experiencing southeast Michigan.\n"
+ ]
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//noco//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nCome to the North Country. Trek the hills and valleys. Stand on the shores of lakes & streams from glaciers 10,000 years before. Clear-flowing water, red/gold of autumn, a fairyland of snow, open prairies, and distant horizons paint the land. Historic sites along the way tell how America settled and grew as a nation. From North Dakota to New York (and soon Vermont), adventure is never far away.\n"
+ ]
+},{
+ "name": "Pictured Rocks",
+ "address": "\nP.O. Box 40\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/piro/crop16_9/2B107BCC-C18E-0037-E60800C825DD8798.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "sightseeing",
+  "unique"
+ ],
+ "link": "https://www.nps.gov//piro//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nSandstone cliffs, beaches, sand dunes, waterfalls, inland lakes, deep forest, and wild shoreline beckon you to visit Pictured Rocks National Lakeshore. The power of Lake Superior shapes the park's coastal features and affects every ecosystem, creating a unique landscape to explore. Hiking, camping, sightseeing, and four-season outdoor opportunities abound.\n"
+ ]
+},{
+ "name": "River Raisin",
+ "address": "\n1403 East Elm Avenue\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/rira/crop16_9/BA0D6A1F-1DD8-B71B-0BA82BBBA6D58536.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//rira//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nRiver Raisin National Battlefield Park preserves, commemorates, and interprets the January 1813 battles of the War of 1812 and their aftermath in Monroe and Wayne counties in SE Michigan. The Battle resulted in the greatest victory for Tecumseh\u2019s American Indian confederation and the greatest defeat for the U.S. The resulting rally cry \u201cRemember the Raisin\u201d spurred support for the rest of the war.\n"
+ ]
+},{
+ "name": "Sleeping Bear Dunes",
+ "address": "\n9922 Front Street\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/slbe/crop16_9/BD64924B-B395-BBF9-71AA7C3437090370.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "history"
+ ],
+ "link": "https://www.nps.gov//slbe//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nMiles of sand beach, bluffs that tower 450\u2019 above Lake Michigan, lush forests, clear inland lakes, unique flora and fauna make up the natural world of Sleeping Bear Dunes. High dunes afford spectacular views across the lake. An island lighthouse, US Life-Saving Service stations, coastal villages, and picturesque farmsteads reflect the park\u2019s rich maritime, agricultural, and recreational history.\n"
+ ]
+}]

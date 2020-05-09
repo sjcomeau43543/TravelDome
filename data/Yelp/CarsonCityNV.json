@@ -1,0 +1,789 @@
+[
+{
+ "name": "Sand Harbor Rentals",
+ "address": "2005 Highway 28",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/lAqJ_b5qu3wTC5sLXjnt_A/o.jpg",
+ "tags": [
+  "affordable"
+ ],
+ "link": "https://www.yelp.com/biz/sand-harbor-rentals-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is an amazing place to kayak! \n\nSand Harbor Rentals are convenient, quick and affordable!",
+  "We rented paddle boards for 3 hours and had the best time! They really didn't go over any rules with us and let us take off to explore pretty quickly. Only...",
+  "So the BF and I just got back from our first ever trip to Lake Tahoe. After doing some research I really wanted to see all the beaches and coves and decided..."
+ ]
+},{
+ "name": "Genoa Loop Trail",
+ "address": "100 Genoa Canyon Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/s568DCLZ_UWlSUtRNCmfVw/o.jpg",
+ "tags": [
+  "hike"
+ ],
+ "link": "https://www.yelp.com/biz/genoa-loop-trail-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I found the little historical town of Genoa wonderful for my first time to visit! We chose to hike above it on a fairly challenging hike that stretches the..."
+ ]
+},{
+ "name": "Nevada State Capitol Mall",
+ "address": "268 S Fall St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/zG0lae8AECfBlvacjaGaKA/o.jpg",
+ "tags": [
+  "free",
+  "tour",
+  "learn"
+ ],
+ "link": "https://www.yelp.com/biz/nevada-state-capitol-mall-carson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "First time strolling the Capitol grounds after living here for 13 years.\n\nQuiet, serene spot, across from Old Town Carson City, restaurant and brewpubs....",
+  "The Capitol Building was open today and I checked it out as I am always on the lookout for free fun and learning. Although there was a tour guide, I chose...",
+  "This is a great place to go and learn about our state government and actually see it in action. \nEveryone there is so friendly, welcoming and accommodating...."
+ ]
+},{
+ "name": "The Way It Was Museum",
+ "address": "113 C St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/HqFTpFsmoGI1ZrMfJqaiUw/o.jpg",
+ "tags": [
+  "history",
+  "historic"
+ ],
+ "link": "https://www.yelp.com/biz/the-way-it-was-museum-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This was a cute (though very small) museum about mining and every day life in the old west.  I am one of those history nerds who reads just about every...",
+  "For $4 you can't really expect a lot, but it'll kill some time. Lots and lots of paper prints and some other collected materials from the 1800s. A video you...",
+  "For three dollars, one can't go too bad for trying out one of the many historic tourist traps located throughout the downtown area of Virginia City.  The..."
+ ]
+},{
+ "name": "Soaring NV",
+ "address": "1142 Airport Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/TQTcZOh9k4LChRhJVEAxCg/o.jpg",
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": "https://www.yelp.com/biz/soaring-nv-minden?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I purchased a flight for my boyfriend's birthday. He had an amazing time!! His pilot, Elizabeth, was very knowledgeable, safe and personable. She even let...",
+  "I've never seen anything like these glider, and I've heard it's not a common experience, this engine-less plane.\nThere's an unnerving elegance and grace to...",
+  "Wow, what an amazing experience. I was nervous and a little cloister phobic. The staff did an amazing job making me feel safe. Also, when I started to feel..."
+ ]
+},{
+ "name": "Welcome Aboard Travel",
+ "address": "1296 E Plumb Ln",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/44fAs8L3DV__f5aiRbDlRA/o.jpg",
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": "https://www.yelp.com/biz/welcome-aboard-travel-reno-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Angie was wonderful!\nWe can't say enough about her knowledge and help to us on our trip of a lifetime.\nShe will be the first one we go too for any vacations...",
+  "Barbara is wonderful! She has traveled the world and is very knowledgeable!! She helped my husband and I book the honeymoon of our dreams. She was always on...",
+  "Less than bankers hours make it impossible to reach them when you really need help - like when your Sunday flight is canceled...Slow to respond during..."
+ ]
+},{
+ "name": "Fourth Ward School Museum",
+ "address": "537 S C St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/2LqSWZ9TuCTRUY3ADpX1fQ/o.jpg",
+ "tags": [
+  "history",
+  "field",
+  "history"
+ ],
+ "link": "https://www.yelp.com/biz/fourth-ward-school-museum-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Have you ever wondered what school was like during the Comstock lode? Have you ever wanted to take a step back into history? Well, this is the place for...",
+  "Do you have a hankering for Victorian era history? I do. So this docent-led field trip to a one-of-a-kind local gem was a thrill. Restoration on this...",
+  "This is a great spot to stop and enjoy.  The fact that there is no air conditioning helps you to fully appreciate the heat and its effect on learning.  The..."
+ ]
+},{
+ "name": "Blackwell's Pond Park",
+ "address": "2317 Northridge Dr",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/M_0GRRqO6MxJT8P5c9fKRg/o.jpg",
+ "tags": [
+  "history",
+  "structure",
+  "field"
+ ],
+ "link": "https://www.yelp.com/biz/blackwells-pond-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Google maps shows this park as \"Spooner/Oxbow Park\", but don't let that fool you it's true name and it's history, is much more mysterious. According to the...",
+  "This is a nice little playground in a nice neighborhood. There is a play structure (no swings) and a gazebo with tables. There is also a large field for...",
+  "Cute little park tucked away in an adorable neighborhood.  We stopped on our way home from the Railroad Museum.  Quiet, safe, not a lot of traffic, and the..."
+ ]
+},{
+ "name": "Toiyabe Golf Club",
+ "address": "19 Lightning W Ranch Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/bdkoVtfUn26IPrn7S5la3Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/toiyabe-golf-club-washoe-valley-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "6/11 2:00 tee time\n\nGreat course in every way- layout, backdrop, conditions \nPlayed 72 holes in last 2 days- 18 on sun, 36 on Monday, 18 Tuesday Am, I was...",
+  "At the encouragement of the starter today, here's their Yelp review. Duncan Golf, you can expect a detailed letter.  To start, this course is literally a...",
+  "Very nice course and location. We were pleasantly surprised after finding this course through Groupon. Beautiful views and challenging, fun course. We ate..."
+ ]
+},{
+ "name": "Inclined Burgers And Brews",
+ "address": "901 Tahoe Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/SQOnt0fWWa6vuaw2ojTfgQ/o.jpg",
+ "tags": [
+  "family",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/inclined-burgers-and-brews-incline-village-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Being cooped up is a struggle. So my family and I decided to go for a drive up to Tahoe to check out the views! In the meantime, I forgot to pack snacks and...",
+  "Came into Inclined after a long day of boarding , Burgers are always on point  and to size. Never a disappointment \nThe homie in there that had a sick...",
+  "I have been trying to find the time to come in.. WOW. So glad we finally made it here! \nCustomer service - Top Notch \nFood quality - on point \nAmbiance -..."
+ ]
+},{
+ "name": "Day Go Adventures",
+ "address": null,
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/5VCIY45TcszsbwoSsR9lFQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/day-go-adventures-stateline-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "An overall perfect experience. My wife and I were scheduled to ride on a Saturday morning. At 11:30pm Friday, I looked at the weather and saw it was going...",
+  "We rented a tandem and a single kayak from these guys for 2 hours and had an amazing time! They were willing to help us out even though it was still...",
+  "Loved our experience tandem kayaking. I came across DayGo Adventures after reading a few blog posts that recommended this service. Cave Rock was about 13..."
+ ]
+},{
+ "name": "Comstock Firemen's Museum",
+ "address": "125 C St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/FevFPANQbW5Tg8_zEpq3Cg/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/comstock-firemens-museum-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We've lived here for 3 years and have visited the museum 30 times. It features fire engines of various eras with detailed information on each one. Uniforms...",
+  "LOVE this old firemen's museum! It's free to enter, though they have a donation jar in front of you'd like to donate. \nIt is really cool to see all the old...",
+  "Great little museum!  They have a lot in there for such a small space - They should expand."
+ ]
+},{
+ "name": "Sierra Fin Addicts Fishing  Charters",
+ "address": "569 McDonald Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/LiVbcE55gmNjQy2KB4tEPA/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/sierra-fin-addicts-fishing-charters-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I scheduled a fishing trip with Sierra Fin Addicts for a weekend at a friends cabin in Tahoe and I was extremely pleased with all aspects of booking the...",
+  "Captain Danny is just a fantastic guy, guide & fisherman. We went out in his immaculate boat for a morning trip today. Everyone caught fish & we all tried...",
+  "This was a great trip for my family, first time fishing on a boat for my teenager daughter's and first time fishing for my 5 year old nephew. What a great..."
+ ]
+},{
+ "name": "Ski Run Boat Company",
+ "address": "900 Ski Run Blvd",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/_q_NtYBMSUivz5k1o5cgRw/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/ski-run-boat-company-south-lake-tahoe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was hosting family that was visiting from TX last week and Tahoe was once of the cities they wanted to check off! Of course being out of state, they heard...",
+  "They offer a competitive price for a 4 hour boat rental. I booked a Class A power boat online. The day of your rental, you go to the office to fill out...",
+  "The staff here are very friendly... young - but friendly. They went above and beyond to make our Father's Day boating a great experience. The speed boat I..."
+ ]
+},{
+ "name": "Artsy Fartsy Art Gallery",
+ "address": "405 North Nevada St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/XJCzQLluFiQfMQPZUgqf4Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/artsy-fartsy-art-gallery-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Carson City is filled with clever and cute boutiques and galleries, but you've got to get off the beaten path to find them! \n\nNow, I don't fancy myself the...",
+  "What is not to love.   Everyone who passes thru Carson City MUST stop by and check out this gallery!!!!!!",
+  "My husband and I stopped by yesterday with my mom and aunt for the first time.  Jeffrey was warm and welcoming and the place was spectacular.  Their passion..."
+ ]
+},{
+ "name": "Borges Sleigh & Carriage Rides",
+ "address": "50 Hwy 50",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/SFZqMUQGm6TC-d5BfZthog/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/borges-sleigh-and-carriage-rides-stateline?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Driving around the lake look what I discovered!! Sleigh rides!\nThe staff are friendly,  professional,  and kind to the beautiful horses.\nMet Lynn and...",
+  "Holy Mary mother of Joseph....save your hard earned money and skip this! And even if you have money to burn, you're better off using your cash as a fire...",
+  "Completely not what we were expecting or hoping for. We rode around a parking lot for 45 mins and went on a few \"trails\"...it was a sidewalk. Granted, there..."
+ ]
+},{
+ "name": "Carson City Shooting Park",
+ "address": "4000 Flint Dr",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/ghmnKliUlmAeSEDQv8JlCA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/carson-city-shooting-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "After Carson City Landfill employees began to notice bullets dropping around them from the nearby Rifle Range (and those were only the ones they did notice)...",
+  "Nice facility, clean and neatly kept.  Take your own targets and target stand.  Ranges out to at least 300 yards.  The only issue is that it is open only on...",
+  "This outdoor shooting range used to be my favorite range because it was opened from sunrise to sunset 7 days a week, didn't have range masters (which are..."
+ ]
+},{
+ "name": "The Flume Trail",
+ "address": "",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/QL5XxQq7N2bl6LDqmnd0Ew/o.jpg",
+ "tags": [
+  "drink",
+  "eat"
+ ],
+ "link": "https://www.yelp.com/biz/the-flume-trail-glenbrook?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Dog Owner Perspective\n\nYes, this leads to Monkey Head Rock!!l\nPET FRIENDLY\n\nWe did this trail twice. Once it was during Veteran Day holiday ( Nov) and the...",
+  "One of the most breathtaking and rewarding hikes I've been on to date! Park at the Tunnel Creek Cafe, get a bite to eat and drink, then get on your merry...",
+  "Epic.\n\nThe tool would not let me post with a single word review so I am writing this filler.  Nothing more to say than EPIC.\n\nSee photos if that helps."
+ ]
+},{
+ "name": "Taste of the Comstock",
+ "address": "86 S C St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/SvogI3rrPHOOCkW28P2Tmg/o.jpg",
+ "tags": [
+  "food",
+  "history"
+ ],
+ "link": "https://www.yelp.com/biz/taste-of-the-comstock-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "6-09-2018  Day started out very nice for this walking/tasting event.  We checked in approx. 15 minutes early.  We beat the rush and were able to start our...",
+  "It's not all entirely about the food.  \n\nIt's about getting together with friends and spending the day in Virginia City and taking in some history and food....",
+  "We've always enjoyed VC events, from the Candy Cane train to the Testicle Festival. We were excited to attend Taste of the Comstock for the first time with..."
+ ]
+},{
+ "name": "Bucket of Blood Saloon",
+ "address": "1 S C St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/HkX-fnYoKGqI8xwN_b_5zQ/o.jpg",
+ "tags": [
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/bucket-of-blood-saloon-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was in the Lake Tahoe area and my friend who's been in the area multiple times wanted to take us to Virginia City to see all the old west structures and...",
+  "This another cool place to visit! Great drinks, great atmosphere, the bartenders are wonderful!!\nI highly recommend it!!!!",
+  "The bucket of blood will always be my first stop when visiting VC mostly because of the good people, music, and heavy shots.  If you'd rather enjoy a..."
+ ]
+},{
+ "name": "Schulz Ranch Park",
+ "address": "Race Track Rd & Wheeler Peak Dr",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "structure"
+ ],
+ "link": "https://www.yelp.com/biz/schulz-ranch-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a nice playground, but has some drawbacks. There is plenty of parking, a nice play structure, bathrooms, a covered picnic table area, basketball..."
+ ]
+},{
+ "name": "Carson City Parks and Recreation Department",
+ "address": "3303 Butti Way",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/iQfjJZyIemS2NPAXNyoEUg/o.jpg",
+ "tags": [
+  "parks"
+ ],
+ "link": "https://www.yelp.com/biz/carson-city-parks-and-recreation-department-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Today, Tuesday, May 28, 2019 I went to the Carson City Parks & Recreation Department. I had two questions about parks in the municipality's limits. The..."
+ ]
+},{
+ "name": "Mormon Station State Historic Park",
+ "address": "2295 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/wwdice-ubRMXOwUvpYYGvA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/mormon-station-state-historic-park-genoa?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Really enjoyed our visit to this spot. It was during some kind of Genoa heritage festival, so they had a nice display all set up, illustrating the life of...",
+  "Very nice park. Lovely grounds and interesting historical stuff to see. The little museum was just a dollar and had lots of stuff to see.",
+  "We were staying at Stateline, Nevada and needed to travel to Gardnerville to visit a friend. Unfortunately for us, the most direct route, Highway 207, was..."
+ ]
+},{
+ "name": "Mt Rose Hike",
+ "address": "Highway 431",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/eHU7XsfusXGo6AGm5dxt2g/o.jpg",
+ "tags": [
+  "hike",
+  "nature",
+  "hike"
+ ],
+ "link": "https://www.yelp.com/biz/mt-rose-hike-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We had such a great time there. The trail is dog friendly and kid friendly. The slopes were of the right angles for sledding or just climbing up and down....",
+  "Looking for an epic hike that isn't too far from Reno? Look no further than Mount Rose! To find the trailhead, head up the Mount Rose Highway and once you...",
+  "Mt Rose Hike is an awesome place to get out and enjoy THE NATURE! \n\nWhatever the nature is haha! No, but really it is a great hike even if you go a short..."
+ ]
+},{
+ "name": "Marlette lake trail",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/h_BmM6EfMVn4OpyvZsGJBA/o.jpg",
+ "tags": [
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": "https://www.yelp.com/biz/marlette-lake-trail-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Awesome 10+mile round trip (out and back) hike. You can do this in regular walking/running shoes since the surface was pine needles me dirt/soil.  No rocks...",
+  "This trail is amazing. I had the pleasure to hike it on July 29th with my hubby. Quite a smooth elevation gain (1200ft) nice easy decent down to marlette...",
+  "This is a GREAT GREAT Hike!! Not heavily traveled, beautiful 'away from everything' feeling, it's a smaller trail that takes you to the lake ...  This was..."
+ ]
+},{
+ "name": "Linear Park Trail",
+ "address": "",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/-zMYcihbkk91xJRxTDgVOw/o.jpg",
+ "tags": [
+  "kids",
+  "walk",
+  "walking",
+  "walking"
+ ],
+ "link": "https://www.yelp.com/biz/linear-park-trail-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Almost every day our furry kids Hobey and Sadie get us out on Linear Park Trail to enjoy the fresh air with the beautiful views of Carson City all around us...",
+  "My dog and I recently tried this trail for our daily walk. The walking surface is paved so if you are a bit unsteady on your feet or use a mobility device,...",
+  "Roop Street to Fifth Street. Walking trail is developed between Roop Street and the Carson City Freeway right-of-way (12-foot-wide asphalt pedestrian/bike..."
+ ]
+},{
+ "name": "Incline Village Recreation Center",
+ "address": "980 Incline Way",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/KxPf8clolBmQK0uMQprDHA/o.jpg",
+ "tags": [
+  "free",
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/incline-village-recreation-center-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Bumping this up to 4 stars because... THEY NOW HAVE FREE WIFI DOWNSTAIRS!  That's right, I can now bring in my iPad and watch something else besides Fox...",
+  "Awesome place to take the family!  I highly recommend this place! Spent the day here with the family and they really loved it. They have a 12ft pool!",
+  "I use the pool regularly year round and find the staff friendly and usually a minimum of two lanes are open for lap swimming. Afternoon times can be crowded..."
+ ]
+},{
+ "name": "Tahoe Whitewater Tours",
+ "address": "10015 Palisades Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/sn0l-MeCB7LvhfZwlo1mtA/o.jpg",
+ "tags": [
+  "knowledgeable",
+  "knowledgeable",
+  "history",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/tahoe-whitewater-tours-truckee-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a can't miss activity. My boys and I (10&12) had a great time! Our guide Booker was very knowledgeable and did a fantastic job giving instructions...",
+  "Loved this ! Did a half day rafting trip. Super cool rapids and swim opportunities. Our Guide Adam was great and knowledgeable of the area and history. Get...",
+  "It was my first time water rafting and I had a blast! We were a group of 12 so we split in two rafts. The tour guide for the raft I was in was Nate...."
+ ]
+},{
+ "name": "Bats in the Belfry",
+ "address": "28 N C St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/OhQuuXM-1O4vS-FrGB7VZQ/o.jpg",
+ "tags": [
+  "walking",
+  "tour",
+  "tour",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/bats-in-the-belfry-virginia-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Haunted Virginia City!\n\nHusband and I love walking tours, particularly ghost tours, and this guided tour provided by Bats in the Belfry was one of our...",
+  "Oh.Mah.Gawd!  Ghost Tour!  \n\nSITREP\n\nOh.Mah.Gawd!  Spirits Talkin To Us!\n\nTHE SETUP\n\nOh.Mah.Gawd!  Virginia City one of the THREE most haunted cities in...",
+  "We secured a spot for Virginia City's Bats in the Belfry Ghost Tour for November 3rd, 2018. Good thing we did, too, because it was the last tour scheduled..."
+ ]
+},{
+ "name": "Carson Mall Shopping Center",
+ "address": "1313 S Carson St",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/VcmRFNodtNYBVFOF6UYEfg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/carson-mall-shopping-center-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "At first glance it is really not a place one would venture into willingly.\n\nBut if you take some time and really look what they have to offer, it might fall...",
+  "I saw a sign that read \"Carson Mall\" and thought I would check it out. Very disappointed, most of the shops are closed at 5 PM. Early for a mall. It should..."
+ ]
+},{
+ "name": "Lake Tahoe Shakespeare Festival",
+ "address": "Sand Harbor State Park",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/1qYLrCgaA2We4SQBZqTFSg/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/lake-tahoe-shakespeare-festival-incline-village-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "A great annual event for locals and visitors.  Has to be one of the top locations anywhere for an outdoor theater...Sand Harbor.\n\nI had college friends...",
+  "Beautiful theater. The summer weather is perfect . Come early to get the best seats. If you sit up high you have a view of the lake and mountains behind the...",
+  "Lake Tahoe Shakespeare Festival is an annual tradition for my family for over 12 years now.  I can remember every year from the first to the last to all of..."
+ ]
+},{
+ "name": "M S Dixie II Paddlewheeler",
+ "address": "760 Hwy 50",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/HzYvBsuJXYWP1RGVRLzKTw/o.jpg",
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "drink"
+ ],
+ "link": "https://www.yelp.com/biz/m-s-dixie-ii-paddlewheeler-zephyr-cove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Amazing cruise boat , friendly crew, and delicious food!! Second time on this cruise once couple years back during the summer and now In the winter. This...",
+  "Don't waste your time or money. The service is substandard and the food is about equal to a highschool cafeteria meal.  Very disappointing considering it's...",
+  "Great cruise.  Plenty of offerings for drink and food to keep you satisfied.  Also a nice informative and relaxing cruise across lake Tahoe.  All the decks,..."
+ ]
+},{
+ "name": "Picasso and Wine",
+ "address": "3821 S Carson St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/d07_R5ZqUHf8--LzvhdRJA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/picasso-and-wine-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Painted with my daughter on a recent trip to Carson City... I really enjoyed our girl's night out at Picasso & Wine.  The instructor was really fun, and...",
+  "If you want to have a fun time and do something for yourself or others go to P&W! I'm sorry others had a bad cancellation experience, I never have as I read...",
+  "Terrible customer service. Picasso and Wine does NOT give refunds. They will provide you with a \"gift code\" regardless if the reason you had to cancel was..."
+ ]
+},{
+ "name": "Hidden Beach",
+ "address": "1713 Tahoe Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/GN6FOnEqNF5DuE_bIrJF6Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/hidden-beach-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a great beach to get away from the other tourists as you can not see it from the hiway.  What you will see are about 10 cars parked by the road all...",
+  "Based on other Yelp reviews, we were determined to find this hidden gem. We parked off Highway 89 just past the residents only parking. The weather wasn't...",
+  "I was excited to find this little \"hidden\" beach on my last day in Tahoe. The view was amazing and there were not many people I had to share the beach with..."
+ ]
+},{
+ "name": "Action Water Sports",
+ "address": "995 Lakeshore Blvd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/xUIC_e8EVKhJZG6Ed5hvjA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/action-water-sports-incline-village-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "AWS was great both for just a 1 hour kayak rental and multiple 4-5 hour boat rentals. Super nice employees who explain everything. Well, except for the one...",
+  "Last minute decided to rent a boat and this company had a time slot to squeeze us in, sweet! After paying 750 dollars for an appointment 4 hours in the...",
+  "My group rented 6 single kayaks for an hour and it was fantastic! The guys handling the kayaks and life jackets were great and super helpful"
+ ]
+},{
+ "name": "Tahoe Tastings",
+ "address": "2435 Venice Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/RgDQBcxDfot2wKqccEG-NQ/o.jpg",
+ "tags": [
+  "tasting",
+  "unique",
+  "tour",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/tahoe-tastings-south-lake-tahoe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Tahoe Tasting is a really unique way to get out on the beautiful blue waters of Tahoe (#keeptahoeblue). Reservations are super easy--online system--and you...",
+  "Wonderful boat experience in Tahoe! We booked in advance for the midday tour and boarding was very smooth. The wine selection was a lovely addition (I opted...",
+  "This is such a great tour! I highly recommend. Captain Shane & Kelsey were excellent hosts! The wine selection is top notch and the charcuterie was..."
+ ]
+},{
+ "name": "Governor's Mansion",
+ "address": "606 Mountain St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JuRcEg_UzYz1J-3uMEX6TA/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/governors-mansion-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Only in Nevada will you find the Governors Mansion opened to the public and available for fundraising events!   \nThe staff and trustees that organize and...",
+  "In California our Governor's mansion is a historical landmark and unoccupied by the sitting Governor. In Nevada, I'm told, the sitting Governor actually...",
+  "Free tours on Nevada Day.  Very fun to mull around looking at the rooms. Most rooms are open down stairs while the upstairs rooms are roped off so you can..."
+ ]
+},{
+ "name": "Flume Trail Bikes",
+ "address": "1115 Tunnel Creek Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/A39pPhPcxp27DrAtzIf7aA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/flume-trail-bikes-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Awesome experience with this shop. The bike was fantastic - a dream machine, and the service was spectacular. Highly recommended. \n\nThe Flume Experience:...",
+  "My cousin and I have almost zero experience on bikes. We were just looking for an easy ride. We rented path bikes to ride around Sand Harbor. Levi helped us...",
+  "My friends and I rented bikes here to ride the very popular Flume Trail, which lives up to its hype -- I would say it's the most beautiful bike ride I've..."
+ ]
+},{
+ "name": "Vinos Pizza",
+ "address": "3228 N Carson St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/7F_kijMQqlMvJjCKrN-DTQ/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/vinos-pizza-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Garlic anyone?!?! A pizza joint with a full collection of wine. It doesn't get any better than that. They offer vegan options as well as cauliflower crust....",
+  "Forget this place!!!!! They are rude and uncaring! I called an order in at 3:44pm for a 6pm delivery on a Sun. night. I had to call them at 6:08pm to see...",
+  "We go on Wednesday's so we can enjoy the half price wines and a great pizza. \nWe love the people and the food."
+ ]
+},{
+ "name": "Skunk Harbor - Dog Beach",
+ "address": "2 Miles North Of The Highway 50/28",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/OZKhWMiW1bmItBl209mh8g/o.jpg",
+ "tags": [
+  "hike"
+ ],
+ "link": "https://www.yelp.com/biz/skunk-harbor-dog-beach-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My favorite spot to hang out and enjoy Lake Tahoe's pristine waters. If you get there early enough and don't do in the dead of summer, you'll have a good...",
+  "We are always on the lookout for hikes with our dog and dog friendly beaches at Lake Tahoe. Skunk Harbor was a great find as it combines both! As others...",
+  "My senior pup loves this trail and so do I. \nWe hadn't been in too long and really is mild and nice hike. A fair amount of people on it, but a great way to..."
+ ]
+},{
+ "name": "Silver Oak Golf Course",
+ "address": "1251 Country Club Dr",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/K6ltvbUym39i_u_d8bjWpA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/silver-oak-golf-course-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Absolutely love this course, 2 completely different 9's.\nI like to call them Jekyll and Hyde.\nGreens in great condition, fairways always manicured.\nI...",
+  "Another huge thank you to Silver Oaks. \n\nThis golf course offers its club house to the Carson High Culinary department every spring. Each spring the...",
+  "Silver Oak Golf Course hosted our Division Golf tournament. From contract negotiations through the final round, the staff were friendly and accommodating to..."
+ ]
+},{
+ "name": "Kaia FIT - Carson",
+ "address": "3633 Research Way",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Zr1iKSDTUDKXK-FmgevyEA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/kaia-fit-carson-carson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Kaia FIT has been great. Coaches assist you in meeting your health goals. Many class times to fit your schedule. Different levels of ability are available...",
+  "I absolutely love Kaia fit! The Coaches and everyone in each class are so friendly! You dont feel out of place and they help you do things at your pace....",
+  "Kaia Fit Carson has been a life changer for me. From the amazing coaches to my workout sisters I have had only great experiences! No two workouts are the..."
+ ]
+},{
+ "name": "Dayton Historic Firehouse & Jail",
+ "address": "Pike St & Tyler",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/3cd0K6S9WgrtiSCVblOvDQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/dayton-historic-firehouse-and-jail-dayton?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Pimps, whores, liars, and 1/4 Neagroes [sic]! Yep, believe it or not, that is what was officially written on the state's witness list for an inmate held in..."
+ ]
+},{
+ "name": "Hyatt Poolside",
+ "address": "970-978 Lakeshore Blvd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/6zecoYf8OviSD-HoHdPcUA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/hyatt-poolside-incline-village?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a great place to unwind! W/ the jacuzzis & pools there is plenty of space to find a comfy spot. You can exit the hotel into one of the pools & swim..."
+ ]
+},{
+ "name": "Lake Tahoe Nevada State Park - Memorial Point",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/m6vAm2bCAWHn8QKxa36dlg/o.jpg",
+ "tags": [
+  "hike",
+  "parks"
+ ],
+ "link": "https://www.yelp.com/biz/lake-tahoe-nevada-state-park-memorial-point-incline-village-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "While the Yelp entry for this says it is in Incline Village Nevada, it's technically in and maintained by the county of Carson City Nevada.  Incline Village...",
+  "This has been one of the places to come visit on my bucket list, and it was more then expected. It is so beautiful. We got to hike, take beautiful pictures,...",
+  "If you are touring Lake Tahoe for the first time, take your time driving around and check all the state parks. This one should not be passed by!! You will..."
+ ]
+},{
+ "name": "Bite American Tapas",
+ "address": "907 Tahoe Blvd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/J3EIhroMBwF4_vFNNU4E6w/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/bite-american-tapas-incline-village-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I gotta admit: being a minority made me nervous going to a place called Bite America with a white American flag as part of the restaurant logo. \n\nBut with a...",
+  "There is not a whole lot to choose from in this area, but my friends had mentioned this place was definitely worth checking out.  We decided to give it a...",
+  "Very new to North Lake Tahoe and have visited twice in the last two weeks having great experiences both visits.  Food is as billed, excellent as I'm trying..."
+ ]
+},{
+ "name": "Capitol City Gun Club",
+ "address": "3590 Arrowhead Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vmyiLX5RNt0z7WQG-IWNtA/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/capitol-city-gun-club-carson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Best afternoon possible is going to Capitol City, bringing your buddies and shooting some clays.  It's a very professionally run and friendly shooting range...",
+  "My family has been shooting here for the last four years. They are the home to several youth shooting clubs. The staff is very friendly and creates a...",
+  "My overall experience here exceeded my expectations, and that is thanks to all the staff, especially Brian and Tom. Tom runs the shop upstairs. I was..."
+ ]
+},{
+ "name": "Sierra Chef",
+ "address": "2292 Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/nQvTGBF3ZkrMtJ24DGtb3g/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/sierra-chef-genoa?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Love this place! \nThe cooking class I took was fun and informative. They have a variety of tasty home made foods - paninis, soups, stews, pastas, cookies,...",
+  "So there I was, me, my wife, and a friend, thinking about dinner, and he recommends Sierra Chef.  He tells me about it.  That night it was going to be...",
+  "I was excited to see this place. I never knew this place existed. I am Italian from the east coast so I am always looking for some good authentic Italian..."
+ ]
+},{
+ "name": "The HotSpot Yoga Studio",
+ "address": "195 E Winnie Ln",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/JxkMRYufaoNpGeRM_EOitQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-hotspot-yoga-studio-carson-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Both my wife and I took hot yoga classes at Hot Spot for about 6 months, and always had a good experience. We have since moved out of the area, but have not...",
+  "So I'm pretty new to hot yoga and it has dang near changed my life.  I am in better shape now than I have ever been and I attribute it to yoga in general...",
+  "I love Hot Spot! I wish they had more class time options, but the studio is huge and instructors are very friendly! I haven't tried classes with all of the..."
+ ]
+},{
+ "name": "Sonoma Park",
+ "address": "1003 Sonoma St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/tPinkn_-NsvcS3rpUHe5TQ/o.jpg",
+ "tags": [
+  "field"
+ ],
+ "link": "https://www.yelp.com/biz/sonoma-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great dog park and playground. They are both completely fenced in (separately). The dog park is just a wide open field with a ton of grass. The playground...",
+  "Great local 5-acre neighborhood park located between Sonoma and Stafford Streets for families with or without children and dog friendly.  The main park is a...",
+  "This is our go to dog park not just because of the consistency of good friendly dogs here but the friendliness of the people. \nThis dog park is massive and..."
+ ]
+}]

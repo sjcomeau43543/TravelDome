@@ -66,24 +66,6 @@
   "I had a lot of reservations before getting on the bus. Was it going to be long enough? Would it be too short? Was the tour guide going to be annoying? \n\nBut..."
  ]
 },{
- "name": "Four Mile Historic Park",
- "address": "715 S Forest St",
- "avg_visitor_review": 4.0,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg",
- "tags": [
-  "food",
-  "free",
-  "historic"
- ],
- "link": "https://www.yelp.com/biz/four-mile-historic-park-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
- "source": "Yelp",
- "reviews": [
-  "This review was for their pumpkin festival.  Free admission but have to pay for food, rides and activities.  We parked for free at a parking garage down the...",
-  "We went on a weekday in late August. Literally everything was closed, and there were signs everywhere not to touch ANYTHING. Why not just close? It's pretty...",
-  "Summer Concerts at Four Mile Historic Park are marvelous. I saw \"Take Down the Door\", an Irish group and had a wonderful time: outdoor picnic dinner, grassy..."
- ]
-},{
  "name": "Puzzah!",
  "address": "1440 Blake St",
  "avg_visitor_review": 4.0,
@@ -147,6 +129,24 @@
   "Great downtown brewery. Stopped in for a couple drinks while i was down in Denver for a conference. If you are an IPA drinker, I highly recommend their...",
   "Came here after the baseball game and the only downside was that they closed at 10 pm, which didn't give us a lot of time to really take our time sampling...",
   "Been to Great Divide a few times and have never really tried anything since they didn't tend to have sours. It was my lucky day because they had 2 to choose..."
+ ]
+},{
+ "name": "Four Mile Historic Park",
+ "address": "715 S Forest St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg",
+ "tags": [
+  "free",
+  "food",
+  "historic"
+ ],
+ "link": "https://www.yelp.com/biz/four-mile-historic-park-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This review was for their pumpkin festival.  Free admission but have to pay for food, rides and activities.  We parked for free at a parking garage down the...",
+  "We went on a weekday in late August. Literally everything was closed, and there were signs everywhere not to touch ANYTHING. Why not just close? It's pretty...",
+  "Summer Concerts at Four Mile Historic Park are marvelous. I saw \"Take Down the Door\", an Irish group and had a wonderful time: outdoor picnic dinner, grassy..."
  ]
 },{
  "name": "The DIA Giant Blue Bronco",
@@ -218,8 +218,8 @@
  "avg_time_spent": null,
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/RZbZpK_RyzeoTcSuA6voNg/o.jpg",
  "tags": [
-  "walk",
   "art",
+  "walk",
   "walk"
  ],
  "link": "https://www.yelp.com/biz/16th-street-mall-denver-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
@@ -228,6 +228,20 @@
   "This is a great strip of museums, art work, shops and restaurants. Buses navigate up and down the strip, so that if you do not want to walk, you can catch...",
   "Liked this area of Denver, happened to be staying here for a couple of days. Pedestrian friendly and lots of restaurant choices. Parking appears to be a...",
   "Fun restaurants, museums, cafes, coffee shops, and more.  Worth the walk down the mile and so many options for how you want to spend your time in Denver!  I..."
+ ]
+},{
+ "name": "The Infinite Monkey Theorem",
+ "address": "3200 Larimer St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-infinite-monkey-theorem-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I think I like this place. Super cute wine bar with not many choices but definitely a good selection of wines. \nIf you're a beer aficionados they have a...",
+  "Writing this from the great quarantine of 2020, so this time it was just a pick up to-go order, but that doesn't change the fact that TIMT has a good...",
+  "the wine is amazing, not a lot of options but thats because everything they serve is made there!\n\nthe vibe is amazing. we went during winter and the inside..."
  ]
 },{
  "name": "Film on the Rocks",
@@ -270,8 +284,8 @@
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JZGUL0_zryzSp0M0KnThuA/o.jpg",
  "tags": [
   "history",
-  "knowledgeable",
-  "tour"
+  "tour",
+  "knowledgeable"
  ],
  "link": "https://www.yelp.com/biz/nightly-spirits-denver-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
  "source": "Yelp",
@@ -302,8 +316,8 @@
  "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/FEDA_PAiA1ymI2uutoAeAg/o.jpg",
  "tags": [
   "history",
-  "learn",
   "tour",
+  "learn",
   "free",
   "tour"
  ],
@@ -372,20 +386,6 @@
   "Unser is a fun place! If you've never been, go! You need a valid driver's license and required to watch a safety video beforehand. My hubby and I went for...",
   "Been wanting to do this for the longest time! The experience was AWESOME the karts are so fast and everyone is very friendly. \n\nBasically just a heads up we...",
   "This place is very cool. I'd never been indoor racing before but I gotta say I definitely had fun. Once things go back to normal I look forward to kicking..."
- ]
-},{
- "name": "The Infinite Monkey Theorem",
- "address": "3200 Larimer St",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg",
- "tags": [],
- "link": "https://www.yelp.com/biz/the-infinite-monkey-theorem-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
- "source": "Yelp",
- "reviews": [
-  "I think I like this place. Super cute wine bar with not many choices but definitely a good selection of wines. \nIf you're a beer aficionados they have a...",
-  "Writing this from the great quarantine of 2020, so this time it was just a pick up to-go order, but that doesn't change the fact that TIMT has a good...",
-  "the wine is amazing, not a lot of options but thats because everything they serve is made there!\n\nthe vibe is amazing. we went during winter and the inside..."
  ]
 },{
  "name": "Monster Mini Golf",
@@ -458,8 +458,8 @@
  "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Se0dDhZ-LTDGfMDgS2FrjQ/o.jpg",
  "tags": [
   "art",
-  "food",
-  "art"
+  "art",
+  "food"
  ],
  "link": "https://www.yelp.com/biz/cherry-creek-arts-festival-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
  "source": "Yelp",
@@ -481,20 +481,6 @@
   "Centennial did a great job with this park. There's plenty of space here with a giant playground and even a splash pad going in the summer. My favorite part...",
   "This is the flagship playground for the South metro area and boasts the largest sprayground in town, a huge climbing net, a stage for events, and a young...",
   "This place probably has the best splash area around. Gets busy quickly. The playground is enormous. Great place for parties. They have events here all..."
- ]
-},{
- "name": "Class Axe Throwing",
- "address": "3400 E 52nd Ave",
- "avg_visitor_review": 4.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg",
- "tags": [],
- "link": "https://www.yelp.com/biz/class-axe-throwing-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
- "source": "Yelp",
- "reviews": [
-  "We went here for a team-building activity on a Tuesday afternoon. For the first 2 hours, we had the whole place to ourself which was awesome. I could see...",
-  "Updating my review because the morning after I visited, my coach trash-talked me on social media. Completely unprofessional and uncool. I traded my...",
-  "Came here from a groupon (as of posting right now they still have it on groupons website so make sure to scoop it up!) and we didn't know what we were..."
  ]
 },{
  "name": "The Colorado Sightseer",
@@ -545,6 +531,20 @@
   "What a terrific time at EscapeWorks. Emilia, Taylor and the rest of the team set up a great Christmas Story Escape Room with a lot of fun puzzles to solve...."
  ]
 },{
+ "name": "Urban Air Adventure Park - Littleton",
+ "address": "8196 Bowles Ave",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/urban-air-adventure-park-littleton-littleton?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "So my friend and I both came here to check it out after we had finished up with our errands and it was overall a decent place. We are both adults and it...",
+  "So it's new and relatively clean. Rainy day so I brought my younger one after work. It's nice to see the old Walmart grocery being used so there's that. And...",
+  "USAA got my money back and they have blocked Urban Air from charging my account. Urban Air has made 4 attempts to charge my card again. They can keep trying..."
+ ]
+},{
  "name": "Clear Creek Whitewater Park",
  "address": "1201 10th St",
  "avg_visitor_review": 4.5,
@@ -557,24 +557,6 @@
   "I found this place my first trip to Denver. It is only a few minutes from downtown Denver and even less from west side suburbs. I can not add much to what...",
   "A beautiful section of Clear Creek runs right thru downtown Golden and is a great place for whitewater (very tame rapids) rafting or just floating on a...",
   "We went tubing in late June of 2019. Water levels and snow fall in Colorado are at a 20 year high, so we were cautious. Make sure you check the flow rates..."
- ]
-},{
- "name": "Mile High Flea Market",
- "address": "7007 E 88th Ave",
- "avg_visitor_review": 2.5,
- "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg",
- "tags": [
-  "eat",
-  "drink",
-  "kids"
- ],
- "link": "https://www.yelp.com/biz/mile-high-flea-market-henderson-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
- "source": "Yelp",
- "reviews": [
-  "Great place to bring the kids. Sit inside the Chicken coop, eat chicken wings and drink beer while your kids ride rides, shop, and buy fresh farm produce...",
-  "Came to the flea market to check it out. It's a fun experience to come with friends and enjoy eats (buttered/Mexican corn, turkey leg, funnel cake, and the...",
-  "Trash trash don't come here don't waste your time, gas and money the worst \"flea market\" I've ever been. \n\nEste lugar es simplemente basura, no gastes tu..."
  ]
 },{
  "name": "Canvas and Cocktails",
@@ -607,18 +589,18 @@
   "Great stop on a Saturday if you are in town. We stopped by and walked through the booth - there were vendors selling everything! There is a section for just..."
  ]
 },{
- "name": "Urban Air Adventure Park - Littleton",
- "address": "8196 Bowles Ave",
- "avg_visitor_review": 3.5,
+ "name": "Class Axe Throwing",
+ "address": "3400 E 52nd Ave",
+ "avg_visitor_review": 4.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg",
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg",
  "tags": [],
- "link": "https://www.yelp.com/biz/urban-air-adventure-park-littleton-littleton?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "link": "https://www.yelp.com/biz/class-axe-throwing-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
  "source": "Yelp",
  "reviews": [
-  "So my friend and I both came here to check it out after we had finished up with our errands and it was overall a decent place. We are both adults and it...",
-  "So it's new and relatively clean. Rainy day so I brought my younger one after work. It's nice to see the old Walmart grocery being used so there's that. And...",
-  "USAA got my money back and they have blocked Urban Air from charging my account. Urban Air has made 4 attempts to charge my card again. They can keep trying..."
+  "We went here for a team-building activity on a Tuesday afternoon. For the first 2 hours, we had the whole place to ourself which was awesome. I could see...",
+  "Updating my review because the morning after I visited, my coach trash-talked me on social media. Completely unprofessional and uncool. I traded my...",
+  "Came here from a groupon (as of posting right now they still have it on groupons website so make sure to scoop it up!) and we didn't know what we were..."
  ]
 },{
  "name": "Bear Mountain Stables",
@@ -635,25 +617,22 @@
   "I treated myself for a horseback ride for my birthday in May and had such a fantastic time. The owner was extremely kind and made me feel extremely..."
  ]
 },{
- "name": "Delicious Denver Food Tours",
- "address": "2129 Larimer St",
- "avg_visitor_review": 5.0,
+ "name": "Mile High Flea Market",
+ "address": "7007 E 88th Ave",
+ "avg_visitor_review": 2.5,
  "avg_time_spent": null,
- "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg",
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg",
  "tags": [
-  "food",
-  "tour",
-  "food",
-  "food",
-  "foodie",
-  "tour"
+  "eat",
+  "drink",
+  "kids"
  ],
- "link": "https://www.yelp.com/biz/delicious-denver-food-tours-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "link": "https://www.yelp.com/biz/mile-high-flea-market-henderson-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
  "source": "Yelp",
  "reviews": [
-  "We did the Food Tour with Jill this past weekend and had some great food!  Jill was super friendly, threw in interesting facts about the city, and showed us...",
-  "We opted for Cocktails & Tastes expecting great drinks with a few nibbles on the side. Surprise! The food turned out to be as outstanding as the...",
-  "Great afternoon on a Denver Food Tour with our guide, Bonnie!  We enjoyed 6 foodie locations in the LoDo area of downtown Denver and this proved to be a fun..."
+  "Great place to bring the kids. Sit inside the Chicken coop, eat chicken wings and drink beer while your kids ride rides, shop, and buy fresh farm produce...",
+  "Came to the flea market to check it out. It's a fun experience to come with friends and enjoy eats (buttered/Mexican corn, turkey leg, funnel cake, and the...",
+  "Trash trash don't come here don't waste your time, gas and money the worst \"flea market\" I've ever been. \n\nEste lugar es simplemente basura, no gastes tu..."
  ]
 },{
  "name": "Uncorked Kitchen & Wine Bar",
@@ -794,5 +773,26 @@
   "What a great experience for my graduating son and his brothers and friends!  There was some apprehension about the \"laser tag\" aspect of the game, but once...",
   "We had an awesome time!! We had a group of 14, ranging in ages from 13 to 70. Everyone there was so helpful, courteous and created such a fun environment....",
   "We went to the Wellington Lake location. This was AMAZING! The guns look and feel like the real thing, and we felt like we were getting training more than..."
+ ]
+},{
+ "name": "Delicious Denver Food Tours",
+ "address": "2129 Larimer St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg",
+ "tags": [
+  "tour",
+  "food",
+  "food",
+  "foodie",
+  "tour",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/delicious-denver-food-tours-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We did the Food Tour with Jill this past weekend and had some great food!  Jill was super friendly, threw in interesting facts about the city, and showed us...",
+  "We opted for Cocktails & Tastes expecting great drinks with a few nibbles on the side. Surprise! The food turned out to be as outstanding as the...",
+  "Great afternoon on a Denver Food Tour with our guide, Bonnie!  We enjoyed 6 foodie locations in the LoDo area of downtown Denver and this proved to be a fun..."
  ]
 }]

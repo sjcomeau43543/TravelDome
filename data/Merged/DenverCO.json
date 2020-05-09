@@ -55,8 +55,8 @@
  "tags": [
   "adventurous",
   "parks",
-  "history",
-  "historic"
+  "historic",
+  "history"
  ],
  "link": [
   "https://www.nps.gov//cali//index.htm"
@@ -429,28 +429,6 @@
  ],
  "reviews": []
 },{
- "name": "Four Mile Historic Park",
- "address": "715 S Forest St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg"
- ],
- "tags": [
-  "food",
-  "free",
-  "historic"
- ],
- "link": [
-  "https://www.yelp.com/biz/four-mile-historic-park-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Puzzah!",
  "address": "1440 Blake St",
  "avg_visitor_review": [
@@ -526,6 +504,28 @@
  ],
  "link": [
   "https://www.yelp.com/biz/great-divide-brewing-company-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Four Mile Historic Park",
+ "address": "715 S Forest St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/LoibhwtfYNlOoBJf-QwZVw/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "historic"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/four-mile-historic-park-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -621,12 +621,30 @@
   "https://s3-media1.fl.yelpcdn.com/bphoto/RZbZpK_RyzeoTcSuA6voNg/o.jpg"
  ],
  "tags": [
-  "walk",
   "art",
+  "walk",
   "walk"
  ],
  "link": [
   "https://www.yelp.com/biz/16th-street-mall-denver-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Infinite Monkey Theorem",
+ "address": "3200 Larimer St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-infinite-monkey-theorem-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -685,8 +703,8 @@
  ],
  "tags": [
   "history",
-  "knowledgeable",
-  "tour"
+  "tour",
+  "knowledgeable"
  ],
  "link": [
   "https://www.yelp.com/biz/nightly-spirits-denver-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
@@ -725,8 +743,8 @@
  ],
  "tags": [
   "history",
-  "learn",
   "tour",
+  "learn",
   "free",
   "tour"
  ],
@@ -807,24 +825,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/unser-karting-and-events-denver-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Infinite Monkey Theorem",
- "address": "3200 Larimer St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/k79Vw2I80_t4hBy_xBhDlQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-infinite-monkey-theorem-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -921,8 +921,8 @@
  ],
  "tags": [
   "art",
-  "food",
-  "art"
+  "art",
+  "food"
  ],
  "link": [
   "https://www.yelp.com/biz/cherry-creek-arts-festival-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
@@ -944,24 +944,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/centennial-center-park-centennial?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Class Axe Throwing",
- "address": "3400 E 52nd Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/class-axe-throwing-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1028,6 +1010,24 @@
  ],
  "reviews": []
 },{
+ "name": "Urban Air Adventure Park - Littleton",
+ "address": "8196 Bowles Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/urban-air-adventure-park-littleton-littleton?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Clear Creek Whitewater Park",
  "address": "1201 10th St",
  "avg_visitor_review": [
@@ -1040,28 +1040,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/clear-creek-whitewater-park-golden?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mile High Flea Market",
- "address": "7007 E 88th Ave",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg"
- ],
- "tags": [
-  "eat",
-  "drink",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/mile-high-flea-market-henderson-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1106,18 +1084,18 @@
  ],
  "reviews": []
 },{
- "name": "Urban Air Adventure Park - Littleton",
- "address": "8196 Bowles Ave",
+ "name": "Class Axe Throwing",
+ "address": "3400 E 52nd Ave",
  "avg_visitor_review": [
-  3.5
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/DS8sNBU-h0vr0rLZaWpcfw/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/8oh30goqn8qHr88M40PMIg/o.jpg"
  ],
  "tags": [],
  "link": [
-  "https://www.yelp.com/biz/urban-air-adventure-park-littleton-littleton?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.yelp.com/biz/class-axe-throwing-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1142,25 +1120,22 @@
  ],
  "reviews": []
 },{
- "name": "Delicious Denver Food Tours",
- "address": "2129 Larimer St",
+ "name": "Mile High Flea Market",
+ "address": "7007 E 88th Ave",
  "avg_visitor_review": [
-  5.0
+  2.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ffyvaAFpW_QvuDMSjiL5pw/o.jpg"
  ],
  "tags": [
-  "food",
-  "tour",
-  "food",
-  "food",
-  "foodie",
-  "tour"
+  "eat",
+  "drink",
+  "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/delicious-denver-food-tours-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.yelp.com/biz/mile-high-flea-market-henderson-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1337,6 +1312,31 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/conflict-colorado-lakewood?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Delicious Denver Food Tours",
+ "address": "2129 Larimer St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/v6jk_Dyf1B4KKq0WSXThGw/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "food",
+  "foodie",
+  "tour",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/delicious-denver-food-tours-denver?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"

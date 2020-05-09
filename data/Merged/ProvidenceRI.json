@@ -77,9 +77,9 @@
  "tags": [
   "adventurous",
   "parks",
-  "history",
   "historic",
-  "active"
+  "active",
+  "history"
  ],
  "link": [
   "https://www.nps.gov//tosy//index.htm"
@@ -110,27 +110,6 @@
  ],
  "reviews": []
 },{
- "name": "Ladd Observatory",
- "address": "210 Doyle Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/JM-meIqupwMIzAgNf_A-9A/o.jpg"
- ],
- "tags": [
-  "kids",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/ladd-observatory-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Providence Place",
  "address": "One Providence Place",
  "avg_visitor_review": [
@@ -149,6 +128,26 @@
  ],
  "reviews": []
 },{
+ "name": "Four Town Farm",
+ "address": "90 George St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/OzXwhqIMG2ld1NQt8S_skg/o.jpg"
+ ],
+ "tags": [
+  "tasting"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/four-town-farm-seekonk?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Mulberry Vineyard",
  "address": "95 Pound Rd",
  "avg_visitor_review": [
@@ -160,8 +159,8 @@
  ],
  "tags": [
   "winery",
-  "food",
-  "family"
+  "family",
+  "food"
  ],
  "link": [
   "https://www.yelp.com/biz/mulberry-vineyard-glocester?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
@@ -182,8 +181,8 @@
  ],
  "tags": [
   "independent",
-  "independent",
-  "historic"
+  "historic",
+  "independent"
  ],
  "link": [
   "https://www.yelp.com/biz/avon-cinema-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
@@ -203,48 +202,12 @@
   "https://s3-media3.fl.yelpcdn.com/bphoto/cRv9hQyjeE-ZLf1TeOzluA/o.jpg"
  ],
  "tags": [
-  "delicious",
   "family",
-  "food"
+  "food",
+  "delicious"
  ],
  "link": [
   "https://www.yelp.com/biz/kabob-and-curry-providence-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Kayak Centre",
- "address": "70 Brown St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/QYffwTr8uqCmWCvfDsprXQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-kayak-centre-wickford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Neutaconkanut Park",
- "address": "675 Plainfield St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/zeR3p-BFQvg3nfnQdrC88A/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/neutaconkanut-park-providence-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -307,6 +270,24 @@
  ],
  "reviews": []
 },{
+ "name": "The Kayak Centre",
+ "address": "70 Brown St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/QYffwTr8uqCmWCvfDsprXQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-kayak-centre-wickford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Julians",
  "address": "318 Broadway",
  "avg_visitor_review": [
@@ -338,12 +319,30 @@
   "https://s3-media2.fl.yelpcdn.com/bphoto/zs0q4idzU_6S5BqwWxApnQ/o.jpg"
  ],
  "tags": [
-  "walking",
   "kids",
+  "walking",
   "walking"
  ],
  "link": [
   "https://www.yelp.com/biz/slater-memorial-park-pawtucket?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Neutaconkanut Park",
+ "address": "675 Plainfield St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/zeR3p-BFQvg3nfnQdrC88A/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/neutaconkanut-park-providence-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -429,26 +428,6 @@
  ],
  "reviews": []
 },{
- "name": "Argia Mystic Cruises",
- "address": "12 Steamboat Wharf",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/oAVKimgKyAB6nyKCz-rPrg/o.jpg"
- ],
- "tags": [
-  "history"
- ],
- "link": [
-  "https://www.yelp.com/biz/argia-mystic-cruises-mystic?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "The Parlour",
  "address": "1119 N Main St",
  "avg_visitor_review": [
@@ -461,24 +440,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/the-parlour-providence-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Trinity Rep",
- "address": "201 Washington St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/AjK_-gDqCNZqqdapbx5ykQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/trinity-rep-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -523,6 +484,26 @@
  ],
  "reviews": []
 },{
+ "name": "Argia Mystic Cruises",
+ "address": "12 Steamboat Wharf",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/oAVKimgKyAB6nyKCz-rPrg/o.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/argia-mystic-cruises-mystic?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Mokban Korean Bistro",
  "address": "217 Westminster St",
  "avg_visitor_review": [
@@ -557,6 +538,24 @@
  ],
  "link": [
   "https://www.yelp.com/biz/providence-mystery-room-providence-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Trinity Rep",
+ "address": "201 Washington St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/AjK_-gDqCNZqqdapbx5ykQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/trinity-rep-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -604,46 +603,6 @@
  ],
  "reviews": []
 },{
- "name": "The Arcade Providence",
- "address": "65 Weybosset St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/WLZSxAqcWwBnthD-jOPaug/o.jpg"
- ],
- "tags": [
-  "historic"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-arcade-providence-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Farm Fresh Rhode Island",
- "address": "1005 Main St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/oupzloH3VZYyH0-NSXQ0Ug/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/farm-fresh-rhode-island-pawtucket?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "RISD Nature Lab",
  "address": "13 Waterman St",
  "avg_visitor_review": [
@@ -666,6 +625,28 @@
  ],
  "reviews": []
 },{
+ "name": "F\u00eate Music Hall",
+ "address": "103 Dike St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/JKZOW7qHG_J7FdKIPwpHKA/o.jpg"
+ ],
+ "tags": [
+  "music",
+  "affordable",
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/f%C3%AAte-music-hall-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Osamequin Wildlife Sanctuary",
  "address": "Wampanoag Trl",
  "avg_visitor_review": [
@@ -682,6 +663,24 @@
  ],
  "link": [
   "https://www.yelp.com/biz/osamequin-wildlife-sanctuary-barrington?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Haunted Labyrinth",
+ "address": "804 Dyer Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/3osIzZ-j0uvxW9HTYKfzDg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/haunted-labyrinth-cranston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -734,14 +733,34 @@
   "https://s3-media1.fl.yelpcdn.com/bphoto/1ycCehabs0R7W_HEYa9uow/o.jpg"
  ],
  "tags": [
-  "delicious",
   "creative",
   "food",
+  "delicious",
   "food",
   "food"
  ],
  "link": [
   "https://www.yelp.com/biz/the-grange-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Breaktime Bowl and Bar",
+ "address": "999 Main St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/HbNy6fuR6X4mGGp151bX_w/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/breaktime-bowl-and-bar-pawtucket?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -779,36 +798,10 @@
   "https://s3-media2.fl.yelpcdn.com/bphoto/xVPcb0S0z1BzF8x1oFP6NA/o.jpg"
  ],
  "tags": [
-  "food",
   "food"
  ],
  "link": [
   "https://www.yelp.com/biz/massimo-restaurant-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Experience Rhode Island Tours",
- "address": "1 Sabin St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/bAxCriDQpzPzK3poNzi3eA/o.jpg"
- ],
- "tags": [
-  "knowledgeable",
-  "tour",
-  "tour",
-  "family",
-  "knowledgeable",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/experience-rhode-island-tours-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -846,8 +839,8 @@
   "https://s3-media3.fl.yelpcdn.com/bphoto/E_D7q4VjfQ5Mtio1KKIJ8Q/o.jpg"
  ],
  "tags": [
-  "free",
   "knowledgeable",
+  "free",
   "walk",
   "tour"
  ],
@@ -871,6 +864,26 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/tiny-bar-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Farm Fresh Rhode Island",
+ "address": "1005 Main St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/oupzloH3VZYyH0-NSXQ0Ug/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/farm-fresh-rhode-island-pawtucket?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -934,38 +947,20 @@
  ],
  "reviews": []
 },{
- "name": "Haunted Labyrinth",
- "address": "804 Dyer Ave",
+ "name": "The Arcade Providence",
+ "address": "65 Weybosset St",
  "avg_visitor_review": [
-  4.5
+  3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/3osIzZ-j0uvxW9HTYKfzDg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/haunted-labyrinth-cranston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Breaktime Bowl and Bar",
- "address": "999 Main St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/HbNy6fuR6X4mGGp151bX_w/o.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/WLZSxAqcWwBnthD-jOPaug/o.jpg"
  ],
  "tags": [
-  "unique"
+  "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/breaktime-bowl-and-bar-pawtucket?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.yelp.com/biz/the-arcade-providence-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -990,40 +985,18 @@
  ],
  "reviews": []
 },{
- "name": "Brown Design Workshop",
- "address": "355 Brook St",
+ "name": "Providence Paintball",
+ "address": "199 Thurston St",
  "avg_visitor_review": [
-  5.0
+  4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/_78x2csRPV-Aw6ZGRm4ZqA/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Ny1h3B4NILK64e3L3RTutg/o.jpg"
  ],
  "tags": [],
  "link": [
-  "https://www.yelp.com/biz/brown-design-workshop-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "F\u00eate Music Hall",
- "address": "103 Dike St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/JKZOW7qHG_J7FdKIPwpHKA/o.jpg"
- ],
- "tags": [
-  "music",
-  "affordable",
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/f%C3%AAte-music-hall-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.yelp.com/biz/providence-paintball-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1046,6 +1019,31 @@
  ],
  "link": [
   "https://www.yelp.com/biz/annmary-brown-memorial-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Experience Rhode Island Tours",
+ "address": "1 Sabin St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/bAxCriDQpzPzK3poNzi3eA/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "tour",
+  "family",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/experience-rhode-island-tours-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1090,20 +1088,21 @@
  ],
  "reviews": []
 },{
- "name": "Dave & Buster's - Temporarily Closed",
- "address": "40 Providence Pl",
+ "name": "Bayberry Beer Hall",
+ "address": "381 W Fountain St",
  "avg_visitor_review": [
-  3.0
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/M7j7pODJ8t0LSNt2oRIHyw/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/pmcnhZ8apC_mLQ8-rnfOTw/o.jpg"
  ],
  "tags": [
-  "kids"
+  "food",
+  "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/dave-and-busters-temporarily-closed-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.yelp.com/biz/bayberry-beer-hall-providence?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"

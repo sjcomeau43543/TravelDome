@@ -1,0 +1,745 @@
+[
+{
+ "name": "Endless Summer Paddle and Coffee",
+ "address": "1301 Frankfort Ave",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/uOJAGAQeionpHTdnN2tt3Q/o.jpg",
+ "tags": [
+  "delicious"
+ ],
+ "link": "https://www.yelp.com/biz/endless-summer-paddle-and-coffee-louisville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a nice and convenient spot for the residents and has a nice view for non residents. Unfortunately I can't give it 5 starts because every time I have...",
+  "What a spot! Delicious coffee and fun people! This isn't just your average coffee shop. Step into this modern, rustic shop inside a fitness center and you...",
+  "Oh my gosh!  This place is not only awesome, but it is so needed on the Waterfront!\n\nEndless Paddle just moved into the Waterside Apartments on River Road...."
+ ]
+},{
+ "name": "T.N. Sullivan Wildlife Management Area",
+ "address": "1262 Sullivan Ln",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/vMJfg9bwGf82LUGBgALAPw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/t-n-sullivan-wildlife-management-area-frankfort-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a great public Wildlife Management Area that is just a little over an hour's drive from Lexington. They allow guns in this WMA (not all do). We have..."
+ ]
+},{
+ "name": "Amsden Bourbon Bar",
+ "address": "106 Court St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/P3GjKbmqOF4d3vMF_EdJvw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/amsden-bourbon-bar-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great stop in between two distillery tours. Over 200 Bourbon labels to choose from or in house created cocktails. We saw Amsden is several magazines as a...",
+  "Awesome quaint little bar w/ the most fitting racehorse decor.  Brick walls, Chesterfield tufted leather couch, clean bathroom w/ beautiful tile,...",
+  "What a GREAT Bourbon Bar!!!! Locals are friendly and welcoming.  The staff are so nice and very attentive.  The ambiance is very nice.  Very classy place!"
+ ]
+},{
+ "name": "Juniper Hill Family Aquatic Center",
+ "address": "800 Louisville Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/0Rn3ZK7PHd1V6RoBE1Hdqw/o.jpg",
+ "tags": [
+  "kids",
+  "parks"
+ ],
+ "link": "https://www.yelp.com/biz/juniper-hill-family-aquatic-center-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "It's really fun they just got New playground equipment very fun for kids that are a bit older my kids were entertained for hours",
+  "The park was clean, the playground area was nice.\n\nThe parks pretty loud since there a runway right next to it. The parking lot/driveway is confusing.",
+  "This was our second visit... our first time last summer was great. They have a shallow area for little ones and 2 water slides perfect for my three year..."
+ ]
+},{
+ "name": "The Farm Stead Market",
+ "address": "10712 Castle Hwy",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/fj8QqVuEhNKnKRHSO8txgA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-farm-stead-market-pleasureville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is the absolute best little market. Their deli is amazing and their spices are extensive. So glad we stumbled upon this hidden gem.",
+  "There's a huge selection of chips and deli meats as well as Amish made furniture and clocks, candies, chocolates, puzzles, books. It's basically a small...",
+  "Great place to get meats and cheeses. I live just down the road (in the middle of nowhere) from this Amish store, and I love it. They also make good sandwiches."
+ ]
+},{
+ "name": "Steele Dragon Brewery Tours",
+ "address": null,
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/TeemPdvsYZ0dVgpLkmmcPg/o.jpg",
+ "tags": [
+  "brewery",
+  "tour",
+  "brewery",
+  "tour",
+  "knowledgeable",
+  "brewery",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/steele-dragon-brewery-tours-lexington?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Our school recently booked a private tour with Steele Dragon Brewery and we all had a great time!!\nYou can tell that John and Traci are passionate about...",
+  "I had such a wonderful time on this tour! We got to go to a brewery, cidery, and distillery so there was a great variety and something for everyone to...",
+  "Had a phenomenal time with Steele Dragon Brewery Tours. Our tour guide was very knowledgeable and educated our group about the brewing processes at each..."
+ ]
+},{
+ "name": "Pedego Electric Bikes Louisville",
+ "address": "1403 Bardstown Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/GFmQTzjOrxOJB5EULzRUBQ/o.jpg",
+ "tags": [
+  "parks",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/pedego-electric-bikes-louisville-louisville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "AWESOME SHOP. Friendly and very helpful. I took my regular HUFFY in for basic tire repair and he took great care of me and made sure my bike was in decent...",
+  "If you are going to visit Louisville, this is the best way to get introduced to \"Louisville by the locals\" and find the really good parks, neighborhoods,...",
+  "We had a great experience on bike tour with Dan and Frank the owner was very accomdating. Did 2 hour bike tour of cherokee park, pedestrian bridge to..."
+ ]
+},{
+ "name": "Tha Bus Shizzle",
+ "address": "96 Beechwood Ave",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/VUWzHbvSGNY0TCtYkenRKQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/tha-bus-shizzle-shelbyville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What more can be said?  Tha Bus Shizzle lives up to its name.  Found Terry when planning a trip down the bourbon trail for a 30th birthday party.  Nothing...",
+  "Terry was supposed to pick us up and never showed up. He claimed he dropped his phone but he had the address and could have still come and picked us up....",
+  "The Shizzlle is a roll of the dice. We came in from out of town and were depending on The Shizzle's services this weekend. We confirmed our trip with him..."
+ ]
+},{
+ "name": "Woodford Theatre",
+ "address": "275 Beasley Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/ENPmcfPZFbEP2UUb79s6uQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/woodford-theatre-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I cannot day enough good things about this place. \n\nI've been to so many community theaters in the past and everything looks good but it's all so..."
+ ]
+},{
+ "name": "Kennydid",
+ "address": "137 E Main St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/v6U6NBnIP00Kjoc3RuhelQ/o.jpg",
+ "tags": [
+  "art"
+ ],
+ "link": "https://www.yelp.com/biz/kennydid-midway-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I stopped in here a few months ago while visiting Midway. It's a great little gallery. There are a lot of beautiful Kentucky prints and a good variety of...",
+  "Kennydid Gallery of Photographic Art moved recently to a new location by the Gray Goose. Owner Kenny Smith added some new art and artists to his existing..."
+ ]
+},{
+ "name": "Hannah's Sportsbar and Grill",
+ "address": "1010 Chico Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/hAIMcWwvJvRqqXbAFei2wg/o.jpg",
+ "tags": [
+  "unique"
+ ],
+ "link": "https://www.yelp.com/biz/hannahs-sportsbar-and-grill-lawrenceburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Came for the Lawrenceburger week. Great place, lots of seating, entertainment all the time, pool table, bowling game, cornhole. Right on the little pond,...",
+  "Hannah's is one of the newer spots in Lawrenceburg and complements the existing restaurants by offer some unique events, like corn hole tournaments. They..."
+ ]
+},{
+ "name": "Kentucky Bourbon Boys",
+ "address": null,
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/JrLk4_OTXf1Azutl7Z_ZJw/o.jpg",
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/kentucky-bourbon-boys-louisville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Tim did a great job working with me to book a tour for a bachelor party of 8.  We went to Four Roses, Three Boys, Woodford Reserve and a bonus stop.  I...",
+  "We had a guy's only weekend that consisted of us wanting to tour some distilleries in the area.  I emailed KBB and got an immediate response.  We decided to...",
+  "Just returned home after two days of tours with Kentucky Bourbon Boys. A group of friends & I paid our first visit to the Bourbon Trail. For two days, we..."
+ ]
+},{
+ "name": "Horse Cents",
+ "address": "199 Markham Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/wqRenQPZ2Gv6xvXOoSnPfQ/o.jpg",
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": "https://www.yelp.com/biz/horse-cents-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Has everything you could need for good prices and has super friendly knowledgeable staff!",
+  "This store seems to have everything you could need for a horse. Saddles, bridles, leads, gloves (for you, not the horse), antibiotics even. My FiL and I..."
+ ]
+},{
+ "name": "Travel the Trail",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/W0r5eTA9-bEai8zP-xJPGw/o.jpg",
+ "tags": [
+  "knowledgeable",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/travel-the-trail-louisville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "A group of 13 friends used Travel the Trail for a bachelor party outing on Saturday 6/1. We had a great time! Lee was very knowledgeable, fun, and friendly....",
+  "We were so fortunate to be referred to Travel the Trail!  When I called Lee, I let him know we had a very limited window of time (essentially the morning...",
+  "Lee is the best! I gave him a call the day before we were planning to tour and he quickly accommodated us and threw together an excellent itinerary. He's..."
+ ]
+},{
+ "name": "Johnny Carino's",
+ "address": "1303 US Hwy 127 S",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/vBPtRIV2ed9r-w8URRoIZQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/johnny-carinos-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I've been coming to Johnny Carino's since it first opened, long before I got a Yelp account. The half price bottles of wine on Sunday and Wednesday are...",
+  "i had their new $10 deal w/bev\nitalian nachos, 6oz sirloin steak, & very basic pasta or fries.\n* the advertising states steak meal all day, every day, 4 for...",
+  "Second timing trying out Johnny Carino's, they didn't have Calamari but I'd say that's because of corona. The chicken Parmesan was a very big portion and..."
+ ]
+},{
+ "name": "Agility Gymnastics",
+ "address": "160 Frankfort St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/agility-gymnastics-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We signed our two-year old daughter up for a term at Agility Gymnastics and have been so impressed with the facility. Her teachers are so very kind and..."
+ ]
+},{
+ "name": "Parlay's Tavern",
+ "address": "1410 Versailles Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/zImHLaXgFWiLa8CC9CQLzA/o.jpg",
+ "tags": [
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/parlays-tavern-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What a blast!  My husband and I were in town for a conference and looking for a place to hear music and do some dancing. Parley's did not let us down. They..."
+ ]
+},{
+ "name": "Lakeview Springs Golf",
+ "address": "112 Park Ave",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/pzgDOy3RDp3RpZZzupXrWQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/lakeview-springs-golf-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I came out to Kentucky for a wedding last summer. During the course of the weekend, we found this spot when looking to kill a few hours. \n\nConditions are..."
+ ]
+},{
+ "name": "Frankfort Yoga Studio, Ayurveda Health & Wellness Center",
+ "address": "306 W Main St",
+ "avg_visitor_review": 1.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/xcPmI2-YHdYKknHbg3qIzg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/frankfort-yoga-studio-ayurveda-health-and-wellness-center-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My friend and I both bought Groupons to for 10 yoga classes at the Frankfort Yoga Studio.  We are both pregnant and wanted to take the prenatal classes and..."
+ ]
+},{
+ "name": "CopperTop Tours",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ha0CjsC5PBWXEAm8JjuWfg/o.jpg",
+ "tags": [
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/coppertop-tours-bardstown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was planning my husband's 60th birthday and wanted to take him on the Bourbon Trail. We had a few friends join us. We wanted to do 3 days on the tour.  I..."
+ ]
+},{
+ "name": "Berry Hill Mansion",
+ "address": "700 Louisville Rd",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/berry-hill-mansion-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "First, if the temperature outside is below 50\u00b0F, then dress for the outside weather when going indoors. My office had an all-day conference in the beautiful..."
+ ]
+},{
+ "name": "Coolmore America - Ashford Stud",
+ "address": "5095 Frankfort Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/4Z1KACrbENGxDXAZFLgzng/o.jpg",
+ "tags": [
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/coolmore-america-ashford-stud-versailles-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "What a beautiful stud farm. We took advantage of the Visit Horse Country Meet your neighbors weekend. Robyn was our guide and she was wonderful. Very...",
+  "Like its counterparts in Ireland and Australia, Ashford Stud is dedicated to breeding and raising top Thoroughbred racehorses. Home to seventeen stallions,...",
+  "What a privilege to meet Triple Crown winner American Pharoah on the Coolmore Ashford tour!  It took about a year to finally get tickets but it was well..."
+ ]
+},{
+ "name": "Beef 'O' Brady's",
+ "address": "111 Westridge Dr",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/vG5ok8site_a1Ykf9nAaZA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/beef-o-bradys-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Packed house tonight but no wait for a party of 4 or less. Haven't been here in years. Parking is difficult just because of the way it's situated. We got...",
+  "First time at this Beefs in Frankfort. We tried the Buffalo Chicken Dip. My wife tried California Turkey Meal. She said it tastes great. I tried the Trio...",
+  "watched georgia lose to lsu here so it wasn't a great night. didn't get arrested and ate some good wings though. I wore my letterman jacket into the..."
+ ]
+},{
+ "name": "Damselfly Galleries",
+ "address": "126 E Main St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/rBjzKmXOHhZM46Fi1Iea3w/o.jpg",
+ "tags": [
+  "art"
+ ],
+ "link": "https://www.yelp.com/biz/damselfly-galleries-midway?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Y'all got an IPhone there that I may have left around 3:00 just after purchasing a print of American Pharoah. Please call Patty at 304-633-5101 as soon as...",
+  "Was there for the first time today and loved it. Got a gorgeous bracelet and earrings. Very nice shop.",
+  "Love this gallery. So much fun to browse. Always find something I didn't know I needed until I saw it. Delightful selection of art - painting, sculpture,..."
+ ]
+},{
+ "name": "Elite Fitness",
+ "address": "193 Versailles Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/XzYxs3MQSr1Jrb7bi54y4A/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/elite-fitness-frankfort-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was staying in town while seeing the sights in/around Frankfort and the Bourbon Trail.  I like to visit different studios/gyms while traveling not only to...",
+  "Love this facility. From the moment we walked in we were welcomed. The staff is super friendly and helpful. Gym is very clean and has great workout..."
+ ]
+},{
+ "name": "South Hill Gallery",
+ "address": "1401 Versailles Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/XfP5XMsAiqA_TuZOAqCspQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/south-hill-gallery-lexington-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Top notch customer service and quality! I went here for the first time a couple weeks ago and their prices and quality rival ANY place I've ever been to for...",
+  "This is my favorite place to get things framed. It's obviously pricier than Michael's or Hobby Lobby, but you can't beat the quality and the level of...",
+  "Wonderful place to get items framed and pictures restored or copied.  Give them a challenge and they will come up with a wonderful solution.  If you want to..."
+ ]
+},{
+ "name": "CrossFit Frankfort",
+ "address": "105 Locust Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/SiLjRVY3wyYPjydvUSrINg/o.jpg",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/crossfit-frankfort-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Fabulous facility with great equipment and awesome Coaches. Nothing beats the supportive encouraging fun fitness family community you'll find here!"
+ ]
+},{
+ "name": "Brannon Stables",
+ "address": "5012 Iron Works Pike",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/AXk0YUirtqhiHPmIb5Fb9g/o.jpg",
+ "tags": [
+  "learn"
+ ],
+ "link": "https://www.yelp.com/biz/brannon-stables-lexington?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My daughter and I have taken lessons and boarded our horses here for fourteen years. Nancy has taken Jayna from a three years old beginner leadline Academy...",
+  "Booked horseback riding a Mont in advance for my wife's birthday.  Made it clear that we wanted to ride trails.  After getting saddled up we were lead to an...",
+  "I came to Lexington for a month from California looking for a place that could help me learn how to  ride horses. I had no experience (well maybe the state..."
+ ]
+},{
+ "name": "Capital Cellars",
+ "address": "227 W Broadway",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/-Q7cCqXHmPpGU_i2snIGVA/o.jpg",
+ "tags": [
+  "structure",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/capital-cellars-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Oh my I wish I lived in Frankfort now.  We were our way home to Indiana from North Carolina.  Wife wanted a salad for dinner and nobody in Frankfort offers...",
+  "This is a cute place with friendly employees but could benefit from a little more structure. They advertise serving food but, upon being asked around lunch...",
+  "Ok, what's not to like?  Amazing wine and bourbon selections, extremely knowledgeable staff AND a bar AND food!! We just had the best time here buying..."
+ ]
+},{
+ "name": "Buffalo Wild Wings",
+ "address": "111 Jett Blvd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/la6_zpvNBbWDUAHeGS_B4g/o.jpg",
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/buffalo-wild-wings-frankfort-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My family likes to gather at Buffalo Wild Wings (B doubWs). The staff is friendly and helpful. The food is good! It is a bit loud for my taste but it is a...",
+  "All BDubs are equal in their mediocrity. We normally come to a location to watch a game with friends. The food is always ok...  and waaaay over priced....",
+  "Let me say BDubs has finally stepped up their game. Bye bye paper boat bowls that your food is served on. You'll notice on the two pics I've posted they are..."
+ ]
+},{
+ "name": "Blackwood Stables",
+ "address": "1217 Hedden Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/blackwood-stables-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Blackwood Farm sits on 350 acres of rolling hills of the Bluegrass.  It is a beautiful, serene farm that specializes in breaking, training and..."
+ ]
+},{
+ "name": "Pegasus Distillery Experiences",
+ "address": "4711 Poplar Level Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/5K_Gy8y40qCx7Im0hRo69g/o.jpg",
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/pegasus-distillery-experiences-louisville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I booked a private bus with Pegasus for a \"design your own\" bourbon tour for a bachelor party group of 9, and they were great! The staff is knowledgeable in...",
+  "I was in Kentucky just two weeks ago and used Pegasus all weekend. I had two different drivers and they were both friendly and knowledgeable. There was some...",
+  "We took the Manhattan Tour this weekend and had the best time.  Our driver, Eli, went out of his way to make it an amazing day.  The tour was very..."
+ ]
+},{
+ "name": "CrossFit Unbridled",
+ "address": "1671 Twilight Trl",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/d6z81mTq7YX6pZ8BEqijvw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/crossfit-unbridled-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "A great place to get a great workout. The staff and athletes are very welcoming and offer a top-notch experience that keeps you wanting to come back for...",
+  "Great place for anyone looking to make the sport of fitness a lifestyle, just looking for a good introduction to crossfit, a community of health and fitness..."
+ ]
+},{
+ "name": "Gamerz Truck",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/kgOpSal2aXpEYizacnRY4Q/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/gamerz-truck-louisville-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Best birthday party experience ever! Booked them for a 10 year old that loves video games and every single kid there was so excited and loved every minute!..."
+ ]
+},{
+ "name": "Ashlynne Farm",
+ "address": "101 Victoria Way",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Mz_1N5uY4aumofmSElrlkQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/ashlynne-farm-georgetown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Karen is lovely and gives my daughter the one-on-one that she needs!  It may be a bit of a drive, but it is well worth it for the serious minded horse..."
+ ]
+},{
+ "name": "Lane's End",
+ "address": "1500 Midway Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/fb0cWeSeJLxw26yTIaMehw/o.jpg",
+ "tags": [
+  "history"
+ ],
+ "link": "https://www.yelp.com/biz/lanes-end-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Lane's End farm is another stunningly beautiful horse farm in the Lexington/Versailles, Kentucky area.  We visited last Friday 1/17/2020 and were amazed at...",
+  "Lane's End, owned by Mr. and Mrs. William S. Farish, is one of the world's premier Thoroughbred farms encompassing more than 2,300 acres in Woodford County...",
+  "Lanes End's history goes back to 1829 when a home was built on the property, through ownership of part of the land by a Confederate general.  General George..."
+ ]
+},{
+ "name": "Thoroughbred Limousine",
+ "address": "4300 Palm Springs Point",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/v9aHt_zb4m1GR5jhykA5AQ/o.jpg",
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": "https://www.yelp.com/biz/thoroughbred-limousine-lexington?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We had an excellent experience! Our driver Allen was on time, funny, knowledgeable and very helpful. At every stop he helped us make the most of our visit....",
+  "Great time yesterday with Thoroughbred. Was able to hit several distilleries and grab a great lunch. Dale our driver was awesome. Thanks thoroughbred.",
+  "If you want to get a top notch limo with awesome drivers,they are very helpful,courteous and caring. I think you will be happy with Thoroughbred Limo. The..."
+ ]
+},{
+ "name": "Jessie's Art Gallery & Custom Framing",
+ "address": "200 W 2nd St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/jessies-art-gallery-and-custom-framing-frankfort-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I went here after a recommendation to have a gift created for a supervisor that was moving forward with his career. \n\nMy supervisor had a previous badge..."
+ ]
+},{
+ "name": "Pegasus Global",
+ "address": "4711 Poplar Level Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/XF8Sd6Q9Yz5zts3UvZCEFQ/o.jpg",
+ "tags": [
+  "tour"
+ ],
+ "link": "https://www.yelp.com/biz/pegasus-global-louisville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "R&R has a great fleet, staff and events!\n\nI'm very impressed with my recent booking with R&R. I took part in a group trip to 5 wineries throughout southern...",
+  "I looked at a few limo/tour companies to do a trip around the Bourbon Trail with six friends. We went with R&R and it was absolutely fantastic--above and...",
+  "Booked an 8-hour, 8 passenger limo for a tour through bourbon country after a great conversation with their very helpful schedulers. They took time to..."
+ ]
+},{
+ "name": "Locals Tavern",
+ "address": "189 Frankfort St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/locals-tavern-versailles?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My friends and I had a blast here last Friday night. We were in Kentucky for a wedding and were absolutely clueless about where to hang out for the evening..."
+ ]
+},{
+ "name": "Rose's Pub",
+ "address": "150 Elkhorn Ct",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/LrQZSAfkB-nBD39Z9JEnoQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/roses-pub-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I was not here for very long but I enjoyed my time while I was there. The beer on tap is standard but it is filled from the bottom of the glass. You will...",
+  "We live down the road from Rose's and have been watching the build for the couple months. We wanted to try it out, so today we called to see if they were...",
+  "Rose's Pub is a neat and clean bar and grill! It was perfect to watch UK  & our hometown star Wandale Robinson!"
+ ]
+},{
+ "name": "Office Pub & Deli",
+ "address": "614 Comanche Trl",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/UQkDN4MIdZ6conI-jRjLYg/o.jpg",
+ "tags": [
+  "delicious",
+  "eat",
+  "family",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/office-pub-and-deli-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I've lived in Franklin County for years and had yet to try this place until recently. Everything is delicious and the service has been great both times I've...",
+  "It's been a year since I've ate here but it was always amazing and service is good. Great little place to grab a bite to eat. Friendly service too!",
+  "Great local place to go hang out at with your friends and family. They have a wide selection of beer and alcohol. The food there is also great and they have..."
+ ]
+},{
+ "name": "Bourbon Street On Main",
+ "address": "204 S Main St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/EHiYrSEBQGDUGaG4JKySpA/o.jpg",
+ "tags": [
+  "music",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/bourbon-street-on-main-lawrenceburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Three of us went for lunch New Year's Day. Owner was there. A cool place to hang out with cold beer. We started with the fried mushrooms with horseradish...",
+  "Bourbon Street has a little bit of everything. A full service bar with pool tables on one side. A dining area with a stage for live music, karaoke, comedy...",
+  "Great place to stop and get a beer and burger!  Service is great. We were waited on promptly. And didn't have to wait long for our food. We will visit again."
+ ]
+},{
+ "name": "Frankfort Country Club",
+ "address": "101 Duntreath St",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/frankfort-country-club-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Food was good as I had the salmon and it was well prepared. Waitress was attentive and did a wonderful job with the group. The reason for the 3 stars is the..."
+ ]
+},{
+ "name": "Chili's",
+ "address": "345 Leonardwood Rd",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/5buDwvp-YY5Y2696mjgwdQ/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/chilis-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We enjoy the food at Chili's and since Hubby received a Chili's gift card from his Secret Santa, he wanted to go there for a date night. \nWe split the Spicy...",
+  "To begin waitress was nice and that was the only good thing about our dinner. They ran out of chips so no chips and salsa. Out of three different meals we...",
+  "I used to love Chilis years ago and seems they have done some serious changes to happy hour. With all the options they have on tap they only offer domestic..."
+ ]
+},{
+ "name": "Christian Martial Arts",
+ "address": "85 Anderson Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "learn"
+ ],
+ "link": "https://www.yelp.com/biz/christian-martial-arts-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I have been studying with Bill Durbin, the Soke, or Headmaster, of Kiyojute Ryu Kempo, for 27 years. He runs his classes like clockwork, is very...",
+  "An outstanding dojo.  You could study here for decades and still learn more every day.\n\nI started studying here several years ago, and am quite satisfied..."
+ ]
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "1307 US 127 S",
+ "avg_visitor_review": 2.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/eLHNvcJT8muIzy7nxGOPOw/o.jpg",
+ "tags": [
+  "walking"
+ ],
+ "link": "https://www.yelp.com/biz/applebees-grill-bar-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This was not my first visit to a Applebee's, but my first time to this location. First off our group of 8 was seated very promptly due to the staff putting...",
+  "I get why the low rating.  Though not as slow as a nearby similar chain, the wait service is especially inattentive.  First, no flatware, no napkins.  Then...",
+  "Pretty hard to mess up Applebee's but this place finds a way to do it just about every time. This experience was walking in for a table of 4. There were..."
+ ]
+},{
+ "name": "Guru Fitness",
+ "address": "363 Versailles Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/T8zyd_vm-D65bbGDrGeL7g/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/guru-fitness-frankfort?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I've been a part of GURU Fitness for almost a year now. All of the trainers are so nice and helpful. They'll push you to do your best and work hard. The gym..."
+ ]
+},{
+ "name": "Fit Time For Women",
+ "address": "102 Brighton Park Blvd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/N_BHjy9Rv8UW1dnTTHba4A/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/fit-time-for-women-frankfort-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "If you're looking for a gym, free from posturing, showboating and all other negative gym people and situations, then Fit Time is for you! This women only...",
+  "There's something for everyone at Fit-Time! The staff is superb, there's a variety of classes to choose from, the location is convenient and they have a...",
+  "Love this place! The staff and gym members are the most kind, and the classes are awesome!"
+ ]
+},{
+ "name": "Anderson County Community Park",
+ "address": "1026 County Park Rd",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/HVuirWhLz98l7Oqlqbjqtw/o.jpg",
+ "tags": [
+  "walking",
+  "field"
+ ],
+ "link": "https://www.yelp.com/biz/anderson-county-community-park-lawrenceburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We were here for lunch break for a volunteer event. It was a nice and spacious park. It was quite for a\nSaturday, saw a runner and a couple people walking...",
+  "Good atmosphere, very rude umpires and staff. The field was completely trashed and when we wanted someone to fix it, the man addressed us with \"are you..."
+ ]
+}]

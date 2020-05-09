@@ -1,0 +1,33 @@
+[
+{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//appa//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nThe Appalachian Trail is a 2,180+ mile long public footpath that traverses the scenic, wooded, pastoral, wild, and culturally resonant lands of the Appalachian Mountains. Conceived in 1921, built by private citizens, and completed in 1937, today the trail is managed by the National Park Service, US Forest Service, Appalachian Trail Conservancy, numerous state agencies and thousands of volunteers.\n"
+ ]
+},{
+ "name": "Saint-Gaudens",
+ "address": "\n139 Saint Gaudens Road\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/saga/crop16_9/C288303B-915B-85BF-705871C7806EFA7A.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": "https://www.nps.gov//saga//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nAugustus Saint-Gaudens, one of America's greatest sculptors lived here seasonally starting in 1885, and year-round 1900 until his death in 1907. Experience the park grounds, where several of Saint-Gaudens bronze sculptures are on view throughout the year, & trails wind through the woods. Learn more about the park.\n"
+ ]
+}]

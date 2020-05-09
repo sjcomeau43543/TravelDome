@@ -1,0 +1,79 @@
+[
+{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//lecl//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nThe Lewis and Clark National Historic Trail is approximately 4,900 miles long, extending from Pittsburgh, Pennsylvania, to the mouth of the Columbia River, near present day Astoria, Oregon.  It follows the historic outbound and inbound routes of the Lewis and Clark Expedition as well as the preparatory section from Pittsburgh, Pennsylvania to Wood River, Illinois.\n"
+ ]
+},{
+ "name": "Lincoln Home",
+ "address": "\n413 S. 8th Street\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/liho/crop16_9/C812ABA0-0F46-5662-6C6E4226069DC81B.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//liho//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nAbraham Lincoln believed in the ideal that everyone in America should have the opportunity to improve their economic and social condition.  Lincoln\u2019s life was the embodiment of that idea.  We know him as the sixteenth president but he was also a spouse, parent, and neighbor who experienced the same hopes, dreams, and challenges of life that are still experienced by many people today.\n"
+ ]
+},{
+ "name": "Mormon Pioneer",
+ "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": "https://www.nps.gov//mopi//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nExplore the Mormon Pioneer National Historic Trail across five states to see the 1,300-mile route traveled by Mormons who fled Nauvoo, Illinois, to the Great Salt Lake Valley in 1846-1847.\n"
+ ]
+},{
+ "name": "Pullman",
+ "address": "\n11141 S. Cottage Grove\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/pull/crop16_9/85180286-F212-3727-C2BB219A4DE409E6.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//pull//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nIn a growing Chicago neighborhood, diverse people and stories intertwine. All were seeking opportunity. Some succeeded. Others were limited\u2014by race, gender, or economic status. Their stories came together in Pullman, a planned community famed for its urban design and architecture.\n"
+ ]
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": "",
+ "avg_time_spent": null,
+ "photo_location": "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop",
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": "https://www.nps.gov//trte//index.htm",
+ "source": "NPS",
+ "reviews": [
+  "\nRemember and commemorate the survival of the Cherokee people, forcefully removed from their homelands in Georgia, Alabama, and Tennessee to live in Indian Territory, now Oklahoma. They traveled by foot, horse, wagon, or steamboat in 1838-1839.\n"
+ ]
+}]

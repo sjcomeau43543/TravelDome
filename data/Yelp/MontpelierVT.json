@@ -1,0 +1,586 @@
+[
+{
+ "name": "Paramount Theatre",
+ "address": "241 N Main St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "family"
+ ],
+ "link": "https://www.yelp.com/biz/paramount-theatre-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The Paramount is a treasure. If you just go in to look it's worth it. This well kept up 1914 theater is a joy to behold. and an architectural gem for...",
+  "Usually a fine movie theater, however had an unfortunate experience this week. I took my family to see a film on Tuesday evening for their $5 deal. We...",
+  "OK, honestly my review is a little tainted.  I typically HATE going to the movies, but it was a Tuesday night, a tornado warning and there is major..."
+ ]
+},{
+ "name": "Bicycle Express",
+ "address": "23 Commercial Dr",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/eVMFr4-ynN2BUsN63i7avQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/bicycle-express-northfield-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "During covid 19 lockdown these guys ran a safe and super helpful operation. They helped me get set up with a bike and were smart, honest, and all around...",
+  "Noah and Matt have helped with making sure I got the best possible deal for all of the items that I bought for my bike.  They gave expert advice and service...",
+  "Nicest guys and great little shop. Friendly and well stocked. Stop in and you won't be disappointed."
+ ]
+},{
+ "name": "The Blue Stone",
+ "address": "15 Stowe St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/ym1g_NLRh1nwDms298HNdQ/o.jpg",
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/the-blue-stone-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Hit the spot and then some. Good food and great ambiance. I look forward to more meals someday.",
+  "Nice beer , ok food . Very nice beet with a very distinctive crafted taste. I set on the bar. The bartender was very professional. Ordered the Caesar salad...",
+  "After looking at all of the positive reviews and gorgeous pictures of pizza at The Blue Stone earlier this winter, I was eager to bring my friends here..."
+ ]
+},{
+ "name": "Embodied",
+ "address": "7 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Q6ZyVxs_rwnen1mwifsoew/o.jpg",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/embodied-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Embodied offers a full range of classes and outstanding teachers. It offers a mix of styles and convenient class times, and they also offer two+ hour yoga...",
+  "Beautiful studio, great teachers! Lots of different class options, levels, and styles. Drop-in $15/$12 students & seniors.",
+  "Amazing and welcoming studio with great teachers. They also provide free mats, props and filtered water. Best yoga in Montpelier!"
+ ]
+},{
+ "name": "Waterbury Community Path",
+ "address": "",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/NAnQV4H4KEKbPL6StfdVrQ/o.jpg",
+ "tags": [
+  "walking"
+ ],
+ "link": "https://www.yelp.com/biz/waterbury-community-path-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "AKA Waterbury Rec Path.  It's a nice, short walking path that starts near the Park and Ride.  The sign for the path is small, so keep an eye out for it on..."
+ ]
+},{
+ "name": "First in Fitness",
+ "address": "652 Granger Rd",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/dsbNqt5SWGDqhV9-TprVGQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/first-in-fitness-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "We love this pool!  They opens very early and close very late (except holidays & Sundays).  Only few people in the water so my boy swam 2 hours lap swim....",
+  "Best all around gym in Central VT! The staff is friendly, the other members support one another and you never feel like you're being judge. The pool and...",
+  "I bought a day pass for $16.95 to try out the pool today.  I swam for about 10 minutes.  The pool (being the only one in the area) is a huge disappointment...."
+ ]
+},{
+ "name": "Grand View Winery",
+ "address": "3200 Waterbury Stowe Rd",
+ "avg_visitor_review": 2.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/8xz3TFMBLLt-ALHmkC0urQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/grand-view-winery-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This vineyard must use Vermonts prison return to work program. That is the only reason they would employ some one so awkward and angry. Or, she just quit...",
+  "Okay.\n\nFirst, the man at the counter was very friendly and pleasant and conversed with us throughout our time there.\n\nThis is the thing. It's not quite a...",
+  "Mostly forgettable wines.  Server was on phone when we entered and made us wait.\nHad lunch - the buffalo wrap was served cold with the buffalo sauce on it,..."
+ ]
+},{
+ "name": "Burlington Van & Shuttle Service",
+ "address": "135 Waverly Cir",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/CfID_wAhbzuHYsK1q5P7Cg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/burlington-van-and-shuttle-service-colchester-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Burlington Van and Shuttle Service is a professionally run, accountable, and highly communicative company with an awesome gentleman at the helm. Therein,...",
+  "Ted was wonderful, and he provided premium service on our wedding day. He arrived early, and he was professional and kind. He patiently waited while we took...",
+  "Ted really is as good as it gets! We were in a pinch trying to find a way to get a handful of wedding guests from Burlington to our house in Cornwall and..."
+ ]
+},{
+ "name": "Kate Ruddle Studio",
+ "address": "",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/kate-ruddle-studio-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I LOVED taking Kate's Studio Drawing Class!\n\n*Awesome space (in an artist loft building with a huge wall of light and high ceilings)\n\n*Wonderful teaching...",
+  "A friend and I took a sewing lesson from Kate at her studio. I can't recommend her highly enough! It was the perfect balance of casual and structured (more...",
+  "I have not taken a private lesson at Kate's studio yet. However I did take a class with her at Piedmont Adult School, and she is amazing. Her pedagogy was..."
+ ]
+},{
+ "name": "The Blue Stone",
+ "address": "83 Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/RWkHqVUoyDIB-q3rOYJ4Kw/o.jpg",
+ "tags": [
+  "food",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/the-blue-stone-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "bomb ass poutine. they also have heady toppers which was nice. i highly recommend this restaraunt\nserver is super nice",
+  "I think this place has straitened out the issues I had last time. I had a great burger. Cooked perfectly! Nice salad too. Friend's Pizza was really good as...",
+  "Everything about this place ruled. Great music , great vibe , great staff , perfect food, fair prices. Had poutine , calamari and fish tacos. All..."
+ ]
+},{
+ "name": "The Reservoir",
+ "address": "1 S Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/82jw27e2ahLV7BLhi0FxQw/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-reservoir-waterbury-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "The Reservoir is a great restaurant right at the main intersection in Downtown Waterbury.  We are out of town visitors and visited here for the first time...",
+  "Egg rolls. Dude. So good. Sooooooo good. We got a bunch of apps. Mac and cheese, solid. Poutine, damn.  Korean bbq wings...super spicy. Almost to the level...",
+  "We were seated immediately. Tonight I had a Sip O Sunshine by Lawsons and my wife had the green state lager. And we tried the small plates of Brussels..."
+ ]
+},{
+ "name": "Geezum Crow Yoga",
+ "address": "37 Elm St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/geezum-crow-yoga-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is my home studio, and I absolutely love it.  I've practiced in several dozen studios across the country, and like Geezum Crow the best not only..."
+ ]
+},{
+ "name": "Sunrise Gymnastics",
+ "address": "654 Granger Rd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/4uQnwc4s-j4sjVZNvTuYoA/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/sunrise-gymnastics-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I think the response to someone's bad experience that this place wrote was immature and defensive. It seems there are 3 reviews and 2 are the same idea bad....",
+  "The man who collects the very expensive fee is quite rude to say the least.  Hovering over people is an understatement.  The instructor for the little ones...",
+  "I love Sunrise Gymnastics! My daughter has been going there for summer camp and classes for about four years. Stano, the owner, is the absolute best. He has..."
+ ]
+},{
+ "name": "Moruzzi's Lounge",
+ "address": "8 S Main St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/IYlI2ErFZ9pjU_wt2S47vQ/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/moruzzis-lounge-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I came here on a whim just a half hour before they closed for the night. The band was winding down but the bartender was more than happy to pour us our..."
+ ]
+},{
+ "name": "One Studio Dance & Yoga",
+ "address": "2 Elm St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/one-studio-dance-and-yoga-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This is a wonderful place! Full of kind, caring people. After being turned down by 2 other ballet schools, my daughter with cerebral palsy was welcomed and..."
+ ]
+},{
+ "name": "Whammy Bar @ Maple Corner Store",
+ "address": "31 West County Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/n2qMewm3_7TsQ59HoeYlMw/o.jpg",
+ "tags": [
+  "music",
+  "family",
+  "music"
+ ],
+ "link": "https://www.yelp.com/biz/whammy-bar-maple-corner-store-calais?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Some of the best Folk and Jazz in Vermont is played here. From unknowns to local virtuosos,  this is the best place to listen and Relaaaaxxxx!  The music...",
+  "This relatively new brew pub is the perfect complement to the Maple Corner Store and surrounding area. Its an intimate space with an emphasis on great...",
+  "This family run classy convenience store decided to pick itself up by its boot straps and ad an awesome option to a small tight knit community. Music,..."
+ ]
+},{
+ "name": "Om Studio",
+ "address": "26 State St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/om-studio-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I must admit, I'm terribly biased as Lori has been my Acro-Yoga mentor since early 2015. Also, I don't believe in 5 stars. \n\nLori is the most authentically..."
+ ]
+},{
+ "name": "Montpelier Elks Country Club",
+ "address": "203 Country Club Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/montpelier-elks-country-club-montpelier-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I just finished 9 holes of golf and finished the afternoon with an exceptional meal here. The prime rib was perfect and the view of the golf course couldn't..."
+ ]
+},{
+ "name": "Remarkable Home - Stowe Craft",
+ "address": "34 S Main St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/v-TveXpPNLN7QtFVJGwi0A/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/remarkable-home-stowe-craft-stowe-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Amazing shop! This is my favorite craftsman shop to visit in Vermont. They ALWAYS have something that delights my artistic senses and is a wonderful place...",
+  "Stowe Craft Design Center is a nice little shoppe I'd been to in my time. They stock a lot of unusual shelf and gift-type things, locally made glass,..."
+ ]
+},{
+ "name": "Frog Hollow Bikes",
+ "address": "74 Main St",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/LbHy3t41MRVw1LSbKFyE8w/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/frog-hollow-bikes-middlebury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Kick-ass service and cycling knowledge. These guys are always available for your questions or gear needs. I traded in three bikes here for a new one and I...",
+  "Hooked me up with s sound mtn bike for the afternoon and directions to some great local trails aka Trail Around Middlebury. Great customer service! Nice...",
+  "Alex already said what I would second, \"I wish this shop was in my town\" Don't be surprised when they have exactly what you are thinking you might never..."
+ ]
+},{
+ "name": "McGillicuddy's Irish Pub",
+ "address": "3 S Main St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/r3njiwCjURrA8Yz8tHnrMg/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/mcgillicuddys-irish-pub-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Hubby and I stumbled upon this new eatery in the area. Great food, waiter and beer. \n\nLots of construction going on in the street, so you may want to sit...",
+  "Just opened this week!  Right in the heart of Waterbury by the red light downtown.  Solid Irish fare and beer like the other locations in the region.  Had...",
+  "We have been here a few times and will continue to go back. The location is great. The menu is good and we've been seated right away each time - a plus with..."
+ ]
+},{
+ "name": "Ellie & Shirl's Simply Delicious",
+ "address": "14 N Main St",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/kRv6LUQ8QjyAHO9_zBZEJw/o.jpg",
+ "tags": [
+  "food",
+  "delicious",
+  "delicious"
+ ],
+ "link": "https://www.yelp.com/biz/ellie-and-shirls-simply-delicious-barre-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Chris really took care of us at lunch with great attitude and wonderful food! You got to check this place out! Not your every day sandwich venue. Amazing...",
+  "I absolutely adore Simply Delicious. They're new space in the Blanchard Block is beautiful and filled with fantastic gifts and treats and they're good is...",
+  "Lots of delicious candies! The lady behind the candy counter is very friendly, and nice. We even carried out a small conversation about my visit. And she..."
+ ]
+},{
+ "name": "Unadilla Theatre",
+ "address": "2673 E Hill Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/unadilla-theatre-calais?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "A summer evening spent at the Opera in Marshfield is as good as it gets!  Bring a picnic, sit on the well taken care of lawn, and enjoy one of the many...",
+  "A great quaint theater in the mountains of N Vermont with unusual, often brilliant performances. Very ambitious in its undertakings, very far from..."
+ ]
+},{
+ "name": "The Apple Core Gift Shop",
+ "address": "3600 Waterbury-Stowe Rd",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/the-apple-core-gift-shop-waterbury-center?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Accross the parking lot from the Cold Hollow Cider Mill you'll find this gift shop. Its quite a bit higher end (and less folksy) than the cider mill fare,...",
+  "Any chance of this place being a decent gift shop was ruined by the horrible stench of cigarette smoke! There were two employees standing outside on the..."
+ ]
+},{
+ "name": "Cornerstone Burger",
+ "address": "21 East St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/paSe8MI9r9xwG0G1k6SnoA/o.jpg",
+ "tags": [
+  "tasting",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/cornerstone-burger-northfield?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great place to hang out and get a great tasting meal.\nThe onion rings are the best.\nI loved the salad- so fresh and tasty.",
+  "I'm so happy we wondered and came upon this restaurant. I had the buffalo chicken Mac n cheese, with blue cheese, which was out of this world. My husband...",
+  "This review is a little hazy since I came here months ago and thought I had posted a review, but apparently not.\n\nThe food:  Burgers and fries are..."
+ ]
+},{
+ "name": "Country Club of Vermont",
+ "address": "2800 Country Club Rd",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/7re_GPQ_CUv0X2yQPjtUSg/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/country-club-of-vermont-waterbury-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This golf course is Vermont at its finest. The layout is spectacular, cut out from rolling hills and dense forests, with breathtaking views of The Green...",
+  "Spectacular layout.  One of my Top 10 favorite courses in the world due to variety and difficulty depending on tees selected.  Elevation changes,...",
+  "Beautiful golf course with wonderful views. Two very different nines. Front nine is kind of a links style with the back nine very typical of a VT mountain..."
+ ]
+},{
+ "name": "Snap Fitness Berlin",
+ "address": "1400 US Rt 302",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/Hi3eBdkxze5zWqfr6koMng/o.jpg",
+ "tags": [
+  "affordable",
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/snap-fitness-berlin-berlin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great affordable gym.  Have many Les Mills classes, free weights, and cardio equipment.  Open 24/7 for people with weird work schedules.",
+  "The biggest snap fitness Ive seen! Even have showers & dance room. I was surprise to see a bigger snap location in such a small town. But I loved it!"
+ ]
+},{
+ "name": "Langdon Street Tavern",
+ "address": "14 Langdon St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media4.fl.yelpcdn.com/bphoto/UrJWFUEa49lD6xnlUkVY6w/o.jpg",
+ "tags": [
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": "https://www.yelp.com/biz/langdon-street-tavern-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Service is awesome. Food is incredible. Best burger in town ( better than Buddies). Wings are cooked perfectly and the Thai Chili is the bomb. Will not...",
+  "A great tavern and a great bunch of people, Langdon provides a fun and comfortable atmosphere. They have a very large selection of burgers!  And a plenty of...",
+  "Awsome food! Great service! We shared the wings and my husband had chicken sandwich it was delicious! We will be back!!!"
+ ]
+},{
+ "name": "Quarry Kitchen & Spirits",
+ "address": "210 N Main St",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/y3NjFsuTqOO3G2X13lqwag/o.jpg",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/quarry-kitchen-and-spirits-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "So, into Barre VT we came for another great weekend of Comic Con Friends (Vermont Comic Con was held from 09/15/18-09/16/18), and after settling in to a...",
+  "We went on an impulse on a very hot summer evening. Everything was fine for starters. They offer two sizes of hamburger,  which I appreciate because who...",
+  "The service was good, but that was about it. My daughter had the homemade Mac and cheese, she loves all Mac and cheese and said it taste funny. I took a..."
+ ]
+},{
+ "name": "Blue Moon Entertainment",
+ "address": "3 Bank St",
+ "avg_visitor_review": 2.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/blue-moon-entertainment-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I used him for my wedding after reading online reviews and I was disappointed. He had all the songs I requested but played them at odd times. During my cake..."
+ ]
+},{
+ "name": "BJJ Revolution Team",
+ "address": "1 Blanchard Ct",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/bjj-revolution-team-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Great martial arts instruction. The beginning classes are held Tuesday nights at 6:15 p.m. with advanced classes (by invitation only) on Thursday nights."
+ ]
+},{
+ "name": "Gusto's",
+ "address": "28 Prospect St",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/gustos-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This place was way bigger than i thought it would be. Two pool tables, tons of places to sit, and the bartender was cool. A really nice outdoor area which...",
+  "Love this place! Feels like home. Everyone is super cool beans and dranks are served with class. Bring your dancing shoes for thurs-sat night. Tons of fun....",
+  "Extremely strange. I would definitely NOT go here alone if I was a single woman - there were a few scary local Barre men. Good thing my boyfriend is..."
+ ]
+},{
+ "name": "Rustic",
+ "address": "451 Rte 12 N",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media3.fl.yelpcdn.com/bphoto/N3mtQnvE4Yv-5WC-K_z-aw/o.jpg",
+ "tags": [
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/rustic-northfield?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Pretty solid bar, local hotspot for Norwich students Thursday-Saturday. Bar tenders are always attentive to their customers and never rude. Food is okay,...",
+  "The restaurant  reminds me of \"cheers The bar\" where you go in and everyone knows your name.  The service is great the waitress always make sure that you...",
+  "The waitress was attentive and delightful to chat with.  The fried spicy pickles are a treat while it would be best to skip the guacamole - order another..."
+ ]
+},{
+ "name": "Mulligan's Irish Pub",
+ "address": "9 Maple Ave",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/n7p5GuEqgXO7-CNm9TDh_A/o.jpg",
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/mulligans-irish-pub-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "I've been here a few times over the years.  Always thought of it as a bit of a dive bar that served mostly fried food while serving up mediocre drinks or...",
+  "The service was okay but the drinks were not good, the food was over cooked and the atmosphere was not desirable. There were a some locals that seemed...",
+  "I liked it here when we went with some friends. The food was typical pub stuff, the drinks were fine. Our waitress was great! Very friendly and attentive to..."
+ ]
+},{
+ "name": "First In Fitness",
+ "address": "1 Blanchard Ct",
+ "avg_visitor_review": 3.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/first-in-fitness-montpelier?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This facility will suffice your central vermont workout needs. It's costly but a godsend in the dead of winter in this region."
+ ]
+},{
+ "name": "The Forge Gym",
+ "address": "1930 Waterbury-Stowe Rd",
+ "avg_visitor_review": 5.0,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media2.fl.yelpcdn.com/bphoto/Ox1ZIeKmgOW2S6MsxPPgsQ/o.jpg",
+ "tags": [
+  "learn",
+  "affordable"
+ ],
+ "link": "https://www.yelp.com/biz/the-forge-gym-waterbury-center?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Awesome gym! Small space but packs a punch. Kyle and heather were awesome and it was great to know there are some powerlifting vibes up here. Definitely...",
+  "This is an amazing gym. I came by for a workout while I was in town for a convention. I was shocked to learn how affordable it is. Beautiful facility, all...",
+  "Had an amazing time at The Forge Gym while visiting Vermont for a few days! The Forge Gym had everything that I needed for a good workout, a variety of..."
+ ]
+},{
+ "name": "Body Tech",
+ "address": "36 Elm St",
+ "avg_visitor_review": 3.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/body-tech-barre?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "This gym is HUGE.  There is a basement floor ( free weights, nautilus, locker rooms, etc), First floor cardio room, with lots of machines, 2nd floor leg...",
+  "It's the 21st century.  If this company were interested in attracting customers, it would hire a teenager to make it a website that might include..."
+ ]
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "213 Paine Turnpike N",
+ "avg_visitor_review": 2.5,
+ "avg_time_spent": null,
+ "photo_location": "https://s3-media1.fl.yelpcdn.com/bphoto/FjlIHbNXL-s32oFy-IzJaw/o.jpg",
+ "tags": [
+  "food",
+  "kids",
+  "food"
+ ],
+ "link": "https://www.yelp.com/biz/applebees-grill-bar-berlin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "My husband and I were both craving steak-he is a chef, and I can easily hold my own in the kitchen... therefore, we are tough customers. We looked at other...",
+  "This is from my sister's experience she had last night \n\n\nDecide to go to dinner at Applebee's with the kids. \nQuick run down. \n2 hours to get food....",
+  "Great staff & service. It was packed but food came out fast. There was one waitress who was kinda having a meltdown about another coworker and it was right..."
+ ]
+},{
+ "name": "Blush Hill Country Club",
+ "address": "141 Lonesome Trl",
+ "avg_visitor_review": 4.5,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [
+  "free"
+ ],
+ "link": "https://www.yelp.com/biz/blush-hill-country-club-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "Had a chance to play there when I had a few unexpected hours free while vacationing nearby. This was a fantastic course for the price. They take pride in...",
+  "For the money one of the best courses in VT. Sure there are nicer courses out there, but dollar for dollar this hidden gem is one of the best courses in VT...."
+ ]
+},{
+ "name": "Squash Valley Produce",
+ "address": "2597 Waterbury Stowe Rd",
+ "avg_visitor_review": 4.0,
+ "avg_time_spent": null,
+ "photo_location": "",
+ "tags": [],
+ "link": "https://www.yelp.com/biz/squash-valley-produce-waterbury?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg",
+ "source": "Yelp",
+ "reviews": [
+  "When I walked into the tiny store and found myself face to face with a wall sized display of local heirloom tomatoes, I knew I'd come to the right...",
+  "I did enjoy the store! It had quite the variety and was clean. What I didn't enjoy was the poor customer service from the man in glasses, '5 8\", dark hair...."
+ ]
+}]
