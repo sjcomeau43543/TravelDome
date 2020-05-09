@@ -1,9 +1,8 @@
 '''
 Author:        Eda
-Last modified: 4.28.2020 by ez
+Last modified: 5.09.2020 by ez
 Status:        Done?
 
-TODO: download the photos from the site  <-- I feel like it's better to leave as links so we don't need to store as much data?
 '''
 import os, json, requests, re
 import bs4 as BeautifulSoup
@@ -37,7 +36,10 @@ def scrape(city, state, code_1, code_2):
     for activity in activities_list: # go to each activity url and get info
         soup, activity_site = url_to_json('https://www.tripadvisor.com' + activity['url'])
         address = activity_site['address']['streetAddress']
-        rating = activity_site['aggregateRating']['ratingValue']
+        if 'aggregateRating' not in activity_site: # if no rating, set to 0
+            rating = None
+        else:
+            rating = activity_site['aggregateRating']['ratingValue']
         photo = activity_site['image']
 
         # get reviews, only top 5
@@ -48,8 +50,9 @@ def scrape(city, state, code_1, code_2):
             _, review_site = url_to_json('https://www.tripadvisor.com' + review_link)
             review_text.append(review_site['reviewBody'])
 
-        a = Activity(activity['name'], address, rating, None, photo, "TripAdvisor", review_text)
+        a = Activity(activity['name'], address, rating, None, photo, "TripAdvisor", link='https://www.tripadvisor.com'+activity['url'], reviews=review_text, tags=[], get_tags=True)
         activities_info.append(a)
+        print('added: ', activity['name'])
 
     return activities_info
 
@@ -69,7 +72,55 @@ def get_code(city, state):
         "NYCNY" : ["g60763", "oa270"],
         "DenverCO" : ["g33388", "oa90"],
         "TampaFL" : ["g34678", "oa90"],
-        "HoustonTX" : ["g56003", "oa90"]
+        "HoustonTX" : ["g56003", "oa90"],
+        "MontgomeryAL" : ["g30712", "oa90"],
+        "JuneauAK" : ["g31020", "oa90"],
+        "PhoenixAZ" : ["g31310", "oa90"],
+        "LittleRockAR" : ["g60766", "oa90"],
+        "SacramentoCA" : ["g32999", "oa90"],
+        "HartfordCT" : ["g33804", "oa90"],
+        "DoverDE" : ["g34009", "oa90"],
+        "TallahasseeFL" : ["g34675", "oa90"],
+        "AtlantaGA" : ["g60898", "oa90"],
+        "HonoluluHI" : ["g60982", "oa90"],
+        "BoiseID" : ["g35394", "oa90"],
+        "SpringfieldIL" : ["g60887", "oa90"],
+        "IndianapolisIN" : ["g37209", "oa90"],
+        "DesMoinesIA" : ["g37835", "oa90"],
+        "TopekaKS" : ["g60747", "oa90"],
+        "FrankfortKY" : ["g39426", "oa90"],
+        "BatonRougeLA" : ["g40024", "oa90"],
+        "AugustaME" : ["g29485", "oa90"],
+        "AnnapolisMD" : ["g29494", "oa90"],
+        "LansingMI" : ["g42391", "oa90"],
+        "St.PaulMN" : ["g43501", "oa90"],
+        "JacksonMS" : ["g43833", "oa90"],
+        "JeffersonCityMO" : ["g44526", "oa90"],
+        "HelenaMT" : ["g45212", "oa90"],
+        "LincolnNE" : ["g45667", "oa90"],
+        "CarsonCityNV" : ["g45926", "oa90"],
+        "ConcordNH" : ["g46052", "oa90"],
+        "TrentonNJ" : ["g46874", "oa90"],
+        "SantaFeNM" : ["g60958", "oa90"],
+        "AlbanyNY" : ["g29786", "oa90"],
+        "RaleighNC" : ["g49463", "oa90"],
+        "BismarckND" : ["g49709", "oa90"],
+        "ColumbusOH" : ["g50226", "oa90"],
+        "OklahomaCityOK" : ["g51560", "oa90"],
+        "SalemOR" : ["g52053", "oa90"],
+        "HarrisburgPA" : ["g52787", "oa90"],
+        "ProvidenceRI" : ["g60946", "oa90"],
+        "ColumbiaSC" : ["g54184", "oa90"],
+        "PierreSD" : ["g54760", "oa90"],
+        "NashvilleTN" : ["g55229", "oa90"],
+        "AustinTX" : ["g30196", "oa90"],
+        "SaltLakeCityUT" : ["g60922", "oa90"],
+        "MontpelierVT" : ["g57324", "oa90"],
+        "RichmondVA" : ["g60893", "oa90"],
+        "OlympiaWA" : ["g58653", "oa90"],
+        "CharlestonWV" : ["g58947", "oa90"],
+        "MadisonWI" : ["g60859", "oa90"],
+        "CheyenneWY" : ["g60439", "oa90"]
         }
 
     return codes[city+state]
