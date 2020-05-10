@@ -1,225 +1,5 @@
 [
 {
- "name": "Bighorn Canyon",
- "address": "\nBighorn Canyon National Recreation Area South District Visitor Center\n20 US Hwy 14A\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bica/crop16_9/26D3F295-CC8E-D818-80898DD04FD0AE29.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//bica//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Devils Tower",
- "address": "\nPO Box 10\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/deto/crop16_9/893914AB-C506-A2AD-D41690FD11B7B348.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//deto//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Laramie",
- "address": "\n965 Gray Rocks Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fola/crop16_9/6B27393B-1DD8-B71B-0B0BC39F4F656691.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fola//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fossil Butte",
- "address": "\nP.O. Box 592\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fobu/crop16_9/3C1A37F7-1DD8-B71B-0BCEAB5DD145D46B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fobu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Grand Teton",
- "address": "\nP.O. Box 170\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grte/crop16_9/3F15BEB5-C1A9-0D95-E3101881838E79CF.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mormon Pioneer",
- "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//mopi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Yellowstone",
- "address": "\nPO Box 168\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//yell//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Airport Golf Club",
  "address": "4801 Central Ave",
  "avg_visitor_review": [
@@ -1080,6 +860,1023 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bighorn Canyon",
+ "address": "\nBighorn Canyon National Recreation Area South District Visitor Center\n20 US Hwy 14A\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bica/crop16_9/26D3F295-CC8E-D818-80898DD04FD0AE29.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//bica//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Devils Tower",
+ "address": "\nPO Box 10\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/deto/crop16_9/893914AB-C506-A2AD-D41690FD11B7B348.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//deto//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Laramie",
+ "address": "\n965 Gray Rocks Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fola/crop16_9/6B27393B-1DD8-B71B-0B0BC39F4F656691.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fola//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fossil Butte",
+ "address": "\nP.O. Box 592\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fobu/crop16_9/3C1A37F7-1DD8-B71B-0BCEAB5DD145D46B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fobu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Teton",
+ "address": "\nP.O. Box 170\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grte/crop16_9/3F15BEB5-C1A9-0D95-E3101881838E79CF.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mormon Pioneer",
+ "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//mopi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Yellowstone",
+ "address": "\nPO Box 168\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//yell//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming State Museum",
+ "address": "2301 Central Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/c2/69/ed/hands-on-habitats-lab.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279397-Reviews-Wyoming_State_Museum-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Depot Museum",
+ "address": "121 W 15th St Number One Depot Square",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/18/eb/cheyenne-depot-museum.jpg"
+ ],
+ "tags": [
+  "historic",
+  "knowledgeable",
+  "historic",
+  "history",
+  "history",
+  "walk",
+  "history",
+  "history",
+  "historic",
+  "knowledgeable",
+  "history",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d582386-Reviews-Cheyenne_Depot_Museum-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Frontier Days Old West Museum",
+ "address": "4610 Carey Ave Frontier Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/81/84/frontier-days-museum.jpg"
+ ],
+ "tags": [
+  "art",
+  "theatre",
+  "history",
+  "history",
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d278944-Reviews-Cheyenne_Frontier_Days_Old_West_Museum-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Southeast Wyoming Welcome Center",
+ "address": "5611 High Plains Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e7/41/24/photo0jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "learn",
+  "history",
+  "historic",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3953858-Reviews-Southeast_Wyoming_Welcome_Center-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Frontier Days",
+ "address": "4610 Carey Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/06/84/e8/old-yellowstone-carraige.jpg"
+ ],
+ "tags": [
+  "art",
+  "music",
+  "history",
+  "delicious",
+  "free",
+  "affordable",
+  "music",
+  "sampling",
+  "drink",
+  "food",
+  "family",
+  "family",
+  "kids",
+  "food",
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d8820183-Reviews-Cheyenne_Frontier_Days-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Terry Bison Ranch",
+ "address": "51 I-25 Service Road East",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/22/1d/e7/terry-bison-ranch.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "unique",
+  "food",
+  "tour",
+  "history",
+  "tour",
+  "food",
+  "free",
+  "family",
+  "food",
+  "field",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d2284971-Reviews-Terry_Bison_Ranch-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Curt Gowdy State Park",
+ "address": "1351 Hynds Lodge Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/04/8f/f0/crystal-reservoir-curt.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walk",
+  "knowledgeable",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279474-Reviews-Curt_Gowdy_State_Park-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Big Boy Steam Engine",
+ "address": "Holliday Park Near East 17th St and Morrie Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/be/35/big-boy-steam-engine.jpg"
+ ],
+ "tags": [
+  "history",
+  "kids",
+  "history",
+  "history",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279403-Reviews-Big_Boy_Steam_Engine-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Botanic Gardens",
+ "address": "710 S Lions Park Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/51/05/20/cheyenne-botanic-gardens.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "free",
+  "walking",
+  "walk",
+  "walk",
+  "art",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279401-Reviews-Cheyenne_Botanic_Gardens-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Big Boots",
+ "address": "121 W 15th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/08/e6/3e/cheyenne-big-boots.jpg"
+ ],
+ "tags": [
+  "walk",
+  "learn",
+  "art",
+  "historic",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d8259414-Reviews-Cheyenne_Big_Boots-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Governors' Mansion",
+ "address": "300 E 21st St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/a4/d5/89/wyoming-s-historic-governors.jpg"
+ ],
+ "tags": [
+  "unique",
+  "history",
+  "tour",
+  "free",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "historic",
+  "walk",
+  "free",
+  "free",
+  "historic",
+  "tour",
+  "history",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d278946-Reviews-Historic_Governors_Mansion-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Depot Plaza",
+ "address": "121 W 15th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7d/af/30/cheyenne-depot-plaza.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3957946-Reviews-Cheyenne_Depot_Plaza-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Warren Air Force Base",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/7a/98/geese-on-fe-warren-october.jpg"
+ ],
+ "tags": [
+  "active",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279731-Reviews-Warren_Air_Force_Base-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming State Capitol",
+ "address": "200 W 24th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/77/63/53/wyoming-state-capitol.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "art",
+  "free",
+  "walk",
+  "historic",
+  "knowledgeable",
+  "tour",
+  "history",
+  "walk",
+  "wander",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d278945-Reviews-Wyoming_State_Capitol-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Civic Center",
+ "address": "510 West 20th St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/8a/c4/61/peter-frampton.jpg"
+ ],
+ "tags": [
+  "eat",
+  "drink",
+  "art",
+  "free",
+  "free",
+  "free",
+  "music",
+  "kids",
+  "walk",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d1418668-Reviews-Cheyenne_Civic_Center-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Happy Jack Road",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c4/d7/00/happy-jack-road.jpg"
+ ],
+ "tags": [
+  "hike",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279475-Reviews-Happy_Jack_Road-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Laramie County Library",
+ "address": "2200 Pioneer Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/f6/34/dd/laramie-county-public.jpg"
+ ],
+ "tags": [
+  "family",
+  "library",
+  "active",
+  "library",
+  "drink",
+  "library",
+  "food",
+  "library",
+  "kids",
+  "kids",
+  "library",
+  "family",
+  "library",
+  "active",
+  "library",
+  "kids",
+  "library",
+  "drink",
+  "library",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d4545230-Reviews-Laramie_County_Library-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cowgirls of the West Museum",
+ "address": "205 W 17th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/cb/d0/f6/exhibit.jpg"
+ ],
+ "tags": [
+  "history",
+  "structure",
+  "history",
+  "learn",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3353461-Reviews-Cowgirls_of_the_West_Museum-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nelson Museum of the West",
+ "address": "1714 Carey Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/56/69/d6/western-cowboy-boots.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "kids",
+  "organized",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279398-Reviews-Nelson_Museum_of_the_West-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Merci Train",
+ "address": "E. Lincolnway and Big Horn  (in American Legion Post #6 parking lot)",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/5c/1e/7d/box-car-beneath-a-roof.jpg"
+ ],
+ "tags": [
+  "history",
+  "food",
+  "history",
+  "history",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279404-Reviews-The_Merci_Train-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bit-O-Wyo Ranch",
+ "address": "470 Happy Jack Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/3d/dc/2a/bit-o-wyo-ranch-horseback.jpg"
+ ],
+ "tags": [
+  "hospitable",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d1061874-Reviews-Bit_O_Wyo_Ranch-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "NCAR-Wyoming Supercomputing Center Visitor Center",
+ "address": "8120 Veta Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/b7/4a/7a/the-building.jpg"
+ ],
+ "tags": [
+  "organized",
+  "tour",
+  "walking",
+  "learn",
+  "food",
+  "tour",
+  "tour",
+  "learn",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3671816-Reviews-NCAR_Wyoming_Supercomputing_Center_Visitor_Center-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Messenger's Old West Museum",
+ "address": "616 Crook Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/17/16/fd/20181018-112145-largejpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3179445-Reviews-Messenger_s_Old_West_Museum-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Artists Guild",
+ "address": "1701 Morrie Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/7d/31/26/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "unique",
+  "walking",
+  "art",
+  "walk",
+  "art",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3861084-Reviews-Cheyenne_Artists_Guild-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Danielmark's Brewery and Tap Room",
+ "address": "209 E 18th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/91/5e/ed/great-tasting-room-layout.jpg"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "food",
+  "family",
+  "food",
+  "free",
+  "brewery",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d10727033-Reviews-Danielmark_s_Brewery_and_Tap_Room-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mylar Park",
+ "address": "5117 Seminoe Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/ad/aa/2b/fenced-in-goats-near.jpg"
+ ],
+ "tags": [
+  "parks",
+  "walk",
+  "parks",
+  "walk",
+  "parks",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d10753881-Reviews-Mylar_Park-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Quebec 01 Missile Alert Facility",
+ "address": "2025 Road 238",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "parks",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d18913136-Reviews-Quebec_01_Missile_Alert_Facility-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lakeview Cemetery",
+ "address": "Seymour Ave.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/08/80/97/lakeview-cemetery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "history",
+  "walking",
+  "walk",
+  "history",
+  "walk",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279405-Reviews-Lakeview_Cemetery-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Frontier Mall",
+ "address": "1400 Dell Range Blvd",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/48/87/94/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "unique",
+  "eat",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d6028483-Reviews-Frontier_Mall-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Big Country Speedway",
+ "address": "4820 S Greeley Hwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/6f/f6/7a/big-country-speedway.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d6163537-Reviews-Big_Country_Speedway-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

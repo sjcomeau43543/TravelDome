@@ -1,112 +1,5 @@
 [
 {
- "name": "Fort Union Trading Post",
- "address": "\n15550 Highway 1804\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fous/crop16_9/91D1B7DB-DC9F-7803-38B7642E15AE4B8E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fous//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Knife River Indian Villages",
- "address": "\nP.O. Box 9\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/knri/crop16_9/2ED31F3F-1DD8-B71B-0B5667A7A5165091.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//knri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Theodore Roosevelt",
- "address": "\nPO Box 7\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/thro/crop16_9/3B514E60-0593-6447-A532D9C486F2FB34.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//thro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Southridge Centre",
  "address": "535 S 7th St",
  "avg_visitor_review": [
@@ -282,18 +175,30 @@
  "name": "Kirkwood Mall",
  "address": "706 Kirkwood Mall",
  "avg_visitor_review": [
+  "4.0",
   2.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/49/cb/7a/kirkwood-mall.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/j-TQlk1BUQahugBSOPXpoQ/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "eat",
+  "food",
+  "walk"
+ ],
  "link": [
-  "https://www.yelp.com/biz/kirkwood-mall-bismarck-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/kirkwood-mall-bismarck-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d4177812-Reviews-Kirkwood_Mall-Bismarck_North_Dakota.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1041,6 +946,771 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Union Trading Post",
+ "address": "\n15550 Highway 1804\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fous/crop16_9/91D1B7DB-DC9F-7803-38B7642E15AE4B8E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fous//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Knife River Indian Villages",
+ "address": "\nP.O. Box 9\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/knri/crop16_9/2ED31F3F-1DD8-B71B-0B5667A7A5165091.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//knri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Theodore Roosevelt",
+ "address": "\nPO Box 7\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/thro/crop16_9/3B514E60-0593-6447-A532D9C486F2FB34.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//thro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "The Dakota Zoo",
+ "address": "602 Riverside Park Rd Box 711",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/72/f9/77/dakota-zoo.jpg"
+ ],
+ "tags": [
+  "kids",
+  "active",
+  "tour",
+  "kids",
+  "walking",
+  "family",
+  "eat",
+  "active",
+  "kids",
+  "active",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d500848-Reviews-The_Dakota_Zoo-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "North Dakota State Capitol Building",
+ "address": "600 E Boulevard Ave Dept 110",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/0f/d9/02/nd-state-capitol-the.jpg"
+ ],
+ "tags": [
+  "art",
+  "tour",
+  "history",
+  "knowledgeable",
+  "unique",
+  "free",
+  "history",
+  "tour",
+  "tour",
+  "unique",
+  "history",
+  "parks",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d280344-Reviews-North_Dakota_State_Capitol_Building-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Missouri River",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5b/e0/ae/old-pics-of-bismarck.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1015749-Reviews-Missouri_River-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Laughing Sun Brewing Co.",
+ "address": "1023 E Front Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/06/a4/73/or-on-our-facebook-under.jpg"
+ ],
+ "tags": [
+  "music",
+  "delicious",
+  "food",
+  "delicious",
+  "music",
+  "brewery",
+  "music",
+  "food",
+  "food",
+  "food",
+  "tour",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d4071931-Reviews-Laughing_Sun_Brewing_Co-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "General Sibley Park & Campground",
+ "address": "5001 S Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/d2/da/17/next-morning-we-could.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8409595-Reviews-General_Sibley_Park_Campground-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "McDowell Dam Nature Park",
+ "address": "1951 93rd St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/35/6e/16/mcdowell-dam-nature-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "family",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d3372172-Reviews-McDowell_Dam_Nature_Park-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Superslide Amusement Park",
+ "address": "Riverside Park Rd, Bismarck, ND 58504 Next to Dakota Zoo",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/b6/c1/fb/teacups.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8311466-Reviews-Superslide_Amusement_Park-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gateway to Science",
+ "address": "1810 Schafer St Ste 1",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/06/30/44/gateway-to-science-entrance.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1488659-Reviews-Gateway_to_Science-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Former Governors' Mansion State Historic Site",
+ "address": "320 E Avenue B",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d3/76/01/former-governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "history",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "family",
+  "free",
+  "history",
+  "free",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d279112-Reviews-Former_Governors_Mansion_State_Historic_Site-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Keelboat Park",
+ "address": "River Road",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/32/72/b7/thunderbird-eagle-sculpture.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "kids",
+  "historic",
+  "walking",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8671501-Reviews-Keelboat_Park-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Buffalo Statue",
+ "address": "600 E Boulevard Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/f8/74/4d/buffalo.jpg"
+ ],
+ "tags": [
+  "wander"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d12982765-Reviews-Buffalo_Statue-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sakakawea Statue",
+ "address": "608 E Boulevard Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/e4/68/1d/photo0jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "art",
+  "walking",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d12618225-Reviews-Sakakawea_Statue-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck Civic Center",
+ "address": "315 S 5th St",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/b9/c6/76/bismarck-civic-center.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1488627-Reviews-Bismarck_Civic_Center-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Buckstop Junction",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/3e/75/0e/buckstop-junction.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "family",
+  "food",
+  "walking",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1382430-Reviews-Buckstop_Junction-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck Brewing",
+ "address": "1100 Canada Ave Suite 1",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/f9/c1/7d/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "food",
+  "brewery",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d14978716-Reviews-Bismarck_Brewing-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chief Lookings Village",
+ "address": "Northwest Burnt Boat Drive, Bismarck, ND",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/4a/b8/95/chief-lookings-village.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walk",
+  "kids",
+  "walk",
+  "walking",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d10642829-Reviews-Chief_Lookings_Village-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nickle's Lounge & Casino",
+ "address": "800 S 3rd St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8497720-Reviews-Nickle_s_Lounge_Casino-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck-Mandan Convention and Visitors Bureau",
+ "address": "1600 Burnt Boat Dr",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/b7/16/33/bismarck-mandan-convention.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8545262-Reviews-Bismarck_Mandan_Convention_and_Visitors_Bureau-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Camp Hancock State Historic Site",
+ "address": "612 E Boulevard Ave",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/2a/e1/ba/camp-hancock-state-historic.jpg"
+ ],
+ "tags": [
+  "walking",
+  "history",
+  "free",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1382660-Reviews-Camp_Hancock_State_Historic_Site-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck Municipal Ballpark",
+ "address": "400 E Front Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/01/a0/c6/home-of-the-bismarck.jpg"
+ ],
+ "tags": [
+  "family",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d14982157-Reviews-Bismarck_Municipal_Ballpark-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St George's Episcopal Memorial Church",
+ "address": "601 N 4th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/93/32/st-george-s-episcopal.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d17593409-Reviews-St_George_s_Episcopal_Memorial_Church-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cornerstone Community Church",
+ "address": "111 E Wachter Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/e7/7b/4b/nice-shrubs.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d17594232-Reviews-Cornerstone_Community_Church-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Church of the Bread of life",
+ "address": "601 N 4th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/20/12/b0/the-church-of-the-bread.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d17593049-Reviews-The_Church_of_the_Bread_of_life-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck Downtown Artist Cooperative",
+ "address": "222 N 4th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/b2/bf/4b/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "unique",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d7138051-Reviews-Bismarck_Downtown_Artist_Cooperative-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "United Church of Christ",
+ "address": "1200 E Highland Acres Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/fa/7c/1e/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8131914-Reviews-United_Church_of_Christ-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bismarck Marathon",
+ "address": "",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d1488871-Reviews-Bismarck_Marathon-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Art Gallerie on Main",
+ "address": "402 E Main Ave Suite 9",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d8283954-Reviews-Art_Gallerie_on_Main-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Capital Gallery",
+ "address": "109 N 4th St",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d11983160-Reviews-The_Capital_Gallery-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "North Dakota State Library",
+ "address": "604 E Boulevard Ave",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g49709-d15823594-Reviews-North_Dakota_State_Library-Bismarck_North_Dakota.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

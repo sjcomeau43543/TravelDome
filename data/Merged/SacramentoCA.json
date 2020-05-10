@@ -1,5 +1,1021 @@
 [
 {
+ "name": "Skeleton Key Rooms",
+ "address": "5322 Auburn Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/x9VXtyT3n3Wk9mKwUd01Kg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/skeleton-key-rooms-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SeaQuest Folsom",
+ "address": "430 Palladio Pkwy",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/RtWvRvD7nfurDgnvkW2pZw/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/seaquest-folsom-folsom?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Scandia Family Fun Center",
+ "address": "5070 Hillsdale Blvd",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Ytl1pJPlnpOPYMpLvwZGaA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/scandia-family-fun-center-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "California State Escape: Sacramento Escape Room",
+ "address": "5400 Power Inn Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/3zqml4kODWMzrKfBxnVVFw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/california-state-escape-sacramento-escape-room-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Thunder Valley Casino Resort",
+ "address": "1200 Athens Ave",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/SJBedgrPO8Nq2dpCIyEEWg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/thunder-valley-casino-resort-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bungee Adventures",
+ "address": "",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/GU7Wox-3mFrb8NGxF4ln1Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/bungee-adventures-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Food Truck Cinema",
+ "address": "5880 Woodcreek Oak Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PpKd0skV8O6JmNVACZA0AQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/food-truck-cinema-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wacky Tacky",
+ "address": "7351 Galilee Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/OSYw4Q2Ke5uKaD1UUJMrGw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wacky-tacky-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "International World Peace Rose Gardens",
+ "address": "1317 15th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/R8vM8HA3XWtc7azsCdM8HQ/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/international-world-peace-rose-gardens-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Jensen Botanical Gardens",
+ "address": "8520 Fair Oaks Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/rALapWKcbNZ6ZQrI4emUMA/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/jensen-botanical-gardens-carmichael?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Park",
+ "address": "Capitol Ave & 15th St",
+ "avg_visitor_review": [
+  "4.5",
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/42/40/plenty-of-wonderful-shade.jpg",
+  "https://s3-media2.fl.yelpcdn.com/bphoto/1Ke-JJvUsvv6JPaTUEYHyQ/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "comforting",
+  "historic",
+  "historic",
+  "walk",
+  "walking",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.yelp.com/biz/capitol-park-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142866-Reviews-Capitol_Park-Sacramento_California.html"
+ ],
+ "source": [
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lazer X At Country Club Lanes",
+ "address": "2600 Watt Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Lcym-EcurYdDZRQX7JghfQ/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/lazer-x-at-country-club-lanes-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Handle District",
+ "address": "18th & L St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PMW7vknQ1OefvM71aRS-2Q/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/handle-district-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Country Club Cinema",
+ "address": "2405 Butano Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/EHNjVlWHgXO5AMlwyepuSw/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/country-club-cinema-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "McKinley Park",
+ "address": "3330 McKinley Blvd",
+ "avg_visitor_review": [
+  "4.5",
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d3/5c/60/photo2jpg.jpg",
+  "https://s3-media3.fl.yelpcdn.com/bphoto/yYOqvkNbUEa4z3MDftXCmg/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "library",
+  "free",
+  "kids",
+  "family",
+  "walk",
+  "art",
+  "drink",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.yelp.com/biz/mckinley-park-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d128384-Reviews-McKinley_Park-Sacramento_California.html"
+ ],
+ "source": [
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sutter's Fort State Historic Park",
+ "address": "2701 L St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/x0w6cYm4emp4LY3lzL2kTg/o.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sutters-fort-state-historic-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Escape Sacramento",
+ "address": "1831 I St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/DCAcCnbZ1_x6noorQLFLoQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/escape-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Corbett's House of Horror",
+ "address": "46500 County Road 32B",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ldqwYFYsLfgS6Optbzbfzw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/corbetts-house-of-horror-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Golfland Sunsplash Roseville",
+ "address": "1893 Taylor Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/xcWBKOpn4bfESfbWsnmW0A/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/golfland-sunsplash-roseville-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SACTOWN Bike Bus Tours",
+ "address": "1111 J St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/mbqlrdhT9IRPXp2WbbzA8g/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sactown-bike-bus-tours-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sauced BBQ & Spirits - Sacramento",
+ "address": "1028 7th St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/7MmyWmbg4qo46JX15j96Bg/o.jpg"
+ ],
+ "tags": [
+  "eat"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sauced-bbq-and-spirits-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Davis Farmers Market",
+ "address": "301 C St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/X19VauzGBASPjXE9oCG0Dw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/davis-farmers-market-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Denio's Roseville Farmers Market & Swap Meet",
+ "address": "1551 Vineyard Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/4fqudQoPaDqzAIKWgBQ7jQ/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/denios-roseville-farmers-market-and-swap-meet-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "East Sacramento's Fab 40s Christmas Lights",
+ "address": "1232 43rd St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/wONjedpbVrQZQf5i3AQc_w/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/east-sacramentos-fab-40s-christmas-lights-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The California Museum",
+ "address": "1020 O St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/_x53F8LVxF858BBevC3fcQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-california-museum-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Naked Lounge Coffee House",
+ "address": "1111 H St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/yydW-0JLMl6QzNTFCFj70g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-naked-lounge-coffee-house-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Southside Park",
+ "address": "2115 6th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/8KZUGmQZTiWRGvQ3IgcXBw/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/southside-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Underground Tasting Room",
+ "address": "900 2nd St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/U1iGg02tzKOeUv6Z2L5W_w/o.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-underground-tasting-room-sacramento-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Aj's Outdoor Adventures",
+ "address": null,
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/POyFKaqU3IwdGwb1XQhbrw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/ajs-outdoor-adventures-rio-linda?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wake Island Waterpark",
+ "address": "7633 Locust Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/cKpHX7wlkyIP7nivhIs5tQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wake-island-waterpark-pleasant-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Aerospace Museum of California",
+ "address": "3200 Freedom Park Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/47rQouDiR6F3KW6Mr6V51g/o.jpg"
+ ],
+ "tags": [
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/aerospace-museum-of-california-mcclellan-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Old Sugar Mill",
+ "address": "35266 Willow Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/XwlCcpHxZ1tIKbd_5JpQFQ/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "winery"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/old-sugar-mill-clarksburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cosumnes River Preserve",
+ "address": "13501 Franklin Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/YJC6LfT20UGJt8LTU50I8A/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "nature"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/cosumnes-river-preserve-galt-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sac Brew Bike",
+ "address": "1519 19th St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/7PmLgoeeCWo6aMQbaqvYdA/o.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sac-brew-bike-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Kikkoman Foods, Inc.",
+ "address": "1000 Glenn Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Mg6elHg3Z-oFiDL9rNLkJQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/kikkoman-foods-inc-folsom-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Northstar Park",
+ "address": "3434 Anderson Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/IOQW7f9XjW6_7MYhdru9gA/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "walking",
+  "walk",
+  "field"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/northstar-park-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sand Cove Beach",
+ "address": "2005 Garden Hwy",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/baK8rfYlS2AMFxT7sLOs9w/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sand-cove-beach-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Flatstick Pub",
+ "address": "630 K St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/CVFOiAlP3qIMXk38dJxOBQ/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/flatstick-pub-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dolphin Scuba Center",
+ "address": "1530 El Camino Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/-oT5JemQNzyuBpXOfeKceA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/dolphin-scuba-center-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Elk Grove Giant Pumpkin Festival",
+ "address": "9950 Elk Grove Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/TK6vgkV10ZERJImCrwoipg/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/elk-grove-giant-pumpkin-festival-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Topgolf",
+ "address": "1700 Freedom Way",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/52eBqbwdbWsEeOjyULNYLw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/topgolf-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Napa Valley Aloft Balloon Rides",
+ "address": "6525 Washington St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/_EcajgaGoe2WABXlgIWuZw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/napa-valley-aloft-balloon-rides-yountville-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Tower Theatre",
+ "address": "2508 Land Park Dr.",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/eN12Sd7yGYQxbeeWAmkg8A/o.jpg"
+ ],
+ "tags": [
+  "theatre"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-tower-theatre-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Color Me Mine",
+ "address": "7440 Laguna Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/2ugFadoNf8symzCAOJzZMg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/color-me-mine-elk-grove-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Animal Place",
+ "address": "17314 McCourtney Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/xYOjdbrgEMiCd4oiD50HJg/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/animal-place-grass-valley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Root Of Happiness",
+ "address": "211 F St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ghOFKwc_7QPsECMoOJnFmA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/root-of-happiness-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fountains at Roseville",
+ "address": "1013 Galleria Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/xjbd11rGVypY-nVpqJ3ypA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/fountains-at-roseville-roseville-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Laguna Shooting Center",
+ "address": "2220 Kausen Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/m7HZY_8b7q34Di19lVzs9Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/laguna-shooting-center-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fizz",
+ "address": "615 David J Stern Walk",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/6W7ifE7B8CPuC8gRbbKjHQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/fizz-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Psychic Universe",
+ "address": "3104 O St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ENpOXGWIxDLlrxwgmFcU5A/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/psychic-universe-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Alcatraz Island",
  "address": "\nAlcatraz Island\nGolden Gate National Recreation Area\nB201 Fort Mason\n",
  "avg_visitor_review": [
@@ -726,989 +1742,794 @@
  ],
  "reviews": []
 },{
- "name": "Skeleton Key Rooms",
- "address": "5322 Auburn Blvd",
+ "name": "California State Railroad Museum",
+ "address": "125 I St",
  "avg_visitor_review": [
-  4.5
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/x9VXtyT3n3Wk9mKwUd01Kg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/skeleton-key-rooms-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SeaQuest Folsom",
- "address": "430 Palladio Pkwy",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/RtWvRvD7nfurDgnvkW2pZw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/2f/65/68/a-large-attractive-bldg.jpg"
  ],
  "tags": [
+  "history",
   "kids",
-  "learn"
+  "family",
+  "historic",
+  "history",
+  "field",
+  "history",
+  "kids",
+  "tour",
+  "history",
+  "unique"
  ],
  "link": [
-  "https://www.yelp.com/biz/seaquest-folsom-folsom?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d102772-Reviews-California_State_Railroad_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Scandia Family Fun Center",
- "address": "5070 Hillsdale Blvd",
+ "name": "Crocker Art Museum",
+ "address": "216 O St",
  "avg_visitor_review": [
-  2.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Ytl1pJPlnpOPYMpLvwZGaA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/47/71/16/historic-crocker-mansion.jpg"
  ],
  "tags": [
+  "art",
+  "art",
+  "family",
+  "structure",
+  "art",
+  "music",
+  "art",
+  "music",
+  "free",
+  "art",
+  "art",
   "family",
   "free",
-  "food"
+  "history",
+  "art",
+  "historic",
+  "art",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/scandia-family-fun-center-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d105182-Reviews-Crocker_Art_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "California State Escape: Sacramento Escape Room",
- "address": "5400 Power Inn Rd",
+ "name": "California State Capitol Museum",
+ "address": "1315 10th St Room B-27",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/3zqml4kODWMzrKfBxnVVFw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/california-state-escape-sacramento-escape-room-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Thunder Valley Casino Resort",
- "address": "1200 Athens Ave",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/SJBedgrPO8Nq2dpCIyEEWg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/thunder-valley-casino-resort-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bungee Adventures",
- "address": "",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/GU7Wox-3mFrb8NGxF4ln1Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/bungee-adventures-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Food Truck Cinema",
- "address": "5880 Woodcreek Oak Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/PpKd0skV8O6JmNVACZA0AQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/food-truck-cinema-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wacky Tacky",
- "address": "7351 Galilee Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/OSYw4Q2Ke5uKaD1UUJMrGw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wacky-tacky-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "International World Peace Rose Gardens",
- "address": "1317 15th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/R8vM8HA3XWtc7azsCdM8HQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/82/44/8a/california-capitol.jpg"
  ],
  "tags": [
   "walk",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/international-world-peace-rose-gardens-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Jensen Botanical Gardens",
- "address": "8520 Fair Oaks Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/rALapWKcbNZ6ZQrI4emUMA/o.jpg"
- ],
- "tags": [
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/jensen-botanical-gardens-carmichael?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Capitol Park",
- "address": "Capitol Ave & 15th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/1Ke-JJvUsvv6JPaTUEYHyQ/o.jpg"
- ],
- "tags": [
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/capitol-park-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lazer X At Country Club Lanes",
- "address": "2600 Watt Ave",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/Lcym-EcurYdDZRQX7JghfQ/o.jpg"
- ],
- "tags": [
+  "historic",
+  "free",
+  "tour",
+  "free",
+  "walking",
   "family",
-  "kids",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/lazer-x-at-country-club-lanes-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Handle District",
- "address": "18th & L St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/PMW7vknQ1OefvM71aRS-2Q/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/handle-district-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Country Club Cinema",
- "address": "2405 Butano Dr",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/EHNjVlWHgXO5AMlwyepuSw/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/country-club-cinema-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "McKinley Park",
- "address": "601 Alhambra Blvd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/yYOqvkNbUEa4z3MDftXCmg/o.jpg"
- ],
- "tags": [
+  "tour",
+  "art",
+  "history",
+  "history",
+  "field",
+  "tour",
+  "tour",
   "walk",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/mckinley-park-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sutter's Fort State Historic Park",
- "address": "2701 L St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/x0w6cYm4emp4LY3lzL2kTg/o.jpg"
- ],
- "tags": [
-  "history"
- ],
- "link": [
-  "https://www.yelp.com/biz/sutters-fort-state-historic-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Escape Sacramento",
- "address": "1831 I St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/DCAcCnbZ1_x6noorQLFLoQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/escape-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Corbett's House of Horror",
- "address": "46500 County Road 32B",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ldqwYFYsLfgS6Optbzbfzw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/corbetts-house-of-horror-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Golfland Sunsplash Roseville",
- "address": "1893 Taylor Rd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/xcWBKOpn4bfESfbWsnmW0A/o.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/golfland-sunsplash-roseville-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SACTOWN Bike Bus Tours",
- "address": "1111 J St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/mbqlrdhT9IRPXp2WbbzA8g/o.jpg"
- ],
- "tags": [
+  "historic",
+  "free",
+  "tour",
+  "free",
+  "wander",
   "tour",
   "tour"
  ],
  "link": [
-  "https://www.yelp.com/biz/sactown-bike-bus-tours-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d219610-Reviews-California_State_Capitol_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Sauced BBQ & Spirits - Sacramento",
- "address": "1028 7th St",
+ "name": "Old Sacramento",
+ "address": "1002 2nd St",
  "avg_visitor_review": [
-  3.5
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/7MmyWmbg4qo46JX15j96Bg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/84/fa/82/main-street-of-old-sacramento.jpg"
  ],
  "tags": [
-  "eat"
- ],
- "link": [
-  "https://www.yelp.com/biz/sauced-bbq-and-spirits-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Davis Farmers Market",
- "address": "301 C St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/X19VauzGBASPjXE9oCG0Dw/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/davis-farmers-market-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denio's Roseville Farmers Market & Swap Meet",
- "address": "1551 Vineyard Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/4fqudQoPaDqzAIKWgBQ7jQ/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/denios-roseville-farmers-market-and-swap-meet-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "East Sacramento's Fab 40s Christmas Lights",
- "address": "1232 43rd St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/wONjedpbVrQZQf5i3AQc_w/o.jpg"
- ],
- "tags": [
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/east-sacramentos-fab-40s-christmas-lights-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The California Museum",
- "address": "1020 O St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/_x53F8LVxF858BBevC3fcQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-california-museum-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Naked Lounge Coffee House",
- "address": "1111 H St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/yydW-0JLMl6QzNTFCFj70g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-naked-lounge-coffee-house-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Southside Park",
- "address": "2115 6th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/8KZUGmQZTiWRGvQ3IgcXBw/o.jpg"
- ],
- "tags": [
+  "kids",
+  "walking",
   "walk",
+  "walk",
+  "eat",
+  "family",
+  "kids",
+  "walking",
   "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/southside-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d102771-Reviews-Old_Sacramento-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "The Underground Tasting Room",
- "address": "900 2nd St",
+ "name": "American River Bicycle Trail",
+ "address": "",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/U1iGg02tzKOeUv6Z2L5W_w/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/68/1b/7d/filename-img-1666-jpg.jpg"
  ],
  "tags": [
-  "tasting",
-  "knowledgeable"
+  "nature",
+  "walking",
+  "unique",
+  "parks",
+  "walk",
+  "parks"
  ],
  "link": [
-  "https://www.yelp.com/biz/the-underground-tasting-room-sacramento-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142861-Reviews-American_River_Bicycle_Trail-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Aj's Outdoor Adventures",
- "address": null,
+ "name": "Cathedral of the Blessed Sacrament",
+ "address": "1019 11th St",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/POyFKaqU3IwdGwb1XQhbrw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/ajs-outdoor-adventures-rio-linda?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wake Island Waterpark",
- "address": "7633 Locust Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/cKpHX7wlkyIP7nivhIs5tQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wake-island-waterpark-pleasant-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Aerospace Museum of California",
- "address": "3200 Freedom Park Dr",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/47rQouDiR6F3KW6Mr6V51g/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/f3/ac/amazing.jpg"
  ],
  "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d564705-Reviews-Cathedral_of_the_Blessed_Sacrament-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sutter\u2019s Fort State Historic Park",
+ "address": "2701 L St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/fb/26/5c/photo1jpg.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "historic",
+  "eat",
+  "history",
+  "kids",
+  "history",
+  "learn",
+  "history",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d102770-Reviews-Sutter_s_Fort_State_Historic_Park-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sacramento Zoo",
+ "address": "3930 W Land Park Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/e2/31/d5/tiger-1-he-was-far-enough.jpg"
+ ],
+ "tags": [
+  "unique",
+  "family",
+  "kids",
+  "knowledgeable",
+  "affordable",
+  "walk",
+  "eat",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127615-Reviews-Sacramento_Zoo-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Leland Stanford Mansion State Historic Park",
+ "address": "cnr of 8th and 'N' Sts cnr of 8th and 'N' Sts, Sacramento, California",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/64/37/46/leland-stanford-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour",
   "history",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/aerospace-museum-of-california-mcclellan-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d531943-Reviews-Leland_Stanford_Mansion_State_Historic_Park-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Old Sugar Mill",
- "address": "35266 Willow Ave",
+ "name": "California Automobile Museum",
+ "address": "2200 Front St",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/XwlCcpHxZ1tIKbd_5JpQFQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/42/7b/a5/early-elegance.jpg"
  ],
  "tags": [
-  "family",
-  "winery"
- ],
- "link": [
-  "https://www.yelp.com/biz/old-sugar-mill-clarksburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cosumnes River Preserve",
- "address": "13501 Franklin Blvd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/YJC6LfT20UGJt8LTU50I8A/o.jpg"
- ],
- "tags": [
+  "knowledgeable",
+  "unique",
   "walk",
+  "knowledgeable",
+  "eat",
   "walking",
-  "nature"
- ],
- "link": [
-  "https://www.yelp.com/biz/cosumnes-river-preserve-galt-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sac Brew Bike",
- "address": "1519 19th St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/7PmLgoeeCWo6aMQbaqvYdA/o.jpg"
- ],
- "tags": [
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/sac-brew-bike-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Kikkoman Foods, Inc.",
- "address": "1000 Glenn Dr",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Mg6elHg3Z-oFiDL9rNLkJQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/kikkoman-foods-inc-folsom-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Northstar Park",
- "address": "3434 Anderson Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/IOQW7f9XjW6_7MYhdru9gA/o.jpg"
- ],
- "tags": [
-  "free",
-  "walking",
-  "walk",
-  "field"
- ],
- "link": [
-  "https://www.yelp.com/biz/northstar-park-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sand Cove Beach",
- "address": "2005 Garden Hwy",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/baK8rfYlS2AMFxT7sLOs9w/o.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/sand-cove-beach-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Flatstick Pub",
- "address": "630 K St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/CVFOiAlP3qIMXk38dJxOBQ/o.jpg"
- ],
- "tags": [
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/flatstick-pub-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dolphin Scuba Center",
- "address": "1530 El Camino Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/-oT5JemQNzyuBpXOfeKceA/o.jpg"
- ],
- "tags": [
-  "family",
+  "unique",
+  "tour",
+  "tour",
+  "history",
   "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/dolphin-scuba-center-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127612-Reviews-California_Automobile_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Elk Grove Giant Pumpkin Festival",
- "address": "9950 Elk Grove Blvd",
+ "name": "William Land Park",
+ "address": "1702 Sutterville Rd",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/TK6vgkV10ZERJImCrwoipg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/0a/35/fb/william-land-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "theatre",
+  "learn",
+  "walking",
+  "kids",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d128260-Reviews-William_Land_Park-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tower Bridge",
+ "address": "342 L Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/3f/2d/08/tower-bridge-sacramento.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "tour",
+  "historic",
+  "history",
+  "walk",
+  "learn",
+  "structure",
+  "eat",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d6394988-Reviews-Tower_Bridge-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Funderland Park",
+ "address": "1350 17th Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a4/d1/f5/park-entrance.jpg"
+ ],
+ "tags": [
+  "kids",
+  "food",
+  "walk",
+  "kids",
+  "kids",
+  "walk",
+  "kids",
+  "kids",
+  "free",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d630581-Reviews-Funderland_Park-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Golden 1 Center",
+ "address": "500 David J Stern Walk",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/f6/67/3d/this-is-the-picture-of.jpg"
+ ],
+ "tags": [
+  "eat",
+  "drink",
+  "eat",
+  "drink",
+  "walking",
+  "food",
+  "food",
+  "drink",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d11662834-Reviews-Golden_1_Center-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "American River Parkway",
+ "address": "Discovery Park to Hazel Avenue 4,800-acres of Public Park Along 23 Miles of River",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/01/34/96/photo1jpg.jpg"
  ],
  "tags": [
   "family",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/elk-grove-giant-pumpkin-festival-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Topgolf",
- "address": "1700 Freedom Way",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/52eBqbwdbWsEeOjyULNYLw/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/topgolf-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Napa Valley Aloft Balloon Rides",
- "address": "6525 Washington St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/_EcajgaGoe2WABXlgIWuZw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/napa-valley-aloft-balloon-rides-yountville-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Tower Theatre",
- "address": "2508 Land Park Dr.",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/eN12Sd7yGYQxbeeWAmkg8A/o.jpg"
- ],
- "tags": [
-  "theatre"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-tower-theatre-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Color Me Mine",
- "address": "7440 Laguna Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/2ugFadoNf8symzCAOJzZMg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/color-me-mine-elk-grove-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Animal Place",
- "address": "17314 McCourtney Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/xYOjdbrgEMiCd4oiD50HJg/o.jpg"
- ],
- "tags": [
+  "parks",
+  "nature",
   "free",
-  "tour",
-  "tour"
+  "nature",
+  "walking",
+  "parks",
+  "walking",
+  "walk",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/animal-place-grass-valley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d128282-Reviews-American_River_Parkway-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Root Of Happiness",
- "address": "211 F St",
+ "name": "Sacramento History Museum",
+ "address": "101 I St Open Seven Days A Week",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/ghOFKwc_7QPsECMoOJnFmA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/root-of-happiness-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fountains at Roseville",
- "address": "1013 Galleria Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/xjbd11rGVypY-nVpqJ3ypA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/05/70/02/sacramento-history-museum.jpg"
  ],
  "tags": [
+  "history",
+  "history",
+  "kids",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d3539208-Reviews-Sacramento_History_Museum-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Loch Leven Lakes Trail",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/5f/be/56/loch-leven-lakes-trail.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142481-Reviews-Loch_Leven_Lakes_Trail-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Sacramento Schoolhouse Museum",
+ "address": "1200 Front St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/dd/cf/3f/old-sacramento-schoolhouse.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d6740457-Reviews-Old_Sacramento_Schoolhouse_Museum-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California State Indian Museum",
+ "address": "2618 K St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/56/43/de/20180617-170935-largejpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "historic",
+  "kids",
+  "eat",
+  "learn",
+  "knowledgeable",
+  "walk",
+  "history",
+  "historic",
+  "kids",
+  "eat",
+  "learn",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127632-Reviews-California_State_Indian_Museum-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Governor's Mansion",
+ "address": "1526 H St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/24/6c/c1/governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "walk",
+  "tour",
+  "history",
+  "tour",
+  "parks",
+  "walk",
+  "history",
+  "tour",
+  "parks",
+  "tour",
   "family",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/fountains-at-roseville-roseville-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127626-Reviews-Governor_s_Mansion-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Laguna Shooting Center",
- "address": "2220 Kausen Dr",
+ "name": "California Exposition & State Fair",
+ "address": "1600 Exposition Blvd",
  "avg_visitor_review": [
-  4.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/m7HZY_8b7q34Di19lVzs9Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/laguna-shooting-center-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fizz",
- "address": "615 David J Stern Walk",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/6W7ifE7B8CPuC8gRbbKjHQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/fizz-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Psychic Universe",
- "address": "3104 O St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ENpOXGWIxDLlrxwgmFcU5A/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/b1/ea/0d/from-far.jpg"
  ],
  "tags": [
-  "free"
+  "free",
+  "cheap",
+  "nature",
+  "walk",
+  "food",
+  "parks",
+  "art",
+  "history",
+  "food",
+  "kids",
+  "food",
+  "kids",
+  "tasting"
  ],
  "link": [
-  "https://www.yelp.com/biz/psychic-universe-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d1418614-Reviews-California_Exposition_State_Fair-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The B Street Theatre",
+ "address": "2711 B St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f5/3f/the-b-street-theatre.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "theatre",
+  "music",
+  "theatre",
+  "theatre",
+  "theatre",
+  "music",
+  "theatre",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142815-Reviews-The_B_Street_Theatre-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California Musical Theatre",
+ "address": "1419 H St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/c0/67/20/photo1jpg.jpg"
+ ],
+ "tags": [
+  "performance",
+  "theatre",
+  "performance",
+  "theatre",
+  "creative",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d4460158-Reviews-California_Musical_Theatre-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old City Cemetery",
+ "address": "1000 Broadway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/62/c1/95/una-esperiencia-inolvidable.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "history",
+  "tour",
+  "walk",
+  "family",
+  "walk",
+  "historic",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142512-Reviews-Old_City_Cemetery-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sacramento Convention Center",
+ "address": "1400 J St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f7/44/sacramento-convention.jpg"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "eat",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d1419963-Reviews-Sacramento_Convention_Center-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California Museum",
+ "address": "1020 O St",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/62/61/3b/california-museum-at.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history",
+  "walk",
+  "history",
+  "historic",
+  "walking",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127643-Reviews-California_Museum-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wells Fargo Museum",
+ "address": "1000 2nd St Old Sacramento",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/94/58/c9/wells-fargo-history-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "history",
+  "free",
+  "learn",
+  "history",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127636-Reviews-Wells_Fargo_Museum-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arden Fair",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/90/3e/3d/filename-411217-10150994202616.jpg"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142924-Reviews-Arden_Fair-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

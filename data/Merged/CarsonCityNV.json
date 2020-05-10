@@ -1,160 +1,5 @@
 [
 {
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Death Valley",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/deva/crop16_9/9B65A85A-1DD8-B71B-0BDF4BF50595F57F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//deva//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Great Basin",
- "address": "\nGreat Basin National Park\n100 Great Basin National Park\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grba/crop16_9/30C3E666-1DD8-B71B-0B94BE038079EE10.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//grba//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lake Mead",
- "address": "\n601 Nevada Way\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lake/crop16_9/7E82DB2D-A7D8-90B4-57C31CFD7240D8DF.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//lake//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Old Spanish",
- "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//olsp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tule Springs Fossil Beds",
- "address": "\nNot to be used for navigation purposes\n Tule Springs Fossil Beds National Monument\n601 Nevada Way\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tusk/crop16_9/5DACDFFD-1DD8-B71B-0B56FF102DBEDE0C.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//tusk//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Sand Harbor Rentals",
  "address": "2005 Highway 28",
  "avg_visitor_review": [
@@ -889,20 +734,34 @@
  "name": "Governor's Mansion",
  "address": "606 Mountain St",
  "avg_visitor_review": [
+  "4.0",
   5.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/d2/5f/11/governor-s-mansion.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/JuRcEg_UzYz1J-3uMEX6TA/o.jpg"
  ],
  "tags": [
+  "walking",
+  "walk",
+  "tour",
+  "learn",
+  "walking",
+  "tour",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/governors-mansion-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/governors-mansion-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d103293-Reviews-Governor_s_Mansion-Carson_City_Nevada.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1136,20 +995,851 @@
  "name": "Sonoma Park",
  "address": "1003 Sonoma St",
  "avg_visitor_review": [
+  "5.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/14/26/25/sonoma-park.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/tPinkn_-NsvcS3rpUHe5TQ/o.jpg"
  ],
  "tags": [
   "field"
  ],
  "link": [
-  "https://www.yelp.com/biz/sonoma-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/sonoma-park-carson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d17652459-Reviews-Sonoma_Park-Carson_City_Nevada.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Death Valley",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/deva/crop16_9/9B65A85A-1DD8-B71B-0BDF4BF50595F57F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//deva//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Great Basin",
+ "address": "\nGreat Basin National Park\n100 Great Basin National Park\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grba/crop16_9/30C3E666-1DD8-B71B-0B94BE038079EE10.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//grba//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Mead",
+ "address": "\n601 Nevada Way\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lake/crop16_9/7E82DB2D-A7D8-90B4-57C31CFD7240D8DF.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//lake//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//olsp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tule Springs Fossil Beds",
+ "address": "\nNot to be used for navigation purposes\n Tule Springs Fossil Beds National Monument\n601 Nevada Way\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tusk/crop16_9/5DACDFFD-1DD8-B71B-0B56FF102DBEDE0C.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//tusk//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Nevada State Museum",
+ "address": "600 N Carson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/2c/2f/4a/old-mint-building.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "walking",
+  "walk",
+  "free",
+  "history",
+  "learn",
+  "walk",
+  "unique",
+  "family",
+  "tour",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d103297-Reviews-Nevada_State_Museum-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nevada State Railroad Museum",
+ "address": "2180 S Carson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/58/9d/41/nevada-state-railroad.jpg"
+ ],
+ "tags": [
+  "historic",
+  "kids",
+  "history",
+  "knowledgeable",
+  "knowledgeable",
+  "unique",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104067-Reviews-Nevada_State_Railroad_Museum-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nevada State Capitol Building",
+ "address": "101 N Carson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/7e/3c/7a/nevada-state-capitol.jpg"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "food",
+  "history",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d3619312-Reviews-Nevada_State_Capitol_Building-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Casino Fandango",
+ "address": "3800 S Carson St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e6/9c/ad/the-casino-entrance.jpg"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d501211-Reviews-Casino_Fandango-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Washoe Lake State Park",
+ "address": "4855 Eastlake Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/f0/f1/de/dune-trek-trail.jpg"
+ ],
+ "tags": [
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d7211669-Reviews-Washoe_Lake_State_Park-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bowers Mansion Regional Park",
+ "address": "4005 Bowers Mansion Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/d3/17/9b/bowers-mansion-in-the.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "tour",
+  "kids",
+  "tour",
+  "tour",
+  "family",
+  "tour",
+  "kids",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d558626-Reviews-Bowers_Mansion_Regional_Park-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kit Carson Trail",
+ "address": "Carson St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/9e/90/43/kit-carson-trail.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "walking",
+  "walk",
+  "historic",
+  "history",
+  "historic",
+  "walk",
+  "tour",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d3870425-Reviews-Kit_Carson_Trail-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Skunk Harbor",
+ "address": "Lake Tahoe State Park",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/73/5d/e4/skunk-harbor.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walking",
+  "hike",
+  "walking",
+  "hike",
+  "hike",
+  "walking",
+  "hike",
+  "walk",
+  "hike",
+  "music",
+  "family",
+  "food",
+  "hike",
+  "walking",
+  "historic",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d3309837-Reviews-Skunk_Harbor-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Complex",
+ "address": "Carson Street Musser and 5th",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/7e/4d/54/nevada-state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "wander",
+  "free",
+  "history",
+  "tour",
+  "tour",
+  "wander",
+  "free",
+  "history",
+  "tour",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104064-Reviews-Capitol_Complex-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Shoe Tree Brewing Company",
+ "address": "1496 Old Hot Springs Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/95/89/67/great-ode-to-the-nevada.jpg"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "brewery",
+  "drink",
+  "delicious",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d12378969-Reviews-Shoe_Tree_Brewing_Company-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Museum of Northern Nevada",
+ "address": "813 N Carson St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/da/2b/6f/children-s-museum-of.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "kids",
+  "historic",
+  "kids",
+  "kids",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104066-Reviews-Children_s_Museum_of_Northern_Nevada-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "King Canyon Waterfall",
+ "address": "4450 Kings Canyon Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/cf/67/1b/photo6jpg.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d17480264-Reviews-King_Canyon_Waterfall-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Carson City Culture & Tourism Authority",
+ "address": "716 N Carson St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/bd/62/87/carson-city-convention.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104062-Reviews-Carson_City_Culture_Tourism_Authority-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Carson Station Casino",
+ "address": "900 S Carson St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/4f/ce/a2/best-western-carson-station.jpg"
+ ],
+ "tags": [
+  "free",
+  "drink",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d3494001-Reviews-Carson_Station_Casino-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Carson Nugget",
+ "address": "507 N Carson St",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/d8/59/2c/carson-nugget.jpg"
+ ],
+ "tags": [
+  "music",
+  "family",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104063-Reviews-Carson_Nugget-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Comstock Casino",
+ "address": "3680 Goni Rd Ste 1",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e5/9f/89/20160708-115555-largejpg.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d9874542-Reviews-Comstock_Casino-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Warren Engine Co. No. 1 Museum",
+ "address": "777 S Stewart St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d7/00/bc/warren-engine-co-no-1.jpg"
+ ],
+ "tags": [
+  "free",
+  "historic",
+  "walk",
+  "walk",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104070-Reviews-Warren_Engine_Co_No_1_Museum-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fuji Park",
+ "address": "601 Old Clear Creek Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/cd/61/9e/fuji-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d7982156-Reviews-Fuji_Park-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Jack C. Davis Observatory",
+ "address": "2201 W College Pkwy Western Nevada College",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/35/c3/62/jack-c-davis-observatory.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d1049975-Reviews-Jack_C_Davis_Observatory-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Stewart Indian Cultural Center",
+ "address": "5366 Snyder Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/3c/7c/2c/stewart-indian-cultural.jpg"
+ ],
+ "tags": [
+  "history",
+  "learn",
+  "food",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d104069-Reviews-Stewart_Indian_Cultural_Center-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Paul's Lutheran Church",
+ "address": "1201 North Saliman Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d19144589-Reviews-St_Paul_s_Lutheran_Church-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mills Park",
+ "address": "1111 E. William Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/96/4c/81/traveling-carnival.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d17698502-Reviews-Mills_Park-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Korean War Veterans Memorial Park",
+ "address": "600 Marsh Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/28/49/0f/milking-shed.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d17691239-Reviews-Korean_War_Veterans_Memorial_Park-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charlie B Gallery",
+ "address": "114 W Telegraph St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d19248782-Reviews-Charlie_B_Gallery-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "American War Birds, Inc.",
+ "address": "2600 College Pkwy Hngr 33",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/e0/db/1b/american-war-birds-inc.jpg"
+ ],
+ "tags": [
+  "tour",
+  "field",
+  "historic",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d2038182-Reviews-American_War_Birds_Inc-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hanifan's Art and Antiques",
+ "address": "210 N Carson St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d19378812-Reviews-Hanifan_s_Art_and_Antiques-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "R and D Ranch",
+ "address": "7177 Schulz Dr",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/6b/15/c4/r-and-d-ranch.jpg"
+ ],
+ "tags": [
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d4885548-Reviews-R_and_D_Ranch-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Jackpot Crossing Casino",
+ "address": "1897 N Edmonds Dr Behind Slot World",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45926-d14120110-Reviews-Jackpot_Crossing_Casino-Carson_City_Nevada.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

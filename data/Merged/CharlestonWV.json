@@ -1,225 +1,5 @@
 [
 {
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Bluestone",
- "address": "\nP.O. Box 246\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/blue/crop16_9/147B0299-1DD8-B71B-0B047D6ED43A43D8.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//blue//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chesapeake & Ohio Canal",
- "address": "\n1850 Dual Highway, Suite 100\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/choh/crop16_9/B20D0E20-AA85-7944-A012B49F0832A9FE.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//choh//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chesapeake Bay",
- "address": "\n410 Severn Avenue\nSuite 314\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cbpo/crop16_9/C6249EA6-CFBC-B78E-C3129474B7FE0EA3.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//cbpo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Coal",
- "address": "\nPO Box 15\n100 Kelly Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/coal/crop16_9/A52BE49A-1DD8-B71B-0B6E2C3C2558FCA5.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//coal//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gauley River",
- "address": "\nGauley River National Recreation Area\nP.O. Box 246\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/gari/crop16_9/EFF2609D-1DD8-B71B-0BF5F26233BD7AA6.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "adventurous"
- ],
- "link": [
-  "https://www.nps.gov//gari//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Harpers Ferry",
- "address": "\nHarpers Ferry National Historical Park\nNational Park Service\nPO Box 65\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hafe/crop16_9/BCFE4503-1DD8-B71B-0B09F1F83EEA75AB.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//hafe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "New River Gorge",
- "address": "\nP.O. Box 246, 104 Main Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/neri/crop16_9/583B8C81-ED7A-F529-DED42C142175D16E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//neri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Wheeling",
- "address": "\n1400 Main Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/whee/crop16_9/340E6A22-1DD8-B71B-0B95A2C011E897DA.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//whee//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "River City Youth Ballet Ensemble",
  "address": "4110 Maccorkle Ave SE",
  "avg_visitor_review": [
@@ -994,22 +774,39 @@
  "reviews": []
 },{
  "name": "Culture Center",
- "address": "1900 Kanawha Blvd E",
+ "address": "1900 Kanawha Blvd E Capitol Complex",
  "avg_visitor_review": [
+  "5.0",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/6c/5a/3b/cultural-center.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/_aNZqysObId1tCNhw945Uw/o.jpg"
  ],
  "tags": [
-  "history"
+  "family",
+  "library",
+  "music",
+  "history",
+  "free",
+  "kids",
+  "history",
+  "history",
+  "tour",
+  "family"
  ],
  "link": [
-  "https://www.yelp.com/biz/culture-center-charleston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/culture-center-charleston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d103001-Reviews-Culture_Center-Charleston_West_Virginia.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1179,6 +976,920 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Bluestone",
+ "address": "\nP.O. Box 246\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/blue/crop16_9/147B0299-1DD8-B71B-0B047D6ED43A43D8.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//blue//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake & Ohio Canal",
+ "address": "\n1850 Dual Highway, Suite 100\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/choh/crop16_9/B20D0E20-AA85-7944-A012B49F0832A9FE.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//choh//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Bay",
+ "address": "\n410 Severn Avenue\nSuite 314\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cbpo/crop16_9/C6249EA6-CFBC-B78E-C3129474B7FE0EA3.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//cbpo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Coal",
+ "address": "\nPO Box 15\n100 Kelly Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/coal/crop16_9/A52BE49A-1DD8-B71B-0B6E2C3C2558FCA5.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//coal//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gauley River",
+ "address": "\nGauley River National Recreation Area\nP.O. Box 246\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/gari/crop16_9/EFF2609D-1DD8-B71B-0BF5F26233BD7AA6.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "adventurous"
+ ],
+ "link": [
+  "https://www.nps.gov//gari//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Harpers Ferry",
+ "address": "\nHarpers Ferry National Historical Park\nNational Park Service\nPO Box 65\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hafe/crop16_9/BCFE4503-1DD8-B71B-0B09F1F83EEA75AB.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//hafe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New River Gorge",
+ "address": "\nP.O. Box 246, 104 Main Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/neri/crop16_9/583B8C81-ED7A-F529-DED42C142175D16E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//neri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wheeling",
+ "address": "\n1400 Main Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/whee/crop16_9/340E6A22-1DD8-B71B-0B95A2C011E897DA.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//whee//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "West Virginia State Museum",
+ "address": "1900 Kanawha Blvd E Capitol Complex",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/af/ab/48/inside-the-museum.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "free",
+  "history",
+  "free",
+  "history",
+  "walk",
+  "free",
+  "walk",
+  "kids",
+  "free",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144573-Reviews-West_Virginia_State_Museum-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State Capitol",
+ "address": "1900 Kanawha Blvd E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/f9/cc/4e/20190107-174541-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "unique",
+  "unique",
+  "walk",
+  "tour",
+  "tour",
+  "walking",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d103000-Reviews-State_Capitol-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Clay Center",
+ "address": "1 Clay Square",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/2e/f2/56/clay-center-for-the-arts.jpg"
+ ],
+ "tags": [
+  "structure",
+  "music",
+  "kids",
+  "performance",
+  "music",
+  "art",
+  "kids",
+  "eat",
+  "art",
+  "structure",
+  "music",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568884-Reviews-Clay_Center-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Market",
+ "address": "800 Smith St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/43/e1/a9/capitol-market.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "walk",
+  "eat",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144576-Reviews-Capitol_Market-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Street",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/7f/61/d4/result-1557690152755.jpg"
+ ],
+ "tags": [
+  "family",
+  "eat",
+  "food",
+  "cheap",
+  "eat",
+  "drink",
+  "eat",
+  "library",
+  "walk",
+  "historic",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144575-Reviews-Capitol_Street-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kanawha State Forest",
+ "address": "7500 Kanawha State Forest Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/b0/4a/34/kanawha-state-forest.jpg"
+ ],
+ "tags": [
+  "hike",
+  "kids",
+  "hike",
+  "nature",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144578-Reviews-Kanawha_State_Forest-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "West Virginia Veterans Memorial",
+ "address": "Greenbrier Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/4c/b9/ef/veterans-memorial.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d106638-Reviews-West_Virginia_Veterans_Memorial-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston Coliseum & Convention Center",
+ "address": "200 Civic Center Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d2/57/8f/charleston-civic-center.jpg"
+ ],
+ "tags": [
+  "art",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1418663-Reviews-Charleston_Coliseum_Convention_Center-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Haddad Riverfront Park",
+ "address": "Kanawha Blvd E",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/f0/a4/65/photo1jpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "affordable",
+  "music",
+  "food",
+  "active",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568887-Reviews-Haddad_Riverfront_Park-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston Town Center Mall",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e3/98/47/charleston-town-center.jpg"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144577-Reviews-Charleston_Town_Center_Mall-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Spring Hill Cemetery",
+ "address": "1555 Farnsworth Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/3e/68/dd/spring-hill-cemetery.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walk",
+  "walking",
+  "history",
+  "history",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d6877497-Reviews-Spring_Hill_Cemetery-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Governor's Mansion",
+ "address": "1716 Kanawha Blvd E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/23/e5/a4/governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144571-Reviews-Governor_s_Mansion-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Craik-Patton House",
+ "address": "2809 Kanawha Blvd E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/8a/37/8d/craik-patton-house.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "kids",
+  "historic",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568885-Reviews-Craik_Patton_House-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Avampato Discovery Museum",
+ "address": "300 Leon Sullivan Way",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/de/25/d1/avampato-discovery-museum.jpg"
+ ],
+ "tags": [
+  "art",
+  "family",
+  "art",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d144582-Reviews-Avampato_Discovery_Museum-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Yeager Airport Observation Area",
+ "address": "100 Airport Rd 2nd Floor",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/a8/9b/f9/visited-the-observation.jpg"
+ ],
+ "tags": [
+  "food",
+  "history",
+  "food",
+  "eat",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d10354662-Reviews-Yeager_Airport_Observation_Area-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mountain State Distillery",
+ "address": "800 Kanawha Blvd E",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/88/fa/af/official-logo-of-mountain.jpg"
+ ],
+ "tags": [
+  "art",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d17381362-Reviews-Mountain_State_Distillery-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "East End Historical District",
+ "address": "Bradford and East at Kanawha",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d2/58/db/east-end-historical-district.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568886-Reviews-East_End_Historical_District-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wallace Hartman Nature Preserve",
+ "address": "adjacent to Hampton and South Ruffner Roads",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/d2/52/45/photo1jpg.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walking",
+  "walk",
+  "family",
+  "nature",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568902-Reviews-Wallace_Hartman_Nature_Preserve-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Art Emporium",
+ "address": "823 Quarrier St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/db/0d/28/conveniently-located.jpg"
+ ],
+ "tags": [
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568923-Reviews-The_Art_Emporium-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Criel Mound",
+ "address": "301 7th Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/99/6e/82/criel-mound-in-south.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d15746964-Reviews-Criel_Mound-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Shoney's Big Boy Museum",
+ "address": "116 Kanawha Blvd E",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/59/8d/56/i-can-t-remember-where.jpg"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d12479081-Reviews-Shoney_s_Big_Boy_Museum-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston Convention & Visitors Bureau",
+ "address": "800 Smith St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/b3/ca/9d/wanting-information-on.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d12902970-Reviews-Charleston_Convention_Visitors_Bureau-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cato Park",
+ "address": "200 Baker Ln",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "kids",
+  "historic",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568882-Reviews-Cato_Park-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston Baptist Temple",
+ "address": "209 Morris St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/6a/a7/26/worship-service-may-28.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "music",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1574727-Reviews-Charleston_Baptist_Temple-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Magic Island Park",
+ "address": "",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d14052719-Reviews-Magic_Island_Park-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "West Virginia Symphony Orchestra",
+ "address": "One Clay Square",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d2/56/dd/west-virginia-symphony.jpg"
+ ],
+ "tags": [
+  "performance",
+  "music",
+  "performance",
+  "music",
+  "family",
+  "music",
+  "creative"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568897-Reviews-West_Virginia_Symphony_Orchestra-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston Light Opera Guild",
+ "address": "411 Tennessee Ave Guild Theater",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1568922-Reviews-Charleston_Light_Opera_Guild-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charleston City Hall",
+ "address": "501 Virginia St E",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/2f/a9/f1/city-hall-charleston.jpg"
+ ],
+ "tags": [
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d1574621-Reviews-Charleston_City_Hall-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "T-Rex Science Center",
+ "address": "520 Southridge Blvd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g58947-d19972823-Reviews-T_Rex_Science_Center-Charleston_West_Virginia.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

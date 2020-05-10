@@ -1,228 +1,5 @@
 [
 {
- "name": "Agate Fossil Beds",
- "address": "\n301 River Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/agfo/crop16_9/FAED4F11-1DD8-B71B-0B41AE98E7E0A014.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//agfo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Homestead",
- "address": "\n8523 West State Highway 4\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/home/crop16_9/CE325549-055D-40AE-5574327532B86523.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "free"
- ],
- "link": [
-  "https://www.nps.gov//home//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Missouri",
- "address": "\n508 East 2nd Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mnrr/crop16_9/0E0DDFD9-91B8-C232-267D0EB93313B08A.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "free",
-  "nature"
- ],
- "link": [
-  "https://www.nps.gov//mnrr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mormon Pioneer",
- "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//mopi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Niobrara",
- "address": "\n214 W US Highway 20\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/niob/crop16_9/F5ECCD02-1DD8-B71B-0B7EA265C3B7E555.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "family"
- ],
- "link": [
-  "https://www.nps.gov//niob//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Scotts Bluff",
- "address": "\nP.O. Box 27\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/scbl/crop16_9/30349762-EA17-1381-B94D4EFFBC966094.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//scbl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "A Wilderness Stable",
  "address": "200 W Calvert",
  "avg_visitor_review": [
@@ -302,23 +79,42 @@
  "name": "Nebraska History Museum",
  "address": "131 Centennial Mall N",
  "avg_visitor_review": [
+  "4.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/6a/0f/2c/exterior-view.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/mzVDY7lgeyQlozIILDxGwA/o.jpg"
  ],
  "tags": [
+  "history",
+  "art",
+  "history",
+  "history",
+  "history",
+  "eat",
+  "walk",
+  "history",
+  "history",
   "learn",
   "history",
-  "free",
-  "history"
+  "art",
+  "history",
+  "history",
+  "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/nebraska-history-museum-lincoln-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/nebraska-history-museum-lincoln-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d3222901-Reviews-Nebraska_History_Museum-Lincoln_Nebraska.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -438,20 +234,32 @@
  "name": "Lincoln Children's Museum",
  "address": "1420 P St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/53/3c/8f/ever-wanted-to-sit-in.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/2BC5LAz-F3wqLNStXXd7iA/o.jpg"
  ],
  "tags": [
-  "kids"
+  "kids",
+  "kids",
+  "kids",
+  "family",
+  "learn"
  ],
  "link": [
-  "https://www.yelp.com/biz/lincoln-childrens-museum-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/lincoln-childrens-museum-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d286561-Reviews-Lincoln_Children_s_Museum-Lincoln_Nebraska.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -474,22 +282,36 @@
  "reviews": []
 },{
  "name": "Sheldon Museum of Art",
- "address": "12th & R St",
+ "address": "12th and R Sts On the campus of the University of Nebraska",
  "avg_visitor_review": [
+  "4.5",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/17/66/3b/sheldon-museum-of-art.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/jqi1PkOcZnpS-3tdFYeSLA/o.jpg"
  ],
  "tags": [
+  "music",
+  "art",
+  "art",
+  "free",
+  "tour",
+  "art",
   "art"
  ],
  "link": [
-  "https://www.yelp.com/biz/sheldon-museum-of-art-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/sheldon-museum-of-art-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d126550-Reviews-Sheldon_Museum_of_Art-Lincoln_Nebraska.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1120,20 +942,33 @@
  "name": "Pinnacle Bank Arena",
  "address": "400 Pinnacle Arena Dr",
  "avg_visitor_review": [
+  "4.5",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/07/98/ae/pinnacle-bank-arena.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/yGJP-6acdLVPsxf_au_P-w/o.jpg"
  ],
  "tags": [
+  "drink",
+  "food",
+  "historic",
+  "food",
+  "walk",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/pinnacle-bank-arena-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/pinnacle-bank-arena-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d5570034-Reviews-Pinnacle_Bank_Arena-Lincoln_Nebraska.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1190,6 +1025,899 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Agate Fossil Beds",
+ "address": "\n301 River Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/agfo/crop16_9/FAED4F11-1DD8-B71B-0B41AE98E7E0A014.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//agfo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Homestead",
+ "address": "\n8523 West State Highway 4\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/home/crop16_9/CE325549-055D-40AE-5574327532B86523.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "free"
+ ],
+ "link": [
+  "https://www.nps.gov//home//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Missouri",
+ "address": "\n508 East 2nd Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mnrr/crop16_9/0E0DDFD9-91B8-C232-267D0EB93313B08A.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "free",
+  "nature"
+ ],
+ "link": [
+  "https://www.nps.gov//mnrr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mormon Pioneer",
+ "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//mopi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Niobrara",
+ "address": "\n214 W US Highway 20\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/niob/crop16_9/F5ECCD02-1DD8-B71B-0B7EA265C3B7E555.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family"
+ ],
+ "link": [
+  "https://www.nps.gov//niob//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Scotts Bluff",
+ "address": "\nP.O. Box 27\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/scbl/crop16_9/30349762-EA17-1381-B94D4EFFBC966094.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//scbl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Sunken Gardens",
+ "address": "27th & Capitol Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/20/e5/e3/sunken-gardens.jpg"
+ ],
+ "tags": [
+  "art",
+  "free",
+  "history",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d2292606-Reviews-Sunken_Gardens-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of American Speed",
+ "address": "599 Oak Creek Drive",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/7e/df/14/the-flat-head-display.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d3194206-Reviews-Museum_of_American_Speed-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lincoln Children's Zoo",
+ "address": "1222 S 27th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/6e/d1/ef/folsom-children-s-zoo.jpg"
+ ],
+ "tags": [
+  "active",
+  "tour",
+  "walk",
+  "kids",
+  "kids",
+  "unique",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117031-Reviews-Lincoln_Children_s_Zoo-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nebraska State Capitol",
+ "address": "1445 K St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/8f/75/1e/capital.jpg"
+ ],
+ "tags": [
+  "art",
+  "library",
+  "learn",
+  "tour",
+  "art",
+  "unique",
+  "wander",
+  "tour",
+  "unique",
+  "art",
+  "art",
+  "unique",
+  "tour",
+  "free",
+  "knowledgeable",
+  "art",
+  "learn",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d286560-Reviews-Nebraska_State_Capitol-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pioneer Park Nature Center",
+ "address": "3201 S Coddington Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/59/e6/55/pioneers-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "nature",
+  "theatre",
+  "nature",
+  "nature",
+  "walk",
+  "nature",
+  "kids",
+  "walk",
+  "family",
+  "walking",
+  "nature",
+  "walking",
+  "nature",
+  "history",
+  "walking",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117029-Reviews-Pioneer_Park_Nature_Center-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Memorial Stadium",
+ "address": "1 Stadium Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/ec/05/ef/sea-of-red-during-a-husker.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walking",
+  "kids",
+  "tour",
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d3674518-Reviews-Memorial_Stadium-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "International Quilt Museum",
+ "address": "1523 N 33rd St University of Nebraska",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/c7/9f/76/international-quilt-study.jpg"
+ ],
+ "tags": [
+  "art",
+  "organized",
+  "unique",
+  "history",
+  "free",
+  "history",
+  "art",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d1141994-Reviews-International_Quilt_Museum-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University of Nebraska State Museum",
+ "address": "645 N 14th St University of Nebraska- Lincoln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/5b/24/04/university-of-nebraska.jpg"
+ ],
+ "tags": [
+  "unique",
+  "history",
+  "free",
+  "family",
+  "kids",
+  "unique",
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d286703-Reviews-University_of_Nebraska_State_Museum-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Holmes Park & Lake",
+ "address": "70th and Normal Blvd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/ac/e6/06/holmes-park-lake.jpg"
+ ],
+ "tags": [
+  "walking",
+  "parks",
+  "walk",
+  "free",
+  "family",
+  "parks",
+  "walking",
+  "parks",
+  "walking",
+  "walk",
+  "free",
+  "family",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117028-Reviews-Holmes_Park_Lake-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pinewood Bowl Amphitheater",
+ "address": "3201 S Coddington Ave South Coddington and West Van Dorn Streets",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/60/88/b0/pinewood-bowl-amphitheater.jpg"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "family",
+  "walking",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d10522106-Reviews-Pinewood_Bowl_Amphitheater-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Antelope Park",
+ "address": "23rd and N. to 33rd and Sheridan Blvd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/95/cc/5e/antelope-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "family",
+  "walking",
+  "kids",
+  "kids",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117026-Reviews-Antelope_Park-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bob Devaney Sports Center",
+ "address": "1600 Court St Near the intersection of Salt Creek Pkwy. and Antelope Valley Pkwy.",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/86/06/ed/husker-volleyball.jpg"
+ ],
+ "tags": [
+  "affordable",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d10522204-Reviews-Bob_Devaney_Sports_Center-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "National Museum of Roller Skating",
+ "address": "4730 South St Ste 2",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/cf/19/a6/national-museum-of-roller.jpg"
+ ],
+ "tags": [
+  "unique",
+  "tour",
+  "free",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d286701-Reviews-National_Museum_of_Roller_Skating-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boiler Brewing Company",
+ "address": "129 N 10th St Suite 8",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/ad/a2/52/20161105-154106-largejpg.jpg"
+ ],
+ "tags": [
+  "food",
+  "tasting",
+  "food",
+  "delicious",
+  "delicious",
+  "knowledgeable",
+  "free",
+  "economical",
+  "food",
+  "unique",
+  "delicious",
+  "unique",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d10483690-Reviews-Boiler_Brewing_Company-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wilderness Park",
+ "address": "Saltillo Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/46/06/70/wilderness-park-bridge.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "walking",
+  "walk",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117030-Reviews-Wilderness_Park-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lester F. Larsen Tractor Test & Power Museum",
+ "address": "35th Fair Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/22/53/19/lester-f-larsen-tractor.jpg"
+ ],
+ "tags": [
+  "tour",
+  "performance",
+  "history",
+  "tour",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d3600211-Reviews-Lester_F_Larsen_Tractor_Test_Power_Museum-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nebraska State Holocaust Memorial",
+ "address": "3600 O St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/85/ff/cb/the-star-of-rememberance.jpg"
+ ],
+ "tags": [
+  "family",
+  "learn",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d7712112-Reviews-Nebraska_State_Holocaust_Memorial-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hamann Rose Garden",
+ "address": "S 27th St Lincoln",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/59/db/a6/hamann-rose-garden.jpg"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d12162419-Reviews-Hamann_Rose_Garden-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pawnee Lake",
+ "address": "112th & Superior St.",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/1d/1a/c6/pawnee-lake.jpg"
+ ],
+ "tags": [
+  "parks",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d4500741-Reviews-Pawnee_Lake-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LUX Center for the Arts",
+ "address": "2601 N 48th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/5c/f8/cb/lux-center-for-the-arts.jpg"
+ ],
+ "tags": [
+  "history",
+  "art",
+  "art",
+  "creative",
+  "tour",
+  "history",
+  "art",
+  "art",
+  "creative",
+  "tour",
+  "art",
+  "art",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d7205585-Reviews-LUX_Center_for_the_Arts-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Mary Catholic Church",
+ "address": "14th and K Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/88/f0/98/saint-mary-catholic-church.jpg"
+ ],
+ "tags": [
+  "art",
+  "tour",
+  "structure",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d8449747-Reviews-Saint_Mary_Catholic_Church-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Deer Springs Winery",
+ "address": "16255 Adams St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/65/7c/46/deer-springs-winery.jpg"
+ ],
+ "tags": [
+  "winery",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d6078933-Reviews-Deer_Springs_Winery-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hazel Abel Park",
+ "address": "1716 E St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/c9/d8/d2/hazel-abel-park.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d117027-Reviews-Hazel_Abel_Park-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lied Center for the Performing Arts",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "theatre",
+  "drink",
+  "free",
+  "performance",
+  "art",
+  "theatre",
+  "drink",
+  "music",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d126552-Reviews-Lied_Center_for_the_Performing_Arts-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gateway Mall",
+ "address": "6100 O Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e0/0c/1e/gateway-mall.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d7319791-Reviews-Gateway_Mall-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Haymarket District",
+ "address": "335 N 8th St Ste B",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/77/2b/5c/who-doesn-t-love-a-good.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walking",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g45667-d17295269-Reviews-Haymarket_District-Lincoln_Nebraska.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

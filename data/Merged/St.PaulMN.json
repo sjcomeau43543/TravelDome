@@ -1,135 +1,5 @@
 [
 {
- "name": "Grand Portage",
- "address": "\nP.O. Box 426\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grpo/crop16_9/6314AE0E-99A7-58C8-4783A52B7760B7F4.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grpo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mississippi",
- "address": "\n111 E. Kellogg Blvd., Suite 105\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/miss/crop16_9/E25608F1-1DD8-B71B-0B393A211DF0126C.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//miss//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pipestone",
- "address": "\n36 Reservation Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/pipe/crop16_9/EBA09598-F0FB-886C-EEA0ED7E91B2100E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//pipe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint Croix",
- "address": "\n401 North Hamilton Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//sacn//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Voyageurs",
- "address": "\nVoyageurs National Park Headquarters\n360 Hwy 11 East\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/voya/crop16_9/CD8D9E60-EA7C-8F97-C100FBA9D35530C5.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//voya//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "SEA LIFE at Mall of America",
  "address": "120 E Broadway",
  "avg_visitor_review": [
@@ -334,20 +204,34 @@
  "reviews": []
 },{
  "name": "Twin City Model Railroad Museum",
- "address": "668 Transfer Rd",
+ "address": "668 Transfer Rd Suite 8",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/8a/37/eb/main-building.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/-x9-jzh8AzdDtFBPQzg3cA/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "knowledgeable",
+  "history",
+  "history",
+  "kids"
+ ],
  "link": [
-  "https://www.yelp.com/biz/twin-city-model-railroad-museum-saint-paul-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/twin-city-model-railroad-museum-saint-paul-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d2446321-Reviews-Twin_City_Model_Railroad_Museum-Saint_Paul_Minnesota.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -782,21 +666,58 @@
  "name": "James J. Hill House",
  "address": "240 Summit Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/2a/cf/8c/james-j-hill-mansion.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/jx04i5opXsgeJsUFUlmW9A/o.jpg"
  ],
  "tags": [
+  "tour",
+  "family",
+  "free",
+  "tour",
+  "library",
+  "art",
+  "music",
   "history",
+  "tour",
+  "family",
+  "history",
+  "kids",
+  "tour",
+  "family",
+  "history",
+  "tour",
+  "walk",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "family",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "learn",
+  "family",
+  "history",
+  "food",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/james-j-hill-house-saint-paul?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/james-j-hill-house-saint-paul?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d134840-Reviews-James_J_Hill_House-Saint_Paul_Minnesota.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1127,6 +1048,990 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Portage",
+ "address": "\nP.O. Box 426\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grpo/crop16_9/6314AE0E-99A7-58C8-4783A52B7760B7F4.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grpo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi",
+ "address": "\n111 E. Kellogg Blvd., Suite 105\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/miss/crop16_9/E25608F1-1DD8-B71B-0B393A211DF0126C.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//miss//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pipestone",
+ "address": "\n36 Reservation Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/pipe/crop16_9/EBA09598-F0FB-886C-EEA0ED7E91B2100E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//pipe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Croix",
+ "address": "\n401 North Hamilton Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//sacn//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Voyageurs",
+ "address": "\nVoyageurs National Park Headquarters\n360 Hwy 11 East\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/voya/crop16_9/CD8D9E60-EA7C-8F97-C100FBA9D35530C5.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//voya//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota State Fair",
+ "address": "1265 Snelling Ave N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/d0/a0/59/state-fairgrounds-minnesota.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "music",
+  "kids",
+  "free",
+  "music",
+  "free",
+  "music",
+  "family",
+  "walk",
+  "food",
+  "unique",
+  "music",
+  "food",
+  "eat",
+  "food",
+  "art",
+  "walking",
+  "food",
+  "performance",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d2322964-Reviews-Minnesota_State_Fair-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Science Museum of Minnesota",
+ "address": "120 Kellogg Blvd W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/27/84/fc/what-will-you-discover.jpg"
+ ],
+ "tags": [
+  "unique",
+  "kids",
+  "food",
+  "kids",
+  "free",
+  "family",
+  "kids",
+  "approachable",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d134891-Reviews-Science_Museum_of_Minnesota-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of Saint Paul",
+ "address": "239 Selby Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/9c/82/ee/view-of-the-cathedral.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "art",
+  "walking",
+  "walk",
+  "tour",
+  "structure",
+  "unique",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d144120-Reviews-Cathedral_of_Saint_Paul-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota History Center",
+ "address": "345 Kellogg Blvd W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/44/28/b6/minnesota-history-center.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "history",
+  "kids",
+  "kids",
+  "unique",
+  "history",
+  "kids",
+  "walk",
+  "history",
+  "history",
+  "library",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d103905-Reviews-Minnesota_History_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Summit Avenue",
+ "address": "Summit Ave.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/f1/8e/df/summit-avenue.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "walk",
+  "unique",
+  "historic",
+  "unique",
+  "historic",
+  "walk",
+  "walk",
+  "music",
+  "history",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d142443-Reviews-Summit_Avenue-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "CHS Field",
+ "address": "360 Broadway St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/cc/56/b3/chs-filed-home-of-the.jpg"
+ ],
+ "tags": [
+  "unique",
+  "unique",
+  "free",
+  "walking",
+  "walk",
+  "music",
+  "history",
+  "unique",
+  "field",
+  "affordable",
+  "family",
+  "food",
+  "music",
+  "family",
+  "field",
+  "food",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d8127720-Reviews-CHS_Field-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Fort Snelling",
+ "address": "200 Tower Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/09/b1/historic-fort-snelling.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "active",
+  "history",
+  "history",
+  "history",
+  "historic",
+  "history",
+  "active",
+  "historic",
+  "history",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d4567669-Reviews-Historic_Fort_Snelling-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota State Capitol",
+ "address": "75 Rev Dr Martin Luther King Jr Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/f9/e3/8b/capitol-building.jpg"
+ ],
+ "tags": [
+  "tour",
+  "unique",
+  "tour",
+  "tour",
+  "free",
+  "walking",
+  "knowledgeable",
+  "food",
+  "tour",
+  "history",
+  "tour",
+  "learn",
+  "free",
+  "tour",
+  "unique",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d134850-Reviews-Minnesota_State_Capitol-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Xcel Energy Center",
+ "address": "199 Kellogg Blvd W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/90/05/a1/18.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d616448-Reviews-Xcel_Energy_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Avenue",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/ab/cb/aa/photo4jpg.jpg"
+ ],
+ "tags": [
+  "eat",
+  "unique",
+  "walk",
+  "unique",
+  "structure",
+  "historic",
+  "food",
+  "family",
+  "walking",
+  "food",
+  "walking",
+  "food",
+  "eat",
+  "art",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d271846-Reviews-Grand_Avenue-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota Children's Museum",
+ "address": "10 7th St W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/0a/73/92/exterior-of-minnesota.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "food",
+  "family",
+  "kids",
+  "kids",
+  "free",
+  "food",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d134896-Reviews-Minnesota_Children_s_Museum-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Snelling State Park",
+ "address": "101 Snelling Lake Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/81/9c/visitor-center-with-film.jpg"
+ ],
+ "tags": [
+  "hike",
+  "history",
+  "history",
+  "parks",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d147155-Reviews-Fort_Snelling_State_Park-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Union Depot",
+ "address": "214 4th St E",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/0b/73/union-depot-north-plaza.jpg"
+ ],
+ "tags": [
+  "historic",
+  "unique",
+  "food",
+  "structure",
+  "walking",
+  "food",
+  "family",
+  "historic",
+  "unique",
+  "food",
+  "structure",
+  "hike",
+  "walk",
+  "free",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d6698306-Reviews-Union_Depot-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Palace Theater",
+ "address": "17 7th Pl W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/8d/f0/da/upper-balcony.jpg"
+ ],
+ "tags": [
+  "music",
+  "history",
+  "drink",
+  "performance",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d12393998-Reviews-The_Palace_Theater-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Landmark Center",
+ "address": "75 5th St W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/84/d1/ca/landmark-center.jpg"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "walk",
+  "free",
+  "historic",
+  "free",
+  "library",
+  "history",
+  "tour",
+  "walking",
+  "history",
+  "free",
+  "family",
+  "food",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d285876-Reviews-Landmark_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ordway Center for the Performing Arts",
+ "address": "345 Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/7f/3d/42/ordway-mn-opera-set-orchestra.jpg"
+ ],
+ "tags": [
+  "performance",
+  "music",
+  "performance",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d2556227-Reviews-Ordway_Center_for_the_Performing_Arts-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rice Park",
+ "address": "109 W 4th St, 5th St / Washington St / 4th St / Market St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1c/6a/7b/rice-park.jpg"
+ ],
+ "tags": [
+  "tour",
+  "library",
+  "walk",
+  "history",
+  "food",
+  "library",
+  "tour",
+  "library",
+  "walk",
+  "history",
+  "food",
+  "library",
+  "walk",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d561654-Reviews-Rice_Park-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Paul Farmers Market",
+ "address": "275 4th St E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/54/00/ae/st-paul-farmers-market.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "walk",
+  "eat",
+  "food",
+  "delicious",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d288196-Reviews-St_Paul_Farmers_Market-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Raptor Center",
+ "address": "1920 Fitch Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/08/34/45/raptores.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "learn",
+  "kids",
+  "tour",
+  "knowledgeable",
+  "family",
+  "walking",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d560531-Reviews-The_Raptor_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bad Weather Brewing Company",
+ "address": "414 7th St W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/aa/71/ad/wall-art.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "food",
+  "brewery",
+  "tasting",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d10065560-Reviews-Bad_Weather_Brewing_Company-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Como Lakeside Pavilion",
+ "address": "1360 Lexington Pkwy N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/5e/f4/fa/como-park-pavilion-at.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "food",
+  "walk",
+  "free",
+  "music",
+  "walking",
+  "food",
+  "free",
+  "music",
+  "free",
+  "music",
+  "walking",
+  "walking",
+  "walk",
+  "food",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d561659-Reviews-Como_Lakeside_Pavilion-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Como Park Zoo & Conservatory",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/9b/07/0f/como-park-zoo-conservatory.jpg"
+ ],
+ "tags": [
+  "free",
+  "knowledgeable",
+  "free",
+  "knowledgeable",
+  "free",
+  "knowledgeable",
+  "walking",
+  "free",
+  "walk",
+  "free",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d12879653-Reviews-Como_Park_Zoo_Conservatory-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mears Park",
+ "address": "Sibley Street Between 5th and 6th Streets",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/78/8e/ba/jazz-fest.jpg"
+ ],
+ "tags": [
+  "walk",
+  "music",
+  "walk",
+  "walking",
+  "parks",
+  "walk",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d561671-Reviews-Mears_Park-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Keg and Case Market",
+ "address": "928 W 7th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/df/e8/ee/bird-s-eye-view-of-the.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d15368096-Reviews-Keg_and_Case_Market-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Park Square Theatre",
+ "address": "20 7th Pl W Historic Hamm Building",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/5a/e8/78/stage-set.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "theatre",
+  "drink",
+  "food",
+  "performance",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d183820-Reviews-Park_Square_Theatre-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hidden Falls Regional Park",
+ "address": "1313 Hidden Falls Dr.",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/e3/da/3c/hidden-falls.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "hike",
+  "family",
+  "parks",
+  "walk",
+  "hike",
+  "walking",
+  "walk",
+  "walking",
+  "nature",
+  "hike",
+  "walking",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d10686869-Reviews-Hidden_Falls_Regional_Park-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "History Theater",
+ "address": "30 10th St E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/0e/cb/78/glensheen127-largejpg.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "history",
+  "history",
+  "kids",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d3717782-Reviews-History_Theater-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bell Museum",
+ "address": "2088 Larpenteur Ave W",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/b3/bd/10/the-experience-continues.jpg"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "free",
+  "free",
+  "food",
+  "history",
+  "kids",
+  "history",
+  "active",
+  "cheap",
+  "family",
+  "history",
+  "food",
+  "active",
+  "cheap",
+  "family",
+  "history",
+  "food",
+  "free",
+  "active",
+  "cheap",
+  "family",
+  "history",
+  "food",
+  "history",
+  "kids",
+  "art",
+  "historic",
+  "history",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d15009064-Reviews-Bell_Museum-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

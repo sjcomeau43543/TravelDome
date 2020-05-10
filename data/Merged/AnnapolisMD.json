@@ -1,5 +1,995 @@
 [
 {
+ "name": "Stingray's Scuba School",
+ "address": "961 Deep Creek Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/5txevUxW7XCMeiZ7pwT5Hg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/stingrays-scuba-school-arnold?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Non Sea-Quitter",
+ "address": "4801 Riverside Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/AuT8LpRRjstFcNKsAwE9AA/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/non-sea-quitter-galesville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Naval Academy Tour Guide Service",
+ "address": "Armel Leftwich Visit",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/9OEI2c4aJqETXQ54vWfn2A/o.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "family",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/naval-academy-tour-guide-service-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Blackwall Hitch",
+ "address": "400 Sixth St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/9nHtAu0zmweoJLP9s4-i3g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/blackwall-hitch-annapolis-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bacon Ridge Park",
+ "address": "1801 Hawkins Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/L9LIw6ahjzBfMNTAXQbIDQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/bacon-ridge-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tilghman Island Marina",
+ "address": "6140 Mariners Ct",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/KAn9AXh0x-dClJnoqz3u1w/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/tilghman-island-marina-tilghman-island?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Anne Arundel County Fair",
+ "address": "1450 General's Hwy",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/f8CB2mLTMM8fTw35f8o8Gw/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/anne-arundel-county-fair-crownsville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Harbour 9",
+ "address": "2474 Solomons Island Road",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PRjOXErPRHHENmDat9YJ8g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/harbour-9-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mike's Bar & Crab House",
+ "address": "3030 Riva Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/wwf7aMB5rkB9xPX__dejRQ/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/mikes-bar-and-crab-house-riva-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Town Center",
+ "address": "1906 Towne Centre Blvd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/uxLxoZErvgnw49urOAAikQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/annapolis-town-center-annapolis-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Food Tours",
+ "address": "26 W St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/gQFMxzGVi8reHz-QRs6B3w/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "tour",
+  "food",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/annapolis-food-tours-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Vin 909",
+ "address": "909 Bay Ridge Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/zoy87CV2v0P6ehcSoTb5Bg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/vin-909-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cooper's Hawk Winery & Restaurant - Annapolis",
+ "address": "1906 Towne Centre Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/d0EejGMWDoPNwBrckq5akQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/coopers-hawk-winery-and-restaurant-annapolis-annapolis-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sailor Oyster Bar",
+ "address": "196 West St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/NsI8iA72Tut4MvsEQ_2R9g/o.jpg"
+ ],
+ "tags": [
+  "foodie"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sailor-oyster-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "South River Boat Rentals",
+ "address": "2802 Solomons Island Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/RwMcAZDE6tVF2CBGygKDUw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/south-river-boat-rentals-edgewater?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Pusser's Caribbean Grille",
+ "address": "80 Compromise St",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/oonxbzhrRlUciMutwvwJKA/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/pussers-caribbean-grille-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Julep Southern Kitchen & Bar",
+ "address": "2207 Forest Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/LXwu_zaj_mI5fbh2iYAD_Q/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/julep-southern-kitchen-and-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Maryland Drafts and Laughs",
+ "address": "18 Willow St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/lQ_64ksXpm18WdSMS8bWZQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/maryland-drafts-and-laughs-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Sailing School",
+ "address": "7001 Bembe Beach Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/tC-WKU3p67kTBYEjD458rA/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/annapolis-sailing-school-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Annapolis",
+ "address": "42 E St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/9TUlCu0xijm8GtYCYhZWbQ/o.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "walk",
+  "historic"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/historic-annapolis-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Thomas Point Park",
+ "address": "3890 Thomas Point Rd",
+ "avg_visitor_review": [
+  "4.0",
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/4d/0e/c4/the-park.jpg",
+  "https://s3-media1.fl.yelpcdn.com/bphoto/phSdGZfP2V5T8cpUkfMZzQ/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.yelp.com/biz/thomas-point-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d7810866-Reviews-Thomas_Point_Park-Annapolis_Maryland.html"
+ ],
+ "source": [
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Blades Orchard",
+ "address": "4822 Preston Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/HqCNW4CcA-gZGCYmEPuUxg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/blades-orchard-federalsburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Vida Taco Bar",
+ "address": "200 Main St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/zbfqeMFxQSrZqLBT7qWJsw/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/vida-taco-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Baltimore Improv Group",
+ "address": "1727 N Charles St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/b-c6yZNn0RpNcLiYeNU-nw/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/baltimore-improv-group-baltimore-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Great Frogs",
+ "address": "3218 Harness Creek Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/fV8irADhcle54C3kxK5EOA/o.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "tasting",
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/great-frogs-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Navy Marine Corps Memorial Stadium",
+ "address": "550 Taylor Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/JSBXA-hiI_VnkA7ttvEW1w/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/navy-marine-corps-memorial-stadium-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Discover Annapolis Tours",
+ "address": "26 W St",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/eCEZ3wqYl10GCj9F93Ki6w/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/discover-annapolis-tours-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Watercolors",
+ "address": "2100 Chesapeake Harbor Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/aVN9mTXJx2B0XhAyl5dn_g/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/chesapeake-watercolors-annapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Level Dance Project",
+ "address": "1572 Whitehall Road",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/UHVyf5ZkmhjEsV6YzdDNjQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/level-dance-project-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "J World Annapolis",
+ "address": "213 Eastern Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/vK76fbJQ8VBF0G0PhousfA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/j-world-annapolis-annapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Miss Julia Psychic and Card Reader",
+ "address": "107 Main St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/miss-julia-psychic-and-card-reader-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "RKD Voice Studios",
+ "address": "110 Hickory St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/9kYzE2mZ_7n9dJxsrjeCeg/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/rkd-voice-studios-decatur-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dragonfly Paddle & Fitness",
+ "address": "117 Yacht Club Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/6FMJ3Q-17pRGpzYe82EmNw/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/dragonfly-paddle-and-fitness-chester?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Bayhawks Major League Lacrosse",
+ "address": "1449 Whitehall Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/m1yov2Z4z2bB0G6I5-F63w/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/chesapeake-bayhawks-major-league-lacrosse-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Irish Festival",
+ "address": "1450 Generals Hwy",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/VNsW8CYPVY_ySJYlW7u5Gw/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/annapolis-irish-festival-crownsville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sunsail USA",
+ "address": "980 Awald Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sunsail-usa-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Breezy Willow Farm",
+ "address": "15307 Frederick Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/2Jwy4th6rqLsPwZ0rGgy9Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/breezy-willow-farm-woodbine-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Sailyard",
+ "address": "326 First St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/hvklAzLAisnCYpHuHOJM0Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/annapolis-sailyard-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Underwater Sports",
+ "address": "416 4th St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/mw3Qygwk6lGpbDNRLxAyGA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/chesapeake-underwater-sports-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "East of Maui",
+ "address": "2444 Solomons Island Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/LLJ5KBSk52AHRRck3tSr8A/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/east-of-maui-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "49 West Coffeehouse, Winebar & Gallery",
+ "address": "49 West St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/HNDRGy5XrYSWNSod8Dlgzw/o.jpg"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/49-west-coffeehouse-winebar-and-gallery-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Arundel Olympic Swim Center",
+ "address": "2690 Riva Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Girj5oc0bOpqwoI77p05QQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/arundel-olympic-swim-center-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Newman Street Park",
+ "address": "1-99 Newman St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/774B6Tu06rplrcPm18Xp6g/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/newman-street-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Down Time Sportfishing Charters",
+ "address": "1000 Fairwinds Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/3DHsmYvK3XlgcAdLrUjIkg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/down-time-sportfishing-charters-annapolis-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "iFishMD",
+ "address": "1114 River Bay Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/DUiU55wsx1EznFsEgdC12Q/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/ifishmd-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Jonas Green Park",
+ "address": "1990 Governor Ritchie Hwy",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/UELqiImTuT8qi4M3C_v5yw/o.jpg"
+ ],
+ "tags": [
+  "nature"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/jonas-green-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Paddle or Pedal",
+ "address": "600 Quiet Waters Park Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/mQifznYNyJW8Swlr2SRKgA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/paddle-or-pedal-quiet-waters-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Podickory Point Yacht & Beach Club",
+ "address": "2116 Bay Front Ter",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/xbUJM2d3D7pCXkKqtziNVg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/podickory-point-yacht-and-beach-club-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Broad Creek Park",
+ "address": "1A Harry S Truman Pkwy",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/8MuWsQS_0XfcsTGzlb9A2Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/broad-creek-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ancient Mysteries Divination",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/rM9Ko5ZunAmB_V-_9unAfw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/ancient-mysteries-divination-bowie-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
  "name": "Antietam",
  "address": "\nP.O. Box 158\n",
  "avg_visitor_review": [
@@ -603,980 +1593,809 @@
  ],
  "reviews": []
 },{
- "name": "Stingray's Scuba School",
- "address": "961 Deep Creek Ave",
+ "name": "U.S. Naval Academy",
+ "address": "121 Blake Rd Armel - Leftwich Visitor Center",
  "avg_visitor_review": [
-  5.0
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/5txevUxW7XCMeiZ7pwT5Hg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/stingrays-scuba-school-arnold?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Non Sea-Quitter",
- "address": "4801 Riverside Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/AuT8LpRRjstFcNKsAwE9AA/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/non-sea-quitter-galesville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Naval Academy Tour Guide Service",
- "address": "Armel Leftwich Visit",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/9OEI2c4aJqETXQ54vWfn2A/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/11/f0/a1/annapolis.jpg"
  ],
  "tags": [
   "history",
   "tour",
-  "family",
-  "tour",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/naval-academy-tour-guide-service-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Blackwall Hitch",
- "address": "400 Sixth St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/9nHtAu0zmweoJLP9s4-i3g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/blackwall-hitch-annapolis-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bacon Ridge Park",
- "address": "1801 Hawkins Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/L9LIw6ahjzBfMNTAXQbIDQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/bacon-ridge-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tilghman Island Marina",
- "address": "6140 Mariners Ct",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/KAn9AXh0x-dClJnoqz3u1w/o.jpg"
- ],
- "tags": [
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/tilghman-island-marina-tilghman-island?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Anne Arundel County Fair",
- "address": "1450 General's Hwy",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/f8CB2mLTMM8fTw35f8o8Gw/o.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/anne-arundel-county-fair-crownsville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Harbour 9",
- "address": "2474 Solomons Island Road",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/PRjOXErPRHHENmDat9YJ8g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/harbour-9-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mike's Bar & Crab House",
- "address": "3030 Riva Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/wwf7aMB5rkB9xPX__dejRQ/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/mikes-bar-and-crab-house-riva-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annapolis Town Center",
- "address": "1906 Towne Centre Blvd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/uxLxoZErvgnw49urOAAikQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/annapolis-town-center-annapolis-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annapolis Food Tours",
- "address": "26 W St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/gQFMxzGVi8reHz-QRs6B3w/o.jpg"
- ],
- "tags": [
-  "tour",
   "food",
+  "eat",
+  "history",
+  "drink",
   "tour",
-  "food",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/annapolis-food-tours-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Vin 909",
- "address": "909 Bay Ridge Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/zoy87CV2v0P6ehcSoTb5Bg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/vin-909-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cooper's Hawk Winery & Restaurant - Annapolis",
- "address": "1906 Towne Centre Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/d0EejGMWDoPNwBrckq5akQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/coopers-hawk-winery-and-restaurant-annapolis-annapolis-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sailor Oyster Bar",
- "address": "196 West St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/NsI8iA72Tut4MvsEQ_2R9g/o.jpg"
- ],
- "tags": [
-  "foodie"
- ],
- "link": [
-  "https://www.yelp.com/biz/sailor-oyster-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "South River Boat Rentals",
- "address": "2802 Solomons Island Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/RwMcAZDE6tVF2CBGygKDUw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/south-river-boat-rentals-edgewater?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Pusser's Caribbean Grille",
- "address": "80 Compromise St",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/oonxbzhrRlUciMutwvwJKA/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/pussers-caribbean-grille-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Julep Southern Kitchen & Bar",
- "address": "2207 Forest Dr",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/LXwu_zaj_mI5fbh2iYAD_Q/o.jpg"
- ],
- "tags": [
-  "family",
-  "delicious",
-  "food",
-  "delicious"
- ],
- "link": [
-  "https://www.yelp.com/biz/julep-southern-kitchen-and-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Maryland Drafts and Laughs",
- "address": "18 Willow St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/lQ_64ksXpm18WdSMS8bWZQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/maryland-drafts-and-laughs-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annapolis Sailing School",
- "address": "7001 Bembe Beach Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/tC-WKU3p67kTBYEjD458rA/o.jpg"
- ],
- "tags": [
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/annapolis-sailing-school-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Historic Annapolis",
- "address": "42 E St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/9TUlCu0xijm8GtYCYhZWbQ/o.jpg"
- ],
- "tags": [
   "historic",
+  "food",
+  "walk",
+  "eat",
+  "academic",
+  "field",
+  "tour",
+  "history",
+  "wander",
+  "free",
+  "walking",
+  "food",
   "history",
   "walk",
-  "historic"
- ],
- "link": [
-  "https://www.yelp.com/biz/historic-annapolis-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Thomas Point Park",
- "address": "3890 Thomas Point Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/phSdGZfP2V5T8cpUkfMZzQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/thomas-point-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Blades Orchard",
- "address": "4822 Preston Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/HqCNW4CcA-gZGCYmEPuUxg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/blades-orchard-federalsburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Vida Taco Bar",
- "address": "200 Main St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/zbfqeMFxQSrZqLBT7qWJsw/o.jpg"
- ],
- "tags": [
-  "food",
-  "free",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/vida-taco-bar-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Baltimore Improv Group",
- "address": "1727 N Charles St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/b-c6yZNn0RpNcLiYeNU-nw/o.jpg"
- ],
- "tags": [
-  "free",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/baltimore-improv-group-baltimore-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Great Frogs",
- "address": "3218 Harness Creek Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/fV8irADhcle54C3kxK5EOA/o.jpg"
- ],
- "tags": [
-  "tasting",
-  "tasting",
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/great-frogs-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Navy Marine Corps Memorial Stadium",
- "address": "550 Taylor Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/JSBXA-hiI_VnkA7ttvEW1w/o.jpg"
- ],
- "tags": [
-  "family",
-  "history"
- ],
- "link": [
-  "https://www.yelp.com/biz/navy-marine-corps-memorial-stadium-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Discover Annapolis Tours",
- "address": "26 W St",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/eCEZ3wqYl10GCj9F93Ki6w/o.jpg"
- ],
- "tags": [
-  "knowledgeable",
   "tour",
-  "history",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/discover-annapolis-tours-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Chesapeake Watercolors",
- "address": "2100 Chesapeake Harbor Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/aVN9mTXJx2B0XhAyl5dn_g/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/chesapeake-watercolors-annapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Level Dance Project",
- "address": "1572 Whitehall Road",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/UHVyf5ZkmhjEsV6YzdDNjQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/level-dance-project-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "J World Annapolis",
- "address": "213 Eastern Ave",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/vK76fbJQ8VBF0G0PhousfA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/j-world-annapolis-annapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Miss Julia Psychic and Card Reader",
- "address": "107 Main St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/miss-julia-psychic-and-card-reader-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "RKD Voice Studios",
- "address": "110 Hickory St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/9kYzE2mZ_7n9dJxsrjeCeg/o.jpg"
- ],
- "tags": [
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/rkd-voice-studios-decatur-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dragonfly Paddle & Fitness",
- "address": "117 Yacht Club Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/6FMJ3Q-17pRGpzYe82EmNw/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/dragonfly-paddle-and-fitness-chester?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Chesapeake Bayhawks Major League Lacrosse",
- "address": "1449 Whitehall Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/m1yov2Z4z2bB0G6I5-F63w/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/chesapeake-bayhawks-major-league-lacrosse-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annapolis Irish Festival",
- "address": "1450 Generals Hwy",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/VNsW8CYPVY_ySJYlW7u5Gw/o.jpg"
- ],
- "tags": [
-  "free",
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/annapolis-irish-festival-crownsville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sunsail USA",
- "address": "980 Awald Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/sunsail-usa-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Breezy Willow Farm",
- "address": "15307 Frederick Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/2Jwy4th6rqLsPwZ0rGgy9Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/breezy-willow-farm-woodbine-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annapolis Sailyard",
- "address": "326 First St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/hvklAzLAisnCYpHuHOJM0Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/annapolis-sailyard-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Chesapeake Underwater Sports",
- "address": "416 4th St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/mw3Qygwk6lGpbDNRLxAyGA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/chesapeake-underwater-sports-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "East of Maui",
- "address": "2444 Solomons Island Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/LLJ5KBSk52AHRRck3tSr8A/o.jpg"
- ],
- "tags": [
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/east-of-maui-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "49 West Coffeehouse, Winebar & Gallery",
- "address": "49 West St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/HNDRGy5XrYSWNSod8Dlgzw/o.jpg"
- ],
- "tags": [
-  "walking"
- ],
- "link": [
-  "https://www.yelp.com/biz/49-west-coffeehouse-winebar-and-gallery-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Arundel Olympic Swim Center",
- "address": "2690 Riva Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Girj5oc0bOpqwoI77p05QQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/arundel-olympic-swim-center-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Newman Street Park",
- "address": "1-99 Newman St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/774B6Tu06rplrcPm18Xp6g/o.jpg"
- ],
- "tags": [
+  "walking",
   "kids",
+  "history",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/newman-street-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d258251-Reviews-U_S_Naval_Academy-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Down Time Sportfishing Charters",
- "address": "1000 Fairwinds Dr",
+ "name": "Annapolis Historic District",
+ "address": "Main Street",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/3DHsmYvK3XlgcAdLrUjIkg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/down-time-sportfishing-charters-annapolis-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "iFishMD",
- "address": "1114 River Bay Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/DUiU55wsx1EznFsEgdC12Q/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/8a/ea/d6/historic-annapolis.jpg"
  ],
  "tags": [
-  "free"
+  "historic",
+  "walking",
+  "historic",
+  "unique",
+  "tour",
+  "history"
  ],
  "link": [
-  "https://www.yelp.com/biz/ifishmd-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d4546220-Reviews-Annapolis_Historic_District-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Jonas Green Park",
- "address": "1990 Governor Ritchie Hwy",
+ "name": "Quiet Waters Park",
+ "address": "600 Quiet Waters Park Rd",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/UELqiImTuT8qi4M3C_v5yw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/65/cc/3b/quiet-waters-park.jpg"
  ],
  "tags": [
+  "free",
+  "walking",
+  "art",
+  "family",
+  "art",
+  "nature",
+  "music",
+  "hike",
+  "walking",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d116671-Reviews-Quiet_Waters_Park-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Maryland State House",
+ "address": "91 State Cir",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/1f/28/38/rodeandola.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "unique",
+  "tour",
+  "active",
+  "tour",
+  "wander",
+  "walk",
+  "structure",
+  "history",
+  "unique",
   "nature"
  ],
  "link": [
-  "https://www.yelp.com/biz/jonas-green-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d142550-Reviews-Maryland_State_House-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Paddle or Pedal",
- "address": "600 Quiet Waters Park Rd",
+ "name": "Ego Alley",
+ "address": "Annapolis City Dock",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/mQifznYNyJW8Swlr2SRKgA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/23/20/8a/view-from-dock-into-adjacent.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "free",
+  "historic",
+  "art"
+ ],
  "link": [
-  "https://www.yelp.com/biz/paddle-or-pedal-quiet-waters-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d196116-Reviews-Ego_Alley-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Podickory Point Yacht & Beach Club",
- "address": "2116 Bay Front Ter",
+ "name": "Pennsylvania Dutch Farmer's Market",
+ "address": "2472 Solomons Island Rd",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/xbUJM2d3D7pCXkKqtziNVg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6f/f1/d2/pennsylvania-dutch-farmer.jpg"
  ],
- "tags": [],
+ "tags": [
+  "delicious"
+ ],
  "link": [
-  "https://www.yelp.com/biz/podickory-point-yacht-and-beach-club-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d2257852-Reviews-Pennsylvania_Dutch_Farmer_s_Market-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Broad Creek Park",
- "address": "1A Harry S Truman Pkwy",
+ "name": "The Kunta Kinte - Alex Haley Memorial",
+ "address": "Sidewalk At City Dock",
  "avg_visitor_review": [
-  4.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/8MuWsQS_0XfcsTGzlb9A2Q/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/18/9b/60/kunta-kinte-in-annapolis.jpg"
  ],
- "tags": [],
+ "tags": [
+  "learn",
+  "history",
+  "history",
+  "learn",
+  "food",
+  "eat",
+  "walk",
+  "historic",
+  "food",
+  "tasting",
+  "knowledgeable"
+ ],
  "link": [
-  "https://www.yelp.com/biz/broad-creek-park-annapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d552395-Reviews-The_Kunta_Kinte_Alex_Haley_Memorial-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Ancient Mysteries Divination",
+ "name": "Sandy Point State Park",
+ "address": "1100 E College Pkwy",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/1f/68/03/beautiful-sunrise-at.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d2281496-Reviews-Sandy_Point_State_Park-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "William Paca Garden",
+ "address": "186 Prince George St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/6c/28/95/view-of-garden-from-the.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "historic",
+  "tour",
+  "history",
+  "wander",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "history",
+  "historic",
+  "tour",
+  "kids",
+  "family",
+  "tour",
+  "walking",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d116665-Reviews-William_Paca_Garden-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Banneker-Douglass Museum",
+ "address": "84 Franklin St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/83/07/0a/photo8jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "historic",
+  "history",
+  "walk",
+  "tour",
+  "learn",
+  "history",
+  "free",
+  "unique",
+  "kids",
+  "history",
+  "history",
+  "history",
+  "free",
+  "art",
+  "free",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d218830-Reviews-Banneker_Douglass_Museum-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Bay Bridge",
+ "address": "850 Revell Hwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/1c/b9/dc/closer-look-from-restaurant.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d12516172-Reviews-Chesapeake_Bay_Bridge-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Navy-Marine Corps Memorial Stadium",
+ "address": "550 Taylor Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/93/35/8c/midshipmen-entrance-on.jpg"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "drink",
+  "walking",
+  "historic",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d11797033-Reviews-Navy_Marine_Corps_Memorial_Stadium-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "B&A Trail",
  "address": "",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/rM9Ko5ZunAmB_V-_9unAfw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/b9/77/8a/bike-trail.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "walk",
+  "walking",
+  "family"
+ ],
  "link": [
-  "https://www.yelp.com/biz/ancient-mysteries-divination-bowie-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d116669-Reviews-B_A_Trail-Annapolis_Maryland.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Great Frogs Winery",
+ "address": "3218 Harness Creek Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/4e/0b/e1/walk-among-the-vines.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "tour",
+  "tasting",
+  "tasting",
+  "delicious",
+  "tasting",
+  "tasting",
+  "winery",
+  "walk",
+  "winery",
+  "unique",
+  "food",
+  "tasting",
+  "winery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d8838886-Reviews-Great_Frogs_Winery-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Maryland World War II Memorial",
+ "address": "Ritchie Highway MD Rte 450",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/93/3a/36/maryland-world-war-ii.jpg"
+ ],
+ "tags": [
+  "kids",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d2401153-Reviews-Maryland_World_War_II_Memorial-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Mary's Church",
+ "address": "109 Duke of Gloucester St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/31/8f/16/beautiful-interior-of.jpg"
+ ],
+ "tags": [
+  "family",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d4660215-Reviews-St_Mary_s_Church-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hammond-Harwood House",
+ "address": "19 Maryland Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/13/2f/89/back-of-house.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "walk",
+  "structure",
+  "historic",
+  "tour",
+  "history",
+  "history",
+  "tour",
+  "history",
+  "walk",
+  "structure",
+  "historic",
+  "tour",
+  "history",
+  "hike",
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d218829-Reviews-Hammond_Harwood_House-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thomas Point Shoal Lighthouse",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/fd/47/7a/thomas-point-shoal-lighthouse.jpg"
+ ],
+ "tags": [
+  "unique",
+  "walk",
+  "tour",
+  "tour",
+  "walk",
+  "history",
+  "active",
+  "tour",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d7154335-Reviews-Thomas_Point_Shoal_Lighthouse-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Anne's Church",
+ "address": "Church Circle",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/1b/c2/8e/st-anne-s-church.jpg"
+ ],
+ "tags": [
+  "history",
+  "learn",
+  "history",
+  "tour",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d207425-Reviews-St_Anne_s_Church-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Jonas Green State Park",
+ "address": "1990 Governor Ritchie Highway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/82/56/ec/jonas-green-state-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "kids",
+  "walk",
+  "walking",
+  "walk",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d3486412-Reviews-Jonas_Green_State_Park-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Westfield Annapolis Mall",
+ "address": "2002 Annapolis Mall",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "kids",
+  "food",
+  "kids",
+  "food",
+  "walk",
+  "food",
+  "walking",
+  "food",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d6965527-Reviews-Westfield_Annapolis_Mall-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Maritime Museum & Park",
+ "address": "723 Second St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/97/b9/69/img-20160314-105659-largejpg.jpg"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "art",
+  "tour",
+  "music",
+  "free",
+  "walk",
+  "history",
+  "kids",
+  "history",
+  "food",
+  "delicious",
+  "art",
+  "tour",
+  "music",
+  "learn",
+  "free",
+  "history",
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d584631-Reviews-Annapolis_Maritime_Museum_Park-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. John's College",
+ "address": "60 College Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/38/0f/3b/st-john-s-college.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "library",
+  "walking",
+  "history",
+  "historic",
+  "free",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d219067-Reviews-St_John_s_College-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hogshead",
+ "address": "43 Pinkney St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/2a/4e/75/47-pickney.jpg"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "tour",
+  "walking",
+  "kids",
+  "walk",
+  "walking",
+  "tour",
+  "history",
+  "kids",
+  "history",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d6739884-Reviews-Hogshead-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thurgood Marshall Memorial",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/13/30/5f/nice-tribute-beautiful.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d219069-Reviews-Thurgood_Marshall_Memorial-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alumni Hall",
+ "address": "675 Decatur Rd U.S. Naval Academy",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/ab/8a/54/alumni-hall-on-the-campus.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "history",
+  "history",
+  "history",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d8821976-Reviews-Alumni_Hall-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Colonial Players",
+ "address": "108 East St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/a0/0f/82/the-colonial-players.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "performance"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d3703462-Reviews-The_Colonial_Players-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Annapolis Shakespeare Company - The Classical Theatre of Maryland",
+ "address": "1804 West St Suite 200",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/d9/5c/c1/annapolis-shakespeare.jpg"
+ ],
+ "tags": [
+  "performance",
+  "theatre",
+  "theatre",
+  "free",
+  "drink",
+  "performance",
+  "music",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d9858108-Reviews-Annapolis_Shakespeare_Company_The_Classical_Theatre_of_Maryland-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Port Annapolis Marina",
+ "address": "7074 Bembe Beach Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/7e/57/60/photo0jpg.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29494-d10754391-Reviews-Port_Annapolis_Marina-Annapolis_Maryland.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

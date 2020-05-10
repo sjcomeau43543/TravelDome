@@ -1,221 +1,5 @@
 [
 {
- "name": "Charles Pinckney",
- "address": "\n1214 Middle Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chpi/crop16_9/EC7E3281-1DD8-B71B-0BD1E57F1311B74F.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chpi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Congaree",
- "address": "\n100 National Park Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cong/crop16_9/C7A243E3-1DD8-B71B-0B8AD7A564CAC146.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cong//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cowpens",
- "address": "\nCowpens National Battlefield\n338 New Pleasant Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cowp/crop16_9/CB760DA0-1DD8-B71B-0B289713E6A87B35.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cowp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Sumter and Fort Moultrie",
- "address": "\n1214 Middle Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fosu/crop16_9/231AB7EE-1DD8-B71B-0B3F7AE125D419E5.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fosu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gullah/Geechee",
- "address": "\nGullah Geechee Cultural Heritage Corridor\nPO Box 1007\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/guge/crop16_9/3FBCE71F-1DD8-B71B-0BA0D66EBB68BC88.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//guge//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Kings Mountain",
- "address": "\n2625 Park Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kimo/crop16_9/34A78232-1DD8-B71B-0BBD2F382F88F77F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kimo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Ninety Six",
- "address": "\nNinety Six National Historic Site\n1103 Hwy 248\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nisi/crop16_9/25E02787-AC85-F296-89989B8C74690B84.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//nisi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Overmountain Victory",
- "address": "\n338 New Pleasant Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//ovvi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Reconstruction Era",
- "address": "\n706 Craven Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/reer/crop16_9/C251EB41-FFFD-1D2A-ABF35430CE68B564.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//reer//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "South Carolina",
- "address": "\nThe South Carolina National Heritage Corridor\nPO Box 477\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/soca/crop16_9/4B233B8F-1DD8-B71B-0B9DD8548808BDB8.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//soca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "South Carolina State Houses",
  "address": "1101 Gervais St",
  "avg_visitor_review": [
@@ -490,24 +274,39 @@
  "reviews": []
 },{
  "name": "Harbison State Forest",
- "address": "Lost Creek Dr",
+ "address": "5500 Broad River Rd",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/f8/6a/a2/harbison-state-forest.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/WaCuBSJH0MQU6v_xgXyAiw/o.jpg"
  ],
  "tags": [
+  "nature",
+  "hike",
+  "nature",
+  "walking",
+  "walk",
   "family",
-  "family",
-  "hike"
+  "hike",
+  "eat",
+  "nature",
+  "nature"
  ],
  "link": [
-  "https://www.yelp.com/biz/harbison-state-forest-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/harbison-state-forest-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2024170-Reviews-Harbison_State_Forest-Columbia_South_Carolina.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -866,20 +665,31 @@
  "name": "Saluda Shoals Park",
  "address": "5605 Bush River Rd",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/b2/7f/d6/playground.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/8lu7i5yF8edrhFwvU9ljKQ/o.jpg"
  ],
  "tags": [
-  "walk"
+  "walk",
+  "kids",
+  "walking",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/saluda-shoals-park-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/saluda-shoals-park-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2547240-Reviews-Saluda_Shoals_Park-Columbia_South_Carolina.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1025,20 +835,31 @@
  "name": "Township Auditorium",
  "address": "1703 Taylor St",
  "avg_visitor_review": [
+  "4.0",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e0/0b/ef/township-auditorium.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/qT_hnFOHNWq8RQlFQVbJIQ/o.jpg"
  ],
  "tags": [
+  "food",
+  "hike",
+  "walk",
   "tour"
  ],
  "link": [
-  "https://www.yelp.com/biz/township-auditorium-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/township-auditorium-columbia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d3173509-Reviews-Township_Auditorium-Columbia_South_Carolina.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1197,6 +1018,1036 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Charles Pinckney",
+ "address": "\n1214 Middle Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chpi/crop16_9/EC7E3281-1DD8-B71B-0BD1E57F1311B74F.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chpi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Congaree",
+ "address": "\n100 National Park Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cong/crop16_9/C7A243E3-1DD8-B71B-0B8AD7A564CAC146.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cong//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cowpens",
+ "address": "\nCowpens National Battlefield\n338 New Pleasant Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cowp/crop16_9/CB760DA0-1DD8-B71B-0B289713E6A87B35.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cowp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Sumter and Fort Moultrie",
+ "address": "\n1214 Middle Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fosu/crop16_9/231AB7EE-1DD8-B71B-0B3F7AE125D419E5.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fosu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gullah/Geechee",
+ "address": "\nGullah Geechee Cultural Heritage Corridor\nPO Box 1007\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/guge/crop16_9/3FBCE71F-1DD8-B71B-0BA0D66EBB68BC88.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//guge//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Kings Mountain",
+ "address": "\n2625 Park Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kimo/crop16_9/34A78232-1DD8-B71B-0BBD2F382F88F77F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kimo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Ninety Six",
+ "address": "\nNinety Six National Historic Site\n1103 Hwy 248\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nisi/crop16_9/25E02787-AC85-F296-89989B8C74690B84.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//nisi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Overmountain Victory",
+ "address": "\n338 New Pleasant Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//ovvi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Reconstruction Era",
+ "address": "\n706 Craven Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/reer/crop16_9/C251EB41-FFFD-1D2A-ABF35430CE68B564.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//reer//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "South Carolina",
+ "address": "\nThe South Carolina National Heritage Corridor\nPO Box 477\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/soca/crop16_9/4B233B8F-1DD8-B71B-0B9DD8548808BDB8.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//soca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Riverbanks Zoo and Botanical Garden",
+ "address": "500 Wildlife Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/ab/74/5c/riverbanks-zoo-and-botanical.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "walk",
+  "food",
+  "kids",
+  "walk",
+  "eat",
+  "walk",
+  "learn",
+  "food",
+  "historic",
+  "kids",
+  "walking",
+  "kids",
+  "performance",
+  "family",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d126621-Reviews-Riverbanks_Zoo_and_Botanical_Garden-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Columbia Canal and Riverfront Park",
+ "address": "312 Laurel St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/e2/5c/32/photo1jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "walking",
+  "family",
+  "walk",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2623386-Reviews-Columbia_Canal_and_Riverfront_Park-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "South Carolina State Museum",
+ "address": "301 Gervais St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/5c/c4/b3/south-carolina-state.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walk",
+  "field",
+  "walking",
+  "kids",
+  "family",
+  "kids",
+  "learn",
+  "kids",
+  "history",
+  "history",
+  "walk",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d143424-Reviews-South_Carolina_State_Museum-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "South Carolina State House",
+ "address": "1100 Gervais St 1100 Gervais St, 29201-6215, Columbia, South Carolina",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/6f/98/e0/south-caroline-state.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "walking",
+  "academic",
+  "learn",
+  "family",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "walk",
+  "tour",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d256937-Reviews-South_Carolina_State_House-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Soda City",
+ "address": "1500 block of Main Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/7e/e2/e9/photo0jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "food",
+  "tour",
+  "food",
+  "walking",
+  "food",
+  "walking",
+  "food",
+  "eat",
+  "food",
+  "walk",
+  "unique",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d7142417-Reviews-Soda_City-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Columbia Museum of Art",
+ "address": "Corner of Main and Hampton Sts",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/71/22/45/fountain-night.jpg"
+ ],
+ "tags": [
+  "art",
+  "walking",
+  "art",
+  "art",
+  "organized",
+  "art",
+  "free",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d534096-Reviews-Columbia_Museum_of_Art-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University of South Carolina",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/32/ce/2b/university-of-south-carolina.jpg"
+ ],
+ "tags": [
+  "historic",
+  "library",
+  "historic",
+  "library",
+  "approachable",
+  "academic",
+  "active",
+  "organized",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d126619-Reviews-University_of_South_Carolina-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "South Carolina Confederate Relic Room and Military Museum",
+ "address": "301 Gervais St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/28/36/7c/photo0jpg.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "learn",
+  "history",
+  "free",
+  "history",
+  "history",
+  "unique",
+  "free",
+  "free",
+  "walking",
+  "history",
+  "field",
+  "pets",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2622948-Reviews-South_Carolina_Confederate_Relic_Room_and_Military_Museum-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Jackson",
+ "address": "Strom Thurmond Blvd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/18/5e/5e/fort-jackson.jpg"
+ ],
+ "tags": [
+  "field",
+  "family",
+  "food",
+  "field",
+  "family",
+  "food",
+  "family",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d11932518-Reviews-Fort_Jackson-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Williams-Brice Stadium",
+ "address": "1127 George Rogers Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/2f/67/5d/williams-brice-stadium.jpg"
+ ],
+ "tags": [
+  "music",
+  "field",
+  "field",
+  "tour",
+  "field",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d3174732-Reviews-Williams_Brice_Stadium-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "EdVenture Children's Museum",
+ "address": "211 Gervais St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/11/73/16/edventure.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "family",
+  "eat",
+  "kids",
+  "affordable",
+  "family",
+  "kids",
+  "kids",
+  "food",
+  "kids",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d1967038-Reviews-EdVenture_Children_s_Museum-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sesquicentennial State Park",
+ "address": "9564 Two Notch Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/98/ca/b4/beautiful-view.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2624486-Reviews-Sesquicentennial_State_Park-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Segra Park",
+ "address": "1640 Freed St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/c8/dc/33/spirit-communications.jpg"
+ ],
+ "tags": [
+  "free",
+  "hike",
+  "walk",
+  "eat",
+  "walking",
+  "kids",
+  "family",
+  "food",
+  "free",
+  "hike",
+  "walk",
+  "affordable",
+  "walk",
+  "food",
+  "kids",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d10212396-Reviews-Segra_Park-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tunnel Vision Mural",
+ "address": "1550 Marion St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/9b/29/88/blue-sky-mural.jpg"
+ ],
+ "tags": [
+  "art",
+  "walk",
+  "art",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d6920303-Reviews-Tunnel_Vision_Mural-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Colonial Life Arena",
+ "address": "801 Lincoln St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/3e/6b/ed/colonial-life-arena.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "walking",
+  "food",
+  "tour",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d3173502-Reviews-Colonial_Life_Arena-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "South Carolina Military Museum",
+ "address": "1 National Guard Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/28/40/20/photo3jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "family",
+  "history",
+  "kids",
+  "tour",
+  "history",
+  "free",
+  "organized",
+  "history",
+  "history",
+  "free",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d2622183-Reviews-South_Carolina_Military_Museum-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "River Rat Brewery",
+ "address": "1231 Shop Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/48/50/82/17-beers-on-tap-weekly.jpg"
+ ],
+ "tags": [
+  "unique",
+  "unique",
+  "food",
+  "drink",
+  "brewery",
+  "delicious",
+  "family",
+  "food",
+  "eat",
+  "kids",
+  "food",
+  "brewery",
+  "food",
+  "pets",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d6725403-Reviews-River_Rat_Brewery-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Worlds Largest Fire Hydrant",
+ "address": "1400 Taylor St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/6f/c6/dc/world-largest-fire-hydrant.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "walk",
+  "walking",
+  "art",
+  "walking",
+  "creative",
+  "art",
+  "daring"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d10382490-Reviews-Worlds_Largest_Fire_Hydrant-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Robert Mills House & Gardens",
+ "address": "1616 Blanding St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/f5/4e/86/robert-mills-house.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "organized",
+  "historic",
+  "tour",
+  "historic",
+  "family",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "walk",
+  "knowledgeable",
+  "family",
+  "historic",
+  "tour",
+  "tour",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d143426-Reviews-Robert_Mills_House_Gardens-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Koger Center for the Arts",
+ "address": "1051 Greene St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/b2/d2/soldiers-fighting-battle.jpg"
+ ],
+ "tags": [
+  "performance",
+  "walking",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d3173504-Reviews-Koger_Center_for_the_Arts-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Jackson Museum (not open to All public)",
+ "address": "4442 Jackson Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/08/0d/ca/img-20180207-155132913.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "history",
+  "walking",
+  "active",
+  "history",
+  "family",
+  "unique",
+  "structure",
+  "field",
+  "pets",
+  "food",
+  "walking",
+  "active",
+  "history",
+  "family",
+  "unique",
+  "structure",
+  "field",
+  "pets",
+  "food",
+  "walking",
+  "active",
+  "history",
+  "family",
+  "unique",
+  "structure",
+  "field",
+  "pets",
+  "food",
+  "family",
+  "tour",
+  "family",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d9764727-Reviews-Fort_Jackson_Museum_not_open_to_All_public-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Five Points",
+ "address": "Intersection of Greene St. and Harden St.",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/26/9f/9f/five-points.jpg"
+ ],
+ "tags": [
+  "food",
+  "cheap",
+  "walking",
+  "kids",
+  "unique",
+  "historic",
+  "food",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d3195156-Reviews-Five_Points-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "African American History Monument",
+ "address": "1100 Gervais St South Carolina State House Grounds",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/c1/5e/fa/african-american-monument.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "walk",
+  "walk",
+  "history",
+  "history",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d7987770-Reviews-African_American_History_Monument-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Founders Park",
+ "address": "431 Williams",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/8f/9e/21/founders-park-columbia.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "kids",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d6889753-Reviews-Founders_Park-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Jackson National Cemetery",
+ "address": "4170 Percival Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/25/91/1d/touching-remembrance.jpg"
+ ],
+ "tags": [
+  "family",
+  "family",
+  "wander",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d8129339-Reviews-Fort_Jackson_National_Cemetery-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Finlay Park",
+ "address": "930 Laurel St",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/8e/04/dc/finley-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d877777-Reviews-Finlay_Park-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sea Lion Landing",
+ "address": "500 Wildlife Pkwy",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/ce/87/ac/zoo.jpg"
+ ],
+ "tags": [
+  "active",
+  "walk",
+  "active",
+  "walk",
+  "active",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g54184-d10389650-Reviews-Sea_Lion_Landing-Columbia_South_Carolina.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

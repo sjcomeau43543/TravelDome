@@ -1,70 +1,5 @@
 [
 {
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Marsh - Billings - Rockefeller",
- "address": "\n54 Elm Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mabi/crop16_9/BFEA0341-E120-8E15-46904077B2FD1DED.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//mabi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Paramount Theatre",
  "address": "241 N Main St",
  "avg_visitor_review": [
@@ -818,6 +753,533 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Marsh - Billings - Rockefeller",
+ "address": "\n54 Elm Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mabi/crop16_9/BFEA0341-E120-8E15-46904077B2FD1DED.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//mabi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Morse Farm Maple Sugarworks",
+ "address": "1168 County Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/41/b6/ab/chrysanthemums-for-sale.jpg"
+ ],
+ "tags": [
+  "unique",
+  "theatre",
+  "free",
+  "history",
+  "tour",
+  "family",
+  "tasting",
+  "delicious",
+  "tour",
+  "sampling",
+  "tour",
+  "sampling"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d2216699-Reviews-Morse_Farm_Maple_Sugarworks-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bragg Farm Sugar House & Gift Shop",
+ "address": "1005 Vt Route 14 S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/18/d7/22/bragg-farm-sugar-house.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "learn",
+  "history",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d2182212-Reviews-Bragg_Farm_Sugar_House_Gift_Shop-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Vermont State House",
+ "address": "115 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/fa/28/3b/vermont-state-house.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "free",
+  "history",
+  "tour",
+  "active",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d105553-Reviews-Vermont_State_House-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Camel's Hump",
+ "address": "",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/7c/0e/b4/looking-out-towards-sugarbush.jpg"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "parks",
+  "food",
+  "kids",
+  "hike",
+  "hike",
+  "hike",
+  "walking",
+  "kids",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d146348-Reviews-Camel_s_Hump-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Vermont Historical Society Museum",
+ "address": "109 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/0e/d5/90/the-pavilion-building.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "free",
+  "walking",
+  "walk",
+  "history",
+  "history",
+  "walk",
+  "art",
+  "history",
+  "history",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d106224-Reviews-Vermont_Historical_Society_Museum-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hubbard Park",
+ "address": "Winter Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/a2/3f/a8/the-tower.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d651153-Reviews-Hubbard_Park-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lost Nation Theater",
+ "address": "39 Main St Montpelier City Hall",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/46/c3/ca/lost-nation-theater.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "performance",
+  "performance",
+  "family",
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d5007427-Reviews-Lost_Nation_Theater-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ethan Allen Statue",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c0/0f/ef/ethan-allen-statue.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d105554-Reviews-Ethan_Allen_Statue-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ceres",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c0/11/65/ceres.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d108051-Reviews-Ceres-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Coburn Covered Bridge",
+ "address": "Coburn Rd east of Montpelier, east of route 14",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/91/2d/75/busy.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d14920208-Reviews-Coburn_Covered_Bridge-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "North Branch Vineyards",
+ "address": "82 Trillium Hl",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/5d/7e/82/welcome.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d4174181-Reviews-North_Branch_Vineyards-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Vermont College",
+ "address": "36 College St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "art",
+  "kids",
+  "walk",
+  "tour",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d106580-Reviews-Vermont_College-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pavilion Building",
+ "address": "State Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/78/5f/9b/caption.jpg"
+ ],
+ "tags": [
+  "historic",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d146345-Reviews-Pavilion_Building-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Green Mountain Cemetary",
+ "address": "250 State Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "unique",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d17626290-Reviews-Green_Mountain_Cemetary-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "VT Dept of Tourism & Marketing",
+ "address": "1 National Life Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "free",
+  "walk",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d146341-Reviews-VT_Dept_of_Tourism_Marketing-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "T.W. Wood Art Gallery",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "historic",
+  "music",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d106581-Reviews-T_W_Wood_Art_Gallery-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "North Branch Nature Center",
+ "address": "713 Elm St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "free",
+  "hike",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d17571754-Reviews-North_Branch_Nature_Center-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capital City Farmers Market",
+ "address": "60 State St",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d20182043-Reviews-Capital_City_Farmers_Market-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Montpelier Train Station",
+ "address": "11350 Constitution Hwy",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d14396947-Reviews-Historic_Montpelier_Train_Station-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Studio DavAnn",
+ "address": "",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g57324-d1490419-Reviews-Studio_DavAnn-Montpelier_Vermont.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

@@ -1,130 +1,69 @@
 [
 {
- "name": "Apostle Islands",
- "address": "\n415 Washington Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/apis/crop16_9/80807852-AAFA-BC73-DE1B30D4F8284148.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//apis//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Ice Age",
- "address": "\nNational Park Service\n700 Rayovac Drive\nSuite 100\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/iatr/crop16_9/03B5E6CF-1DD8-B71B-0B3E1537294B4A88.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//iatr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint Croix",
- "address": "\n401 North Hamilton Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//sacn//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Chazen Museum of Art",
  "address": "750 University Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/09/c2/4b/chazen-museum.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/g_zkBfDCwX18mFlGGZtjqw/o.jpg"
  ],
  "tags": [
   "art",
-  "art"
+  "free",
+  "art",
+  "free",
+  "free",
+  "learn",
+  "art",
+  "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/chazen-museum-of-art-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/chazen-museum-of-art-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d109920-Reviews-Chazen_Museum_of_Art-Madison_Wisconsin.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Tenney Park",
  "address": "1414 E Johnson St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/e4/fd/fishing-in-the-sunset.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/efScj46-0hyQxIWvnWkmlA/o.jpg"
  ],
  "tags": [
-  "walking"
+  "walk",
+  "walking",
+  "family",
+  "parks",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/tenney-park-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/tenney-park-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d299840-Reviews-Tenney_Park-Madison_Wisconsin.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -152,20 +91,63 @@
  "name": "Madison Mallards",
  "address": "2920 N Sherman Ave",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/42/a6/91/madison-marlins.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/hU439XvOxSxzX7JBWi1hiw/o.jpg"
  ],
  "tags": [
+  "free",
+  "music",
+  "food",
+  "family",
+  "drink",
+  "field",
+  "kids",
+  "field",
+  "family",
+  "food",
+  "free",
+  "food",
+  "family",
+  "kids",
+  "cheap",
+  "field",
+  "eat",
+  "drink",
+  "field",
+  "food",
+  "free",
+  "music",
+  "food",
+  "family",
+  "drink",
+  "field",
+  "kids",
+  "family",
+  "field",
+  "family",
+  "food",
+  "parks",
+  "food",
+  "free",
+  "eat",
   "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/madison-mallards-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/madison-mallards-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d1440352-Reviews-Madison_Mallards-Madison_Wisconsin.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1075,6 +1057,863 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Apostle Islands",
+ "address": "\n415 Washington Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/apis/crop16_9/80807852-AAFA-BC73-DE1B30D4F8284148.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//apis//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Ice Age",
+ "address": "\nNational Park Service\n700 Rayovac Drive\nSuite 100\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/iatr/crop16_9/03B5E6CF-1DD8-B71B-0B3E1537294B4A88.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//iatr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Croix",
+ "address": "\n401 North Hamilton Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//sacn//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wisconsin State Capitol",
+ "address": "Across from 1 E. Main St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/39/4c/6f/photo2jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "tour",
+  "structure",
+  "history",
+  "walk",
+  "tour",
+  "history",
+  "walk",
+  "knowledgeable",
+  "tour",
+  "kids",
+  "tour",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280436-Reviews-Wisconsin_State_Capitol-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Olbrich Botanical Gardens",
+ "address": "3330 Atwood Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/06/cf/42/olbrich-botanical-gardens.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "free",
+  "walking",
+  "unique",
+  "family",
+  "walk",
+  "free",
+  "kids",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d109921-Reviews-Olbrich_Botanical_Gardens-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Henry Vilas Zoo",
+ "address": "702 S Randall Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/72/a7/63/henry-vilas-zoo.jpg"
+ ],
+ "tags": [
+  "active",
+  "eat",
+  "food",
+  "walk",
+  "free",
+  "kids",
+  "kids",
+  "free",
+  "kids",
+  "free",
+  "walking",
+  "walk",
+  "free",
+  "kids",
+  "free",
+  "active",
+  "eat",
+  "food",
+  "walk",
+  "free",
+  "free",
+  "eat",
+  "family",
+  "field",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d207431-Reviews-Henry_Vilas_Zoo-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Memorial Union Terrace",
+ "address": "800 Langdon St University of Wisconsin",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/7a/8a/your-terrace-chair-is.jpg"
+ ],
+ "tags": [
+  "free",
+  "music",
+  "food",
+  "music",
+  "drink",
+  "food",
+  "drink",
+  "food",
+  "music",
+  "family",
+  "food",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d4480969-Reviews-Memorial_Union_Terrace-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Farmer's Market",
+ "address": "20 East Mifflin Capitol Square",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/15/21/27/madison-farmers-market.jpg"
+ ],
+ "tags": [
+  "tour",
+  "music",
+  "free",
+  "art",
+  "food",
+  "family",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d486864-Reviews-Madison_Farmer_s_Market-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Square",
+ "address": "2 East Main Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/af/ec/f1/capitol-square.jpg"
+ ],
+ "tags": [
+  "food",
+  "tour",
+  "learn",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d282451-Reviews-Capitol_Square-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State Street & Downtown Madison",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/22/8a/2a/state-street.jpg"
+ ],
+ "tags": [
+  "walk",
+  "unique",
+  "eat",
+  "kids",
+  "walk",
+  "walk",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d281199-Reviews-State_Street_Downtown_Madison-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Camp Randall Stadium University of Wisconsin",
+ "address": "1440 Monroe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/1e/88/93/camp-randall-stadium.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "historic",
+  "history",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d3606130-Reviews-Camp_Randall_Stadium_University_of_Wisconsin-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University of Wisconsin-Madison Arboretum",
+ "address": "1207 Seminole Hwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/5f/46/31/the-arboretum-s-wisconsin.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "kids",
+  "nature",
+  "walking",
+  "field",
+  "family",
+  "nature",
+  "walking",
+  "walk",
+  "educate",
+  "free",
+  "active",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d147145-Reviews-University_of_Wisconsin_Madison_Arboretum-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kohl Center",
+ "address": "601 W Dayton St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/72/7e/ac/senior-day-big-10-champions.jpg"
+ ],
+ "tags": [
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280429-Reviews-Kohl_Center-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Children's Museum",
+ "address": "100 N Hamilton St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/9f/fc/95/madison-children-s-museum.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "history",
+  "structure",
+  "creative",
+  "kids",
+  "art",
+  "food",
+  "eat",
+  "kids",
+  "art",
+  "food",
+  "creative",
+  "kids",
+  "food",
+  "walk",
+  "art",
+  "family",
+  "eat",
+  "food",
+  "cheap",
+  "family",
+  "active"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d109918-Reviews-Madison_Children_s_Museum-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Mendota",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/7e/5e/52/lake-mendota.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d109925-Reviews-Lake_Mendota-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University of Wisconsin - Madison",
+ "address": "716 Langdon St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5a/a3/26/some-architecture-on.jpg"
+ ],
+ "tags": [
+  "history",
+  "wander",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280438-Reviews-University_of_Wisconsin_Madison-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wisconsin Veterans Museum",
+ "address": "30 W Mifflin St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/68/13/94/vietnam-somehow-they.jpg"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "free",
+  "walking",
+  "free",
+  "learn",
+  "art",
+  "history",
+  "art",
+  "free",
+  "organized",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d109917-Reviews-Wisconsin_Veterans_Museum-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Monona Terrace Community and Convention Center",
+ "address": "1 John Nolen Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/0f/78/ba/monona-terrace-community.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "walk",
+  "wander",
+  "free",
+  "tour",
+  "walk",
+  "music",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280671-Reviews-Monona_Terrace_Community_and_Convention_Center-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wisconsin Historical Museum",
+ "address": "30 N Carroll St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/c9/c4/c1/wisconsin-historical.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "kids",
+  "free",
+  "free",
+  "history",
+  "family",
+  "history",
+  "history",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d258764-Reviews-Wisconsin_Historical_Museum-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University of Wisconsin Geology Museum",
+ "address": "1215 W Dayton St Weeks Hall",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/ed/10/85/university-of-wisconsin.jpg"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "art",
+  "unique",
+  "free",
+  "tour",
+  "free",
+  "free",
+  "free",
+  "knowledgeable",
+  "tour",
+  "kids",
+  "walk",
+  "free",
+  "kids",
+  "art",
+  "unique",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280437-Reviews-University_of_Wisconsin_Geology_Museum-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Allen Centennial Gardens",
+ "address": "620 Babcock Dr",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/1f/e6/9b/allen-centennial-gardens.jpg"
+ ],
+ "tags": [
+  "library",
+  "art",
+  "structure",
+  "historic",
+  "library",
+  "art",
+  "structure",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280432-Reviews-Allen_Centennial_Gardens-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Museum of Contemporary Art",
+ "address": "227 State St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/84/85/9c/photo-by-sharon-vanorny.jpg"
+ ],
+ "tags": [
+  "art",
+  "free",
+  "organized",
+  "art",
+  "free",
+  "art",
+  "unique",
+  "art",
+  "free",
+  "art",
+  "art",
+  "unique",
+  "free",
+  "art",
+  "free",
+  "art",
+  "unique",
+  "art",
+  "walking",
+  "free",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d639838-Reviews-Madison_Museum_of_Contemporary_Art-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alliant Energy Center",
+ "address": "1919 Alliant Energy Center Way",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/e9/7c/7a/alliant-energy-center.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "food",
+  "tasting",
+  "walking",
+  "food",
+  "learn",
+  "food",
+  "organized",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280427-Reviews-Alliant_Energy_Center-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ho-Chunk Gaming Madison",
+ "address": "4002 Evan Acres Rd",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/37/78/19/ho-chunk-gaming-madison.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d2287532-Reviews-Ho_Chunk_Gaming_Madison-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Vilas Park",
+ "address": "702 S Randall Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/34/89/60/vilas-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "walk",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d279033-Reviews-Vilas_Park-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Olin-Turville Park",
+ "address": "John Nolen Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/61/04/57/view-fro-the-park.jpg"
+ ],
+ "tags": [
+  "free",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d8699077-Reviews-Olin_Turville_Park-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Monona Shoreline Run",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/1d/27/view-of-the-lake-and.jpg"
+ ],
+ "tags": [
+  "eat",
+  "eat",
+  "drink",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d147144-Reviews-Lake_Monona_Shoreline_Run-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Warner Park",
+ "address": "1511 Northport Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1c/d4/76/warner-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walking",
+  "nature",
+  "cheap",
+  "family",
+  "free",
+  "walking",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280426-Reviews-Warner_Park-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Elver Park",
+ "address": "1301 Gammon Rd.",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/2e/51/7f/view-of-sledding-hill.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids",
+  "parks",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d280434-Reviews-Elver_Park-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Madison Public Library",
+ "address": "210 Mifflin Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e0/76/73/madison-public-library.jpg"
+ ],
+ "tags": [
+  "field",
+  "library",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60859-d4885828-Reviews-Madison_Public_Library-Madison_Wisconsin.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

@@ -1,528 +1,5 @@
 [
 {
- "name": "Canyon de Chelly",
- "address": "\nP.O. Box 588\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cach/crop16_9/63F24458-1DD8-B71B-0BA686C310979353.JPG?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cach//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Casa Grande Ruins",
- "address": "\n1100 W. Ruins Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cagr/crop16_9/5D0839B2-B3F0-3EAD-5486476310C4BF3B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cagr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chiricahua",
- "address": "\n12856 E Rhyolite Creek Rd\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chir/crop16_9/8184E9A4-1DD8-B71B-0B1A55A475F2AE15.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//chir//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Coronado",
- "address": "\n4101 E Montezuma Canyon Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/coro/crop16_9/F7A6BC25-1DD8-B71B-0B3B4742E0E69B1B.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//coro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Bowie",
- "address": "\nP.O. Box 158\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fobo/crop16_9/65F2B36B-1DD8-B71B-0B6BBBC7B53FA419.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hike",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//fobo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Glen Canyon",
- "address": "\nPO Box 1507\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/glca/crop16_9/84C871F3-1DD8-B71B-0BCAD116B65E0D38.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//glca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Grand Canyon",
- "address": "\nPO Box 129\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grca/crop16_9/77F6AD51-1DD8-B71B-0B45850A92DFEFE3.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//grca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Hubbell Trading Post",
- "address": "\nHubbell Trading Post National Historic Site\nP.O. Box 150\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hutr/crop16_9/2A3BCE0E-1DD8-B71B-0B8B8DABEF77FEC3.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "art",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//hutr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Juan Bautista de Anza",
- "address": "\n440 Civic Center Plaza, Suite 300\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/juba/crop16_9/C90D2200-1DD8-B71B-0B0C5AB69F5614CB.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//juba//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lake Mead",
- "address": "\n601 Nevada Way\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lake/crop16_9/7E82DB2D-A7D8-90B4-57C31CFD7240D8DF.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//lake//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Montezuma Castle",
- "address": "\nP. O.  Box 219\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/moca/crop16_9/581B24D9-C6FB-394C-FB4922C14EE6B5A9.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//moca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Navajo",
- "address": "\nP.O. Box 7717\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nava/crop16_9/A65F1801-1DD8-B71B-0B5E6981541C7A4A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//nava//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Old Spanish",
- "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//olsp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Organ Pipe Cactus",
- "address": "\n10 Organ Pipe Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/orpi/crop16_9/F505B662-1DD8-B71B-0B69B1A3BD3FBB5D.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//orpi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Parashant",
- "address": "\n345 East Riverside Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/para/crop16_9/1DBC7CCC-1DD8-B71B-0B3A07B8CD52224B.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//para//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Petrified Forest",
- "address": "\n1 Park Road, #2217\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/pefo/crop16_9/AB4BCE0E-DA32-C65F-374908990193AC95.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//pefo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pipe Spring",
- "address": "\nPipe Spring National Monument\nHC 65 Box 5\n406 Pipe Springs Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/pisp/crop16_9/688837AA-1DD8-B71B-0B08803CF32F84B5.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "learn",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//pisp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saguaro",
- "address": "\n3693 S Old Spanish Trail\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sagu/crop16_9/6C5F4670-1DD8-B71B-0B97110D5CF38FFB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//sagu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Sunset Crater Volcano",
- "address": "\n6400 U.S. 89\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sucr/crop16_9/5FD20E9D-1DD8-B71B-0B35BBAFB73DDCAD.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "nature"
- ],
- "link": [
-  "https://www.nps.gov//sucr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tonto",
- "address": "\n26260 N AZ Hwy 188 Lot 2\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tont/crop16_9/E1BB8148-F5AA-2F1E-CA1EAFCC7CE67136.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//tont//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tumac\u00e1cori",
- "address": "\nP.O. Box 8067\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tuma/crop16_9/9B91B12F-0212-1335-21DDBA7399D5665C.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tuma//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tuzigoot",
- "address": "\nP.O. Box 219\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tuzi/crop16_9/01FBD2A8-1DD8-B71B-0B89C60B0F9A1171.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tuzi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Walnut Canyon",
- "address": "\n6400 U.S. 89\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/waca/crop16_9/59E6CAD7-065C-FFAA-938BCAFBFE0F1FBD.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walking"
- ],
- "link": [
-  "https://www.nps.gov//waca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Wupatki",
- "address": "\n6400 U.S. 89\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/wupa/crop16_9/9BF69B8A-1DD8-B71B-0B5FCD030066C4F5.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "food"
- ],
- "link": [
-  "https://www.nps.gov//wupa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "FilmBar",
  "address": "815 N 2nd St",
  "avg_visitor_review": [
@@ -639,22 +116,52 @@
  "name": "Heard Museum",
  "address": "2301 N Central Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/49/f8/6f/20190121-105651-largejpg.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/lDYCNvuR5ZIpf1aur__q6Q/o.jpg"
  ],
  "tags": [
+  "history",
+  "delicious",
+  "learn",
+  "tour",
   "art",
+  "learn",
+  "history",
+  "art",
+  "tour",
+  "family",
   "free",
+  "learn",
+  "tour",
+  "art",
+  "wander",
+  "walking",
+  "delicious",
+  "knowledgeable",
+  "free",
+  "art",
+  "learn",
+  "eat",
+  "art",
+  "eat",
   "library"
  ],
  "link": [
-  "https://www.yelp.com/biz/heard-museum-phoenix-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/heard-museum-phoenix-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d116632-Reviews-Heard_Museum-Phoenix_Arizona.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -761,20 +268,36 @@
  "name": "South Mountain Park",
  "address": "10919 S Central Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/ba/2e/60/south-mountain-park.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/DJy1EZsMyJ2Tu46KilG-nQ/o.jpg"
  ],
  "tags": [
-  "hike"
+  "hike",
+  "knowledgeable",
+  "hike",
+  "hike",
+  "hike",
+  "free",
+  "hike",
+  "hike",
+  "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/south-mountain-park-phoenix?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/south-mountain-park-phoenix?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d109772-Reviews-South_Mountain_Park-Phoenix_Arizona.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1519,6 +1042,1330 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Canyon de Chelly",
+ "address": "\nP.O. Box 588\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cach/crop16_9/63F24458-1DD8-B71B-0BA686C310979353.JPG?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cach//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Casa Grande Ruins",
+ "address": "\n1100 W. Ruins Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cagr/crop16_9/5D0839B2-B3F0-3EAD-5486476310C4BF3B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cagr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chiricahua",
+ "address": "\n12856 E Rhyolite Creek Rd\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chir/crop16_9/8184E9A4-1DD8-B71B-0B1A55A475F2AE15.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//chir//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Coronado",
+ "address": "\n4101 E Montezuma Canyon Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/coro/crop16_9/F7A6BC25-1DD8-B71B-0B3B4742E0E69B1B.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//coro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Bowie",
+ "address": "\nP.O. Box 158\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fobo/crop16_9/65F2B36B-1DD8-B71B-0B6BBBC7B53FA419.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//fobo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Glen Canyon",
+ "address": "\nPO Box 1507\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/glca/crop16_9/84C871F3-1DD8-B71B-0BCAD116B65E0D38.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//glca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Canyon",
+ "address": "\nPO Box 129\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grca/crop16_9/77F6AD51-1DD8-B71B-0B45850A92DFEFE3.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//grca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hubbell Trading Post",
+ "address": "\nHubbell Trading Post National Historic Site\nP.O. Box 150\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hutr/crop16_9/2A3BCE0E-1DD8-B71B-0B8B8DABEF77FEC3.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//hutr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Juan Bautista de Anza",
+ "address": "\n440 Civic Center Plaza, Suite 300\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/juba/crop16_9/C90D2200-1DD8-B71B-0B0C5AB69F5614CB.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//juba//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Mead",
+ "address": "\n601 Nevada Way\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lake/crop16_9/7E82DB2D-A7D8-90B4-57C31CFD7240D8DF.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//lake//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Montezuma Castle",
+ "address": "\nP. O.  Box 219\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/moca/crop16_9/581B24D9-C6FB-394C-FB4922C14EE6B5A9.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//moca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Navajo",
+ "address": "\nP.O. Box 7717\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nava/crop16_9/A65F1801-1DD8-B71B-0B5E6981541C7A4A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//nava//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//olsp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Organ Pipe Cactus",
+ "address": "\n10 Organ Pipe Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/orpi/crop16_9/F505B662-1DD8-B71B-0B69B1A3BD3FBB5D.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//orpi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Parashant",
+ "address": "\n345 East Riverside Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/para/crop16_9/1DBC7CCC-1DD8-B71B-0B3A07B8CD52224B.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//para//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Petrified Forest",
+ "address": "\n1 Park Road, #2217\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/pefo/crop16_9/AB4BCE0E-DA32-C65F-374908990193AC95.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//pefo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pipe Spring",
+ "address": "\nPipe Spring National Monument\nHC 65 Box 5\n406 Pipe Springs Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/pisp/crop16_9/688837AA-1DD8-B71B-0B08803CF32F84B5.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//pisp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saguaro",
+ "address": "\n3693 S Old Spanish Trail\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sagu/crop16_9/6C5F4670-1DD8-B71B-0B97110D5CF38FFB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//sagu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Sunset Crater Volcano",
+ "address": "\n6400 U.S. 89\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sucr/crop16_9/5FD20E9D-1DD8-B71B-0B35BBAFB73DDCAD.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "nature"
+ ],
+ "link": [
+  "https://www.nps.gov//sucr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tonto",
+ "address": "\n26260 N AZ Hwy 188 Lot 2\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tont/crop16_9/E1BB8148-F5AA-2F1E-CA1EAFCC7CE67136.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//tont//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tumac\u00e1cori",
+ "address": "\nP.O. Box 8067\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tuma/crop16_9/9B91B12F-0212-1335-21DDBA7399D5665C.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tuma//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tuzigoot",
+ "address": "\nP.O. Box 219\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tuzi/crop16_9/01FBD2A8-1DD8-B71B-0B89C60B0F9A1171.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tuzi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Walnut Canyon",
+ "address": "\n6400 U.S. 89\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/waca/crop16_9/59E6CAD7-065C-FFAA-938BCAFBFE0F1FBD.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walking"
+ ],
+ "link": [
+  "https://www.nps.gov//waca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wupatki",
+ "address": "\n6400 U.S. 89\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/wupa/crop16_9/9BF69B8A-1DD8-B71B-0B5FCD030066C4F5.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "food"
+ ],
+ "link": [
+  "https://www.nps.gov//wupa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Musical Instrument Museum",
+ "address": "4725 E Mayo Blvd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/55/78/f9/mim-exterior.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "family",
+  "music",
+  "music",
+  "music",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d1798067-Reviews-Musical_Instrument_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Desert Botanical Garden",
+ "address": "1201 N Galvin Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/ee/e6/d9/a-man-made-art-among.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "free",
+  "tour",
+  "learn",
+  "art",
+  "wander",
+  "unique",
+  "nature",
+  "hike",
+  "knowledgeable",
+  "wander",
+  "art",
+  "walking",
+  "art",
+  "walking",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d109186-Reviews-Desert_Botanical_Garden-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Camelback Mountain",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/b3/75/6b/20160615-093309-largejpg.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walk",
+  "hike",
+  "hike",
+  "hike",
+  "walk",
+  "kids",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d260028-Reviews-Camelback_Mountain-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Piestewa Peak",
+ "address": "2701 East Squaw Peak Lane",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/63/6d/a1/photo1jpg.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike",
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d1453703-Reviews-Piestewa_Peak-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hole in the Rock",
+ "address": "Papago Park Van Buren St. and Galvin Pkway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/93/4c/eb/a-view-of-the-hole-in.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "hike",
+  "adventurous",
+  "kids",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d126770-Reviews-Hole_in_the_Rock-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Papago Park",
+ "address": "625 N. Galvin Parkway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5d/5f/ac/one-of-the-fishing-lakes.jpg"
+ ],
+ "tags": [
+  "hike",
+  "historic",
+  "walking",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d127197-Reviews-Papago_Park-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chase Field",
+ "address": "401 E Jefferson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/a7/8d/c9/a-seat-with-a-view.jpg"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "tour",
+  "tour",
+  "field",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d104041-Reviews-Chase_Field-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wrigley Mansion",
+ "address": "2501 E Telewa Trl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/8d/eb/b1/wrigley-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "tour",
+  "knowledgeable",
+  "walking",
+  "hike",
+  "family",
+  "tour",
+  "history",
+  "eat",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d275846-Reviews-Wrigley_Mansion-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Phoenix Art Museum",
+ "address": "1625 N Central Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/b4/00/66/phoenix-art-museum-entrance.jpg"
+ ],
+ "tags": [
+  "kids",
+  "library",
+  "art",
+  "free",
+  "art",
+  "art",
+  "free",
+  "art",
+  "creative",
+  "free",
+  "performance",
+  "art",
+  "art",
+  "art",
+  "food",
+  "unique",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d104038-Reviews-Phoenix_Art_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Echo Canyon Trail and Recreation Area",
+ "address": "5700 North Echo Canyon Parkway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/0b/e6/98/mummy-mountain.jpg"
+ ],
+ "tags": [
+  "hike",
+  "free",
+  "hike",
+  "hike",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d563415-Reviews-Echo_Canyon_Trail_and_Recreation_Area-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Phoenix Zoo",
+ "address": "455 N Galvin Pkwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/1c/36/94/phoenix-zoo.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "walking",
+  "family",
+  "family",
+  "walk",
+  "walk",
+  "kids",
+  "walking",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d127047-Reviews-Phoenix_Zoo-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Children\u2019s Museum of Phoenix",
+ "address": "215 N 7th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ad/94/05/photo6jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "structure",
+  "kids",
+  "kids",
+  "structure",
+  "family",
+  "kids",
+  "structure",
+  "food",
+  "art",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d1537397-Reviews-Children_s_Museum_of_Phoenix-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dobbins Lookout",
+ "address": "North Summit Road South Mountain Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/35/61/e4/photo1jpg.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d10168854-Reviews-Dobbins_Lookout-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mystery Castle",
+ "address": "800 E Mineral Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/5f/af/73/the-entrance.jpg"
+ ],
+ "tags": [
+  "structure",
+  "unique",
+  "kids",
+  "tour",
+  "practical",
+  "tour",
+  "family",
+  "unique",
+  "knowledgeable",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d141819-Reviews-Mystery_Castle-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hall of Flame Museum of Firefighting",
+ "address": "6101 E van Buren St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/ca/76/b3/piston-fire-engine.jpg"
+ ],
+ "tags": [
+  "historic",
+  "family",
+  "tour",
+  "knowledgeable",
+  "kids",
+  "learn",
+  "history",
+  "tour",
+  "historic",
+  "family",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d127090-Reviews-Hall_of_Flame_Museum_of_Firefighting-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Phoenix Mountain Preserve",
+ "address": "1431 E Dunlap Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/55/00/b1/trail-100.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d146667-Reviews-Phoenix_Mountain_Preserve-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pueblo Grande Museum",
+ "address": "4619 E Washington St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/7f/da/a3/house.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "learn",
+  "knowledgeable",
+  "free",
+  "kids",
+  "tour",
+  "learn",
+  "history",
+  "tour",
+  "walking",
+  "history",
+  "kids",
+  "walk",
+  "art",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d109183-Reviews-Pueblo_Grande_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Rosson House Museum",
+ "address": "139 N 6th St Heritage Square",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/dd/9a/1d/exterior.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "kids",
+  "family",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "history",
+  "walk",
+  "tour",
+  "kids",
+  "history",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "walking",
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d563438-Reviews-The_Rosson_House_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wells Fargo Museum",
+ "address": "145 W Adams St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/be/fe/authentic-wf-stagecoach.jpg"
+ ],
+ "tags": [
+  "history",
+  "art",
+  "history",
+  "free",
+  "learn",
+  "free",
+  "free",
+  "free",
+  "art",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d546062-Reviews-Wells_Fargo_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arizona Science Center",
+ "address": "600 E Washington St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/ad/39/0a/filename-asc-building.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "free",
+  "kids",
+  "tour",
+  "learn",
+  "kids",
+  "creative",
+  "art",
+  "nature",
+  "family",
+  "kids",
+  "food",
+  "tour",
+  "history",
+  "family",
+  "kids",
+  "kids",
+  "kids",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d127070-Reviews-Arizona_Science_Center-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Castles N' Coasters",
+ "address": "9445 N Metro Pkwy E",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/17/b0/a9/photo6jpg.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "kids",
+  "kids",
+  "family",
+  "kids",
+  "kids",
+  "eat",
+  "family",
+  "food",
+  "eat",
+  "food",
+  "daring"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d127164-Reviews-Castles_N_Coasters-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cholla Trail",
+ "address": "Cholla Lane Camelback Mountain",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/fe/13/52/cholla-trail.jpg"
+ ],
+ "tags": [
+  "hike",
+  "drink",
+  "walk",
+  "walking",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d4043987-Reviews-Cholla_Trail-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Phoenix Theatre Company",
+ "address": "100 E McDowell Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/ef/76/ce/phoenix-theatre-photo.jpg"
+ ],
+ "tags": [
+  "music",
+  "theatre",
+  "delicious",
+  "performance",
+  "performance",
+  "free",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d1143908-Reviews-The_Phoenix_Theatre_Company-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Mary's Basilica",
+ "address": "231 N. 3rd Street, at Monroe Street Downtown",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/b3/ac/5d/st-mary-s-basilica-in.jpg"
+ ],
+ "tags": [
+  "historic",
+  "structure",
+  "music",
+  "historic",
+  "family",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d524692-Reviews-St_Mary_s_Basilica-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ak-Chin Pavilion",
+ "address": "2121 N 83rd Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/fb/00/ae/cricket-pavilion.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d563413-Reviews-Ak_Chin_Pavilion-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arizona Capitol Museum",
+ "address": "1700 W Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/38/92/f1/arizona-capitol.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "free",
+  "history",
+  "free",
+  "tour",
+  "history",
+  "history",
+  "history",
+  "free",
+  "tour",
+  "history",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d104043-Reviews-Arizona_Capitol_Museum-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Japanese Friendship Garden of Phoenix",
+ "address": "1125 N 3rd Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/81/24/8c/pond.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "kids",
+  "history",
+  "sampling",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d2558107-Reviews-Japanese_Friendship_Garden_of_Phoenix-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Orpheum Theater",
+ "address": "203 W Adams St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/77/c3/41/20190212-140451-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "historic",
+  "performance",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31310-d563426-Reviews-Orpheum_Theater-Phoenix_Arizona.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

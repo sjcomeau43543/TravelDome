@@ -1,178 +1,5 @@
 [
 {
- "name": "Atchafalaya",
- "address": "\nLouisiana Department of Culture, Recreation & Tourism\nP. O. Box 44243\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/attr/crop16_9/71F4CC1D-1DD8-B71B-0BDA28B953F79C3B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//attr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cane River",
- "address": "\nCane River National Heritage Area, Inc\n1115 Washington Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/crha/crop16_9/47F55907-1DD8-B71B-0B66A29DA90E0835.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//crha//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cane River Creole",
- "address": "\n400 Rapides Dr. (Headquarters)\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cari/crop16_9/04BA4A19-1DD8-B71B-0B2072E45EAB2D3A.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//cari//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Camino Real de los Tejas",
- "address": "\nNational Trails\nEl Camino Real de los Tejas National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elte/crop16_9/B69BF5DA-E388-4B83-18F5D3DBFA25C168.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//elte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Jean Lafitte",
- "address": "\n419 Decatur St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/jela/crop16_9/CAEE2A00-1DD8-B71B-0BC014AA0D1D9B03.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//jela//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "New Orleans Jazz",
- "address": "\n916 North Peters St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/jazz/crop16_9/AFDA3F93-D3C7-3ABC-05D32AE63102673B.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "performance"
- ],
- "link": [
-  "https://www.nps.gov//jazz//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Poverty Point",
- "address": "\n6859 Hwy. 577\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/popo/crop16_9/C48E31FB-1DD8-B71B-0BC3003A953EA288.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//popo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Vicksburg",
- "address": "\n3201 Clay Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/vick/crop16_9/4D0C8240-1DD8-B71B-0B784DF7D8F417FF.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//vick//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "The Botanic Garden at Independence Park",
  "address": "7950 Independence Blvd",
  "avg_visitor_review": [
@@ -598,20 +425,30 @@
  "reviews": []
 },{
  "name": "LSU Tiger Stadium",
- "address": "N Stadium Dr",
+ "address": "Nicholson Drive & North Stadium Road",
  "avg_visitor_review": [
+  "5.0",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/21/95/98/lsu-tiger-stadium.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/qEQ_n28dzTccAprhcCmbpw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids"
+ ],
  "link": [
-  "https://www.yelp.com/biz/lsu-tiger-stadium-baton-rouge?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/lsu-tiger-stadium-baton-rouge?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d1145226-Reviews-LSU_Tiger_Stadium-Baton_Rouge_Louisiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -967,22 +804,36 @@
  "reviews": []
 },{
  "name": "Arsenal Park",
- "address": "1000 N 5th St",
+ "address": "Capitol Lake Drive",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/05/b3/01/spanish-town.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/Nz5orzndlhYqLxLcsUxGYw/o.jpg"
  ],
  "tags": [
+  "walking",
+  "learn",
+  "walk",
+  "walk",
+  "walk",
+  "walk",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/arsenal-park-baton-rouge?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/arsenal-park-baton-rouge?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d8342728-Reviews-Arsenal_Park-Baton_Rouge_Louisiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1169,6 +1020,973 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Atchafalaya",
+ "address": "\nLouisiana Department of Culture, Recreation & Tourism\nP. O. Box 44243\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/attr/crop16_9/71F4CC1D-1DD8-B71B-0BDA28B953F79C3B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//attr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cane River",
+ "address": "\nCane River National Heritage Area, Inc\n1115 Washington Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/crha/crop16_9/47F55907-1DD8-B71B-0B66A29DA90E0835.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//crha//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cane River Creole",
+ "address": "\n400 Rapides Dr. (Headquarters)\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cari/crop16_9/04BA4A19-1DD8-B71B-0B2072E45EAB2D3A.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//cari//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Camino Real de los Tejas",
+ "address": "\nNational Trails\nEl Camino Real de los Tejas National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elte/crop16_9/B69BF5DA-E388-4B83-18F5D3DBFA25C168.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//elte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Jean Lafitte",
+ "address": "\n419 Decatur St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/jela/crop16_9/CAEE2A00-1DD8-B71B-0BC014AA0D1D9B03.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//jela//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New Orleans Jazz",
+ "address": "\n916 North Peters St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/jazz/crop16_9/AFDA3F93-D3C7-3ABC-05D32AE63102673B.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "performance"
+ ],
+ "link": [
+  "https://www.nps.gov//jazz//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Poverty Point",
+ "address": "\n6859 Hwy. 577\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/popo/crop16_9/C48E31FB-1DD8-B71B-0BC3003A953EA288.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//popo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Vicksburg",
+ "address": "\n3201 Clay Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/vick/crop16_9/4D0C8240-1DD8-B71B-0B784DF7D8F417FF.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//vick//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mike the Tiger's Habitat",
+ "address": "16 N Stadium Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/46/c1/cc/mike-the-tiger-habitat.jpg"
+ ],
+ "tags": [
+  "active",
+  "active",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d4886564-Reviews-Mike_the_Tiger_s_Habitat-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "USS Kidd",
+ "address": "305 River Rd S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/b1/82/f6/uss-kidd-is-a-fletcher.jpg"
+ ],
+ "tags": [
+  "wander",
+  "historic",
+  "unique",
+  "historic",
+  "learn",
+  "knowledgeable",
+  "history",
+  "free",
+  "history",
+  "kids",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d282339-Reviews-USS_Kidd-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Louisiana's Old State Capitol",
+ "address": "100 North Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/7d/3f/40/photo0jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "walking",
+  "history",
+  "free",
+  "historic",
+  "unique",
+  "tour",
+  "history",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d107647-Reviews-Louisiana_s_Old_State_Capitol-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Louisiana State Capitol",
+ "address": "State Capitol Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/4b/70/67/vue-d-ensemble.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "art",
+  "art",
+  "tour",
+  "knowledgeable",
+  "history",
+  "learn",
+  "history",
+  "free",
+  "unique",
+  "walk",
+  "art",
+  "tour",
+  "tour",
+  "history",
+  "knowledgeable",
+  "history",
+  "history",
+  "knowledgeable",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d107645-Reviews-Louisiana_State_Capitol-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LSU Rural Life Museum",
+ "address": "4600 Essen Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/4b/5b/0b/maison-de-contremaitre.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "walking",
+  "cheap",
+  "family",
+  "kids",
+  "wander",
+  "walking",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d282338-Reviews-LSU_Rural_Life_Museum-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Park Museum",
+ "address": "660 N 4th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/d2/db/ee/shrimp-boat-and-music.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "family",
+  "learn",
+  "walking",
+  "history",
+  "history",
+  "history",
+  "free",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d2480971-Reviews-Capitol_Park_Museum-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Magnolia Mound Plantation",
+ "address": "2161 Nicholson Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/58/19/31/one-of-the-several-buildings.jpg"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "tour",
+  "history",
+  "family",
+  "historic",
+  "history",
+  "tour",
+  "historic",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "walking",
+  "tour",
+  "tour",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d281600-Reviews-Magnolia_Mound_Plantation-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Louisiana State University",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/60/e9/bf/louisiana-state-university.jpg"
+ ],
+ "tags": [
+  "learn",
+  "walking",
+  "walk",
+  "history",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d106432-Reviews-Louisiana_State_University-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alex Box Stadium/Skip Bertman Field",
+ "address": "Gourrier Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/f2/f8/07/full-stadium-view.jpg"
+ ],
+ "tags": [
+  "field",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d2707376-Reviews-Alex_Box_Stadium_Skip_Bertman_Field-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Downtown",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/f4/ca/24/downtown.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "history",
+  "learn",
+  "educate",
+  "walk",
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d281596-Reviews-Downtown-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Knock Knock Children's Museum",
+ "address": "1900 Dalrymple Dr Baton Rouge, LA",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/0d/3e/7e/photo2jpg.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "cheap",
+  "family",
+  "unique",
+  "creative",
+  "adventurous",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d12968366-Reviews-Knock_Knock_Children_s_Museum-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Baton Rouge Zoo",
+ "address": "3601 Thomas Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/0c/07/17/elephent.jpg"
+ ],
+ "tags": [
+  "eat",
+  "family",
+  "food",
+  "kids",
+  "walk",
+  "kids",
+  "free",
+  "walk",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d281598-Reviews-Baton_Rouge_Zoo-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Atchafalaya Basin Bridge",
+ "address": "I-10 Between Mile Markers 121 And 135",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/38/39/45/photo0jpg.jpg"
+ ],
+ "tags": [
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d4456180-Reviews-Atchafalaya_Basin_Bridge-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Old Governor's Mansion",
+ "address": "502 North Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/5f/1e/13/the-old-governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "structure",
+  "tour",
+  "history",
+  "structure",
+  "history",
+  "tour",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d107646-Reviews-The_Old_Governor_s_Mansion-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Blue Bayou Water Park",
+ "address": "18142 Perkins Rd E",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0b/65/95/blue-bayou-water-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "walk",
+  "food",
+  "family",
+  "kids",
+  "affordable",
+  "free",
+  "kids",
+  "kids",
+  "food",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d281602-Reviews-Blue_Bayou_Water_Park-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bluebonnet Swamp Nature Center",
+ "address": "10503 N Oak Hills Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/87/5e/dd/20180403-120452-largejpg.jpg"
+ ],
+ "tags": [
+  "nature",
+  "knowledgeable",
+  "drink",
+  "kids",
+  "affordable",
+  "walk",
+  "walking",
+  "nature",
+  "walk",
+  "walking",
+  "family",
+  "nature",
+  "walk",
+  "nature",
+  "walk",
+  "art",
+  "nature",
+  "hike",
+  "nature",
+  "nature",
+  "knowledgeable",
+  "drink",
+  "kids",
+  "affordable",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d281599-Reviews-Bluebonnet_Swamp_Nature_Center-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Three Roll Estate",
+ "address": "760 Saint Phillip St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/7f/d7/f5/cane-land-tasting-room.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "tasting",
+  "history",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "free",
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "drink",
+  "tour",
+  "tour",
+  "tasting",
+  "history",
+  "tour",
+  "tour",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d12377594-Reviews-Three_Roll_Estate-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mall of Louisiana",
+ "address": "6401 Bluebonnet Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/5b/cb/cf/mall-of-louisiana.jpg"
+ ],
+ "tags": [
+  "family",
+  "structure",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d3964204-Reviews-Mall_of_Louisiana-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "L'Auberge Casino & Hotel",
+ "address": "14777 River Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/ef/9c/a1/l-auberge-casino-hotel.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "walk",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d3513338-Reviews-L_Auberge_Casino_Hotel-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Plaza",
+ "address": "300 River Rd S",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/b1/a7/f4/evening.jpg"
+ ],
+ "tags": [
+  "eat",
+  "art",
+  "structure",
+  "kids",
+  "walk",
+  "walking",
+  "walk",
+  "walk",
+  "eat",
+  "history",
+  "walk",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d12230405-Reviews-Riverfront_Plaza-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LSU AgCenter Botanic Gardens",
+ "address": "4560 Essen Ln 4560 Essen Lane",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/e9/a3/b4/burden-botanic-gardens.jpg"
+ ],
+ "tags": [
+  "hike",
+  "free",
+  "walk",
+  "nature",
+  "walk",
+  "tour",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d10835097-Reviews-LSU_AgCenter_Botanic_Gardens-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tin Roof Brewery",
+ "address": "1624 Wyoming St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/34/48/74/tin-roof-brewing-co-baton.jpg"
+ ],
+ "tags": [
+  "walk",
+  "brewery",
+  "brewery",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d10342655-Reviews-Tin_Roof_Brewery-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "East Baton Rouge Parish Library",
+ "address": "7711 Goodwood Blvd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/b8/76/c4/east-baton-rouge-parish.jpg"
+ ],
+ "tags": [
+  "library",
+  "music",
+  "library",
+  "art",
+  "library",
+  "free",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d7906148-Reviews-East_Baton_Rouge_Parish_Library-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Louisiana Art & Science Museum",
+ "address": "100 River Rd S",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/64/28/fc/planetes.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "art",
+  "history",
+  "art",
+  "walk",
+  "art",
+  "kids",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d282194-Reviews-Louisiana_Art_Science_Museum-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Burden Museum & Gardens",
+ "address": "4560 Essen Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/bc/67/aa/steele-burden-memorial.jpg"
+ ],
+ "tags": [
+  "family",
+  "hike",
+  "walk",
+  "hike",
+  "history",
+  "family",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d13137550-Reviews-Burden_Museum_Gardens-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Red Stick Farmers Market",
+ "address": "5th and Main Sts",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/75/1a/10/photo4jpg.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "kids",
+  "walk",
+  "delicious",
+  "walk",
+  "delicious",
+  "walk",
+  "delicious",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d589248-Reviews-Red_Stick_Farmers_Market-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Theater Baton Rouge",
+ "address": "7155 Florida Blvd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d282176-Reviews-Theater_Baton_Rouge-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "University Lake",
+ "address": "W Lakeshore Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/d3/c6/e1/university-lake.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g40024-d9861419-Reviews-University_Lake-Baton_Rouge_Louisiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

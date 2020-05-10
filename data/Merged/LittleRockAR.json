@@ -1,178 +1,5 @@
 [
 {
- "name": "Arkansas Post",
- "address": "\n1741 Old Post Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/arpo/crop16_9/91D23001-1DD8-B71B-0BDC72747098C8AB.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//arpo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Buffalo",
- "address": "\n402 N. Walnut Street\nSuite 136\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/buff/crop16_9/CB83984C-1DD8-B71B-0B2CECAD07837FB3.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//buff//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Smith",
- "address": "\n301 Parker Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fosm/crop16_9/5A5E931E-1DD8-B71B-0B5F334C38742241.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//fosm//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Hot Springs",
- "address": "\n101 Reserve Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hosp/crop16_9/6E2A4554-DFAD-5527-38E8E32630D97845.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//hosp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Little Rock Central High School",
- "address": "\nNational Park Service\n2120 W. Daisy L. Gatson Bates Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chsc/crop16_9/DBAC2CAC-1DD8-B71B-0BDA35F246D1C0D9.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//chsc//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pea Ridge",
- "address": "\n15930 E Hwy 62\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/peri/crop16_9/48A84AFE-B076-9DFA-BB55BE77BFB53969.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//peri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "President William Jefferson Clinton Birthplace Home",
- "address": "\n117 South Hervey St.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/wicl/crop16_9/5598FC45-1DD8-B71B-0BE28387003383CE.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//wicl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Fear Factory 501 Haunted House",
  "address": "25120 Hwy 107",
  "avg_visitor_review": [
@@ -434,21 +261,36 @@
  "name": "Arkansas Arts Center",
  "address": "501 E 9th St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/cd/d3/14/20160622-143346-largejpg.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/u-mE-16_FxJotpvOU2qcHA/o.jpg"
  ],
  "tags": [
   "art",
+  "family",
+  "art",
+  "art",
+  "unique",
+  "food",
+  "art",
+  "family",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/arkansas-arts-center-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/arkansas-arts-center-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d314030-Reviews-Arkansas_Arts_Center-Little_Rock_Arkansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -981,21 +823,34 @@
  "name": "Maumelle Park",
  "address": "9009 Pinnacle Valley Rd",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/2a/e6/52/photo2jpg.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/sv4VFnmhU5_MMvszBeEFeQ/o.jpg"
  ],
  "tags": [
-  "nature",
-  "kids"
+  "walking",
+  "walk",
+  "kids",
+  "walk",
+  "walking",
+  "affordable",
+  "nature"
  ],
  "link": [
-  "https://www.yelp.com/biz/maumelle-park-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/maumelle-park-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d103221-Reviews-Maumelle_Park-Little_Rock_Arkansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1039,20 +894,36 @@
  "reviews": []
 },{
  "name": "Two Rivers Park",
- "address": "6900 Two Rivers Park Rd",
+ "address": "6900 Two Rivers Park Road, Little Rock, AR 72223",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/3d/f3/28/spring-has-sprung.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/qb6QvaHrrJnng9zhllylgQ/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "nature",
+  "nature",
+  "walking",
+  "field",
+  "family",
+  "nature"
+ ],
  "link": [
-  "https://www.yelp.com/biz/two-rivers-park-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/two-rivers-park-little-rock?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d2647249-Reviews-Two_Rivers_Park-Little_Rock_Arkansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1152,6 +1023,979 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Arkansas Post",
+ "address": "\n1741 Old Post Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/arpo/crop16_9/91D23001-1DD8-B71B-0BDC72747098C8AB.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//arpo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Buffalo",
+ "address": "\n402 N. Walnut Street\nSuite 136\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/buff/crop16_9/CB83984C-1DD8-B71B-0B2CECAD07837FB3.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//buff//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Smith",
+ "address": "\n301 Parker Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fosm/crop16_9/5A5E931E-1DD8-B71B-0B5F334C38742241.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//fosm//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hot Springs",
+ "address": "\n101 Reserve Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hosp/crop16_9/6E2A4554-DFAD-5527-38E8E32630D97845.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//hosp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Little Rock Central High School",
+ "address": "\nNational Park Service\n2120 W. Daisy L. Gatson Bates Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chsc/crop16_9/DBAC2CAC-1DD8-B71B-0BDA35F246D1C0D9.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//chsc//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pea Ridge",
+ "address": "\n15930 E Hwy 62\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/peri/crop16_9/48A84AFE-B076-9DFA-BB55BE77BFB53969.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//peri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "President William Jefferson Clinton Birthplace Home",
+ "address": "\n117 South Hervey St.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/wicl/crop16_9/5598FC45-1DD8-B71B-0BE28387003383CE.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//wicl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pinnacle Mountain State Park",
+ "address": "11901 Pinnacle Valley Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/90/05/8c/on-a-clear-day-you-can.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "nature",
+  "kids",
+  "parks",
+  "hike",
+  "active",
+  "family",
+  "hike",
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d106702-Reviews-Pinnacle_Mountain_State_Park-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Little Rock Central High School National Historic Site",
+ "address": "1500 S Park St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/4c/1d/20/little-rock-central-high.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "tour",
+  "walking",
+  "history",
+  "history",
+  "walk",
+  "family",
+  "kids",
+  "tour",
+  "learn",
+  "history",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "free",
+  "historic",
+  "history",
+  "learn",
+  "active"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Big Dam Bridge",
+ "address": "7600 Rebsamen Park Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/e1/90/34/big-dam-bridge.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d1831458-Reviews-Big_Dam_Bridge-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "William J. Clinton Presidential Library",
+ "address": "River Market District 1200 President Clinton Avenue",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/53/0a/5e/william-j-clinton-presidential.jpg"
+ ],
+ "tags": [
+  "library",
+  "tour",
+  "library",
+  "free",
+  "history",
+  "library",
+  "history",
+  "library",
+  "tour",
+  "library",
+  "walking",
+  "food",
+  "walk",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d509012-Reviews-William_J_Clinton_Presidential_Library-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Park",
+ "address": "1 Riverfront Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/8d/a2/43/junction-bridge-a-footbridge.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "music",
+  "performance",
+  "walk",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d591292-Reviews-Riverfront_Park-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rock Town Distillery",
+ "address": "1201 Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/d4/32/c5/tours-are-a-fun-way-to.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "tasting",
+  "tour",
+  "tour",
+  "tour",
+  "history",
+  "drink",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d4040780-Reviews-Rock_Town_Distillery-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum Of Discovery",
+ "address": "500 President Clinton Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/18/de/14/museum-of-discovery.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "kids",
+  "learn",
+  "kids",
+  "nature",
+  "library",
+  "free",
+  "creative",
+  "walk",
+  "kids",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d581027-Reviews-Museum_Of_Discovery-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arkansas State Capitol",
+ "address": "Woodlane & Capitol Avenue",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/0a/c1/68/arkansas-state-capitol.jpg"
+ ],
+ "tags": [
+  "unique",
+  "walk",
+  "historic",
+  "history",
+  "tour",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d144366-Reviews-Arkansas_State_Capitol-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "River Market District",
+ "address": "E. Markham St.",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/0b/5d/40/little-rock.jpg"
+ ],
+ "tags": [
+  "walk",
+  "library",
+  "food",
+  "parks",
+  "food",
+  "walk",
+  "free",
+  "delicious",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d144370-Reviews-River_Market_District-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Esse Purse Museum & Store",
+ "address": "1510 Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/9a/ab/9c/the-mural-facing-our.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "history",
+  "historic",
+  "history",
+  "unique",
+  "history",
+  "free",
+  "kids",
+  "creative",
+  "historic",
+  "history",
+  "organized",
+  "walk",
+  "eat",
+  "unique",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d4465876-Reviews-Esse_Purse_Museum_Store-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Arkansas River Trail",
+ "address": "400 President Clinton Ave Little Rock River Market",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/f9/da/f5/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "drink",
+  "food",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d3573221-Reviews-The_Arkansas_River_Trail-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Heifer Village (Heifer International)",
+ "address": "1 World Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/0e/b8/1f/heifer-village-heifer.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "unique",
+  "learn",
+  "unique",
+  "walk",
+  "kids",
+  "learn",
+  "food",
+  "eat",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d2287425-Reviews-Heifer_Village_Heifer_International-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Junction Bridge",
+ "address": "Riverwalk",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/74/01/cc/junction-bridge.jpg"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "walking",
+  "walk",
+  "walk",
+  "history",
+  "walk",
+  "historic",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d7235316-Reviews-Junction_Bridge-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Little Rock Zoo",
+ "address": "1 Zoo Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/60/7e/99/tiger-at-the-little-rock.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "kids",
+  "kids",
+  "educate",
+  "kids",
+  "walk",
+  "walking",
+  "family",
+  "kids",
+  "food",
+  "family",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d271374-Reviews-Little_Rock_Zoo-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Robinson Center",
+ "address": "Markham At Broadway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/c2/c8/79/enjoying-holiday-youth.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d1419944-Reviews-Robinson_Center-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old State House Museum",
+ "address": "300 W Markham St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/93/b1/b0/statehouse-museum-entrance.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "free",
+  "free",
+  "walk",
+  "history",
+  "free",
+  "library",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d108498-Reviews-Old_State_House_Museum-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Arkansas Museum",
+ "address": "200 E 3rd St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c1/7d/ca/historic-arkansas-museum.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "walking",
+  "history",
+  "family",
+  "tour",
+  "knowledgeable",
+  "free",
+  "cheap",
+  "free",
+  "art",
+  "historic",
+  "library",
+  "tour",
+  "historic",
+  "kids",
+  "free",
+  "unique",
+  "historic",
+  "walking",
+  "performance",
+  "tour",
+  "history",
+  "walking",
+  "performance",
+  "tour",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d213931-Reviews-Historic_Arkansas_Museum-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "MacArthur Museum of Arkansas Military History",
+ "address": "503 E 9th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c3/eb/70/macarthur-museum-of-arkansas.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "walk",
+  "tour",
+  "history",
+  "learn",
+  "history",
+  "kids",
+  "history",
+  "free",
+  "family",
+  "history",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d314031-Reviews-MacArthur_Museum_of_Arkansas_Military_History-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wild River Country",
+ "address": "6820 Crystal Hill Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/37/68/76/fun-fun-fun.jpg"
+ ],
+ "tags": [
+  "parks",
+  "adventurous",
+  "walk",
+  "family",
+  "free",
+  "kids",
+  "parks",
+  "kids",
+  "eat",
+  "walking",
+  "food",
+  "parks",
+  "kids",
+  "kids",
+  "drink",
+  "food",
+  "adventurous",
+  "walk",
+  "family",
+  "free",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d1125475-Reviews-Wild_River_Country-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Verizon Arena",
+ "address": "1 Verizon Arena Way",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/03/bf/6c/tso-concert-from-section.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d272107-Reviews-Verizon_Arena-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mosaic Templars Cultural Center",
+ "address": "501 W 9th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c4/2e/a7/mosaic-templars-cultural.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "tour",
+  "history",
+  "historic",
+  "history",
+  "history",
+  "free",
+  "kids",
+  "art",
+  "historic",
+  "history",
+  "history",
+  "family",
+  "free",
+  "tour",
+  "learn",
+  "historic",
+  "history",
+  "art",
+  "tour",
+  "history",
+  "knowledgeable",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d1792300-Reviews-Mosaic_Templars_Cultural_Center-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arkansas Repertory Theatre",
+ "address": "601 Main St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/a0/c4/a0/arkansas-repertory-theatre.jpg"
+ ],
+ "tags": [
+  "performance",
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d6557725-Reviews-Arkansas_Repertory_Theatre-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "H.U. Lee International Gate and Garden",
+ "address": "7 Statehouse Plz",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/fb/18/e9/hu-lee-international.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d3492281-Reviews-H_U_Lee_International_Gate_and_Garden-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Testament: The Little Rock Nine Monument",
+ "address": "1 Capitol Mall",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/f3/6b/28/photo1jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "learn",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d10716396-Reviews-Testament_The_Little_Rock_Nine_Monument-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Outlets of Little Rock",
+ "address": "11201 Bass Pro Pkwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/74/ec/61/rh.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "family",
+  "food",
+  "walking",
+  "walk",
+  "family",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d8732499-Reviews-Outlets_of_Little_Rock-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Statehouse Convention Center",
+ "address": "Markham and Broadway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/a7/e0/a7/inside-and-out-of-the.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "walk",
+  "tour",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d1419984-Reviews-Statehouse_Convention_Center-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Allsopp Park",
+ "address": "3700 Cedar Hill Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/76/ee/5d/wet-beautiful-park-in.jpg"
+ ],
+ "tags": [
+  "family",
+  "nature",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60766-d6753835-Reviews-Allsopp_Park-Little_Rock_Arkansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

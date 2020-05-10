@@ -1,225 +1,5 @@
 [
 {
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Crater Lake",
- "address": "\nCrater Lake National Park\nPO Box 7\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/crla/crop16_9/C9B766C4-1DD8-B71B-0B3D87872AE8F7B8.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//crla//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Vancouver",
- "address": "\n612 E Reserve St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fova/crop16_9/E1BCCCF0-A157-32A2-352205A499D482A2.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//fova//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Ice Age Floods",
- "address": "\nSuperintendent\nIce Age Floods National Geologic Trail\n1008 Crest Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/iafl/crop16_9/D01B7992-1DD8-B71B-0B85A8447826F461.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//iafl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "John Day Fossil Beds",
- "address": "\n32651 Highway 19\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/joda/crop16_9/53E53F43-1DD8-B71B-0BDCA4868ADAD2E5.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//joda//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis and Clark",
- "address": "\nLewis and Clark National Historical Park\n92343 Fort Clatsop Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lewi/crop16_9/C29261B2-916F-80F1-8096423E6049CDE8.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//lewi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Nez Perce",
- "address": "\nNez Perce National Historical Park\n39063 US Hwy 95\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nepe/crop16_9/FB96506A-1DD8-B71B-0BCFF19DD6145232.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//nepe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon Caves",
- "address": "\n19000 Caves Hwy\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/orca/crop16_9/90BDA914-1DD8-B71B-0B8E930F2A98F52C.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//orca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Escape Tech",
  "address": "388 State St",
  "avg_visitor_review": [
@@ -277,23 +57,37 @@
  "name": "Hallie Ford Museum of Art",
  "address": "700 State St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/fb/ae/0f/photo4jpg.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/Uf5CVB_qf0mj-6-E3aIalg/o.jpg"
  ],
  "tags": [
+  "art",
+  "art",
+  "walk",
+  "tour",
+  "art",
+  "walk",
+  "art",
+  "family",
   "unique",
-  "art",
-  "art",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/hallie-ford-museum-of-art-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/hallie-ford-museum-of-art-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284549-Reviews-Hallie_Ford_Museum_of_Art-Salem_Oregon.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -376,21 +170,43 @@
  "name": "Willamette Heritage Center",
  "address": "1313 Mill St SE",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/b7/1d/2f/willamette-heritage-center.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/_GxbrjJWO-ajRgP35Xoy4A/o.jpg"
  ],
  "tags": [
-  "unique",
-  "history"
+  "history",
+  "food",
+  "tour",
+  "food",
+  "tour",
+  "free",
+  "tour",
+  "free",
+  "historic",
+  "knowledgeable",
+  "historic",
+  "tour",
+  "learn",
+  "history",
+  "history",
+  "unique"
  ],
  "link": [
-  "https://www.yelp.com/biz/willamette-heritage-center-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/willamette-heritage-center-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284552-Reviews-Willamette_Heritage_Center-Salem_Oregon.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -435,20 +251,51 @@
  "name": "Coria Estates",
  "address": "8252 Redstone Ave SE",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/cb/d5/4f/the-vineyard.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/fuWuMm3-o8rc-MZSFUWYAw/o.jpg"
  ],
  "tags": [
-  "tasting"
+  "music",
+  "tasting",
+  "winery",
+  "tasting",
+  "tasting",
+  "delicious",
+  "music",
+  "tasting",
+  "food",
+  "tasting",
+  "free",
+  "winery",
+  "family",
+  "food",
+  "free",
+  "winery",
+  "family",
+  "food",
+  "music",
+  "tasting",
+  "music",
+  "delicious",
+  "winery",
+  "delicious"
  ],
  "link": [
-  "https://www.yelp.com/biz/coria-estates-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/coria-estates-salem?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d7697759-Reviews-Coria_Estates-Salem_Oregon.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -693,20 +540,42 @@
  "reviews": []
 },{
  "name": "Bush House Museum",
- "address": "600 Mission St SE",
+ "address": "600 Mission St SE Bush's Pasture Park",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/44/2d/5d/bush-house-museum.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/5aMGUYkrRro21vAQcKxhgA/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "art",
+  "learn",
+  "art",
+  "history",
+  "tour",
+  "art",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "walk",
+  "family",
+  "history",
+  "learn"
+ ],
  "link": [
-  "https://www.yelp.com/biz/bush-house-museum-salem-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/bush-house-museum-salem-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284684-Reviews-Bush_House_Museum-Salem_Oregon.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1198,6 +1067,1067 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Crater Lake",
+ "address": "\nCrater Lake National Park\nPO Box 7\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/crla/crop16_9/C9B766C4-1DD8-B71B-0B3D87872AE8F7B8.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//crla//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Vancouver",
+ "address": "\n612 E Reserve St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fova/crop16_9/E1BCCCF0-A157-32A2-352205A499D482A2.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//fova//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Ice Age Floods",
+ "address": "\nSuperintendent\nIce Age Floods National Geologic Trail\n1008 Crest Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/iafl/crop16_9/D01B7992-1DD8-B71B-0B85A8447826F461.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//iafl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "John Day Fossil Beds",
+ "address": "\n32651 Highway 19\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/joda/crop16_9/53E53F43-1DD8-B71B-0BDCA4868ADAD2E5.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//joda//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis and Clark",
+ "address": "\nLewis and Clark National Historical Park\n92343 Fort Clatsop Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lewi/crop16_9/C29261B2-916F-80F1-8096423E6049CDE8.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//lewi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Nez Perce",
+ "address": "\nNez Perce National Historical Park\n39063 US Hwy 95\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nepe/crop16_9/FB96506A-1DD8-B71B-0BCFF19DD6145232.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//nepe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon Caves",
+ "address": "\n19000 Caves Hwy\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/orca/crop16_9/90BDA914-1DD8-B71B-0B8E930F2A98F52C.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//orca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Schreiner's Iris Gardens",
+ "address": "3625 Quinaby Rd NE",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/c0/fd/18/iris-bloom-season-visit.jpg"
+ ],
+ "tags": [
+  "family",
+  "field",
+  "walking",
+  "drink",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284689-Reviews-Schreiner_s_Iris_Gardens-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salem's Riverfront Carousel",
+ "address": "101 Front St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ba/4f/75/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "walk",
+  "free",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d285220-Reviews-Salem_s_Riverfront_Carousel-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Enchanted Forest Theme Park",
+ "address": "8462 Enchanted Way SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/16/c7/2f/entrance.jpg"
+ ],
+ "tags": [
+  "music",
+  "eat",
+  "kids",
+  "nature",
+  "performance",
+  "theatre",
+  "food",
+  "free",
+  "cheap",
+  "kids",
+  "food",
+  "performance",
+  "kids",
+  "drink",
+  "kids",
+  "family",
+  "theatre",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d124627-Reviews-Enchanted_Forest_Theme_Park-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Park",
+ "address": "200 Water St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/51/c4/a6/riverfront-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walking",
+  "walk",
+  "organized",
+  "walking",
+  "walk",
+  "nature",
+  "structure",
+  "kids",
+  "walk",
+  "unique",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d6949367-Reviews-Riverfront_Park-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Minto-Brown Island Park",
+ "address": "2200 Minto Island Road SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/95/61/49/minto-brown-island-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "nature",
+  "parks",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d1447335-Reviews-Minto_Brown_Island_Park-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bush's Pasture Park",
+ "address": "600 Mission St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/ac/7f/e3/bush-s-pasture-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "parks",
+  "hike",
+  "family",
+  "walk",
+  "active",
+  "walk",
+  "art",
+  "kids",
+  "walk",
+  "art",
+  "kids",
+  "walk",
+  "kids",
+  "walking",
+  "parks",
+  "hike",
+  "family",
+  "walk",
+  "active",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d124622-Reviews-Bush_s_Pasture_Park-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon State Capitol",
+ "address": "900 Court St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/77/6a/5f/jardins-e-predio-belissimos.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "free",
+  "history",
+  "historic",
+  "tour",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d124623-Reviews-Oregon_State_Capitol-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gilbert House Children's Museum",
+ "address": "116 Marion St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/1d/ac/ac-gilbert-s-discovery.jpg"
+ ],
+ "tags": [
+  "family",
+  "active",
+  "family",
+  "active",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d124626-Reviews-Gilbert_House_Children_s_Museum-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon State Hospital - Museum of Mental Health",
+ "address": "2600 Center St NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/06/80/54/oregon-state-hospital.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "knowledgeable",
+  "tour",
+  "walk",
+  "history",
+  "family",
+  "history",
+  "unique",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d3561635-Reviews-Oregon_State_Hospital_Museum_of_Mental_Health-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Willamette Valley Fruit Company",
+ "address": "2994 82nd Ave NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/64/33/f9/happy-hour-9am-11am-pie.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "unique",
+  "unique",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d3821127-Reviews-Willamette_Valley_Fruit_Company-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Adelman Peony Gardens",
+ "address": "5690 Brooklake Rd NE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/cc/9d/a5/plenty-of-closeup-photos.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "walk",
+  "nature",
+  "nature",
+  "free",
+  "walking",
+  "walk",
+  "free",
+  "family",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d4290271-Reviews-Adelman_Peony_Gardens-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Elsinore Theatre",
+ "address": "170 High St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/46/c7/85/elsinore-theatre.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "performance",
+  "theatre",
+  "performance",
+  "theatre",
+  "kids",
+  "food",
+  "tour",
+  "theatre",
+  "tour",
+  "music",
+  "learn",
+  "history",
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284685-Reviews-Elsinore_Theatre-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Deepwood Museum & Gardens",
+ "address": "1116 Mission St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/4e/6f/da/historic-deepwood-estate.jpg"
+ ],
+ "tags": [
+  "art",
+  "walking",
+  "nature",
+  "tour",
+  "tour",
+  "family",
+  "history",
+  "tour",
+  "structure",
+  "historic",
+  "walking",
+  "free",
+  "walking",
+  "art",
+  "nature",
+  "kids",
+  "tour",
+  "tour",
+  "history",
+  "walk",
+  "art",
+  "walking",
+  "nature",
+  "tour",
+  "tour",
+  "family",
+  "history",
+  "tour",
+  "free",
+  "knowledgeable",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284550-Reviews-Deepwood_Museum_Gardens-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Willamette University",
+ "address": "900 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/2b/dd/4e/willamette-university.jpg"
+ ],
+ "tags": [
+  "food",
+  "art",
+  "eat",
+  "food",
+  "active",
+  "art",
+  "historic",
+  "nature",
+  "food",
+  "art",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d124624-Reviews-Willamette_University-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salem Public Library",
+ "address": "585 Liberty St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/1b/94/16/salem-public-library.jpg"
+ ],
+ "tags": [
+  "art",
+  "library",
+  "free",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284677-Reviews-Salem_Public_Library-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cristom Vineyards",
+ "address": "6905 Spring Valley Rd NW",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/6b/29/27/beautiful-views-at-cristom.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "delicious",
+  "unique",
+  "history",
+  "nature",
+  "knowledgeable",
+  "tasting",
+  "tasting",
+  "knowledgeable",
+  "history",
+  "tasting",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "delicious",
+  "unique",
+  "winery",
+  "tasting",
+  "knowledgeable",
+  "history",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d534205-Reviews-Cristom_Vineyards-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Honeywood Winery",
+ "address": "1350 Hines St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/d6/60/25/honeywood-winery.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "tasting",
+  "hospitable",
+  "tasting",
+  "knowledgeable",
+  "tasting",
+  "tasting",
+  "tasting",
+  "drink",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d534239-Reviews-Honeywood_Winery-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bryn Mawr Vineyards",
+ "address": "5935 Bethel Heights Rd NW",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/66/44/bc/view-from-the-tasting.jpg"
+ ],
+ "tags": [
+  "winery",
+  "tasting",
+  "delicious",
+  "knowledgeable",
+  "history",
+  "tasting",
+  "winery",
+  "family",
+  "tasting",
+  "delicious",
+  "unique",
+  "history",
+  "tasting",
+  "knowledgeable",
+  "winery",
+  "tasting",
+  "delicious",
+  "knowledgeable",
+  "history",
+  "tasting",
+  "free",
+  "tasting",
+  "winery",
+  "family",
+  "tasting",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d3475903-Reviews-Bryn_Mawr_Vineyards-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salem Ale Works",
+ "address": "2315 25th St SE",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/53/d1/c5/welcome-to-salem-ale.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "kids",
+  "food",
+  "drink",
+  "delicious",
+  "food",
+  "delicious",
+  "unique",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d7289681-Reviews-Salem_Ale_Works-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bethel Heights Vineyard",
+ "address": "6060 Bethel Heights Rd NW",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/bf/55/62/photo3jpg.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "knowledgeable",
+  "tasting",
+  "tasting",
+  "tasting",
+  "winery",
+  "family",
+  "tasting",
+  "walk",
+  "approachable",
+  "eat",
+  "tasting",
+  "tasting",
+  "knowledgeable",
+  "knowledgeable",
+  "winery",
+  "tasting",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d534180-Reviews-Bethel_Heights_Vineyard-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salem Saturday Market",
+ "address": "Green Lot, Downtown Salem Marion and Summer Streets N.E.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/9f/bc/7a/salem-saturday-market.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "organized",
+  "unique",
+  "food",
+  "music",
+  "food",
+  "delicious",
+  "pets",
+  "music",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d284678-Reviews-Salem_Saturday_Market-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Willamette Mission State Park",
+ "address": "Wheatland Rd.",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0a/37/48/lovely.jpg"
+ ],
+ "tags": [
+  "structure",
+  "history",
+  "learn",
+  "walk",
+  "walking",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d294421-Reviews-Willamette_Mission_State_Park-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salem Railroad Station",
+ "address": "500 13th St SE",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/6d/6e/93/salem-railroad-station.jpg"
+ ],
+ "tags": [
+  "hike",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d13166350-Reviews-Salem_Railroad_Station-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cubanisimo Vineyards",
+ "address": "1754 Best Rd NW",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/1c/bd/70/filename-img-4095-jpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "tasting",
+  "delicious",
+  "knowledgeable",
+  "tasting",
+  "winery",
+  "family",
+  "tasting",
+  "music",
+  "history",
+  "drink",
+  "delicious",
+  "winery",
+  "food",
+  "history",
+  "history",
+  "tasting",
+  "tasting",
+  "music",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d2268187-Reviews-Cubanisimo_Vineyards-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bjornson Vineyard",
+ "address": "3635 Bethel Heights Rd NW",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/35/21/83/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "winery",
+  "delicious",
+  "walk",
+  "winery",
+  "tasting",
+  "tasting",
+  "winery",
+  "kids",
+  "tasting",
+  "tasting",
+  "tasting",
+  "winery",
+  "delicious",
+  "walk",
+  "winery",
+  "tasting",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d13125400-Reviews-Bjornson_Vineyard-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ankeny Vineyard",
+ "address": "2565 Riverside Rd S",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/21/3f/c2/we-were-encouraged-by.jpg"
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "unique",
+  "creative",
+  "food",
+  "delicious",
+  "tasting",
+  "music",
+  "eat",
+  "food",
+  "free",
+  "winery",
+  "eat",
+  "winery",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g52053-d534175-Reviews-Ankeny_Vineyard-Salem_Oregon.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

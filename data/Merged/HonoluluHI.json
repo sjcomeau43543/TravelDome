@@ -1,203 +1,5 @@
 [
 {
- "name": "Ala Kahakai",
- "address": "\nSuperintendent\nAla Kahakai National Historic Trail\n73-4786 Kanalani Street, #14\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/alka/crop16_9/25DE833E-1DD8-B71B-0BC6992DDE05DCDD.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//alka//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Haleakal\u0101",
- "address": "\nHaleakal\u0101 National Park\nPO Box 369\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hale/crop16_9/40C822FC-1DD8-B71B-0B7124D552183340.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//hale//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Hawai'i Volcanoes",
- "address": "\nP.O. Box 52\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/havo/crop16_9/FDE40DCC-E162-D90F-1AC81D1C3E1BF636.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "active",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//havo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Honouliuli",
- "address": "\nNational Park Service\nHonouliuli National Historic Site\n1845 Wasp Boulevard, Building #176\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hono/crop16_9/1646C808-1DD8-B71B-0B7FBF9032F5368F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//hono//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Kalaupapa",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kala/crop16_9/F785A15B-1DD8-B71B-0B0420BF0759E9F0.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kala//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Kaloko-Honok\u014dhau",
- "address": "\n73-4786 Kanalani St. #14\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kaho/crop16_9/DAA11735-A36F-DF9C-527499DF338C447B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kaho//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pearl Harbor",
- "address": "\nNational Park Service\nPearl Harbor National Memorial\n1845 Wasp Blvd. Bldg. 176\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/valr/crop16_9/31B510E5-02BD-BD2E-7FD0EAFD20DC0642.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//valr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pu`ukohol\u0101 Heiau",
- "address": "\nPu'ukohola Heiau National Historic Site\n62-3601 Kawaihae Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/puhe/crop16_9/18F8E1EF-1DD8-B71B-0B9EF98DD469D5A9.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//puhe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pu\u02bbuhonua o H\u014dnaunau",
- "address": "\nPO BOX 129\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/puho/crop16_9/9A1E02B9-EFE1-1CE8-2F1A9805CFAB395B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//puho//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Koko Head",
  "address": "423 Kaumakani St",
  "avg_visitor_review": [
@@ -908,23 +710,42 @@
  "name": "Battleship Missouri Memorial",
  "address": "63 Cowpens St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/bd/3c/ce/battleship-missouri-memorial.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/-maUEfjqtv6uffHTKMbyRA/o.jpg"
  ],
  "tags": [
   "tour",
-  "knowledgeable",
+  "tour",
+  "free",
+  "tour",
   "history",
+  "tour",
+  "free",
+  "tour",
+  "eat",
+  "tour",
+  "free",
+  "tour",
+  "walk",
+  "knowledgeable",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/battleship-missouri-memorial-honolulu?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/battleship-missouri-memorial-honolulu?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d105445-Reviews-Battleship_Missouri_Memorial-Honolulu_Oahu_Hawaii.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1216,6 +1037,1092 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ala Kahakai",
+ "address": "\nSuperintendent\nAla Kahakai National Historic Trail\n73-4786 Kanalani Street, #14\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/alka/crop16_9/25DE833E-1DD8-B71B-0BC6992DDE05DCDD.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//alka//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Haleakal\u0101",
+ "address": "\nHaleakal\u0101 National Park\nPO Box 369\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hale/crop16_9/40C822FC-1DD8-B71B-0B7124D552183340.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//hale//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hawai'i Volcanoes",
+ "address": "\nP.O. Box 52\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/havo/crop16_9/FDE40DCC-E162-D90F-1AC81D1C3E1BF636.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "active",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//havo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Honouliuli",
+ "address": "\nNational Park Service\nHonouliuli National Historic Site\n1845 Wasp Boulevard, Building #176\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hono/crop16_9/1646C808-1DD8-B71B-0B7FBF9032F5368F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//hono//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Kalaupapa",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kala/crop16_9/F785A15B-1DD8-B71B-0B0420BF0759E9F0.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kala//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Kaloko-Honok\u014dhau",
+ "address": "\n73-4786 Kanalani St. #14\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kaho/crop16_9/DAA11735-A36F-DF9C-527499DF338C447B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kaho//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pearl Harbor",
+ "address": "\nNational Park Service\nPearl Harbor National Memorial\n1845 Wasp Blvd. Bldg. 176\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/valr/crop16_9/31B510E5-02BD-BD2E-7FD0EAFD20DC0642.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//valr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pu`ukohol\u0101 Heiau",
+ "address": "\nPu'ukohola Heiau National Historic Site\n62-3601 Kawaihae Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/puhe/crop16_9/18F8E1EF-1DD8-B71B-0B9EF98DD469D5A9.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//puhe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pu\u02bbuhonua o H\u014dnaunau",
+ "address": "\nPO BOX 129\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/puho/crop16_9/9A1E02B9-EFE1-1CE8-2F1A9805CFAB395B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//puho//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Diamond Head State Monument",
+ "address": "18th Ave. Waikiki",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/b4/3f/55/diamond-head.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "walk",
+  "history",
+  "hike",
+  "walk",
+  "hike",
+  "hike",
+  "walk",
+  "hike",
+  "walking",
+  "hike",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d107673-Reviews-Diamond_Head_State_Monument-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pearl Harbor National Memorial",
+ "address": "1 Arizona Memorial Place",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/a6/07/e4/ww-ii-valor-in-the-pacific.jpg"
+ ],
+ "tags": [
+  "kids",
+  "history",
+  "tour",
+  "free",
+  "walking",
+  "tour",
+  "history",
+  "family",
+  "walking",
+  "food",
+  "free",
+  "historic",
+  "tour",
+  "tour",
+  "history",
+  "eat",
+  "history",
+  "food",
+  "history",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d104662-Reviews-Pearl_Harbor_National_Memorial-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Iolani Palace",
+ "address": "364 S King St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/62/e4/18/iolani-palace.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "learn",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "family",
+  "tour",
+  "history",
+  "nature",
+  "history",
+  "kids",
+  "tour",
+  "creative",
+  "tour",
+  "tour",
+  "history",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d131980-Reviews-Iolani_Palace-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hanauma Bay Nature Preserve",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/85/e0/34/hanauma-bay-nature-preserve.jpg"
+ ],
+ "tags": [
+  "family",
+  "educate",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d261241-Reviews-Hanauma_Bay_Nature_Preserve-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Makapuu Lighthouse Trail",
+ "address": "Near the Hawaii Kai Golf Course on Kalanianaole Highway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/73/49/45/makapu-u-lighthouse.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "walk",
+  "hike",
+  "hike",
+  "hike",
+  "hike",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d2664518-Reviews-Makapuu_Lighthouse_Trail-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "USS Arizona Memorial",
+ "address": "1 Arizona Memorial Place",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/53/3d/12/20170519-080256-largejpg.jpg"
+ ],
+ "tags": [
+  "active",
+  "tour",
+  "active",
+  "tour",
+  "history",
+  "free",
+  "eat",
+  "wander",
+  "food",
+  "family",
+  "parks",
+  "tour",
+  "walking",
+  "eat",
+  "history",
+  "free",
+  "tour",
+  "walk",
+  "learn",
+  "history",
+  "theatre",
+  "active",
+  "free",
+  "historic",
+  "tour",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "tour",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d104386-Reviews-USS_Arizona_Memorial-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Manoa Falls",
+ "address": "End of Manoa Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/1a/ed/41/manoa-falls.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walk",
+  "walk",
+  "walking",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d561035-Reviews-Manoa_Falls-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Koko Crater Railway Trail",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a8/1d/25/koko-head-crater-trail.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "walking",
+  "hike",
+  "walk",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d1913806-Reviews-Koko_Crater_Railway_Trail-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Waikiki Beach",
+ "address": "Kalakaua Avenuue",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/de/e0/f7/photo0jpg.jpg"
+ ],
+ "tags": [
+  "sightseeing",
+  "cheap",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d254540-Reviews-Waikiki_Beach-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bishop Museum",
+ "address": "1525 Bernice St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/93/22/67/bishop-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "learn",
+  "structure",
+  "history",
+  "walk",
+  "learn",
+  "kids",
+  "walking",
+  "history",
+  "history",
+  "eat",
+  "history",
+  "tour",
+  "history",
+  "family",
+  "knowledgeable",
+  "walking",
+  "history",
+  "walk",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d131986-Reviews-Bishop_Museum-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pearl Harbor Aviation Museum",
+ "address": "319 Lexington Blvd Historic Ford Island",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/1b/b0/9e/dauntless-dive-bomber.jpg"
+ ],
+ "tags": [
+  "wander",
+  "walk",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "history",
+  "walking",
+  "tour",
+  "history",
+  "kids",
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d634758-Reviews-Pearl_Harbor_Aviation_Museum-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "US Army Museum of Hawaii",
+ "address": "2131 Kalia Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/dd/e5/17/us-army-museum-of-hawaii.jpg"
+ ],
+ "tags": [
+  "history",
+  "active",
+  "field",
+  "free",
+  "structure",
+  "free",
+  "history",
+  "learn",
+  "free",
+  "walk",
+  "history",
+  "tour",
+  "history",
+  "free",
+  "history",
+  "free",
+  "walking",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d154266-Reviews-US_Army_Museum_of_Hawaii-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Honolulu Museum of Art",
+ "address": "900 S Beretania St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/30/01/5a/honolulu-museum-of-art.jpg"
+ ],
+ "tags": [
+  "eat",
+  "art",
+  "tour",
+  "art",
+  "art",
+  "tour",
+  "art",
+  "food",
+  "art",
+  "delicious",
+  "tour",
+  "art",
+  "tour",
+  "art",
+  "eat",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d132003-Reviews-Honolulu_Museum_of_Art-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ala Moana Center",
+ "address": "1450 Ala Moana Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/97/59/27/walking-through-the-mall.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walking",
+  "walk",
+  "food",
+  "food",
+  "food",
+  "eat",
+  "walk",
+  "food",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d108854-Reviews-Ala_Moana_Center-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tantalus Lookout Puu Ualakaa State Park",
+ "address": "Round Top Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/82/06/0d/20160810-140015-largejpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d4295521-Reviews-Tantalus_Lookout_Puu_Ualakaa_State_Park-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Shangri La",
+ "address": "4055 Papu Cir",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/b9/36/ec/shangri-la.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "tour",
+  "family",
+  "historic",
+  "art",
+  "tour",
+  "art",
+  "knowledgeable",
+  "tour",
+  "art",
+  "walking",
+  "tour",
+  "tour",
+  "art",
+  "walking",
+  "tour",
+  "history",
+  "knowledgeable",
+  "unique",
+  "tour",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d261244-Reviews-Shangri_La-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "USS Bowfin Submarine Museum & Park",
+ "address": "11 Arizona Memorial Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/92/a6/d5/photo0jpg.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walk",
+  "history",
+  "tour",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d153923-Reviews-USS_Bowfin_Submarine_Museum_Park-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dolphins and You",
+ "address": "307 Lewers St Ste 401",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/19/85/1b/dolphin-swim-tours-tend.jpg"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "free",
+  "tour",
+  "music",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d1939947-Reviews-Dolphins_and_You-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ala Moana Beach Park",
+ "address": "1201 Ala Moana Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/3a/54/e1/lots-of-wedding-pictures.jpg"
+ ],
+ "tags": [
+  "walk",
+  "active",
+  "walking",
+  "walk",
+  "walking",
+  "free",
+  "free",
+  "kids",
+  "walking",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d255184-Reviews-Ala_Moana_Beach_Park-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Magic Island",
+ "address": "1201 Ala Moana Blvd At the end of Ala Moana Beach Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ab/0b/a7/beautiful-spot-to-bike.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "tour",
+  "family",
+  "walk",
+  "walking",
+  "free",
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d561036-Reviews-Magic_Island-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "National Memorial Cemetery of the Pacific",
+ "address": "2177 Puowaina Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/12/d7/a0/picture-of-the-cemetery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d131531-Reviews-National_Memorial_Cemetery_of_the_Pacific-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort DeRussy Beach Park",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/35/10/56/fort-derussy-beach-park.jpg"
+ ],
+ "tags": [
+  "affordable",
+  "kids",
+  "eat",
+  "food",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d1813657-Reviews-Fort_DeRussy_Beach_Park-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Aloha Stadium Swap Meet & Marketplace",
+ "address": "99-500 Salt Lake Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/4c/7e/93/wandering-through-the.jpg"
+ ],
+ "tags": [
+  "unique",
+  "cheap",
+  "eat",
+  "cheap",
+  "walk",
+  "food",
+  "tour",
+  "walk",
+  "food",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d595643-Reviews-Aloha_Stadium_Swap_Meet_Marketplace-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Waikiki Beach Walk",
+ "address": "Lewers Street Between Kalakaua Avenue & Kalia Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/eb/96/92/caption.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walk",
+  "music",
+  "walk",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d637236-Reviews-Waikiki_Beach_Walk-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kapiolani Park",
+ "address": "3840 Paki Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/64/ba/e0/all-ombra-delle-palme.jpg"
+ ],
+ "tags": [
+  "walk",
+  "parks",
+  "kids",
+  "art",
+  "history",
+  "walk",
+  "walk",
+  "music",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d131397-Reviews-Kapiolani_Park-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Royal Hawaiian Center",
+ "address": "2201 Kalakaua Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/6d/42/2e/open.jpg"
+ ],
+ "tags": [
+  "free",
+  "art",
+  "eat",
+  "free",
+  "walk",
+  "food",
+  "music",
+  "free",
+  "walk",
+  "food",
+  "learn",
+  "cheap",
+  "food",
+  "music",
+  "free",
+  "walk",
+  "food",
+  "cheap",
+  "eat",
+  "food",
+  "learn",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d316692-Reviews-Royal_Hawaiian_Center-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "King Kamehameha Statue",
+ "address": "417 S King St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/44/ab/1b/caption.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history",
+  "learn",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d1895383-Reviews-King_Kamehameha_Statue-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Bus",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/8c/47/35/the-bus.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "knowledgeable",
+  "cheap",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d500858-Reviews-The_Bus-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lyon Arboretum",
+ "address": "3860 Manoa Rd University of Hawaii-Manoa",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c6/96/c4/lyon-arboretum.jpg"
+ ],
+ "tags": [
+  "unique",
+  "hike",
+  "free",
+  "walk",
+  "walking",
+  "knowledgeable",
+  "free",
+  "hike",
+  "walking",
+  "nature",
+  "family",
+  "free",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60982-d255185-Reviews-Lyon_Arboretum-Honolulu_Oahu_Hawaii.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

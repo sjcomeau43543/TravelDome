@@ -1,481 +1,44 @@
 [
 {
- "name": "Adams",
- "address": "\n135 Adams Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/adam/crop16_9/9493399B-C02C-D29A-8B38701F60D3E256.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "field"
- ],
- "link": [
-  "https://www.nps.gov//adam//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Blackstone River Valley",
- "address": "\n670 Linwood Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/blrv/crop16_9/E70807E9-1DD8-B71B-0B1B7FB34DCEEFB2.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//blrv//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Boston",
- "address": "\n21 Second Ave\n21 Second Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bost/crop16_9/4DA3F6B5-D275-95BF-0FADD1F9A82A75F0.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//bost//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Boston African American",
- "address": "\n15 State Street\nBoston African American National Historical Site\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/boaf/crop16_9/EC59F385-AD2B-5B65-4DF3A8E584E59554.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//boaf//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Boston Harbor Islands",
- "address": "\n15 State Street\n9th Floor\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/boha/crop16_9/8DC8ABDA-F65E-23B3-11DD47EFA4D11461.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "hike",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//boha//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cape Cod",
- "address": "\n99 Marconi Site Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/caco/crop16_9/688C2CC3-B0C6-29C2-4C42FDCD20C049FD.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walking"
- ],
- "link": [
-  "https://www.nps.gov//caco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Essex",
- "address": "\n10 Federal Street, Suite 12\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/esse/crop16_9/FE6F7C1F-1DD8-B71B-0BF976A12C5BB75C.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//esse//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Frederick Law Olmsted",
- "address": "\n99 Warren Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/frla/crop16_9/72E4E9A7-D5D9-678E-E59A50460556270D.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//frla//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "John Fitzgerald Kennedy",
- "address": "\n83 Beals Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/jofi/crop16_9/59FC6BEF-EDF5-9590-72D376A481AFA8B1.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//jofi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "John H. Chafee Blackstone River Valley",
- "address": "\n670 Linwood Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/blac/crop16_9/25C7E966-1DD8-B71B-0B0A21685DBCF782.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "creative"
- ],
- "link": [
-  "https://www.nps.gov//blac//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Longfellow House Washington's Headquarters",
- "address": "\n105 Brattle Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/long/crop16_9/CB1BBFFB-DBB0-4E46-8DCCAB9B369588EB.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//long//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lowell",
- "address": "\n67 Kirk Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lowe/crop16_9/89DF6919-CE71-54A2-A9E2047986161B33.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//lowe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Minute Man",
- "address": "\nNorth Bridge / Park Head Quarters\n174 Liberty St.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mima/crop16_9/64718541-F7DC-B805-28609DA8B3C2AB33.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mima//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "New Bedford Whaling",
- "address": "\n33 William Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nebe/crop16_9/776922E1-F458-205A-9E9B738B11418E87.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//nebe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "New England",
- "address": "\nOne Armory Square\nSuite 2\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/neen/crop16_9/4DD85F1F-A61E-8427-A95B5F0980C97B55.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//neen//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Salem Maritime",
- "address": "\n160 Derby Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sama/crop16_9/B68CAEC7-AE22-229B-6EB21DC0478F75E8.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//sama//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saugus Iron Works",
- "address": "\n244 Central St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sair/crop16_9/F4188B35-1DD8-B71B-0B1D0A1D59FBDD37.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//sair//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Springfield Armory",
- "address": "\nSpringfield Armory National Historic Site\nOne Armory Square\nSuite 2\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/spar/crop16_9/5960AA6C-1DD8-B71B-0BC981A162F2D83F.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//spar//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "The Last Green Valley",
- "address": "\n203 B Main Street, 2nd Floor\nP.O. Box 29\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/qush/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//qush//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Washington-Rochambeau Revolutionary Route",
- "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//waro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Newbury Street",
  "address": "10 Newbury St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/37/22/1b/photo3jpg.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/B1LbGEZX86VxDMIN864mBw/o.jpg"
  ],
  "tags": [
-  "wander"
+  "walk",
+  "eat",
+  "food",
+  "walk",
+  "eat",
+  "art",
+  "wander",
+  "walking",
+  "unique",
+  "independent",
+  "walk",
+  "walk",
+  "walking",
+  "walk",
+  "art"
  ],
  "link": [
-  "https://www.yelp.com/biz/newbury-street-boston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/newbury-street-boston?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d105255-Reviews-Newbury_Street-Boston_Massachusetts.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -563,23 +126,37 @@
  "reviews": []
 },{
  "name": "Bunker Hill Monument",
- "address": "43 Monument Sq",
+ "address": "Monument Square Charlestown",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/26/2d/97/bunker-hill-monument.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/1adtxEw7udLlAq5sHx6PyA/o.jpg"
  ],
  "tags": [
+  "free",
+  "tour",
+  "walk",
+  "history",
+  "walking",
+  "free",
   "kids",
-  "history"
+  "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/bunker-hill-monument-charlestown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/bunker-hill-monument-charlestown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d133763-Reviews-Bunker_Hill_Monument-Boston_Massachusetts.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -724,23 +301,54 @@
  "reviews": []
 },{
  "name": "Faneuil Hall Marketplace",
- "address": "4 S Market Bldg",
+ "address": "1 Faneuil Hall Sq Quincy Market",
  "avg_visitor_review": [
+  "4.0",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/55/38/98/faneuil-hall-marketplace.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/Os-rDFd_gQHt6gKJ2Ob0aQ/o.jpg"
  ],
  "tags": [
+  "food",
   "walking",
+  "free",
+  "historic",
+  "food",
+  "history",
+  "food",
+  "food",
+  "eat",
+  "parks",
+  "historic",
+  "history",
+  "walking",
+  "food",
+  "walking",
+  "food",
+  "walk",
+  "historic",
+  "history",
+  "walking",
+  "food",
+  "music",
+  "tour",
+  "history",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/faneuil-hall-marketplace-boston-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/faneuil-hall-marketplace-boston-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104824-Reviews-Faneuil_Hall_Marketplace-Boston_Massachusetts.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1471,6 +1079,1293 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Adams",
+ "address": "\n135 Adams Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/adam/crop16_9/9493399B-C02C-D29A-8B38701F60D3E256.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "field"
+ ],
+ "link": [
+  "https://www.nps.gov//adam//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Blackstone River Valley",
+ "address": "\n670 Linwood Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/blrv/crop16_9/E70807E9-1DD8-B71B-0B1B7FB34DCEEFB2.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//blrv//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Boston",
+ "address": "\n21 Second Ave\n21 Second Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bost/crop16_9/4DA3F6B5-D275-95BF-0FADD1F9A82A75F0.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//bost//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Boston African American",
+ "address": "\n15 State Street\nBoston African American National Historical Site\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/boaf/crop16_9/EC59F385-AD2B-5B65-4DF3A8E584E59554.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//boaf//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Harbor Islands",
+ "address": "\n15 State Street\n9th Floor\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/boha/crop16_9/8DC8ABDA-F65E-23B3-11DD47EFA4D11461.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//boha//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cape Cod",
+ "address": "\n99 Marconi Site Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/caco/crop16_9/688C2CC3-B0C6-29C2-4C42FDCD20C049FD.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walking"
+ ],
+ "link": [
+  "https://www.nps.gov//caco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Essex",
+ "address": "\n10 Federal Street, Suite 12\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/esse/crop16_9/FE6F7C1F-1DD8-B71B-0BF976A12C5BB75C.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//esse//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Frederick Law Olmsted",
+ "address": "\n99 Warren Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/frla/crop16_9/72E4E9A7-D5D9-678E-E59A50460556270D.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//frla//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "John Fitzgerald Kennedy",
+ "address": "\n83 Beals Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/jofi/crop16_9/59FC6BEF-EDF5-9590-72D376A481AFA8B1.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//jofi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "John H. Chafee Blackstone River Valley",
+ "address": "\n670 Linwood Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/blac/crop16_9/25C7E966-1DD8-B71B-0B0A21685DBCF782.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "creative"
+ ],
+ "link": [
+  "https://www.nps.gov//blac//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Longfellow House Washington's Headquarters",
+ "address": "\n105 Brattle Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/long/crop16_9/CB1BBFFB-DBB0-4E46-8DCCAB9B369588EB.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//long//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lowell",
+ "address": "\n67 Kirk Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lowe/crop16_9/89DF6919-CE71-54A2-A9E2047986161B33.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//lowe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Minute Man",
+ "address": "\nNorth Bridge / Park Head Quarters\n174 Liberty St.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mima/crop16_9/64718541-F7DC-B805-28609DA8B3C2AB33.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mima//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New Bedford Whaling",
+ "address": "\n33 William Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nebe/crop16_9/776922E1-F458-205A-9E9B738B11418E87.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//nebe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New England",
+ "address": "\nOne Armory Square\nSuite 2\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/neen/crop16_9/4DD85F1F-A61E-8427-A95B5F0980C97B55.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//neen//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Salem Maritime",
+ "address": "\n160 Derby Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sama/crop16_9/B68CAEC7-AE22-229B-6EB21DC0478F75E8.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//sama//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saugus Iron Works",
+ "address": "\n244 Central St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sair/crop16_9/F4188B35-1DD8-B71B-0B1D0A1D59FBDD37.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//sair//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Springfield Armory",
+ "address": "\nSpringfield Armory National Historic Site\nOne Armory Square\nSuite 2\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/spar/crop16_9/5960AA6C-1DD8-B71B-0BC981A162F2D83F.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//spar//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "The Last Green Valley",
+ "address": "\n203 B Main Street, 2nd Floor\nP.O. Box 29\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/qush/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//qush//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//waro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fenway Park",
+ "address": "4 Yawkey Way",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/06/f7/4f/view-from-the-club.jpg"
+ ],
+ "tags": [
+  "tour",
+  "field",
+  "history",
+  "historic",
+  "history",
+  "tour",
+  "field",
+  "food",
+  "history",
+  "tour",
+  "history",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d105250-Reviews-Fenway_Park-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Freedom Trail",
+ "address": "139 Tremont St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e7/9a/ed/photo0jpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "kids",
+  "free",
+  "walking",
+  "history",
+  "walking",
+  "walk",
+  "walking",
+  "historic",
+  "food",
+  "historic",
+  "food",
+  "history",
+  "walk",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104604-Reviews-Freedom_Trail-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Fine Arts",
+ "address": "465 Huntington Ave Avenue of the Arts",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7d/01/6e/photo3jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "art",
+  "art",
+  "performance",
+  "music",
+  "art",
+  "family",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d105257-Reviews-Museum_of_Fine_Arts-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Tea Party Ships & Museum",
+ "address": "306 Congress St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/9b/54/d7/sailing-ship-at-berth.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "walk",
+  "tour",
+  "learn",
+  "history",
+  "history",
+  "kids",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103645-Reviews-Boston_Tea_Party_Ships_Museum-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "North End",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/1b/f6/ff/north-end.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "history",
+  "unique",
+  "history",
+  "food",
+  "tour",
+  "walking",
+  "eat",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103113-Reviews-North_End-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Public Garden",
+ "address": "4 Charles St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d8/78/ad/publiczny-ogrod-w-bostonie.jpg"
+ ],
+ "tags": [
+  "walking",
+  "performance",
+  "walk",
+  "parks",
+  "historic",
+  "walking",
+  "nature",
+  "history",
+  "nature",
+  "walking",
+  "wander",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103648-Reviews-Boston_Public_Garden-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "John F. Kennedy Presidential Museum & Library",
+ "address": "Columbia Point",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/a1/1b/f6/photo0jpg.jpg"
+ ],
+ "tags": [
+  "learn",
+  "creative",
+  "family",
+  "art",
+  "historic",
+  "walk",
+  "free",
+  "knowledgeable",
+  "learn",
+  "walk",
+  "eat",
+  "library",
+  "family",
+  "library",
+  "history",
+  "history",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103112-Reviews-John_F_Kennedy_Presidential_Museum_Library-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Samuel Adams Brewery",
+ "address": "30 Germania St Jamaica Plain",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/68/c9/2b/photo0jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "brewery",
+  "tasting",
+  "free",
+  "brewery",
+  "free",
+  "tour",
+  "sampling",
+  "free",
+  "learn",
+  "family",
+  "tour",
+  "history",
+  "brewery",
+  "tasting",
+  "tasting",
+  "tour",
+  "history",
+  "knowledgeable",
+  "brewery",
+  "free",
+  "tour",
+  "free",
+  "tour",
+  "brewery",
+  "tasting",
+  "brewery",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d603272-Reviews-Samuel_Adams_Brewery-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Public Library",
+ "address": "700 Boylston St At Copley Sq.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/9e/97/87/the-very-quiet-reading.jpg"
+ ],
+ "tags": [
+  "free",
+  "library",
+  "library",
+  "history",
+  "art",
+  "historic",
+  "walk",
+  "free",
+  "library",
+  "tour",
+  "free",
+  "library",
+  "art",
+  "history",
+  "library",
+  "art",
+  "free",
+  "library",
+  "library",
+  "library",
+  "walk",
+  "library",
+  "walking",
+  "historic",
+  "free",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104816-Reviews-Boston_Public_Library-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Science",
+ "address": "1 Science Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/bb/58/02/experience-the-sights.jpg"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "free",
+  "kids",
+  "family",
+  "library",
+  "food",
+  "family",
+  "drink",
+  "theatre",
+  "kids",
+  "free",
+  "kids",
+  "family",
+  "walk",
+  "learn",
+  "kids",
+  "theatre",
+  "family",
+  "kids",
+  "kids",
+  "field",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104912-Reviews-Museum_of_Science-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Isabella Stewart Gardner Museum",
+ "address": "25 Evans Way",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/2a/b6/dc/photo1jpg.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "tour",
+  "art",
+  "walk",
+  "library",
+  "art",
+  "unique",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d108823-Reviews-Isabella_Stewart_Gardner_Museum-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Common",
+ "address": "139 Tremont St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/1c/8a/46/boston-common.jpg"
+ ],
+ "tags": [
+  "learn",
+  "walk",
+  "history",
+  "kids",
+  "nature",
+  "history",
+  "walk",
+  "walk",
+  "walking",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104795-Reviews-Boston_Common-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "USS Constitution",
+ "address": "Bldg. 5, Charlestown Navy Yard",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a1/96/53/photo3jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "history",
+  "tour",
+  "history",
+  "active",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d6825959-Reviews-USS_Constitution-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Beacon Hill",
+ "address": "Between Beacon St and Cambridge St Beacon Hill",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/5b/bf/a1/beacon-hill.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "kids",
+  "walk",
+  "tour",
+  "walk",
+  "walk",
+  "walking",
+  "history",
+  "tour",
+  "history",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d142762-Reviews-Beacon_Hill-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "USS Constitution Museum",
+ "address": "Bldg 22 Charlestown Navy Yard Charlestown",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/4f/42/4f/uss-constitution-museum.jpg"
+ ],
+ "tags": [
+  "learn",
+  "free",
+  "history",
+  "walk",
+  "history",
+  "learn",
+  "walk",
+  "history",
+  "library",
+  "walk",
+  "tour",
+  "learn",
+  "history",
+  "free",
+  "walking",
+  "walk",
+  "kids",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104828-Reviews-USS_Constitution_Museum-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Quincy Market",
+ "address": "4 S Market St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/74/1f/86/quincy-market.jpg"
+ ],
+ "tags": [
+  "food",
+  "walking",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d8400863-Reviews-Quincy_Market-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Back Bay",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/77/70/fa/by-leatherndevil-available.jpg"
+ ],
+ "tags": [
+  "walk",
+  "historic",
+  "library",
+  "historic",
+  "walk",
+  "library",
+  "walk",
+  "walking",
+  "walking",
+  "library",
+  "cheap",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d208218-Reviews-Back_Bay-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New England Aquarium",
+ "address": "1 Central Wharf",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/31/a2/05/tropical-fish.jpg"
+ ],
+ "tags": [
+  "organized",
+  "walk",
+  "tour",
+  "kids",
+  "kids",
+  "field",
+  "library",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103649-Reviews-New_England_Aquarium-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Mapparium",
+ "address": "200 Massachusetts Ave The Mary Baker Eddy Library",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/cd/c1/15/the-mapparium.jpg"
+ ],
+ "tags": [
+  "walk",
+  "library",
+  "free",
+  "history",
+  "tour",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d144269-Reviews-The_Mapparium-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boston Children's Museum",
+ "address": "308 Congress St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/a5/b8/c5/boston-children-s-museum.jpg"
+ ],
+ "tags": [
+  "eat",
+  "kids",
+  "kids",
+  "free",
+  "active",
+  "knowledgeable",
+  "food",
+  "kids",
+  "kids",
+  "library",
+  "family",
+  "kids",
+  "library",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103646-Reviews-Boston_Children_s_Museum-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old North Church & Historic Site",
+ "address": "193 Salem St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/8c/6e/7c/this-spire-is-a-most.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history",
+  "historic",
+  "unique",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104871-Reviews-Old_North_Church_Historic_Site-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "HarborWalk",
+ "address": "Harborwalk",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/33/11/66/photo9jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "pets",
+  "walk",
+  "tour",
+  "walking",
+  "walk",
+  "history",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d1145361-Reviews-HarborWalk-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Castle Island",
+ "address": "2010 William J Day Blvd end of Carson Beach, on Pleasure Bay",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/7d/79/df/fort-independence-castle.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "tour",
+  "tour",
+  "walking",
+  "food",
+  "walk",
+  "walking",
+  "walk",
+  "eat",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d103642-Reviews-Castle_Island-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Skywalk Observatory",
+ "address": "800 Boylston Street Prudential Center",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/dc/0e/41/vue-du-50e-etage.jpg"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d603296-Reviews-Skywalk_Observatory-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New England Holocaust Memorial",
+ "address": "Between Congress and Union Streets",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/8a/b9/fd/20150521-125015-largejpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "walking",
+  "free",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104794-Reviews-New_England_Holocaust_Memorial-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Arnold Arboretum",
+ "address": "125 Arborway Jamaica Plain",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/14/93/3c/arnold-arboretum.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "walk",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d104571-Reviews-Arnold_Arboretum-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Charles River Esplanade",
+ "address": "Storrow Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/f4/09/83/photo3jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "walking",
+  "walk",
+  "tour",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60745-d142572-Reviews-Charles_River_Esplanade-Boston_Massachusetts.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

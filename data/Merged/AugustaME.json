@@ -1,137 +1,5 @@
 [
 {
- "name": "Acadia",
- "address": "\nPO Box 177\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/acad/crop16_9/E829C391-1DD8-B71B-0B2405E816BE7996.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//acad//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Katahdin Woods and Waters",
- "address": "\nPO Box 446\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kaww/crop16_9/F55CE26A-1DD8-B71B-0B3CE4E4C75A5456.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kaww//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Maine Acadian Culture",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/maac/crop16_9/540EA35E-1DD8-B71B-0BE7F98115C96A3A.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "family",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//maac//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Roosevelt Campobello",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/roca/crop16_9/CE79CC35-1DD8-B71B-0B16B1ACC82FA7BD.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "family",
-  "active"
- ],
- "link": [
-  "https://www.nps.gov//roca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint Croix Island",
- "address": "\nPO Box 247\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sacr/crop16_9/265ACB51-1DD8-B71B-0BCDBE4BE3A30431.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//sacr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Colby College Museum of Art",
  "address": "5600 Mayflower Hill Dr",
  "avg_visitor_review": [
@@ -1093,6 +961,534 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Acadia",
+ "address": "\nPO Box 177\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/acad/crop16_9/E829C391-1DD8-B71B-0B2405E816BE7996.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//acad//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Katahdin Woods and Waters",
+ "address": "\nPO Box 446\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kaww/crop16_9/F55CE26A-1DD8-B71B-0B3CE4E4C75A5456.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kaww//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Maine Acadian Culture",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/maac/crop16_9/540EA35E-1DD8-B71B-0BE7F98115C96A3A.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//maac//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Roosevelt Campobello",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/roca/crop16_9/CE79CC35-1DD8-B71B-0B16B1ACC82FA7BD.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family",
+  "active"
+ ],
+ "link": [
+  "https://www.nps.gov//roca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Croix Island",
+ "address": "\nPO Box 247\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sacr/crop16_9/265ACB51-1DD8-B71B-0BCDBE4BE3A30431.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//sacr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Maine State Museum",
+ "address": "230 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/70/27/77/maine-state-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "library",
+  "history",
+  "walk",
+  "history",
+  "free",
+  "family",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d104045-Reviews-Maine_State_Museum-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State Capitol",
+ "address": "State Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/fb/d9/99/state-capitol.jpg"
+ ],
+ "tags": [
+  "historic",
+  "art",
+  "tour",
+  "knowledgeable",
+  "free",
+  "free",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d290343-Reviews-State_Capitol-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Western",
+ "address": "16 Cony St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/94/a5/4f/old-fort-western.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour",
+  "history",
+  "tour",
+  "kids",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105315-Reviews-Fort_Western-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Viles Arboretum",
+ "address": "153 Hospital St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/6f/f5/01/pine-tree-state-arboretum.jpg"
+ ],
+ "tags": [
+  "walk",
+  "learn",
+  "field",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105323-Reviews-Viles_Arboretum-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Governor Hill Mansion",
+ "address": "136 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/bd/ef/64/grand-facility.jpg"
+ ],
+ "tags": [
+  "history",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105318-Reviews-The_Governor_Hill_Mansion-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Park",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/4a/ab/f9/sun-and-shade-on-the.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105321-Reviews-Capitol_Park-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Augusta Civic Center",
+ "address": "",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105325-Reviews-Augusta_Civic_Center-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State House",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/f1/a8/be/maine-state-capitol-building.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "walk",
+  "tour",
+  "kids",
+  "tour",
+  "library",
+  "knowledgeable",
+  "food",
+  "kids",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105316-Reviews-State_House-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Discovery Museum",
+ "address": "171 Capitol St Ste 2",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/ee/68/0f/inside.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "kids",
+  "kids",
+  "learn",
+  "kids",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105326-Reviews-Children_s_Discovery_Museum-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sonny's Museum",
+ "address": "228 Water St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/e6/fe/4b/photo0jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d3443124-Reviews-Sonny_s_Museum-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Post Office",
+ "address": "295 Water Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/1e/b6/arches-and-pillars-closer.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "historic",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d12537865-Reviews-Old_Post_Office-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Samantha Smith",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/a3/03/the-bear-represents-both.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105320-Reviews-Samantha_Smith-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Holocaust Human Rights Center of Maine",
+ "address": "46 University Dr University of Maine at Augusta",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "free",
+  "learn",
+  "knowledgeable",
+  "art",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d648849-Reviews-Holocaust_Human_Rights_Center_of_Maine-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Marketplace at Augusta",
+ "address": "197 Civic Center Dr",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d15640152-Reviews-Marketplace_at_Augusta-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bond Brook Trails",
+ "address": "Tall Pines Way Off Bond Brook Road",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "hike",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d10285794-Reviews-Bond_Brook_Trails-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "First Amendment Museum at the Gannett House",
+ "address": "184 State Street",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d20841116-Reviews-First_Amendment_Museum_at_the_Gannett_House-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Colburn House State Historic Site",
+ "address": "Arnold Rd",
+ "avg_visitor_review": [
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d13120767-Reviews-Colburn_House_State_Historic_Site-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

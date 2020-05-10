@@ -1,160 +1,5 @@
 [
 {
- "name": "Isle Royale",
- "address": "\n800 East Lakeshore Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/isro/crop16_9/2B4A6A37-C285-6E66-14FDD40511BEAC4B.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//isro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Keweenaw",
- "address": "\n25970 Red Jacket Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kewe/crop16_9/A445BAAC-1DD8-B71B-0B19D14FCA2C58B1.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kewe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Motor Cities",
- "address": "\n200 Renaissance Center, Suite 3148\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/auto/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "tour",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//auto//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pictured Rocks",
- "address": "\nP.O. Box 40\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/piro/crop16_9/2B107BCC-C18E-0037-E60800C825DD8798.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "sightseeing",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//piro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "River Raisin",
- "address": "\n1403 East Elm Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/rira/crop16_9/BA0D6A1F-1DD8-B71B-0BA82BBBA6D58536.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//rira//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Sleeping Bear Dunes",
- "address": "\n9922 Front Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/slbe/crop16_9/BD64924B-B395-BBF9-71AA7C3437090370.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//slbe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Soldan Dog Park",
  "address": "1601 E Cavanaugh Rd",
  "avg_visitor_review": [
@@ -214,22 +59,42 @@
  "name": "Cooley Law School Stadium",
  "address": "505 E Michigan Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/fd/1b/78/ball-field-view-from.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/RKGrEPfQ2Ggy1r9YVISzUA/o.jpg"
  ],
  "tags": [
-  "family",
   "food",
-  "cheap"
+  "drink",
+  "kids",
+  "walk",
+  "field",
+  "food",
+  "kids",
+  "creative",
+  "food",
+  "cheap",
+  "free",
+  "walk",
+  "food",
+  "kids",
+  "family"
  ],
  "link": [
-  "https://www.yelp.com/biz/cooley-law-school-stadium-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/cooley-law-school-stadium-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3443187-Reviews-Cooley_Law_School_Stadium-Lansing_Ingham_County_Michigan.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -707,18 +572,32 @@
  "name": "MichiGrain Distillery",
  "address": "523 E Shiawassee St",
  "avg_visitor_review": [
+  "5.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/fc/f2/be/building-front.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/wW9nvvLwNG31F4hwy2FuoA/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "unique",
+  "drink",
+  "drink",
+  "unique",
+  "unique"
+ ],
  "link": [
-  "https://www.yelp.com/biz/michigrain-distillery-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/michigrain-distillery-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d15196578-Reviews-MichiGrain_Distillery-Lansing_Ingham_County_Michigan.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -981,20 +860,39 @@
  "name": "R.E. Olds Transportation Museum",
  "address": "240 Museum Dr",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/51/0e/a9/excellent-very-cool-collection.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/vJ4R-X3ika-d3z-tdvKh-A/o.jpg"
  ],
  "tags": [
-  "history"
+  "history",
+  "free",
+  "family",
+  "historic",
+  "history",
+  "historic",
+  "family",
+  "history",
+  "free",
+  "performance",
+  "history",
+  "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/r-e-olds-transportation-museum-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/r-e-olds-transportation-museum-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282224-Reviews-R_E_Olds_Transportation_Museum-Lansing_Ingham_County_Michigan.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1021,22 +919,44 @@
  "name": "Turner-Dodge House & Heritage Center",
  "address": "100 E North St",
  "avg_visitor_review": [
+  "4.5",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/11/d0/f6/turner-dodge-house-heritage.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/AzMsCd240i_34mKd_LI1-g/o.jpg"
  ],
  "tags": [
-  "food",
+  "learn",
+  "history",
   "historic",
-  "history"
+  "music",
+  "knowledgeable",
+  "learn",
+  "tour",
+  "history",
+  "learn",
+  "history",
+  "family",
+  "history",
+  "walking",
+  "historic",
+  "family",
+  "music",
+  "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/turner-dodge-house-and-heritage-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/turner-dodge-house-and-heritage-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282156-Reviews-Turner_Dodge_House_Heritage_Center-Lansing_Ingham_County_Michigan.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1133,6 +1053,826 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Isle Royale",
+ "address": "\n800 East Lakeshore Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/isro/crop16_9/2B4A6A37-C285-6E66-14FDD40511BEAC4B.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//isro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Keweenaw",
+ "address": "\n25970 Red Jacket Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kewe/crop16_9/A445BAAC-1DD8-B71B-0B19D14FCA2C58B1.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kewe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Motor Cities",
+ "address": "\n200 Renaissance Center, Suite 3148\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/auto/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//auto//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pictured Rocks",
+ "address": "\nP.O. Box 40\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/piro/crop16_9/2B107BCC-C18E-0037-E60800C825DD8798.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "sightseeing",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//piro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "River Raisin",
+ "address": "\n1403 East Elm Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/rira/crop16_9/BA0D6A1F-1DD8-B71B-0BA82BBBA6D58536.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//rira//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Sleeping Bear Dunes",
+ "address": "\n9922 Front Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/slbe/crop16_9/BD64924B-B395-BBF9-71AA7C3437090370.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//slbe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Potter Park Zoo",
+ "address": "1301 S Pennsylvania Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/70/c9/24/photo1jpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282094-Reviews-Potter_Park_Zoo-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan State Capitol",
+ "address": "Capitol Avenue at Michigan Avenue",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/82/30/9b/michigan-state-capitol.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "eat",
+  "tour",
+  "cheap",
+  "history",
+  "history",
+  "eat",
+  "tour",
+  "cheap",
+  "tour",
+  "kids",
+  "walk",
+  "learn",
+  "tour",
+  "unique",
+  "tour",
+  "tour",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282093-Reviews-Michigan_State_Capitol-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan History Center",
+ "address": "702 W Kalamazoo St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0c/0e/c0/michigan-historical-museum.jpg"
+ ],
+ "tags": [
+  "music",
+  "learn",
+  "history",
+  "family",
+  "history",
+  "free",
+  "family",
+  "free",
+  "walking",
+  "history",
+  "free",
+  "history",
+  "free",
+  "history",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282095-Reviews-Michigan_History_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Impression 5 Science Center",
+ "address": "200 Museum Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/46/25/99/impression-5-science.jpg"
+ ],
+ "tags": [
+  "unique",
+  "kids",
+  "organized",
+  "kids",
+  "family",
+  "family",
+  "eat",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282150-Reviews-Impression_5_Science_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Michigan Princess",
+ "address": "Grand River Park",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/da/97/c1/early-morning-on-the.jpg"
+ ],
+ "tags": [
+  "history",
+  "kids",
+  "drink",
+  "music",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d2228897-Reviews-The_Michigan_Princess-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hawk Island Park",
+ "address": "1601 E Cavanaugh Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/79/a8/79/hawk-island-park.jpg"
+ ],
+ "tags": [
+  "parks",
+  "walking",
+  "kids",
+  "walk",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10378995-Reviews-Hawk_Island_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "River Trail",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/9d/68/c6/river-trail.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "parks",
+  "walk",
+  "walk",
+  "unique",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282096-Reviews-River_Trail-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Town",
+ "address": "201 E Grand River Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/3e/dd/ef/old-town.jpg"
+ ],
+ "tags": [
+  "unique",
+  "art",
+  "eat",
+  "walk",
+  "food",
+  "unique",
+  "pets",
+  "food",
+  "art",
+  "walk",
+  "drink",
+  "art",
+  "unique",
+  "pets"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282396-Reviews-Old_Town-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Carl G. Fenner Nature Center",
+ "address": "2020 E Mount Hope Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/5a/a8/fa/carl-g-fenner-nature.jpg"
+ ],
+ "tags": [
+  "nature",
+  "walk",
+  "learn",
+  "nature",
+  "knowledgeable",
+  "learn",
+  "kids",
+  "knowledgeable",
+  "learn",
+  "kids",
+  "walk",
+  "field",
+  "family",
+  "nature",
+  "walk",
+  "family",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3871068-Reviews-Carl_G_Fenner_Nature_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mega Mall",
+ "address": "15487 S US Highway 27",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/a0/8e/a5/mega-mall-lansing-mi.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d8464076-Reviews-Mega_Mall-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing Center",
+ "address": "333 E Michigan Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/c4/57/lansing-center-lansing.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d1419468-Reviews-Lansing_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Moores Park",
+ "address": "420 Moores River Dr",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/85/b0/11/mi-lansing-moores-park.jpg"
+ ],
+ "tags": [
+  "field",
+  "kids",
+  "field",
+  "kids",
+  "kids",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d12826990-Reviews-Moores_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Brenke Fish Ladder",
+ "address": "Lansing River Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/18/71/49/brenke-fish-ladder.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "nature",
+  "wander",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10799307-Reviews-Brenke_Fish_Ladder-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Granger Meadows Park",
+ "address": "16980 Wood Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/4c/2c/95/mi-lansing-granger-meadow.jpg"
+ ],
+ "tags": [
+  "walk",
+  "field",
+  "nature",
+  "walk",
+  "nature",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10296185-Reviews-Granger_Meadows_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Reo Town",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/9e/48/79/mi-lansing-reo-town.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walk",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10312299-Reviews-Reo_Town-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Woldumar Nature Center",
+ "address": "5739 Old Lansing Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/6d/e3/20/photo5jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "field",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3804320-Reviews-Woldumar_Nature_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Creole Gallery",
+ "address": "1218 Turner St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/3c/c3/b7/the-creole-gallery.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "drink",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282147-Reviews-The_Creole_Gallery-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing Mall",
+ "address": "5330 W Saginaw Hwy",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/52/40/e5/lansing-mall.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "family",
+  "free",
+  "food",
+  "walk",
+  "food",
+  "food",
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d6120507-Reviews-Lansing_Mall-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mt Hope Cemetery",
+ "address": "1709 E Mount Hope Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/3c/1b/mt-hope-cemetery.jpg"
+ ],
+ "tags": [
+  "family",
+  "history",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3978214-Reviews-Mt_Hope_Cemetery-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ralph W. Crego Park",
+ "address": "1600 Fidelity Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/34/d9/2a/crego-park-lake-area.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walk",
+  "free",
+  "walking",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d7109395-Reviews-Ralph_W_Crego_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Woods Park",
+ "address": "4500 W Willow Hwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/7f/9a/92/grand-woods-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids",
+  "walking",
+  "walk",
+  "kids",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d8464449-Reviews-Grand_Woods_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Adado Park",
+ "address": "300 N Grand Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/da/30/68/adado-park.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4858571-Reviews-Adado_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing's First Capital Building",
+ "address": "South Washington Square near Allegan",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0b/f6/42/lansing-s-first-capital.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4271620-Reviews-Lansing_s_First_Capital_Building-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "9-11-2001 Remembrance Memorial",
+ "address": "northeast corner of Michigan Ave. and Grand Ave. in Wentworth Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/48/72/memorial-in-park-seen.jpg"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4914822-Reviews-9_11_2001_Remembrance_Memorial-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eastwood Towne Center",
+ "address": "3003 Preyde Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/b9/85/d0/bravo-cucina-italiana.jpg"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10800253-Reviews-Eastwood_Towne_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Greater Lansing Visitors Center",
+ "address": "500 E Michigan Ave Suite 180",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/59/75/greater-lansing-visitors.jpg"
+ ],
+ "tags": [
+  "kids",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282397-Reviews-Greater_Lansing_Visitors_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

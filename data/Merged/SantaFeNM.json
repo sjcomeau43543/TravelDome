@@ -1,390 +1,5 @@
 [
 {
- "name": "Aztec Ruins",
- "address": "\n725 Ruins Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/azru/crop16_9/4E4ECF26-1DD8-B71B-0BB1ED16F5EF8D5E.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//azru//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Bandelier",
- "address": "\nBandelier National Monument\n15 Entrance RD\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/band/crop16_9/B8AAA1F6-0A63-6915-F97134A3E3B1B64A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//band//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Capulin Volcano",
- "address": "\nP.O. Box 40\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cavo/crop16_9/675649E4-1DD8-B71B-0B9A456AB03A85C2.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cavo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Carlsbad Caverns",
- "address": "\n3225 National Parks Highway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cave/crop16_9/B4BB8A3A-B807-8F2B-2A91D1C154698E31.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cave//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chaco Culture",
- "address": "\nPO Box 220\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chcu/crop16_9/93B2271B-1DD8-B71B-0B4687A786E516E7.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chcu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Camino Real de Tierra Adentro",
- "address": "\nNational Trails\nEl Camino Real de Tierra Adentro National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elca/crop16_9/19F62C50-00CE-1815-868F1BAF27BB70C2.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//elca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Malpais",
- "address": "\n1900 E. Santa Fe Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elma/crop16_9/C97A69A8-1DD8-B71B-0BFCF7F4527B3A5D.JPG?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//elma//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Morro",
- "address": "\nHC 61 Box 43\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elmo/crop16_9/C93EB9D8-1DD8-B71B-0B9876524D79D70D.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//elmo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Union",
- "address": "\nPO Box 127\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/foun/crop16_9/8817A02F-1DD8-B71B-0BC007AB1E887AEA.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//foun//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gila Cliff Dwellings",
- "address": "\n26 Jim Bradford Trail\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/gicl/crop16_9/64FAA53C-1DD8-B71B-0BA27FA6E2059F98.JPG?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//gicl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Manhattan Project",
- "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mapr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Old Spanish",
- "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//olsp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pecos",
- "address": "\nPecos National Historical Park\nP.O. Box 418\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/peco/crop16_9/C5A7CCFA-1DD8-B71B-0BB9C5C2F335B24C.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//peco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Petroglyph",
- "address": "\nHeadquarters Administration Offices\n6001 Unser Blvd. NW\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/petr/crop16_9/00BB01D4-E567-AB72-139F0609AAEA1B87.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//petr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Salinas Pueblo Missions",
- "address": "\nSalinas Pueblo Missions National Monument\nPO Box 517\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sapu/crop16_9/01BB3CAA-E714-D7B5-0C87A0DDBCA60356.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//sapu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Santa Fe",
- "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//safe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Valles Caldera",
- "address": "\nPO Box 359\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/vall/crop16_9/3B28E7E1-1DD8-B71B-0B94843BD818651D.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//vall//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "White Sands",
- "address": "\nPO Box 1086\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/whsa/crop16_9/18F2C9E0-1DD8-B71B-0B69C6EF63E10C88.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//whsa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Santa Fe Children's Museum",
  "address": "1050 Old Pecos Trl",
  "avg_visitor_review": [
@@ -411,20 +26,45 @@
  "name": "New Mexico History Museum",
  "address": "113 Lincoln Ave",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/e1/ea/95/photo9jpg.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/T9pWx9T9cHSUupWDZ8oK_A/o.jpg"
  ],
  "tags": [
+  "free",
+  "learn",
+  "history",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "free",
+  "walking",
+  "history",
+  "historic",
+  "history",
+  "walking",
+  "tour",
+  "history",
+  "tour",
+  "history",
   "history"
  ],
  "link": [
-  "https://www.yelp.com/biz/new-mexico-history-museum-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/new-mexico-history-museum-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d1459364-Reviews-New_Mexico_History_Museum-Santa_Fe_New_Mexico.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -956,20 +596,35 @@
  "name": "Palace of the Governors",
  "address": "105 W Palace Ave",
  "avg_visitor_review": [
+  "4.5",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/fe/21/61/palace-of-the-governors.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/dhfIRPU68YeiKgk6_WcljQ/o.jpg"
  ],
  "tags": [
+  "art",
+  "family",
+  "history",
+  "art",
+  "unique",
+  "family",
+  "cheap",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/palace-of-the-governors-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/palace-of-the-governors-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d4868364-Reviews-Palace_of_the_Governors-Santa_Fe_New_Mexico.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1091,22 +746,38 @@
  "reviews": []
 },{
  "name": "Railyard Arts District",
- "address": "544 South Guadalupe St",
+ "address": "South Guadalupe Street Between Agua Fria and Paseo de Peralta",
  "avg_visitor_review": [
+  "4.0",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/f1/2b/the-water-tower.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/jqTq-lKGKTm63ezIS_zNiw/o.jpg"
  ],
  "tags": [
+  "art",
+  "walk",
+  "art",
+  "art",
+  "music",
+  "unique",
+  "walk",
+  "art",
   "brewery"
  ],
  "link": [
-  "https://www.yelp.com/biz/railyard-arts-district-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/railyard-arts-district-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d8670359-Reviews-Railyard_Arts_District-Santa_Fe_New_Mexico.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1198,41 +869,82 @@
  "name": "New Mexico Museum of Art",
  "address": "107 W Palace Ave",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/04/b8/5d/new-mexico-museum-of.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/h7rfEEs5BQ6xnI8cSJJK3Q/o.jpg"
  ],
  "tags": [
+  "organized",
+  "art",
+  "art",
+  "history",
+  "free",
+  "art",
+  "history",
+  "art",
+  "history",
+  "art",
+  "art",
   "art"
  ],
  "link": [
-  "https://www.yelp.com/biz/new-mexico-museum-of-art-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/new-mexico-museum-of-art-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d1458256-Reviews-New_Mexico_Museum_of_Art-Santa_Fe_New_Mexico.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Canyon Road",
  "address": "225 Canyon Rd",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/24/28/59/siford-gallery.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/FsPJ2KyA1Zjqwe_AW_AFvA/o.jpg"
  ],
  "tags": [
   "art",
+  "walk",
+  "art",
+  "walk",
+  "art",
+  "nature",
+  "unique",
+  "walk",
+  "art",
+  "art",
+  "walk",
+  "tour",
+  "art",
+  "knowledgeable",
+  "art",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/canyon-road-santa-fe-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/canyon-road-santa-fe-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d117221-Reviews-Canyon_Road-Santa_Fe_New_Mexico.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1396,6 +1108,1089 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Aztec Ruins",
+ "address": "\n725 Ruins Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/azru/crop16_9/4E4ECF26-1DD8-B71B-0BB1ED16F5EF8D5E.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//azru//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Bandelier",
+ "address": "\nBandelier National Monument\n15 Entrance RD\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/band/crop16_9/B8AAA1F6-0A63-6915-F97134A3E3B1B64A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//band//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Capulin Volcano",
+ "address": "\nP.O. Box 40\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cavo/crop16_9/675649E4-1DD8-B71B-0B9A456AB03A85C2.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cavo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Carlsbad Caverns",
+ "address": "\n3225 National Parks Highway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cave/crop16_9/B4BB8A3A-B807-8F2B-2A91D1C154698E31.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cave//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chaco Culture",
+ "address": "\nPO Box 220\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chcu/crop16_9/93B2271B-1DD8-B71B-0B4687A786E516E7.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chcu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Camino Real de Tierra Adentro",
+ "address": "\nNational Trails\nEl Camino Real de Tierra Adentro National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elca/crop16_9/19F62C50-00CE-1815-868F1BAF27BB70C2.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//elca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Malpais",
+ "address": "\n1900 E. Santa Fe Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elma/crop16_9/C97A69A8-1DD8-B71B-0BFCF7F4527B3A5D.JPG?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//elma//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Morro",
+ "address": "\nHC 61 Box 43\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elmo/crop16_9/C93EB9D8-1DD8-B71B-0B9876524D79D70D.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//elmo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Union",
+ "address": "\nPO Box 127\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/foun/crop16_9/8817A02F-1DD8-B71B-0BC007AB1E887AEA.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//foun//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gila Cliff Dwellings",
+ "address": "\n26 Jim Bradford Trail\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/gicl/crop16_9/64FAA53C-1DD8-B71B-0BA27FA6E2059F98.JPG?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//gicl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Manhattan Project",
+ "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mapr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//olsp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pecos",
+ "address": "\nPecos National Historical Park\nP.O. Box 418\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/peco/crop16_9/C5A7CCFA-1DD8-B71B-0BB9C5C2F335B24C.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//peco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Petroglyph",
+ "address": "\nHeadquarters Administration Offices\n6001 Unser Blvd. NW\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/petr/crop16_9/00BB01D4-E567-AB72-139F0609AAEA1B87.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//petr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Salinas Pueblo Missions",
+ "address": "\nSalinas Pueblo Missions National Monument\nPO Box 517\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sapu/crop16_9/01BB3CAA-E714-D7B5-0C87A0DDBCA60356.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//sapu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe",
+ "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//safe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Valles Caldera",
+ "address": "\nPO Box 359\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/vall/crop16_9/3B28E7E1-1DD8-B71B-0B94843BD818651D.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//vall//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "White Sands",
+ "address": "\nPO Box 1086\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/whsa/crop16_9/18F2C9E0-1DD8-B71B-0B69C6EF63E10C88.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//whsa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Georgia O'Keeffe Museum",
+ "address": "217 Johnson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/c9/13/4c/galleries.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "unique",
+  "walking",
+  "history",
+  "art",
+  "art",
+  "art",
+  "art",
+  "knowledgeable",
+  "organized",
+  "learn",
+  "art",
+  "art",
+  "history",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d787426-Reviews-Georgia_O_Keeffe_Museum-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Plaza",
+ "address": "100 Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b6/99/d1/santa-fe-historic-plaza.jpg"
+ ],
+ "tags": [
+  "art",
+  "historic",
+  "history",
+  "food",
+  "historic",
+  "food",
+  "historic",
+  "music",
+  "walk",
+  "walking",
+  "walk",
+  "art",
+  "history",
+  "unique",
+  "history",
+  "food",
+  "art",
+  "eat",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d107439-Reviews-Santa_Fe_Plaza-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Opera House",
+ "address": "301 Opera Dr",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/78/93/73/santa-fe-opera-house.jpg"
+ ],
+ "tags": [
+  "unique",
+  "theatre",
+  "family",
+  "performance",
+  "delicious",
+  "performance",
+  "performance"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d107440-Reviews-Santa_Fe_Opera_House-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Cathedral Basilica of St. Francis of Assisi",
+ "address": "131 Cathedral Pl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/ad/6c/57/the-inside-of-the-basilica.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history",
+  "history",
+  "historic",
+  "history",
+  "sightseeing",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123657-Reviews-The_Cathedral_Basilica_of_St_Francis_of_Assisi-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Meow Wolf",
+ "address": "1352 Rufina Cir",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/18/de/ef/there-is-a-diver-behind.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "kids",
+  "unique",
+  "music",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d10084963-Reviews-Meow_Wolf-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of International Folk Art",
+ "address": "706 Camino Lejo on Museum Hill",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/9f/7d/c1/lots-of-action.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "food",
+  "eat",
+  "kids",
+  "art",
+  "art",
+  "free",
+  "tour",
+  "tour",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d135699-Reviews-Museum_of_International_Folk_Art-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Mexico State Capitol (Roundhouse)",
+ "address": "Paseo de Peralta and Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/04/78/46/new-mexico-state-capitol.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "creative",
+  "free",
+  "art",
+  "unique",
+  "art",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d534384-Reviews-New_Mexico_State_Capitol_Roundhouse-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "El Rancho de las Golondrinas",
+ "address": "334 Los Pinos Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/9e/b7/trip-to-el-rancho-de.jpg"
+ ],
+ "tags": [
+  "music",
+  "history",
+  "food",
+  "history",
+  "kids",
+  "historic",
+  "history",
+  "learn",
+  "walking",
+  "family",
+  "history",
+  "drink",
+  "field",
+  "food",
+  "family",
+  "nature",
+  "learn",
+  "walk",
+  "tour",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d117438-Reviews-El_Rancho_de_las_Golondrinas-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Loretto Chapel",
+ "address": "207 Old Santa Fe Trail Between Alameda and Water sts.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/c7/c1/34/loretto-chapel.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "tour",
+  "historic",
+  "cheap",
+  "walking",
+  "history",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123660-Reviews-Loretto_Chapel-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ski Santa Fe",
+ "address": "Highway 475",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/82/8d/cc/powder-day-at-ski-santa.jpg"
+ ],
+ "tags": [
+  "organized",
+  "family",
+  "kids",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d124601-Reviews-Ski_Santa_Fe-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Indian Arts & Culture",
+ "address": "710 Camino Lejo",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/51/15/20/greeting-statue-outside.jpg"
+ ],
+ "tags": [
+  "free",
+  "art",
+  "history",
+  "unique",
+  "creative",
+  "art",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d110198-Reviews-Museum_of_Indian_Arts_Culture-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "San Miguel Chapel",
+ "address": "401 Old Santa Fe Trl Lower Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/4e/b2/2b/photo0jpg.jpg"
+ ],
+ "tags": [
+  "structure",
+  "music",
+  "historic",
+  "history",
+  "unique",
+  "walk",
+  "history",
+  "art",
+  "history",
+  "walking",
+  "music",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d124600-Reviews-San_Miguel_Chapel-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Farmers Market",
+ "address": "1607 Paseo de Peralta",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/27/dc/10/the-santa-fe-farmer-s.jpg"
+ ],
+ "tags": [
+  "art",
+  "food",
+  "creative",
+  "food",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d580947-Reviews-Santa_Fe_Farmers_Market-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nedra Matteucci Galleries",
+ "address": "1075 Paseo de Peralta",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/47/27/11/the-sculpture-garden.jpg"
+ ],
+ "tags": [
+  "wander",
+  "art",
+  "art",
+  "art",
+  "art",
+  "art",
+  "art",
+  "historic",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d124569-Reviews-Nedra_Matteucci_Galleries-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dale Ball Trails",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/e5/64/a2/picacho-peak.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d7212551-Reviews-Dale_Ball_Trails-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cross of the Martyrs",
+ "address": "600 Paseo de Peralta",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/59/6d/32/cross-of-the-martyrs.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "walk",
+  "hike",
+  "history",
+  "learn",
+  "walk",
+  "history",
+  "walk",
+  "history",
+  "walk",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123656-Reviews-Cross_of_the_Martyrs-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "La Cieneguilla Petroglyph Site",
+ "address": "Airport Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/47/0c/c1/this-spot-had-a-big-variety.jpg"
+ ],
+ "tags": [
+  "tour",
+  "hike",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d3671778-Reviews-La_Cieneguilla_Petroglyph_Site-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Atalaya Mountain Hiking Trail",
+ "address": "Access from Parking Area at St. John's College",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/8c/62/62/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "hike",
+  "hike",
+  "walking",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d3498636-Reviews-Atalaya_Mountain_Hiking_Trail-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Randall Davey Audubon Center",
+ "address": "Upper Canyon Rd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/1e/a3/6b/entrance-to-center.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "nature",
+  "tour",
+  "walk",
+  "tour",
+  "nature",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d143971-Reviews-Randall_Davey_Audubon_Center-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Harrell House Bug Museum",
+ "address": "556 N Guadalupe St Inside DeVargas Center Mall",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/a4/ea/73/amazing-collection-of.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "sampling",
+  "tour",
+  "kids",
+  "active",
+  "kids",
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d4570589-Reviews-The_Harrell_House_Bug_Museum-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hyde Memorial State Park",
+ "address": "740 Hyde Park Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/1a/99/76/fall-colors.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "walk",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123659-Reviews-Hyde_Memorial_State_Park-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Fort Marcy Park",
+ "address": "617 Paseo de Peralta Also access it by traveling 3 blocks up Artist Rd. and turning right",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/d3/82/26/old-fort-marcy-park-view.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "walk",
+  "walking",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d143975-Reviews-Old_Fort_Marcy_Park-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wheelwright Museum of the American Indian",
+ "address": "704 Camino Lejo",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/7d/b9/71/filename-p1019728-jpg.jpg"
+ ],
+ "tags": [
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d110197-Reviews-Wheelwright_Museum_of_the_American_Indian-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Botanical Garden",
+ "address": "715 Camino Lejo Museum Hill",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/c6/99/98/20180704-131626-effects.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "kids",
+  "art",
+  "nature",
+  "family",
+  "food",
+  "walk",
+  "wander",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d3611694-Reviews-Santa_Fe_Botanical_Garden-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santuario De Nuestra Senora de Guadalupe",
+ "address": "100 S Guadalupe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/65/f5/b4/santuario-de-nuestra.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "walking",
+  "walk",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123658-Reviews-Santuario_De_Nuestra_Senora_de_Guadalupe-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

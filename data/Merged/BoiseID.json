@@ -1,222 +1,5 @@
 [
 {
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "City Of Rocks",
- "address": "\nCity of Rocks National Reserve\nP.O. Box 169\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ciro/crop16_9/FA6DA9AC-EA6D-2923-F36502604AB8B781.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//ciro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Craters Of The Moon",
- "address": "\nCraters of the Moon National Monument and Preserve\nP.O. Box 29\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/crmo/crop16_9/348F2F11-025E-0807-489A28E82EBD177B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//crmo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Hagerman Fossil Beds",
- "address": "\nPO Box 570\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hafo/crop16_9/3322A0CE-1DD8-B71B-0B4CF08852E73037.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//hafo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Ice Age Floods",
- "address": "\nSuperintendent\nIce Age Floods National Geologic Trail\n1008 Crest Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/iafl/crop16_9/D01B7992-1DD8-B71B-0B85A8447826F461.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//iafl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Minidoka",
- "address": "\nPO Box 570\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/miin/crop16_9/1CE92EDD-D451-AF4D-0BF9B59E8043A655.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//miin//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Nez Perce",
- "address": "\nNez Perce National Historical Park\n39063 US Hwy 95\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nepe/crop16_9/FB96506A-1DD8-B71B-0BCFF19DD6145232.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//nepe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Yellowstone",
- "address": "\nPO Box 168\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//yell//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Nerfed",
  "address": "5878 W Franklin Rd",
  "avg_visitor_review": [
@@ -240,18 +23,33 @@
  "name": "Camel's Back Park",
  "address": "1200 W Heron St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/37/55/4d/camel-s-back-park.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/3Efs2s39TSelpWKHZ71SiQ/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "eat",
+  "kids",
+  "hike",
+  "kids",
+  "family",
+  "structure"
+ ],
  "link": [
-  "https://www.yelp.com/biz/camels-back-park-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/camels-back-park-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559301-Reviews-Camel_s_Back_Park-Boise_Idaho.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -395,18 +193,44 @@
  "name": "Idaho State Museum",
  "address": "610 N Julia Davis Dr",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/11/8b/9a/the-origins-gallery-in.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/q37VEoXzuYyj8XLl4_WtYA/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "history",
+  "learn",
+  "family",
+  "free",
+  "kids",
+  "art",
+  "kids",
+  "history",
+  "knowledgeable",
+  "history",
+  "learn",
+  "family",
+  "free",
+  "kids",
+  "art",
+  "history"
+ ],
  "link": [
-  "https://www.yelp.com/biz/idaho-state-museum-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/idaho-state-museum-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d214899-Reviews-Idaho_State_Museum-Boise_Idaho.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -591,22 +415,41 @@
  "name": "Zoo Boise",
  "address": "355 E Julia Davis Dr",
  "avg_visitor_review": [
+  "4.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/c0/59/dc/zoo-boise.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/XtbBR_inHWJAj2UXTXCPeA/o.jpg"
  ],
  "tags": [
-  "family",
+  "walk",
+  "learn",
+  "walking",
+  "history",
+  "food",
+  "free",
+  "art",
+  "knowledgeable",
+  "food",
+  "free",
   "kids",
+  "tour",
+  "walk",
   "family"
  ],
  "link": [
-  "https://www.yelp.com/biz/zoo-boise-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/zoo-boise-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558603-Reviews-Zoo_Boise-Boise_Idaho.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -910,18 +753,30 @@
  "name": "Lucky Peak State Park",
  "address": "9725 E Highway 21",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/3f/f2/0e/water-level-at-it-s-lowest.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/q_YcL9ZfNcSLLs6pRNinlQ/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "kids",
+  "free"
+ ],
  "link": [
-  "https://www.yelp.com/biz/lucky-peak-state-park-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/lucky-peak-state-park-boise?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559328-Reviews-Lucky_Peak_State_Park-Boise_Idaho.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1193,6 +1048,950 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "City Of Rocks",
+ "address": "\nCity of Rocks National Reserve\nP.O. Box 169\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ciro/crop16_9/FA6DA9AC-EA6D-2923-F36502604AB8B781.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//ciro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Craters Of The Moon",
+ "address": "\nCraters of the Moon National Monument and Preserve\nP.O. Box 29\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/crmo/crop16_9/348F2F11-025E-0807-489A28E82EBD177B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//crmo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hagerman Fossil Beds",
+ "address": "\nPO Box 570\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hafo/crop16_9/3322A0CE-1DD8-B71B-0B4CF08852E73037.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//hafo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Ice Age Floods",
+ "address": "\nSuperintendent\nIce Age Floods National Geologic Trail\n1008 Crest Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/iafl/crop16_9/D01B7992-1DD8-B71B-0B85A8447826F461.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//iafl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Minidoka",
+ "address": "\nPO Box 570\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/miin/crop16_9/1CE92EDD-D451-AF4D-0BF9B59E8043A655.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//miin//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Nez Perce",
+ "address": "\nNez Perce National Historical Park\n39063 US Hwy 95\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nepe/crop16_9/FB96506A-1DD8-B71B-0BCFF19DD6145232.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//nepe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Yellowstone",
+ "address": "\nPO Box 168\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//yell//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Boise River Greenbelt",
+ "address": "",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/0d/57/36/boise-river-greenbelt.jpg"
+ ],
+ "tags": [
+  "family",
+  "parks",
+  "nature",
+  "tasting",
+  "walking",
+  "nature",
+  "walk",
+  "kids",
+  "walking",
+  "walking",
+  "kids",
+  "parks",
+  "nature",
+  "walk",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d144727-Reviews-Boise_River_Greenbelt-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "World Center For Birds of Prey",
+ "address": "5668 W Flying Hawk Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/37/9a/3b/world-center-for-birds.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "history",
+  "family",
+  "family",
+  "nature",
+  "kids",
+  "family",
+  "tour",
+  "knowledgeable",
+  "kids",
+  "tour",
+  "walking",
+  "learn",
+  "kids",
+  "tour",
+  "history",
+  "knowledgeable",
+  "walking",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d143832-Reviews-World_Center_For_Birds_of_Prey-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Idaho Penitentiary",
+ "address": "2445 E Old Penitentiary Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/0c/87/1e/photo7jpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "tour",
+  "nature",
+  "walk",
+  "kids",
+  "tour",
+  "tour",
+  "history",
+  "learn",
+  "history",
+  "tour",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558607-Reviews-Old_Idaho_Penitentiary-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Freak Alley Gallery",
+ "address": "210 N 9th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/a9/00/fe/freak-alley-in-boise.jpg"
+ ],
+ "tags": [
+  "wander",
+  "art",
+  "art",
+  "walk",
+  "art",
+  "walk",
+  "walking",
+  "walk",
+  "art",
+  "active",
+  "unique",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d8459033-Reviews-Freak_Alley_Gallery-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Idaho State Capitol Building",
+ "address": "700 W Jefferson St 8th Street, and State Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/fc/7c/1a/idaho-state-capitol-building.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "kids",
+  "walk",
+  "tour",
+  "walk",
+  "tour",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558625-Reviews-Idaho_State_Capitol_Building-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bogus Basin Mountain Recreation Area",
+ "address": "2405 N Bogus Basin Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/3f/8b/bogus-basin-mountain.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "free",
+  "free",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559288-Reviews-Bogus_Basin_Mountain_Recreation_Area-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Idaho Botanical Garden",
+ "address": "2355 Old Penitentiary Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/7d/5c/bf/cacti-in-bloom.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "walk",
+  "field",
+  "wander",
+  "music",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558667-Reviews-Idaho_Botanical_Garden-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kathryn Albertson Park",
+ "address": "1001 N Americana Boulevard",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/be/51/55/kathryn-albertson-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "walk",
+  "walk",
+  "walk",
+  "walk",
+  "walk",
+  "tasting",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558618-Reviews-Kathryn_Albertson_Park-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boise Train Depot",
+ "address": "2603 W Eastover Ter",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/b2/48/1a/view-from-the-back.jpg"
+ ],
+ "tags": [
+  "active",
+  "library",
+  "active",
+  "walking",
+  "tour",
+  "history",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559295-Reviews-Boise_Train_Depot-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Julia Davis Park",
+ "address": "700 S. Capitol Boulevard",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/9a/bd/16/rose-garden.jpg"
+ ],
+ "tags": [
+  "history",
+  "art",
+  "walk",
+  "parks",
+  "family",
+  "history",
+  "walking",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d555230-Reviews-Julia_Davis_Park-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Albertsons Stadium",
+ "address": "1910 University Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/fe/73/b6/september-2015.jpg"
+ ],
+ "tags": [
+  "family",
+  "field",
+  "walk",
+  "food",
+  "field",
+  "cheap",
+  "food",
+  "unique",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559299-Reviews-Albertsons_Stadium-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Idaho Anne Frank Human Rights Memorial",
+ "address": "777 S 8th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/d1/be/8f/idaho-anne-frank-human.jpg"
+ ],
+ "tags": [
+  "library",
+  "free",
+  "library",
+  "library",
+  "nature",
+  "history",
+  "free",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d2249776-Reviews-Idaho_Anne_Frank_Human_Rights_Memorial-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Barber Park",
+ "address": "4049 S Eckert Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/10/1c/6b/barber-park.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "kids",
+  "walking",
+  "nature",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559282-Reviews-Barber_Park-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hyde Park",
+ "address": "13th Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/a1/5d/7b/hyde-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "drink",
+  "eat",
+  "unique",
+  "unique",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559323-Reviews-Hyde_Park-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Morrison-Knudsen Nature Center",
+ "address": "600 S Walnut St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/f7/c4/20/morrison-knudsen-nature.jpg"
+ ],
+ "tags": [
+  "nature",
+  "music",
+  "walk",
+  "nature",
+  "walk",
+  "walking",
+  "kids",
+  "learn",
+  "walking",
+  "nature",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558612-Reviews-Morrison_Knudsen_Nature_Center-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ann Morrison Park",
+ "address": "1000 S Americana Blvd near Capitol and Americana boulevards",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0e/fc/91/ann-morrison-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "walk",
+  "family",
+  "walk",
+  "walk",
+  "art",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d559263-Reviews-Ann_Morrison_Park-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boise Art Glass",
+ "address": "1124 W Front St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/04/d6/6c/boise-art-glass.jpg"
+ ],
+ "tags": [
+  "family",
+  "creative",
+  "family",
+  "art",
+  "unique",
+  "art",
+  "art",
+  "unique",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d3228526-Reviews-Boise_Art_Glass-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ridge to River Trail System",
+ "address": "1104 W Royal Blvd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/c0/9b/7e/ridge-to-river-trail.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "unique",
+  "free",
+  "nature",
+  "walk",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558593-Reviews-Ridge_to_River_Trail_System-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Basque Museum & Cultural Center",
+ "address": "611 W Grove St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/cc/0b/da/motivo-de-orgullo-en.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "history",
+  "history",
+  "tour",
+  "tour",
+  "food",
+  "history",
+  "creative",
+  "delicious",
+  "history",
+  "unique",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d269524-Reviews-Basque_Museum_Cultural_Center-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. John's Cathedral",
+ "address": "775 N 8th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/55/9b/77/st-john-s-cathedral-boise.jpg"
+ ],
+ "tags": [
+  "unique",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d558571-Reviews-St_John_s_Cathedral-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Boise State University",
+ "address": "1910 W University Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/58/5e/0b/central-quad-at-boise.jpg"
+ ],
+ "tags": [
+  "field",
+  "walking",
+  "walking",
+  "art",
+  "hike",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d144728-Reviews-Boise_State_University-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Snake River Birds of Prey National Conservation Area",
+ "address": "Snake River Canyon",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/1d/21/d7/swan-falls-dam-snake.jpg"
+ ],
+ "tags": [
+  "walking",
+  "free",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d107662-Reviews-Snake_River_Birds_of_Prey_National_Conservation_Area-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Discovery Center of Idaho",
+ "address": "131 W Myrtle St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/b8/2d/a4/dci-logo.jpg"
+ ],
+ "tags": [
+  "family",
+  "learn",
+  "kids",
+  "free",
+  "kids",
+  "free",
+  "kids",
+  "family",
+  "learn",
+  "kids",
+  "kids",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d269861-Reviews-Discovery_Center_of_Idaho-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Aquarium of Boise",
+ "address": "64 N Cole Rd",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/00/9c/a8/aquarium-of-boise.jpg"
+ ],
+ "tags": [
+  "kids",
+  "tour",
+  "food",
+  "knowledgeable",
+  "family",
+  "kids",
+  "tour",
+  "food",
+  "walk",
+  "knowledgeable",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d2550173-Reviews-Aquarium_of_Boise-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Idaho Shakespeare Festival",
+ "address": "5657 E Warm Springs Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/ad/e0/2a/before-the-show-began.jpg"
+ ],
+ "tags": [
+  "free",
+  "theatre",
+  "theatre",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d10097973-Reviews-Idaho_Shakespeare_Festival-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Payette Brewing Company",
+ "address": "733 S Pioneer St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/4f/4f/31/tap-room-and-brewery.jpg"
+ ],
+ "tags": [
+  "food",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g35394-d12071231-Reviews-Payette_Brewing_Company-Boise_Idaho.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

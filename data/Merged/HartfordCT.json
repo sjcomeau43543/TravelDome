@@ -1,115 +1,5 @@
 [
 {
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "New England",
- "address": "\nOne Armory Square\nSuite 2\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/neen/crop16_9/4DD85F1F-A61E-8427-A95B5F0980C97B55.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//neen//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "The Last Green Valley",
- "address": "\n203 B Main Street, 2nd Floor\nP.O. Box 29\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/qush/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//qush//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Washington-Rochambeau Revolutionary Route",
- "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//waro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Weir Farm",
- "address": "\n735 Nod Hill Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/wefa/crop16_9/DE9B9F30-1DD8-B71B-0B6E1FD297C17069.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "creative",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//wefa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Cin\u00e9polis Luxury Cinemas",
  "address": "42 S Main St",
  "avg_visitor_review": [
@@ -131,21 +21,44 @@
  "name": "Harriet Beecher Stowe Center",
  "address": "77 Forest St",
  "avg_visitor_review": [
+  "4.0",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/66/8b/a0/harriet-beacher-stowe.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/ei7zB0Cjab9b6uixusJ9gQ/o.jpg"
  ],
  "tags": [
+  "historic",
+  "history",
   "tour",
-  "tour"
+  "tour",
+  "history",
+  "tour",
+  "art",
+  "tour",
+  "knowledgeable",
+  "family",
+  "learn",
+  "family",
+  "tour",
+  "tour",
+  "tour",
+  "history",
+  "unique"
  ],
  "link": [
-  "https://www.yelp.com/biz/harriet-beecher-stowe-center-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/harriet-beecher-stowe-center-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d105003-Reviews-Harriet_Beecher_Stowe_Center-Hartford_Connecticut.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -172,20 +85,35 @@
  "name": "XL Center",
  "address": "1 Civic Center Plz",
  "avg_visitor_review": [
+  "3.5",
   2.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/21/f4/0f/photo0jpg.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/bSKrU1Vz_PToTlNNqfwXPQ/o.jpg"
  ],
  "tags": [
+  "walking",
+  "food",
+  "food",
+  "walking",
+  "food",
+  "walk",
+  "walking",
   "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/xl-center-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/xl-center-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d3913943-Reviews-XL_Center-Hartford_Connecticut.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -698,24 +626,34 @@
  "reviews": []
 },{
  "name": "Riverside Park",
- "address": "20 Liebert Rd",
+ "address": "20 Leibert Rd",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/55/9d/9a/riverside-park.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/wGpCyXXdFLrXe6UWf7NS-Q/o.jpg"
  ],
  "tags": [
   "walk",
   "walk",
+  "walk",
+  "walking",
   "hike"
  ],
  "link": [
-  "https://www.yelp.com/biz/riverside-park-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/riverside-park-hartford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d3755412-Reviews-Riverside_Park-Hartford_Connecticut.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -785,20 +723,35 @@
  "name": "Infinity Music Hall & Bistro",
  "address": "32 Front St",
  "avg_visitor_review": [
+  "4.5",
   3.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/66/d0/ed/exterior.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/CxQ5VxZbZ05yQPCL8ZW4_Q/o.jpg"
  ],
  "tags": [
+  "walk",
+  "walking",
+  "eat",
+  "drink",
+  "music",
+  "cheap",
+  "eat",
   "music"
  ],
  "link": [
-  "https://www.yelp.com/biz/infinity-music-hall-and-bistro-hartford-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/infinity-music-hall-and-bistro-hartford-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d7679321-Reviews-Infinity_Music_Hall_Bistro-Hartford_Connecticut.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1097,6 +1050,942 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New England",
+ "address": "\nOne Armory Square\nSuite 2\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/neen/crop16_9/4DD85F1F-A61E-8427-A95B5F0980C97B55.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//neen//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "The Last Green Valley",
+ "address": "\n203 B Main Street, 2nd Floor\nP.O. Box 29\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/qush/crop16_9/76FCD872-1DD8-B71B-0B3067681A42674E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//qush//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//waro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Weir Farm",
+ "address": "\n735 Nod Hill Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/wefa/crop16_9/DE9B9F30-1DD8-B71B-0B6E1FD297C17069.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "creative",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//wefa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "The Mark Twain House & Museum",
+ "address": "351 Farmington Ave GPS Parking address 385 Farmington Avenue",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/a2/0c/32/20180709-161423-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "family",
+  "library",
+  "tour",
+  "learn",
+  "family",
+  "unique",
+  "creative",
+  "tour",
+  "historic",
+  "history",
+  "tour",
+  "family",
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d105004-Reviews-The_Mark_Twain_House_Museum-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wadsworth Atheneum Museum of Art",
+ "address": "600 Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/83/27/2d/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "free",
+  "unique",
+  "art",
+  "library",
+  "walk",
+  "free",
+  "unique",
+  "art",
+  "history",
+  "library",
+  "walking",
+  "family",
+  "free",
+  "tour",
+  "history",
+  "art",
+  "family",
+  "free",
+  "art",
+  "family",
+  "free",
+  "art",
+  "art",
+  "history",
+  "art",
+  "tour",
+  "art",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d106102-Reviews-Wadsworth_Atheneum_Museum_of_Art-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dunkin' Donuts Park",
+ "address": "1214 Main St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/74/79/10/park-photos.jpg"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food",
+  "affordable",
+  "food",
+  "family",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d12377179-Reviews-Dunkin_Donuts_Park-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Connecticut Science Center",
+ "address": "250 Columbus Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/b0/02/97/connecticut-science-center.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d1469415-Reviews-Connecticut_Science_Center-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Connecticut State Capitol",
+ "address": "210 Capitol Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/ef/fb/aa/connecticut-state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "library",
+  "free",
+  "tour",
+  "free",
+  "tour",
+  "structure",
+  "tour",
+  "history",
+  "knowledgeable",
+  "walk",
+  "tour",
+  "library",
+  "free",
+  "walk",
+  "tour",
+  "library",
+  "free",
+  "tour",
+  "knowledgeable",
+  "free",
+  "tour",
+  "walk",
+  "tour",
+  "tour",
+  "free",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d1028430-Reviews-Connecticut_State_Capitol-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hartford Stage",
+ "address": "50 Church St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/fc/86/a7/hartford-stage.jpg"
+ ],
+ "tags": [
+  "active",
+  "music",
+  "family",
+  "educate",
+  "family",
+  "history",
+  "theatre",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d285868-Reviews-Hartford_Stage-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bushnell Center for Performing Arts",
+ "address": "166 Capitol Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/01/b4/00/new-section-to-the-bushnell.jpg"
+ ],
+ "tags": [
+  "historic",
+  "performance",
+  "walk",
+  "music",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d270012-Reviews-Bushnell_Center_for_Performing_Arts-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bushnell Park",
+ "address": "30 Arbor St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/01/91/c1/travelers-tower-view.jpg"
+ ],
+ "tags": [
+  "walk",
+  "family",
+  "free",
+  "walking",
+  "family",
+  "free",
+  "structure",
+  "walking",
+  "free",
+  "walk",
+  "walking",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d258378-Reviews-Bushnell_Park-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cedar Hill Cemetery",
+ "address": "453 Fairfield Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/11/b5/entrance-to-cedar-hill.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "walking",
+  "family",
+  "history",
+  "historic",
+  "history",
+  "learn",
+  "history",
+  "free",
+  "family",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d659362-Reviews-Cedar_Hill_Cemetery-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bushnell Park Carousel",
+ "address": "1 Jewell St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/bb/48/48/great-place-to-visit.jpg"
+ ],
+ "tags": [
+  "historic",
+  "kids",
+  "history",
+  "music",
+  "history",
+  "music",
+  "kids",
+  "affordable",
+  "learn",
+  "history",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d10843745-Reviews-Bushnell_Park_Carousel-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of St Joseph",
+ "address": "140 Farmington Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/2c/01/b6/cathedral-of-st-joseph.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "walking",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d286107-Reviews-Cathedral_of_St_Joseph-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ancient Burying Ground",
+ "address": "60 Gold St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/94/9c/50/ancient-burying-ground.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d3182087-Reviews-Ancient_Burying_Ground-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Xfinity Theatre",
+ "address": "61 Savitt Way",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/9f/96/a9/xfinity-theatre.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "music",
+  "free",
+  "food",
+  "kids",
+  "music",
+  "free",
+  "food",
+  "free",
+  "walk",
+  "organized",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d3453042-Reviews-Xfinity_Theatre-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "TheaterWorks",
+ "address": "233 Pearl St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/6b/37/2a/filename-464038-397485853610146.jpg"
+ ],
+ "tags": [
+  "art",
+  "performance",
+  "creative",
+  "field",
+  "art",
+  "performance",
+  "creative",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d285866-Reviews-TheaterWorks-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Connecticut Convention Center",
+ "address": "100 Columbus Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/b2/ff/59/connecticut-convention.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "free",
+  "free",
+  "food",
+  "free",
+  "eat",
+  "food",
+  "food",
+  "food",
+  "free",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d1418687-Reviews-Connecticut_Convention_Center-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Connecticut Historical Society",
+ "address": "1 Elizabeth Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/ca/c4/4f/connecticut-historical.jpg"
+ ],
+ "tags": [
+  "nature",
+  "family",
+  "free",
+  "practical",
+  "unique",
+  "history",
+  "historic",
+  "library",
+  "walk",
+  "free",
+  "history",
+  "free",
+  "practical",
+  "unique",
+  "history",
+  "library",
+  "walk",
+  "history",
+  "free",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d105002-Reviews-Connecticut_Historical_Society-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old State House",
+ "address": "800 Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/12/1a/e6/old-state-house.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "tour",
+  "family",
+  "knowledgeable",
+  "free",
+  "tour",
+  "historic",
+  "walking",
+  "knowledgeable",
+  "kids",
+  "tour",
+  "history",
+  "wander",
+  "kids",
+  "walking",
+  "knowledgeable",
+  "kids",
+  "tour",
+  "history",
+  "wander",
+  "history",
+  "historic",
+  "history",
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d105001-Reviews-Old_State_House-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Real Art Ways",
+ "address": "56 Arbor St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/95/aa/76/real-art-ways.jpg"
+ ],
+ "tags": [
+  "art",
+  "food",
+  "art",
+  "art",
+  "theatre",
+  "free",
+  "performance",
+  "performance",
+  "performance",
+  "free",
+  "unique",
+  "art",
+  "food",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d582824-Reviews-Real_Art_Ways-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Trinity College",
+ "address": "300 Summit St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/f1/f9/df/trinity-college.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "cheap",
+  "walking",
+  "affordable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d1179892-Reviews-Trinity_College-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mortensen Riverfront Plaza",
+ "address": "300 Columbus Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/55/a1/93/mortensen-riverfront.jpg"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "walking",
+  "family",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d3754124-Reviews-Mortensen_Riverfront_Plaza-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hanging Hills Brewery",
+ "address": "150 Ledyard St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/78/15/ea/flight-at-hanging-hills.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "drink",
+  "food",
+  "brewery",
+  "drink",
+  "food",
+  "brewery",
+  "brewery",
+  "music",
+  "drink",
+  "brewery",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d10543314-Reviews-Hanging_Hills_Brewery-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hartford Public Library",
+ "address": "500 Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/a6/f9/31/hartford-public-library.jpg"
+ ],
+ "tags": [
+  "library",
+  "free",
+  "library",
+  "kids",
+  "music",
+  "learn",
+  "knowledgeable",
+  "food",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d4093524-Reviews-Hartford_Public_Library-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hog River Brewing Company",
+ "address": "1429 Park St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/7c/2c/79/interior.jpg"
+ ],
+ "tags": [
+  "food",
+  "brewery",
+  "knowledgeable",
+  "food",
+  "brewery",
+  "food",
+  "food",
+  "brewery",
+  "food",
+  "brewery",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d10761480-Reviews-Hog_River_Brewing_Company-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thomas Hooker Brewery at Colt",
+ "address": "140 Huyshope Ave South Armory at the former Colt firearms complex",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/05/84/53/outside.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "food",
+  "drink",
+  "delicious",
+  "eat",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d12683051-Reviews-Thomas_Hooker_Brewery_at_Colt-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Hartford Flavor Company",
+ "address": "30 Arbor St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/2a/52/26/award-winning-all-natural.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "tour",
+  "tasting",
+  "tasting",
+  "free",
+  "unique",
+  "delicious",
+  "tour",
+  "drink",
+  "tour",
+  "drink",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "delicious",
+  "tasting",
+  "free",
+  "unique",
+  "delicious",
+  "tour",
+  "drink",
+  "tour",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d11740665-Reviews-The_Hartford_Flavor_Company-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Connecticut State Library and State Archives",
+ "address": "231 Capitol Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/1f/13/16/front-of-the-building.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "free",
+  "unique",
+  "history",
+  "library",
+  "library",
+  "library",
+  "history",
+  "family",
+  "walk",
+  "walking",
+  "free",
+  "structure",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g33804-d293631-Reviews-Connecticut_State_Library_and_State_Archives-Hartford_Connecticut.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

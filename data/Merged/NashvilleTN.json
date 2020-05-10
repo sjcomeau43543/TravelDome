@@ -1,351 +1,39 @@
 [
 {
- "name": "Andrew Johnson",
- "address": "\nAndrew Johnson National Historic Site\n121 Monument Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/anjo/crop16_9/A42C4A8D-1DD8-B71B-0B1C79E9A4EF6232.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//anjo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Big South Fork",
- "address": "\n4564 Leatherwood Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//biso//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chickamauga & Chattanooga",
- "address": "\n3370 LaFayette Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chch/crop16_9/12A12195-1DD8-B71B-0B98FBFA8A3D0086.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chch//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cumberland Gap",
- "address": "\n91 Bartlett Park Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cuga//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Donelson",
- "address": "\n174 National Cemetery Drive\nPO Box 434\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fodo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Great Smoky Mountains",
- "address": "\n107 Park Headquarters Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grsm/crop16_9/42D5A0DE-1DD8-B71B-0B142ACA49A96CDE.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grsm//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Manhattan Project",
- "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mapr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natchez Trace",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  "",
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
-  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.nps.gov//natr//index.htm"
-  ],
-  "https://www.nps.gov//natt//index.htm"
- ],
- "source": [
-  [
-   "NPS"
-  ],
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Obed",
- "address": "\n208 N. Maiden Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/obed/crop16_9/102ABD41-1DD8-B71B-0B3F66AA67361CF1.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hospitable"
- ],
- "link": [
-  "https://www.nps.gov//obed//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Overmountain Victory",
- "address": "\n338 New Pleasant Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//ovvi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Shiloh",
- "address": "\n1055 Pittsburg Landing Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//shil//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Stones River",
- "address": "\n3501 Old Nashville Highway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/stri/crop16_9/72C9CC35-1DD8-B71B-0BBD8005EAFC2363.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//stri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tennessee Civil War",
- "address": "\n1416 E Main St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tecw/crop16_9/0C79B1AC-1DD8-B71B-0BE50D29D241817F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tecw//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Madame Tussauds Nashville",
- "address": "515 Opry Mills Dr",
+ "address": "515 Opry Mills Dr Opry Mills",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/55/25/c7/img-20180618-105304-largejpg.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/8W6y3VRn7YQxrzHNzC5few/o.jpg"
  ],
  "tags": [
-  "free",
+  "family",
   "music",
+  "kids",
+  "kids",
+  "wander",
+  "music",
+  "art",
+  "music",
+  "walk",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/madame-tussauds-nashville-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/madame-tussauds-nashville-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d12221658-Reviews-Madame_Tussauds_Nashville-Nashville_Davidson_County_Tennessee.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -829,20 +517,39 @@
  "reviews": []
 },{
  "name": "Bridgestone Arena",
- "address": "501 Broadway",
+ "address": "501 Broadway 41415 Justin Clinton Twp. Mi.48038",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/65/b0/3a/filename-img-1784-jpg.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/Xubilr3HKiXWXKVMC7cFZg/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "affordable",
+  "family",
+  "kids",
+  "free",
+  "music",
+  "walking",
+  "food",
+  "food",
+  "drink"
+ ],
  "link": [
-  "https://www.yelp.com/biz/bridgestone-arena-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/bridgestone-arena-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d108425-Reviews-Bridgestone_Arena-Nashville_Davidson_County_Tennessee.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -893,20 +600,50 @@
  "name": "Frist Art Museum",
  "address": "919 Broadway",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/e6/33/94/frist-art-museum-exterior.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/Dj-1Nx5gbumtNzqI7Lhczg/o.jpg"
  ],
  "tags": [
+  "art",
+  "learn",
+  "art",
+  "music",
+  "art",
+  "art",
+  "art",
+  "historic",
+  "unique",
+  "tour",
+  "art",
+  "historic",
+  "unique",
+  "tour",
+  "walk",
+  "art",
+  "music",
+  "family",
+  "history",
+  "art",
+  "music",
+  "art",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/frist-art-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/frist-art-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d216268-Reviews-Frist_Art_Museum-Nashville_Davidson_County_Tennessee.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1012,21 +749,44 @@
  "name": "Musicians Hall of Fame and Museum",
  "address": "401 Gay St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/4c/dd/9e/musicians-hall-of-fame.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/7RjG651oL43t6zV8FTEpag/o.jpg"
  ],
  "tags": [
   "music",
+  "history",
+  "music",
+  "walking",
+  "history",
+  "music",
+  "music",
+  "history",
+  "walk",
+  "walking",
+  "knowledgeable",
+  "music",
+  "learn",
+  "history",
+  "tour",
+  "knowledgeable",
   "music"
  ],
  "link": [
-  "https://www.yelp.com/biz/musicians-hall-of-fame-and-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/musicians-hall-of-fame-and-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d621531-Reviews-Musicians_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1317,22 +1077,48 @@
  "name": "Tennessee State Museum",
  "address": "1000 Rosa L. Parks Blvd",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/f2/d1/b5/front-of-new-tennessee.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/Pj11pvEVrZtS_1eenKcluw/o.jpg"
  ],
  "tags": [
+  "music",
+  "wander",
+  "walking",
+  "history",
   "free",
+  "historic",
+  "learn",
+  "history",
   "free",
-  "history"
+  "history",
+  "walk",
+  "free",
+  "family",
+  "learn",
+  "history",
+  "free",
+  "history",
+  "tour",
+  "history",
+  "walk",
+  "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/tennessee-state-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/tennessee-state-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d139368-Reviews-Tennessee_State_Museum-Nashville_Davidson_County_Tennessee.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1353,6 +1139,1192 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Johnson",
+ "address": "\nAndrew Johnson National Historic Site\n121 Monument Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/anjo/crop16_9/A42C4A8D-1DD8-B71B-0B1C79E9A4EF6232.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//anjo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Big South Fork",
+ "address": "\n4564 Leatherwood Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//biso//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chickamauga & Chattanooga",
+ "address": "\n3370 LaFayette Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chch/crop16_9/12A12195-1DD8-B71B-0B98FBFA8A3D0086.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chch//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cumberland Gap",
+ "address": "\n91 Bartlett Park Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cuga//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Donelson",
+ "address": "\n174 National Cemetery Drive\nPO Box 434\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fodo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Great Smoky Mountains",
+ "address": "\n107 Park Headquarters Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grsm/crop16_9/42D5A0DE-1DD8-B71B-0B142ACA49A96CDE.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grsm//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Manhattan Project",
+ "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mapr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natchez Trace",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  "",
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
+  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.nps.gov//natr//index.htm"
+  ],
+  "https://www.nps.gov//natt//index.htm"
+ ],
+ "source": [
+  [
+   "NPS"
+  ],
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Obed",
+ "address": "\n208 N. Maiden Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/obed/crop16_9/102ABD41-1DD8-B71B-0B3F66AA67361CF1.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hospitable"
+ ],
+ "link": [
+  "https://www.nps.gov//obed//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Overmountain Victory",
+ "address": "\n338 New Pleasant Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//ovvi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Shiloh",
+ "address": "\n1055 Pittsburg Landing Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//shil//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Stones River",
+ "address": "\n3501 Old Nashville Highway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/stri/crop16_9/72C9CC35-1DD8-B71B-0BBD8005EAFC2363.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//stri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tennessee Civil War",
+ "address": "\n1416 E Main St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tecw/crop16_9/0C79B1AC-1DD8-B71B-0BE50D29D241817F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tecw//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Ole Opry",
+ "address": "2804 Opryland Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/2b/4a/5c/photo3jpg.jpg"
+ ],
+ "tags": [
+  "music",
+  "sampling",
+  "tour",
+  "music",
+  "tour",
+  "free",
+  "tour",
+  "music",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106503-Reviews-Grand_Ole_Opry-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ryman Auditorium",
+ "address": "116 Fifth Ave N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/25/0d/86/ryman-auditorium.jpg"
+ ],
+ "tags": [
+  "family",
+  "music",
+  "history",
+  "tour",
+  "theatre",
+  "history",
+  "family",
+  "music",
+  "history",
+  "historic",
+  "music",
+  "music",
+  "history",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106496-Reviews-Ryman_Auditorium-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Country Music Hall of Fame and Museum",
+ "address": "222 Fifth Avenue South",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/88/6c/a5/country-music-hall-of.jpg"
+ ],
+ "tags": [
+  "tour",
+  "active",
+  "music",
+  "history",
+  "historic",
+  "music",
+  "tour",
+  "history",
+  "music",
+  "music",
+  "family",
+  "music",
+  "history",
+  "history",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106493-Reviews-Country_Music_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Belle Meade Plantation",
+ "address": "110 Leake Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/aa/8e/73/belle-meade-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "affordable",
+  "tasting",
+  "tour",
+  "history",
+  "family",
+  "historic",
+  "library",
+  "winery",
+  "tour",
+  "tasting",
+  "walk",
+  "cheap",
+  "history",
+  "delicious",
+  "tour",
+  "walking",
+  "tasting",
+  "history",
+  "winery",
+  "tour",
+  "tasting",
+  "cheap",
+  "winery",
+  "food",
+  "tour",
+  "family",
+  "history",
+  "delicious",
+  "unique",
+  "tour",
+  "history",
+  "tour",
+  "unique",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d108042-Reviews-Belle_Meade_Plantation-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Jackson's Hermitage",
+ "address": "4580 Rachels Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/52/64/front-view.jpg"
+ ],
+ "tags": [
+  "tour",
+  "structure",
+  "historic",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "family",
+  "kids",
+  "tour",
+  "family",
+  "history",
+  "kids",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106501-Reviews-Andrew_Jackson_s_Hermitage-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Downtown Nashville",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/9a/1b/9a/downtown-nashville.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "music",
+  "walking",
+  "walk",
+  "music",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d1378948-Reviews-Downtown_Nashville-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Johnny Cash Museum",
+ "address": "119 3rd Ave S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/80/e0/the-johnny-cash-museum.jpg"
+ ],
+ "tags": [
+  "kids",
+  "music",
+  "learn",
+  "family",
+  "food",
+  "tour",
+  "walk",
+  "music",
+  "family",
+  "history",
+  "music",
+  "music",
+  "learn",
+  "kids",
+  "performance",
+  "music",
+  "walk",
+  "music",
+  "walk",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d4177748-Reviews-The_Johnny_Cash_Museum-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "RCA Studio B",
+ "address": "1611 Roy Acuff Pl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/27/36/44/20160125-142351-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable",
+  "tour",
+  "music",
+  "history",
+  "tour",
+  "music",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "music",
+  "music",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106495-Reviews-RCA_Studio_B-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gaylord Opryland Resort Gardens",
+ "address": "2800 Opryland Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/c7/ac/33/opryland-resort-gardens.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "walk",
+  "walk",
+  "walking",
+  "walking",
+  "walk",
+  "free",
+  "walking",
+  "walk",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d592251-Reviews-Gaylord_Opryland_Resort_Gardens-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nelson's Green Brier Distillery",
+ "address": "1414 Clinton St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/00/79/the-distillery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "family",
+  "history",
+  "tasting",
+  "tour",
+  "learn",
+  "family",
+  "history",
+  "drink",
+  "tour",
+  "tasting",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "history",
+  "family",
+  "delicious",
+  "drink",
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d7305616-Reviews-Nelson_s_Green_Brier_Distillery-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Parthenon",
+ "address": "2600 W End Ave Centennial Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/60/59/40/side-view.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "unique",
+  "parks",
+  "free",
+  "art",
+  "art",
+  "structure",
+  "history",
+  "free",
+  "family",
+  "eat",
+  "walk",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106498-Reviews-The_Parthenon-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ole Smoky Distillery",
+ "address": "423 6th Ave S",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/54/15/81/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "tasting",
+  "tasting",
+  "delicious",
+  "tasting",
+  "tasting",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d17406536-Reviews-Ole_Smoky_Distillery-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheekwood",
+ "address": "1200 Forrest Park Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/65/10/8e/cheekwood-botanical-gardens.jpg"
+ ],
+ "tags": [
+  "art",
+  "historic",
+  "family",
+  "tour",
+  "tour",
+  "knowledgeable",
+  "food",
+  "walk",
+  "tour",
+  "walk",
+  "tour",
+  "walk",
+  "tour",
+  "food",
+  "kids",
+  "art",
+  "art",
+  "art",
+  "art",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d109248-Reviews-Cheekwood-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Zoo",
+ "address": "3777 Nolensville Pike",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/77/a1/white-rhino-photo-by.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "kids",
+  "drink",
+  "kids",
+  "walking",
+  "kids",
+  "walking",
+  "food",
+  "active",
+  "walking",
+  "walk",
+  "active",
+  "cheap",
+  "kids",
+  "walk",
+  "unique",
+  "walking",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d108396-Reviews-Nashville_Zoo-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Centennial Park",
+ "address": "2500 W End Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/59/2b/1b/centennial-park.jpg"
+ ],
+ "tags": [
+  "art",
+  "eat",
+  "tour",
+  "walk",
+  "free",
+  "walking",
+  "art",
+  "music",
+  "food",
+  "family",
+  "kids",
+  "kids",
+  "delicious",
+  "free",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d105780-Reviews-Centennial_Park-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Belmont Mansion",
+ "address": "Acklen Avenue at Belmont Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/9f/70/photo0jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "music",
+  "knowledgeable",
+  "art",
+  "historic",
+  "history",
+  "tour",
+  "kids",
+  "art",
+  "walking",
+  "tour",
+  "family",
+  "historic",
+  "learn",
+  "knowledgeable",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d105782-Reviews-Belmont_Mansion-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lane Motor Museum",
+ "address": "702 Murfreesboro Pike",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/ba/2b/42/czechoslovakian-vehicles.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "knowledgeable",
+  "unique",
+  "unique",
+  "historic",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d664127-Reviews-Lane_Motor_Museum-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "John Seigenthaler Pedestrian Bridge",
+ "address": "Cumberland River",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/36/d2/59/skyline-to-the-left.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walking",
+  "free",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d10533133-Reviews-John_Seigenthaler_Pedestrian_Bridge-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Radnor Lake State Park",
+ "address": "1160 Otter Creek Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/ba/e1/c7/radnor-lake-state-park.jpg"
+ ],
+ "tags": [
+  "historic",
+  "nature",
+  "hike",
+  "walk",
+  "walk",
+  "walking",
+  "walk",
+  "hike",
+  "walk",
+  "nature",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d207294-Reviews-Radnor_Lake_State_Park-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fontanel Mansion",
+ "address": "4125 Whites Creek Pike",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/a2/14/67/view-coming-up-driveway.jpg"
+ ],
+ "tags": [
+  "tour",
+  "music",
+  "history",
+  "knowledgeable",
+  "tour",
+  "family",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "music",
+  "tour",
+  "tour",
+  "delicious",
+  "unique",
+  "winery",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d2092245-Reviews-Fontanel_Mansion-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The District",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/41/08/4f/photo5jpg.jpg"
+ ],
+ "tags": [
+  "music",
+  "kids",
+  "music",
+  "music",
+  "walk",
+  "music",
+  "music",
+  "walking",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106497-Reviews-The_District-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bicentennial Capitol Mall State Park",
+ "address": "600 James Robertson Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/48/c0/bicentennial-capitol.jpg"
+ ],
+ "tags": [
+  "unique",
+  "music",
+  "history",
+  "tour",
+  "walking",
+  "walk",
+  "history",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d207248-Reviews-Bicentennial_Capitol_Mall_State_Park-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cooter\u2019s Museum and Store Nashville",
+ "address": "2613 McGavock Pike",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/e9/77/03/cooter-s-garage.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "walk",
+  "economical",
+  "walk",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d1165693-Reviews-Cooter_s_Museum_and_Store_Nashville-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The George Jones",
+ "address": "128 2nd Ave N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/49/1f/ab/the-george-jones-rooftop.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "music",
+  "music",
+  "walking",
+  "tour",
+  "music",
+  "food",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d8042439-Reviews-The_George_Jones-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Patsy Cline Museum",
+ "address": "119 3rd Ave S 2nd Level",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/fb/c8/love-the-cowgirl-costumes.jpg"
+ ],
+ "tags": [
+  "tour",
+  "active",
+  "cheap",
+  "performance",
+  "history",
+  "family",
+  "music",
+  "history",
+  "music",
+  "walk",
+  "music",
+  "family",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d12281778-Reviews-Patsy_Cline_Museum-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

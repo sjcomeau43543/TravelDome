@@ -1,247 +1,5 @@
 [
 {
- "name": "Birmingham Civil Rights",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bicr/crop16_9/F0B07DE8-1DD8-B71B-0BDA21D497A3293B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//bicr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Freedom Riders",
- "address": "\nFreedom Riders National Monument\n1031 Gurnee Ave\nP.O. Box 34\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/frri/crop16_9/58BBF600-1DD8-B71B-0BCA8274E2E0DAF5.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//frri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Horseshoe Bend",
- "address": "\n11288 Horseshoe Bend Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hobe/crop16_9/1FFC139F-EFEF-53E9-2D5E3BA7BFBDDE7E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//hobe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Little River Canyon",
- "address": "\n4322 Little River Trail NE\nSuite 100\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/liri/crop16_9/BE9F94B2-EBA5-E5D3-1A3C098ECD5D1D3E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//liri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Muscle Shoals",
- "address": "\nMuscle Shoals National Heritage Area\nUNA Box 5231\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mush/crop16_9/4B5C706B-1DD8-B71B-0B42233718681484.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mush//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natchez Trace",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  "",
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
-  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.nps.gov//natr//index.htm"
-  ],
-  "https://www.nps.gov//natt//index.htm"
- ],
- "source": [
-  [
-   "NPS"
-  ],
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Russell Cave",
- "address": "\n3729 County Road 98\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ruca/crop16_9/2ECC532D-DEC9-479E-DB1D085D4F9E11E9.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//ruca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Selma To Montgomery",
- "address": "\n7002 U.S. Highway 80 West\nP.O. Box 595\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/semo/crop16_9/0B86032E-D96C-F9A9-87EE86792ACCBC29.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//semo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tuskegee Airmen",
- "address": "\n1616 Chappie James Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tuai/crop16_9/7F104C03-908D-0D11-B7B7DF9B7D8D7C97.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "field"
- ],
- "link": [
-  "https://www.nps.gov//tuai//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tuskegee Institute",
- "address": "\n1212 West Montgomery Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tuin/crop16_9/0430E577-1DD8-B71B-0B278D89D45E2340.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tuin//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Eastdale Mall",
  "address": "1000 Eastdale Mall",
  "avg_visitor_review": [
@@ -319,22 +77,32 @@
  "name": "Alabama Shakespeare Festival",
  "address": "1 Festival Dr",
  "avg_visitor_review": [
+  "5.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/98/79/e6/alabama-shakespeare-festival.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/Prl_DIj7WG_NwT4zCqFdEg/o.jpg"
  ],
  "tags": [
   "family",
-  "walk",
-  "theatre"
+  "theatre",
+  "walking",
+  "family",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/alabama-shakespeare-festival-montgomery-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/alabama-shakespeare-festival-montgomery-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d2101996-Reviews-Alabama_Shakespeare_Festival-Montgomery_Alabama.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -712,22 +480,41 @@
  "reviews": []
 },{
  "name": "Court Square Fountain",
- "address": "Dexter Ave",
+ "address": "ntersection of Commerce Street and Dexter Avenue",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/24/98/68/the-fountain.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/i-IRLtwy-BF1jHOtLHCNsw/o.jpg"
  ],
  "tags": [
-  "history"
+  "learn",
+  "walking",
+  "history",
+  "historic",
+  "history",
+  "parks",
+  "historic",
+  "parks",
+  "history",
+  "parks",
+  "walk",
+  "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/court-square-fountain-montgomery?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/court-square-fountain-montgomery?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d3184410-Reviews-Court_Square_Fountain-Montgomery_Alabama.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1224,6 +1011,1038 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Birmingham Civil Rights",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bicr/crop16_9/F0B07DE8-1DD8-B71B-0BDA21D497A3293B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//bicr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Freedom Riders",
+ "address": "\nFreedom Riders National Monument\n1031 Gurnee Ave\nP.O. Box 34\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/frri/crop16_9/58BBF600-1DD8-B71B-0BCA8274E2E0DAF5.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//frri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Horseshoe Bend",
+ "address": "\n11288 Horseshoe Bend Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hobe/crop16_9/1FFC139F-EFEF-53E9-2D5E3BA7BFBDDE7E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//hobe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Little River Canyon",
+ "address": "\n4322 Little River Trail NE\nSuite 100\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/liri/crop16_9/BE9F94B2-EBA5-E5D3-1A3C098ECD5D1D3E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//liri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Muscle Shoals",
+ "address": "\nMuscle Shoals National Heritage Area\nUNA Box 5231\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mush/crop16_9/4B5C706B-1DD8-B71B-0B42233718681484.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mush//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natchez Trace",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  "",
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
+  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.nps.gov//natr//index.htm"
+  ],
+  "https://www.nps.gov//natt//index.htm"
+ ],
+ "source": [
+  [
+   "NPS"
+  ],
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Russell Cave",
+ "address": "\n3729 County Road 98\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ruca/crop16_9/2ECC532D-DEC9-479E-DB1D085D4F9E11E9.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//ruca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Selma To Montgomery",
+ "address": "\n7002 U.S. Highway 80 West\nP.O. Box 595\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/semo/crop16_9/0B86032E-D96C-F9A9-87EE86792ACCBC29.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//semo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tuskegee Airmen",
+ "address": "\n1616 Chappie James Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tuai/crop16_9/7F104C03-908D-0D11-B7B7DF9B7D8D7C97.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "field"
+ ],
+ "link": [
+  "https://www.nps.gov//tuai//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tuskegee Institute",
+ "address": "\n1212 West Montgomery Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tuin/crop16_9/0430E577-1DD8-B71B-0B278D89D45E2340.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tuin//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Legacy Museum",
+ "address": "115 Coosa St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/cc/0e/27/memorial-of-peace-and.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "history",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d13977526-Reviews-Legacy_Museum-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "National Memorial for Peace and Justice",
+ "address": "417 Caroline St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/05/0e/23/the-outside.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d13977560-Reviews-National_Memorial_for_Peace_and_Justice-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rosa Parks Library and Museum",
+ "address": "251 Montgomery St 251 Montgomery Street, 36104",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/98/36/ec/rosa-parks-library-and.jpg"
+ ],
+ "tags": [
+  "historic",
+  "unique",
+  "learn",
+  "parks",
+  "parks",
+  "tour",
+  "parks",
+  "tour",
+  "history",
+  "parks",
+  "history",
+  "parks",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d259988-Reviews-Rosa_Parks_Library_and_Museum-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dexter Parsonage Museum - Dr. Martin Luther King home",
+ "address": "315 S Jackson St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/de/b9/a7/dexter-parsonage-museum.jpg"
+ ],
+ "tags": [
+  "learn",
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "family",
+  "kids",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "family",
+  "walk",
+  "tour",
+  "family",
+  "history",
+  "family",
+  "tour",
+  "walk",
+  "tour",
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d291939-Reviews-Dexter_Parsonage_Museum_Dr_Martin_Luther_King_home-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Civil Rights Memorial Center",
+ "address": "400 Washington Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/03/88/9f/civil-rights-memorial.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d1861816-Reviews-Civil_Rights_Memorial_Center-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dexter Avenue King Memorial Baptist Church",
+ "address": "454 Dexter Ave Cost Of Admission",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/51/ca/4a/dexter-avenue-king-memorial.jpg"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "family",
+  "historic",
+  "history",
+  "tour",
+  "walk",
+  "tour",
+  "history",
+  "knowledgeable",
+  "kids",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "tour",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105431-Reviews-Dexter_Avenue_King_Memorial_Baptist_Church-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "First White House of the Confederacy",
+ "address": "644 Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/20/23/6a/photo9jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "free",
+  "tour",
+  "history",
+  "free",
+  "family",
+  "history",
+  "free",
+  "walk",
+  "learn",
+  "history",
+  "history",
+  "tour",
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105428-Reviews-First_White_House_of_the_Confederacy-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Montgomery Zoo",
+ "address": "2301 Coliseum Pkwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/64/bc/63/the-elepants.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "family",
+  "walk",
+  "family",
+  "kids",
+  "walk",
+  "walking",
+  "family",
+  "kids",
+  "eat",
+  "walking",
+  "walk",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d207614-Reviews-Montgomery_Zoo-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hank Williams Memorial - Oakwood Annex Cemetery",
+ "address": "Upper Wetumpka Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/cb/19/f1/resized-20180429-102704.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "music",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105433-Reviews-Hank_Williams_Memorial_Oakwood_Annex_Cemetery-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alabama Department of Archives and History",
+ "address": "624 Washington Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/61/e6/fc/the-front-of-the-archives.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "family",
+  "free",
+  "unique",
+  "kids",
+  "learn",
+  "art",
+  "history",
+  "sightseeing",
+  "learn",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d274187-Reviews-Alabama_Department_of_Archives_and_History-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Montgomery Museum of Fine Arts",
+ "address": "1 Museum Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/48/19/30/montgomery-museum-of.jpg"
+ ],
+ "tags": [
+  "art",
+  "unique",
+  "walk",
+  "art",
+  "art",
+  "free",
+  "free",
+  "walk",
+  "walking",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d274188-Reviews-Montgomery_Museum_of_Fine_Arts-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alabama State Capitol",
+ "address": "600 Dexter Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/b6/9a/d9/state-capitol-alabama.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "free",
+  "family",
+  "historic",
+  "history",
+  "history",
+  "unique",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105427-Reviews-Alabama_State_Capitol-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hank Williams Museum",
+ "address": "118 Commerce St Downtown Entertainment District",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/6b/48/56/hank-williams-1952-baby.jpg"
+ ],
+ "tags": [
+  "history",
+  "family",
+  "music",
+  "music",
+  "learn",
+  "art",
+  "music",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105435-Reviews-Hank_Williams_Museum-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The F. Scott and Zelda Fitzgerald Museum",
+ "address": "919 Felder Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/5f/d8/9f/the-fitzgerald-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105436-Reviews-The_F_Scott_and_Zelda_Fitzgerald_Museum-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Alabama Town",
+ "address": "301 Columbus St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/8d/5f/d1/old-alabama-town.jpg"
+ ],
+ "tags": [
+  "field",
+  "free",
+  "kids",
+  "tour",
+  "history",
+  "tour",
+  "family",
+  "walk",
+  "tour",
+  "walking",
+  "walk",
+  "tour",
+  "walking",
+  "free",
+  "knowledgeable",
+  "kids",
+  "food",
+  "tour",
+  "historic",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105432-Reviews-Old_Alabama_Town-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Freedom Rides Museum",
+ "address": "210 S Court St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/00/95/18/freedom-rides-museum.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history",
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d2413478-Reviews-Freedom_Rides_Museum-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Park",
+ "address": "103 N Perry St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/65/1b/29/riverfront-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "history",
+  "walk",
+  "kids",
+  "family",
+  "walking",
+  "family",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d3140557-Reviews-Riverfront_Park-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Riverwalk Stadium",
+ "address": "200 Coosa St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/d5/56/0f/the-montgomery-biscuits.jpg"
+ ],
+ "tags": [
+  "food",
+  "field",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d4106328-Reviews-Riverwalk_Stadium-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rosa Parks Arrest Site",
+ "address": "Moulton/Montgomery Streets",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/81/d9/75/my-1st-stop-here-in-town.jpg"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "parks",
+  "library",
+  "parks",
+  "walk",
+  "historic",
+  "parks",
+  "walk",
+  "historic",
+  "learn",
+  "parks",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d106396-Reviews-Rosa_Parks_Arrest_Site-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Civil Rights Memorial",
+ "address": "400 Washington Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/d4/73/5e/montgomery-civil-rights.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history",
+  "history",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d105609-Reviews-Civil_Rights_Memorial-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Montgomery Visitors Center",
+ "address": "300 Water St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/2a/89/6a/inside.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "learn",
+  "free",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d106397-Reviews-Montgomery_Visitors_Center-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wind Creek Montgomery",
+ "address": "1801 Eddie Tullis Dr",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/2b/f3/2a/creek-casino-montgomery.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "eat",
+  "music",
+  "food",
+  "knowledgeable",
+  "drink",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d3184248-Reviews-Wind_Creek_Montgomery-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wynton M. Blount Cultural Park",
+ "address": "6000 Vaughn Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/a2/b6/9f/alabama-shakespeare-festival.jpg"
+ ],
+ "tags": [
+  "walk",
+  "eat",
+  "walk",
+  "kids",
+  "art",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d560234-Reviews-Wynton_M_Blount_Cultural_Park-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alabama Safari Park",
+ "address": "1664 Venable Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/67/a1/7b/newest-giraffe-in-alabama.jpg"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "eat",
+  "food",
+  "kids",
+  "eat",
+  "food",
+  "walk",
+  "family",
+  "family",
+  "eat",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30616-d13806942-Reviews-Alabama_Safari_Park-Hope_Hull_Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Equal Justice Initiative",
+ "address": "122 Commerce St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/00/86/c6/montgomery.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d14981636-Reviews-Equal_Justice_Initiative-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Montgomery Biscuits",
+ "address": "200 Coosa St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/c7/79/4f/img-20170704-194605-largejpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "unique",
+  "food",
+  "drink",
+  "free",
+  "kids",
+  "affordable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d10594276-Reviews-Montgomery_Biscuits-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Montgomery Performing Arts Centre",
+ "address": "201 Tallapoosa St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/f2/78/63/three-dog-night.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d3658532-Reviews-Montgomery_Performing_Arts_Centre-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eastbrook Flea Market and Antique Mall",
+ "address": "425 Coliseum Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/c6/16/3e/orvieto-mug.jpg"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "walking",
+  "family",
+  "walk",
+  "art",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30712-d3140545-Reviews-Eastbrook_Flea_Market_and_Antique_Mall-Montgomery_Alabama.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

@@ -1,226 +1,5 @@
 [
 {
- "name": "Brown v. Board of Education",
- "address": "\n1515 SE Monroe Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/brvb/crop16_9/FA3B6125-1DD8-B71B-0BD35F9057AD1BB3.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//brvb//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Larned",
- "address": "\n1767 KS Hwy 156\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fols/crop16_9/69136BD0-1DD8-B71B-0B683C2E32A9875E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//fols//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Scott",
- "address": "\nPO Box 918\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fosc/crop16_9/55CFC7A4-1DD8-B71B-0BD10D6024CF949F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fosc//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Nicodemus",
- "address": "\n304 Washington Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nico/crop16_9/0D28DF4B-1DD8-B71B-0BC4692ED1DB89FE.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "organized"
- ],
- "link": [
-  "https://www.nps.gov//nico//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Santa Fe",
- "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//safe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tallgrass Prairie",
- "address": "\n2480B KS Hwy 177\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tapr/crop16_9/3C6202DD-1DD8-B71B-0BA3127B825AD1CA.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tapr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Topeka Service Plaza",
  "address": "8000 SE I70",
  "avg_visitor_review": [
@@ -260,20 +39,32 @@
  "reviews": []
 },{
  "name": "Topeka Performing Arts Center",
- "address": "214 SE 8th",
+ "address": "214 SE 8th Ave",
  "avg_visitor_review": [
+  "4.0",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/56/f1/e6/20160216-123107-largejpg.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/OLea-L32jQNwovMV4Nwjdw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "theatre",
+  "affordable",
+  "performance"
+ ],
  "link": [
-  "https://www.yelp.com/biz/topeka-performing-arts-center-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/topeka-performing-arts-center-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286461-Reviews-Topeka_Performing_Arts_Center-Topeka_Kansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -468,18 +259,33 @@
  "name": "Shawnee North Family Aquatic Center",
  "address": "300 NE 43rd St",
  "avg_visitor_review": [
+  "4.5",
   2.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png",
   "https://s3-media2.fl.yelpcdn.com/bphoto/4TSNCCbupK62laAWJfHRcw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "kids",
+  "kids",
+  "kids",
+  "kids",
+  "kids",
+  "eat"
+ ],
  "link": [
-  "https://www.yelp.com/biz/shawnee-north-family-aquatic-center-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/shawnee-north-family-aquatic-center-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d4473957-Reviews-Shawnee_North_Family_Aquatic_Center-Topeka_Kansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -917,20 +723,34 @@
  "name": "Holley Museum of Military History",
  "address": "420 SE 6th Ave",
  "avg_visitor_review": [
+  "4.0",
   3.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/9b/69/1e/the-sign-by-the-door.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/juJFOzxQ1UeFHThW3ykTqg/o.jpg"
  ],
  "tags": [
-  "history"
+  "tour",
+  "history",
+  "free",
+  "knowledgeable",
+  "historic",
+  "free",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/holley-museum-of-military-history-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/holley-museum-of-military-history-topeka?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d7238288-Reviews-Holley_Museum_of_Military_History-Topeka_Kansas.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1174,6 +994,956 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Brown v. Board of Education",
+ "address": "\n1515 SE Monroe Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/brvb/crop16_9/FA3B6125-1DD8-B71B-0BD35F9057AD1BB3.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//brvb//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Larned",
+ "address": "\n1767 KS Hwy 156\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fols/crop16_9/69136BD0-1DD8-B71B-0B683C2E32A9875E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//fols//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Scott",
+ "address": "\nPO Box 918\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fosc/crop16_9/55CFC7A4-1DD8-B71B-0BD10D6024CF949F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fosc//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Nicodemus",
+ "address": "\n304 Washington Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nico/crop16_9/0D28DF4B-1DD8-B71B-0BC4692ED1DB89FE.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "organized"
+ ],
+ "link": [
+  "https://www.nps.gov//nico//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe",
+ "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//safe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tallgrass Prairie",
+ "address": "\n2480B KS Hwy 177\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tapr/crop16_9/3C6202DD-1DD8-B71B-0BA3127B825AD1CA.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tapr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Evel Knievel Museum",
+ "address": "2047 SW Topeka Blvd At Historic Harley-Davidson",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/66/54/9e/yes-a-theatre-kick-back.jpg"
+ ],
+ "tags": [
+  "family",
+  "organized",
+  "knowledgeable",
+  "learn",
+  "art",
+  "kids",
+  "family",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d12361584-Reviews-Evel_Knievel_Museum-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Brown v. Board of Education National Historic Site",
+ "address": "1515 SE Monroe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/bf/f5/ab/photo0jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "tour",
+  "history",
+  "historic",
+  "history",
+  "history",
+  "free",
+  "history",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d106182-Reviews-Brown_v_Board_of_Education_National_Historic_Site-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Shawnee",
+ "address": "3137 SE 29th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/78/22/a7/lake-shawnee.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d6223172-Reviews-Lake_Shawnee-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kansas State Capitol Building",
+ "address": "10th and Jackson",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/54/a2/81/kansas-state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "tour",
+  "history",
+  "free",
+  "walk",
+  "kids",
+  "walking",
+  "tour",
+  "free",
+  "wander",
+  "tour",
+  "free",
+  "walk",
+  "structure",
+  "walking",
+  "history",
+  "knowledgeable",
+  "free",
+  "tour",
+  "structure",
+  "tour",
+  "tour",
+  "history",
+  "tour",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286463-Reviews-Kansas_State_Capitol_Building-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gage Park",
+ "address": "635 SW Gage Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/3c/ed/af/gage-park.jpg"
+ ],
+ "tags": [
+  "learn",
+  "walk",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286467-Reviews-Gage_Park-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kansas Museum of History",
+ "address": "6425 SW 6th Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/56/72/21/enter-here-all-ye.jpg"
+ ],
+ "tags": [
+  "kids",
+  "history",
+  "walking",
+  "walking",
+  "walk",
+  "kids",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286464-Reviews-Kansas_Museum_of_History-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kansas Children's Discovery Center",
+ "address": "4400 SW 10th Ave inside Gage Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/97/7c/67/kansas-children-s-discovery.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d2209676-Reviews-Kansas_Children_s_Discovery_Center-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Combat Air Museum",
+ "address": "7016 SE Forbes Ave Forbes Field",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/ac/ef/46/filename-2012-06-15-09.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "history",
+  "wander",
+  "knowledgeable",
+  "kids",
+  "tour",
+  "walking",
+  "walk",
+  "history",
+  "knowledgeable",
+  "educate",
+  "historic",
+  "history",
+  "family",
+  "kids",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286470-Reviews-Combat_Air_Museum-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ward Meade Park",
+ "address": "124 NW Fillmore St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/cf/b9/47/japanese-gardens.jpg"
+ ],
+ "tags": [
+  "kids",
+  "history",
+  "learn",
+  "history",
+  "food",
+  "tour",
+  "walk",
+  "free",
+  "kids",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286466-Reviews-Ward_Meade_Park-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ted Ensley Gardens",
+ "address": "SE 37th St. & West Edge Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/01/06/35/20160424-121937-largejpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d6962146-Reviews-Ted_Ensley_Gardens-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Topeka Zoological Park",
+ "address": "635 SW Gage Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/27/78/bb/topeka-zoological-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "walk",
+  "walking",
+  "history",
+  "kids",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286465-Reviews-Topeka_Zoological_Park-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Heartland Park Topeka",
+ "address": "7530 SW Topeka Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/af/33/2c/view-from-on-top-of-the.jpg"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "field",
+  "food",
+  "drink",
+  "food",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286462-Reviews-Heartland_Park_Topeka-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of the Kansas National Guard",
+ "address": "125 SE Airport Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/c4/4d/great-story-behind-this.jpg"
+ ],
+ "tags": [
+  "kids",
+  "history",
+  "field",
+  "family",
+  "tour",
+  "wander"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d3962405-Reviews-Museum_of_the_Kansas_National_Guard-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Happy Basset Brewing Company",
+ "address": "6044 SW 29th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/16/3c/fd/seating-layout.jpg"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "brewery",
+  "food",
+  "free",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d12059013-Reviews-Happy_Basset_Brewing_Company-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Truckhenge",
+ "address": "4124 NE Brier Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/91/f1/06/ron-s-artwork.jpg"
+ ],
+ "tags": [
+  "kids",
+  "art",
+  "unique",
+  "history",
+  "walk",
+  "free",
+  "art",
+  "history",
+  "tour",
+  "walk",
+  "art",
+  "creative"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d13307043-Reviews-Truckhenge-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Topeka & Shawnee County Public Library",
+ "address": "1515 SW 10th Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/ae/9d/8e/tscpl-entry.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "library",
+  "learn",
+  "music",
+  "library",
+  "art",
+  "food",
+  "free",
+  "library",
+  "affordable",
+  "library",
+  "kids",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d8649368-Reviews-Topeka_Shawnee_County_Public_Library-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Topeka Civic Theatre & Academy",
+ "address": "3028 SW 8th Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/ac/fd/ec/inside-the-theatre.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "performance",
+  "food",
+  "drink",
+  "food",
+  "theatre",
+  "performance",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d1774781-Reviews-Topeka_Civic_Theatre_Academy-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Norsemen Brewing Company",
+ "address": "830 N Kansas Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/08/f1/d2/halls-of-valhalla-event.jpg"
+ ],
+ "tags": [
+  "history",
+  "brewery",
+  "food",
+  "history",
+  "brewery",
+  "food",
+  "history",
+  "brewery",
+  "brewery",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d11871707-Reviews-Norsemen_Brewing_Company-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Great Overland Station",
+ "address": "701 N Kansas Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/14/84/63/with-flag-display.jpg"
+ ],
+ "tags": [
+  "historic",
+  "learn",
+  "tour",
+  "tour",
+  "historic",
+  "tour",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d1550486-Reviews-The_Great_Overland_Station-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "First Presbyterian Church Topeka",
+ "address": "817 SW Harrison St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/35/6c/73/chapel-main-church-attached.jpg"
+ ],
+ "tags": [
+  "historic",
+  "family",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d3507652-Reviews-First_Presbyterian_Church_Topeka-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Going Bonkers",
+ "address": "5515 SW 21st St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a6/59/fd/playground.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d2415062-Reviews-Going_Bonkers-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kansas Expo Centre",
+ "address": "1 Expocentre Dr",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/56/fc/b8/20160216-125429-largejpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d8770308-Reviews-Kansas_Expo_Centre-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Owls Nest Topeka Antique Mall and Flea Market",
+ "address": "3411 SW Topeka Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/9b/06/c4/front-door-of-the-owl.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d12050840-Reviews-Owls_Nest_Topeka_Antique_Mall_and_Flea_Market-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mulvane Art Museum",
+ "address": "Washburn University 17th and Jewell",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/26/fa/a7/mulvane-art-museum.jpg"
+ ],
+ "tags": [
+  "free",
+  "art",
+  "knowledgeable",
+  "family",
+  "art",
+  "kids",
+  "learn",
+  "art",
+  "creative",
+  "walk",
+  "kids",
+  "family",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d286471-Reviews-Mulvane_Art_Museum-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Blaisdell Family Aquatic Center",
+ "address": "SW Westlake Ct.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/95/97/90/20190730-131114-largejpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "organized",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d8412874-Reviews-Blaisdell_Family_Aquatic_Center-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cedar Crest",
+ "address": "1 SW Cedar Crest Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e8/a4/7c/cedar-crest.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "walking",
+  "walking",
+  "hike",
+  "tour",
+  "family",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d279103-Reviews-Cedar_Crest-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Prairie Glass Studio",
+ "address": "110 SE 8th Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "unique",
+  "kids",
+  "unique",
+  "creative",
+  "art",
+  "creative",
+  "art",
+  "creative"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60747-d13225196-Reviews-Prairie_Glass_Studio-Topeka_Kansas.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

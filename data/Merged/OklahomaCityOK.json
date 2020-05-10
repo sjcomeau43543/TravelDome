@@ -1,134 +1,5 @@
 [
 {
- "name": "Chickasaw",
- "address": "\n901 W. 1st Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chic/crop16_9/C6BCDFC9-1DD8-B71B-0B5ED39C793454CA.JPG?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chic//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Smith",
- "address": "\n301 Parker Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fosm/crop16_9/5A5E931E-1DD8-B71B-0B5F334C38742241.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//fosm//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oklahoma City",
- "address": "\nOklahoma City National Memorial\n301 NW 6th Street, Suite 305\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/okci/crop16_9/C7AB1FDD-1DD8-B71B-0B3D639A4609634A.jpeg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//okci//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Santa Fe",
- "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//safe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Washita Battlefield",
- "address": "\n18555 Hwy 47A, Ste. A\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/waba/crop16_9/07D4F50F-AF1B-2BE7-494630557C22465D.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//waba//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Oklahoma Motor Sports Complex",
  "address": "3501 S Interstate Dr",
  "avg_visitor_review": [
@@ -286,18 +157,39 @@
  "name": "Oklahoma City Museum of Art",
  "address": "415 Couch Dr",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/28/12/ff/oklahoma-city-museum.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/908ckwLSoWEEU6xKIVB1Yw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "art",
+  "field",
+  "unique",
+  "walk",
+  "art",
+  "unique",
+  "art",
+  "food",
+  "field",
+  "history",
+  "creative",
+  "kids"
+ ],
  "link": [
-  "https://www.yelp.com/biz/oklahoma-city-museum-of-art-oklahoma-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/oklahoma-city-museum-of-art-oklahoma-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d645392-Reviews-Oklahoma_City_Museum_of_Art-Oklahoma_City_Oklahoma.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -731,18 +623,38 @@
  "name": "Oklahoma Railway Museum",
  "address": "3400 NE Grand Blvd",
  "avg_visitor_review": [
+  "4.0",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/ea/56/66/20181227-112356-largejpg.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/uvJ9vYbcBSmA0Wb6NdUVRA/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "free",
+  "kids",
+  "family",
+  "kids",
+  "kids",
+  "wander",
+  "kids",
+  "free",
+  "free",
+  "history",
+  "knowledgeable"
+ ],
  "link": [
-  "https://www.yelp.com/biz/oklahoma-railway-museum-oklahoma-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/oklahoma-railway-museum-oklahoma-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d3314220-Reviews-Oklahoma_Railway_Museum-Oklahoma_City_Oklahoma.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1091,6 +1003,963 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Chickasaw",
+ "address": "\n901 W. 1st Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chic/crop16_9/C6BCDFC9-1DD8-B71B-0B5ED39C793454CA.JPG?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chic//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Smith",
+ "address": "\n301 Parker Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fosm/crop16_9/5A5E931E-1DD8-B71B-0B5F334C38742241.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//fosm//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oklahoma City",
+ "address": "\nOklahoma City National Memorial\n301 NW 6th Street, Suite 305\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/okci/crop16_9/C7AB1FDD-1DD8-B71B-0B3D639A4609634A.jpeg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//okci//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe",
+ "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//safe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washita Battlefield",
+ "address": "\n18555 Hwy 47A, Ste. A\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/waba/crop16_9/07D4F50F-AF1B-2BE7-494630557C22465D.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//waba//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oklahoma City National Memorial & Museum",
+ "address": "620 N Harvey Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/ef/b9/b0/oklahoma-city-national.jpg"
+ ],
+ "tags": [
+  "historic",
+  "field",
+  "history",
+  "parks",
+  "history",
+  "walk",
+  "walking",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d271178-Reviews-Oklahoma_City_National_Memorial_Museum-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "National Cowboy & Western Heritage Museum",
+ "address": "1700 Northeast 63rd Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/df/73/8a/national-cowboy-western.jpg"
+ ],
+ "tags": [
+  "art",
+  "learn",
+  "history",
+  "tour",
+  "unique",
+  "kids",
+  "free",
+  "history",
+  "wander",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117482-Reviews-National_Cowboy_Western_Heritage_Museum-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oklahoma City Zoo and Botanical Garden",
+ "address": "2000 Remington Pl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/eb/51/4e/official-zoo-logo.jpg"
+ ],
+ "tags": [
+  "unique",
+  "learn",
+  "unique",
+  "wander",
+  "food",
+  "field",
+  "kids",
+  "walk",
+  "family",
+  "walking",
+  "kids",
+  "food",
+  "walk",
+  "food",
+  "walking",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117225-Reviews-Oklahoma_City_Zoo_and_Botanical_Garden-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bricktown",
+ "address": "Downtown",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/11/fe/5d/bricktown-fountain.jpg"
+ ],
+ "tags": [
+  "unique",
+  "walk",
+  "walking",
+  "family",
+  "walking",
+  "kids",
+  "family",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d108485-Reviews-Bricktown-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Science Museum Oklahoma",
+ "address": "2020 Remington Pl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/c7/67/11/the-science-floor-at.jpg"
+ ],
+ "tags": [
+  "learn",
+  "kids",
+  "family",
+  "kids",
+  "eat",
+  "kids",
+  "drink",
+  "kids",
+  "art",
+  "family",
+  "family",
+  "learn",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117285-Reviews-Science_Museum_Oklahoma-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "SKELETONS: Museum of Osteology",
+ "address": "10301 S Sunnylane Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/87/8e/a8/20180629-092038-largejpg.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "kids",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d2103602-Reviews-SKELETONS_Museum_of_Osteology-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Myriad Botanical Gardens",
+ "address": "301 W Reno Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/7e/84/80/tulips-blooming-in-the.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "economical",
+  "nature",
+  "walk",
+  "family",
+  "kids",
+  "walk",
+  "nature",
+  "walk",
+  "walk",
+  "learn",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117286-Reviews-Myriad_Botanical_Gardens-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Centennial Land Run Monument",
+ "address": "200 Centennial Ave South End of Bricktown Canal",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/d2/1f/9c/wagontrail.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "walk",
+  "free",
+  "walk",
+  "walk",
+  "free",
+  "walking",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d2322328-Reviews-Centennial_Land_Run_Monument-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hefner Lake & Park",
+ "address": "4491 S Lake Hefner Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/3f/1c/68/lighthouse-at-sunset.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "free",
+  "family",
+  "parks",
+  "parks",
+  "kids",
+  "hike",
+  "walk",
+  "eat",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d589193-Reviews-Hefner_Lake_Park-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chickasaw Bricktown Ballpark",
+ "address": "2 S Mickey Mantle Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/76/af/34/a-view-of-the-ballpark.jpg"
+ ],
+ "tags": [
+  "kids",
+  "field",
+  "walk",
+  "family",
+  "eat",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d618891-Reviews-Chickasaw_Bricktown_Ballpark-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "45th Infantry Division Museum",
+ "address": "2145 NE 36th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/91/ee/8e/45th-infantry-division.jpg"
+ ],
+ "tags": [
+  "free",
+  "unique",
+  "knowledgeable",
+  "history",
+  "knowledgeable",
+  "history",
+  "wander",
+  "free",
+  "free",
+  "walking",
+  "history",
+  "free",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117287-Reviews-45th_Infantry_Division_Museum-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Max's Magic Theatre",
+ "address": "8312 NW 118th St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/c0/13/e4/upgraded-seating-and.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "walk",
+  "family",
+  "family",
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d5995994-Reviews-Max_s_Magic_Theatre-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chesapeake Energy Arena",
+ "address": "100 W Reno Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/6d/93/66/chesapeake-energy-arena.jpg"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "walk",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d615990-Reviews-Chesapeake_Energy_Arena-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oklahoma History Center",
+ "address": "800 Nazih Zuhdi Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/72/f6/c8/oklahoma-history-center.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "walk",
+  "free",
+  "tour",
+  "walking",
+  "history",
+  "organized",
+  "learn",
+  "history",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d739269-Reviews-Oklahoma_History_Center-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Henry Overholser Mansion",
+ "address": "405 NW 15th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/3b/f0/c7/overholser-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "historic",
+  "free",
+  "historic",
+  "history",
+  "kids",
+  "tour",
+  "historic",
+  "tour",
+  "tour",
+  "family",
+  "history",
+  "tour",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117293-Reviews-Henry_Overholser_Mansion-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wheeler Ferris Wheel",
+ "address": "1701 S Western Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/21/9b/9f/photo1jpg.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "drink",
+  "music",
+  "food",
+  "walking",
+  "walk",
+  "food",
+  "kids",
+  "drink",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d10536171-Reviews-Wheeler_Ferris_Wheel-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Will Rogers Park",
+ "address": "3400 N Portland Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/eb/71/7a/20180505-182309-largejpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "family",
+  "walking",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d589221-Reviews-Will_Rogers_Park-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "American Banjo Museum",
+ "address": "9 E Sheridan Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/ec/59/90/american-banjo-museum.jpg"
+ ],
+ "tags": [
+  "free",
+  "music",
+  "learn",
+  "art",
+  "history",
+  "art",
+  "history",
+  "free",
+  "music",
+  "history",
+  "learn",
+  "free",
+  "music",
+  "learn",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d2043422-Reviews-American_Banjo_Museum-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Outlet Shoppes at Oklahoma City",
+ "address": "7624 W Reno Ave Suite 380",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/83/6d/90/outlet-shoppes-at-oklahoma.jpg"
+ ],
+ "tags": [
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d2254505-Reviews-Outlet_Shoppes_at_Oklahoma_City-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Frontier City",
+ "address": "11501 N I 35 Service Rd On I-35, between Hefner Road and northeast 122nd Street",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/0b/fd/da/frontier-city-has-a-new.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "kids",
+  "eat",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117227-Reviews-Frontier_City-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Martin Park Nature Center",
+ "address": "5000 W Memorial Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/e6/83/e8/indian-blanket.jpg"
+ ],
+ "tags": [
+  "free",
+  "hike",
+  "kids",
+  "nature",
+  "tour",
+  "free",
+  "kids",
+  "cheap",
+  "food",
+  "free",
+  "hike",
+  "kids",
+  "nature",
+  "pets",
+  "walk",
+  "wander",
+  "nature",
+  "walk",
+  "walk",
+  "sightseeing",
+  "free",
+  "hike",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d589197-Reviews-Martin_Park_Nature_Center-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Paseo Arts District",
+ "address": "2909 Paseo",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/42/9c/ea/this-is-the-view-of-paseo.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "food",
+  "art",
+  "art",
+  "art",
+  "walk",
+  "tour",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d4713946-Reviews-Paseo_Arts_District-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Orr Family Farm",
+ "address": "14400 S Western Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/4f/23/c6/photo0jpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "field",
+  "family",
+  "kids",
+  "family",
+  "kids",
+  "drink",
+  "kids",
+  "family",
+  "family",
+  "historic",
+  "family",
+  "kids",
+  "walk",
+  "wander",
+  "drink",
+  "food",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d3582452-Reviews-Orr_Family_Farm-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State Capitol",
+ "address": "2300 N Lincoln Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/df/1b/8f/state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d589215-Reviews-State_Capitol-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "National Stockyard Exchange",
+ "address": "2221 Exchange Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/d2/1c/f3/stockyard-city.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "structure",
+  "kids",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d589200-Reviews-National_Stockyard_Exchange-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Devon Energy Center",
+ "address": "333 W Sheridan Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/3e/fd/ff/building-from-the-meriad.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walk",
+  "drink",
+  "unique",
+  "structure",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d10457876-Reviews-Devon_Energy_Center-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "White Water Bay",
+ "address": "3908 W Reno Ave",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/db/0f/bb/water-slides.jpg"
+ ],
+ "tags": [
+  "parks",
+  "kids",
+  "free",
+  "family",
+  "eat",
+  "kids",
+  "free",
+  "family",
+  "eat",
+  "kids",
+  "family",
+  "food",
+  "food",
+  "family",
+  "food",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d117228-Reviews-White_Water_Bay-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Civic Center Music Hall",
+ "address": "201 N Walker Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/3a/d1/90/civic-center.jpg"
+ ],
+ "tags": [
+  "walking",
+  "performance",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g51560-d7385814-Reviews-Civic_Center_Music_Hall-Oklahoma_City_Oklahoma.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

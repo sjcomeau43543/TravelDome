@@ -1,115 +1,5 @@
 [
 {
- "name": "Blackstone River Valley",
- "address": "\n670 Linwood Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/blrv/crop16_9/E70807E9-1DD8-B71B-0B1B7FB34DCEEFB2.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//blrv//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "John H. Chafee Blackstone River Valley",
- "address": "\n670 Linwood Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/blac/crop16_9/25C7E966-1DD8-B71B-0B0A21685DBCF782.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "creative"
- ],
- "link": [
-  "https://www.nps.gov//blac//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Roger Williams",
- "address": "\n282 North Main Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/rowi/crop16_9/F805BA2F-1DD8-B71B-0BE32152357DD3AF.png"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//rowi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Touro Synagogue",
- "address": "\n85 Touro Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tosy/crop16_9/BC7DE5D5-1DD8-B71B-0B6FF9B3E6E7D498.png"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "active",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//tosy//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Washington-Rochambeau Revolutionary Route",
- "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//waro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Providence Place",
  "address": "One Providence Place",
  "avg_visitor_review": [
@@ -1106,6 +996,999 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Blackstone River Valley",
+ "address": "\n670 Linwood Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/blrv/crop16_9/E70807E9-1DD8-B71B-0B1B7FB34DCEEFB2.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//blrv//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "John H. Chafee Blackstone River Valley",
+ "address": "\n670 Linwood Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/blac/crop16_9/25C7E966-1DD8-B71B-0B0A21685DBCF782.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "creative"
+ ],
+ "link": [
+  "https://www.nps.gov//blac//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams",
+ "address": "\n282 North Main Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/rowi/crop16_9/F805BA2F-1DD8-B71B-0BE32152357DD3AF.png"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//rowi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Touro Synagogue",
+ "address": "\n85 Touro Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tosy/crop16_9/BC7DE5D5-1DD8-B71B-0B6FF9B3E6E7D498.png"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "active",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//tosy//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Washington-Rochambeau Revolutionary Route",
+ "address": "\nWashington-Rochambeau National Historic Trail\n\n1400 North Outer Line Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/waro/crop16_9/22E5129F-DB95-18DE-15F703B632DCEC7A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//waro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams Park Zoo",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/8f/e5/81/free-roaming-sloths-explore.jpg"
+ ],
+ "tags": [
+  "music",
+  "nature",
+  "food",
+  "kids",
+  "food",
+  "walk",
+  "food",
+  "music",
+  "nature",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105259-Reviews-Roger_Williams_Park_Zoo-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rhode Island School of Design Museum of Art",
+ "address": "224 Benefit St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a7/03/c5/rhode-island-school-of.jpg"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "nature",
+  "history",
+  "unique",
+  "art",
+  "free",
+  "art",
+  "sampling",
+  "family",
+  "walk",
+  "art",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d104606-Reviews-Rhode_Island_School_of_Design_Museum_of_Art-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Federal Hill",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/da/a2/c8/historic-federal-hill.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "walking",
+  "food",
+  "walking",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d108526-Reviews-Historic_Federal_Hill-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rhode Island State House",
+ "address": "82 Smith St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/ef/e5/fc/photo3jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "library",
+  "learn",
+  "history",
+  "tour",
+  "library",
+  "history",
+  "tour",
+  "free",
+  "library",
+  "independent",
+  "history",
+  "unique",
+  "tour",
+  "historic",
+  "free",
+  "tour",
+  "library",
+  "structure",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d104609-Reviews-Rhode_Island_State_House-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Water Place Park",
+ "address": "Memorial Boulevard",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/cb/73/05/water-place-park-and.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "delicious",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105261-Reviews-Water_Place_Park-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Brown University",
+ "address": "1 Prospect St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/ae/f5/0d/dept-of-economics.jpg"
+ ],
+ "tags": [
+  "art",
+  "library",
+  "walk",
+  "tour",
+  "learn",
+  "walk",
+  "free",
+  "tour",
+  "library",
+  "learn",
+  "history",
+  "historic",
+  "history",
+  "walking",
+  "library",
+  "walk",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d108524-Reviews-Brown_University-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams Park",
+ "address": "Elmwood Avenue",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/69/52/51/roger-williams-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "music",
+  "family",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d531789-Reviews-Roger_Williams_Park-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Performing Arts Center",
+ "address": "220 Weybosset St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/32/db/87/providence-performing.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "walking",
+  "eat",
+  "theatre",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d290617-Reviews-Providence_Performing_Arts_Center-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Benefit Street",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/82/08/68/nice-walk.jpg"
+ ],
+ "tags": [
+  "walk",
+  "historic",
+  "walk",
+  "tour",
+  "historic",
+  "walk",
+  "historic",
+  "walking",
+  "walk",
+  "history",
+  "walking",
+  "knowledgeable",
+  "art",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105266-Reviews-Benefit_Street-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Stephen Hopkins House",
+ "address": "15 Hopkins St Corner of Benefit & George Sts.",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/4f/b8/54/governor-stephen-hopkins.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "historic",
+  "free",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "walking",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d531803-Reviews-The_Stephen_Hopkins_House-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Children's Museum",
+ "address": "100 South St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/b3/47/52/providence-children-s.jpg"
+ ],
+ "tags": [
+  "eat",
+  "drink",
+  "free",
+  "kids",
+  "eat",
+  "drink",
+  "learn",
+  "kids",
+  "organized",
+  "food",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105260-Reviews-Providence_Children_s_Museum-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Train Station",
+ "address": "100 Gaspee St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/fd/55/14/ta-img-20170416-112521.jpg"
+ ],
+ "tags": [
+  "organized",
+  "eat",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d561332-Reviews-Providence_Train_Station-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "DePasquale Plaza",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/76/4b/f9/fountain-centerpiece.jpg"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "walking",
+  "walk",
+  "walking",
+  "active",
+  "eat",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d116254-Reviews-DePasquale_Plaza-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Athenaeum",
+ "address": "251 Benefit St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/10/3b/e3/photo0jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "library",
+  "library",
+  "family",
+  "kids",
+  "library",
+  "tour",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105267-Reviews-Providence_Athenaeum-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Seastreak Ferry",
+ "address": "25 India St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/4e/4d/1b/our-ferry-offers-all.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "economical",
+  "tour",
+  "walk",
+  "free",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d10584190-Reviews-Seastreak_Ferry-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Swan Point Cemetery",
+ "address": "585 Blackstone Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/c3/91/f5/grecian-swan-point.jpg"
+ ],
+ "tags": [
+  "hike",
+  "nature",
+  "history",
+  "walk",
+  "historic",
+  "walk",
+  "walk",
+  "history",
+  "walking",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d561334-Reviews-Swan_Point_Cemetery-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Place Mall",
+ "address": "1 Providence Pl",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/30/6c/ac/louis-at-providence-place.jpg"
+ ],
+ "tags": [
+  "walking",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d105262-Reviews-Providence_Place_Mall-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "John Brown House Museum",
+ "address": "52 Power St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c2/5f/01/photo1jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "family",
+  "historic",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "historic",
+  "history",
+  "tour",
+  "free",
+  "music",
+  "food",
+  "tour",
+  "family",
+  "historic",
+  "history",
+  "history",
+  "tour",
+  "family",
+  "historic",
+  "history",
+  "walk",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d104608-Reviews-John_Brown_House_Museum-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thayer Street",
+ "address": "Thayer Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "eat",
+  "kids",
+  "food",
+  "walk",
+  "history",
+  "walk",
+  "food",
+  "food",
+  "family",
+  "kids",
+  "food",
+  "eat",
+  "kids",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d116250-Reviews-Thayer_Street-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "India Point Park",
+ "address": "Gano Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ca/57/69/photo2jpg.jpg"
+ ],
+ "tags": [
+  "music",
+  "walking",
+  "food",
+  "kids",
+  "walk",
+  "walking",
+  "history",
+  "walking",
+  "walking",
+  "walk",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d12927187-Reviews-India_Point_Park-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams National Memorial",
+ "address": "282 N Main St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1e/c7/a9/roger-williams-national.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d267897-Reviews-Roger_Williams_National_Memorial-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Roger Williams Park Botanical Center",
+ "address": "1000 Elmwood Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/5f/de/tropical-sites-and-feels.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "creative",
+  "kids",
+  "unique",
+  "creative",
+  "walk",
+  "walk",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d7745986-Reviews-Roger_Williams_Park_Botanical_Center-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Providence Flea",
+ "address": "475 Valley St WaterFire Arts Center",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/79/f9/5b/aerial-view-of-pvd-indoor.jpg"
+ ],
+ "tags": [
+  "art",
+  "food",
+  "food",
+  "food",
+  "kids",
+  "food",
+  "delicious",
+  "free",
+  "creative",
+  "eat",
+  "food",
+  "walk",
+  "unique",
+  "food",
+  "art",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d13197969-Reviews-The_Providence_Flea-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Prospect Terrace",
+ "address": "Congdon St. and Cushing St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/68/a0/4b/view-of-providence-downtown.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d280453-Reviews-Prospect_Terrace-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wickenden Street",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/9e/64/89/pub-sign.jpg"
+ ],
+ "tags": [
+  "unique",
+  "walking",
+  "historic",
+  "food",
+  "drink",
+  "art",
+  "family",
+  "walking",
+  "walking",
+  "walk",
+  "unique",
+  "family",
+  "food",
+  "walk",
+  "unique",
+  "food",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d116252-Reviews-Wickenden_Street-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence Art Club",
+ "address": "11 Thomas St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/68/bf/cc/old-world-style.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "historic",
+  "food",
+  "art",
+  "art",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d290573-Reviews-Providence_Art_Club-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Vets",
+ "address": "1 Avenue of the Arts",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/50/47/72/the-vets.jpg"
+ ],
+ "tags": [
+  "food",
+  "cheap",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d7679255-Reviews-The_Vets-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Providence College",
+ "address": "1 Cunningham Sq",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/37/00/9a/providence-college.jpg"
+ ],
+ "tags": [
+  "art",
+  "tour",
+  "walk",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d2412234-Reviews-Providence_College-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dunkin' Donuts Center",
+ "address": "1 La Salle Sq",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/17/e2/a1/dunkin-donuts-center.jpg"
+ ],
+ "tags": [
+  "drink",
+  "walking",
+  "walk",
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d543215-Reviews-Dunkin_Donuts_Center-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "First Baptist Church in America",
+ "address": "75 N Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/77/34/35/igreja-ao-fundo.jpg"
+ ],
+ "tags": [
+  "walking",
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "walking",
+  "history",
+  "tour",
+  "historic",
+  "learn",
+  "walking",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60946-d267892-Reviews-First_Baptist_Church_in_America-Providence_Rhode_Island.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

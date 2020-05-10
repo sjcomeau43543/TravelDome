@@ -1,263 +1,5 @@
 [
 {
- "name": "Big Cypress",
- "address": "\n33100 Tamiami Trail East\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bicy/crop16_9/F40A1DAC-0637-E4F0-6BFB058D5A54E668.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//bicy//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Biscayne",
- "address": "\n9700 SW 328th Street\nSir Lancelot Jones Way\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bisc/crop16_9/C562F8ED-1DD8-B71B-0B9BDFCF35FA380A.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//bisc//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Canaveral",
- "address": "\n212 S Washington Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cana/crop16_9/F92B5D46-FAE8-FE36-2EF2903D57127BE5.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cana//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Castillo de San Marcos",
- "address": "\n1 South Castillo Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/casa/crop16_9/BC4A494A-D069-A3CD-3E735DDE11A6F325.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//casa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "De Soto",
- "address": "\n8300 De Soto Memorial Hwy\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/deso/crop16_9/996B2457-F4A8-0D0C-1F2F0DE24FEDA3FE.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//deso//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Dry Tortugas",
- "address": "\n40001 SR-9336\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/drto/crop16_9/B8DF2B97-1DD8-B71B-0BE883A0DFB8E593.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//drto//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Everglades",
- "address": "\n40001 State Road 9336\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ever/crop16_9/B39E64C7-970D-6338-D85A1507F99EDB75.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//ever//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Caroline",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/timu/crop16_9/4FE0CD29-1DD8-B71B-0BACB05AB5A9E933.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//foca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Matanzas",
- "address": "\n8635 A1A South\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/foma/crop16_9/CEE24DC4-1DD8-B71B-0BDD59A215535061.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//foma//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gulf Islands",
- "address": "\n1801 Gulf Breeze Parkway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/guis/crop16_9/D33D9186-1DD8-B71B-0B1CDFA4750C3578.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//guis//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gullah/Geechee",
- "address": "\nGullah Geechee Cultural Heritage Corridor\nPO Box 1007\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/guge/crop16_9/3FBCE71F-1DD8-B71B-0BA0D66EBB68BC88.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//guge//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Timucuan",
- "address": "\n12713 Fort Caroline Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/timu/crop16_9/4FE0CD29-1DD8-B71B-0BACB05AB5A9E933.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//timu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "AMC Tallahassee 20",
  "address": "2415 N. Monroe Street",
  "avg_visitor_review": [
@@ -686,21 +428,32 @@
  "name": "Miccosukee Canopy Road Greenway",
  "address": "5600 Miccosukkee Rd",
  "avg_visitor_review": [
+  "4.5",
   5.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/15/bb/0b/approaching-interstate.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/1DAxk-hgG4Z_D2F22BRdKg/o.jpg"
  ],
  "tags": [
-  "eat",
-  "walk"
+  "hike",
+  "walk",
+  "historic",
+  "walk",
+  "eat"
  ],
  "link": [
-  "https://www.yelp.com/biz/miccosukee-canopy-road-greenway-tallahassee?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/miccosukee-canopy-road-greenway-tallahassee?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d10312979-Reviews-Miccosukee_Canopy_Road_Greenway-Tallahassee_Florida.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -863,20 +616,43 @@
  "name": "Florida Historic Capitol Museum",
  "address": "400 S Monroe St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/e5/8e/33/florida-historic-capitol.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/cIuD3b8JhZZPavH4z7BWwA/o.jpg"
  ],
  "tags": [
+  "history",
+  "history",
+  "walking",
+  "history",
+  "learn",
+  "economical",
+  "free",
+  "history",
+  "walking",
+  "kids",
+  "eat",
+  "history",
+  "free",
+  "history",
+  "history",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/florida-historic-capitol-museum-tallahassee-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/florida-historic-capitol-museum-tallahassee-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d2312332-Reviews-Florida_Historic_Capitol_Museum-Tallahassee_Florida.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -922,18 +698,29 @@
  "name": "Doak Campbell Stadium",
  "address": "403 Stadium Dr W",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/41/96/71/doak-s-campbell-stadium.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/MfCOWzIC8NfhK7-sdRzX6g/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "food",
+  "tour"
+ ],
  "link": [
-  "https://www.yelp.com/biz/doak-campbell-stadium-tallahassee?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/doak-campbell-stadium-tallahassee?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d5974965-Reviews-Doak_Campbell_Stadium-Tallahassee_Florida.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1146,18 +933,31 @@
  "name": "Tallahassee-St. Marks Historic Railroad State Trail",
  "address": "4760 Woodville Hwy",
  "avg_visitor_review": [
+  "4.5",
   5.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/12/52/1a/tallahassee-st-marks.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/OnwXrbVaWetJSK2masT5Kw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "history",
+  "history",
+  "affordable",
+  "parks"
+ ],
  "link": [
-  "https://www.yelp.com/biz/tallahassee-st-marks-historic-railroad-state-trail-tallahassee-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/tallahassee-st-marks-historic-railroad-state-trail-tallahassee-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d147128-Reviews-Tallahassee_St_Marks_Historic_Railroad_State_Trail-Tallahassee_Florida.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1237,6 +1037,1024 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Big Cypress",
+ "address": "\n33100 Tamiami Trail East\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bicy/crop16_9/F40A1DAC-0637-E4F0-6BFB058D5A54E668.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//bicy//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Biscayne",
+ "address": "\n9700 SW 328th Street\nSir Lancelot Jones Way\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bisc/crop16_9/C562F8ED-1DD8-B71B-0B9BDFCF35FA380A.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//bisc//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Canaveral",
+ "address": "\n212 S Washington Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cana/crop16_9/F92B5D46-FAE8-FE36-2EF2903D57127BE5.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cana//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Castillo de San Marcos",
+ "address": "\n1 South Castillo Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/casa/crop16_9/BC4A494A-D069-A3CD-3E735DDE11A6F325.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//casa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "De Soto",
+ "address": "\n8300 De Soto Memorial Hwy\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/deso/crop16_9/996B2457-F4A8-0D0C-1F2F0DE24FEDA3FE.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//deso//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Dry Tortugas",
+ "address": "\n40001 SR-9336\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/drto/crop16_9/B8DF2B97-1DD8-B71B-0BE883A0DFB8E593.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//drto//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Everglades",
+ "address": "\n40001 State Road 9336\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ever/crop16_9/B39E64C7-970D-6338-D85A1507F99EDB75.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//ever//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Caroline",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/timu/crop16_9/4FE0CD29-1DD8-B71B-0BACB05AB5A9E933.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//foca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Matanzas",
+ "address": "\n8635 A1A South\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/foma/crop16_9/CEE24DC4-1DD8-B71B-0BDD59A215535061.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//foma//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gulf Islands",
+ "address": "\n1801 Gulf Breeze Parkway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/guis/crop16_9/D33D9186-1DD8-B71B-0B1CDFA4750C3578.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//guis//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gullah/Geechee",
+ "address": "\nGullah Geechee Cultural Heritage Corridor\nPO Box 1007\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/guge/crop16_9/3FBCE71F-1DD8-B71B-0BA0D66EBB68BC88.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//guge//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Timucuan",
+ "address": "\n12713 Fort Caroline Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/timu/crop16_9/4FE0CD29-1DD8-B71B-0BACB05AB5A9E933.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//timu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "St. Marks National Wildlife Refuge",
+ "address": "1255 Lighthouse Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/1c/64/82/st-marks-national-wildlife.jpg"
+ ],
+ "tags": [
+  "nature",
+  "nature",
+  "walk",
+  "history",
+  "walking",
+  "kids",
+  "learn",
+  "walk",
+  "hike",
+  "nature",
+  "pets",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d147130-Reviews-St_Marks_National_Wildlife_Refuge-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tallahassee Antique Car Museum",
+ "address": "6800 Mahan Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/0b/d2/e1/tallahassee-antique-car.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "family",
+  "history",
+  "walk",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d142714-Reviews-Tallahassee_Antique_Car_Museum-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Florida State University",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/39/78/a9/fsu.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "organized",
+  "walking",
+  "tour",
+  "family",
+  "history",
+  "field",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d1229605-Reviews-Florida_State_University-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tallahassee Museum",
+ "address": "3945 Museum Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/4a/7b/53/down-by-the-bear-exhibit.jpg"
+ ],
+ "tags": [
+  "art",
+  "kids",
+  "nature",
+  "daring",
+  "history",
+  "historic",
+  "eat",
+  "kids",
+  "food",
+  "nature",
+  "historic",
+  "family",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d291201-Reviews-Tallahassee_Museum-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alfred B. Maclay Gardens State Park",
+ "address": "3540 Thomasville Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/5a/38/4b/alfred-b-maclay-gardens.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d257090-Reviews-Alfred_B_Maclay_Gardens_State_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mission San Luis de Apalachee",
+ "address": "2100 W Tennessee St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/32/e0/b2/grosser-versammlungsraum.jpg"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "tour",
+  "history",
+  "learn",
+  "free",
+  "walk",
+  "history",
+  "learn",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d126922-Reviews-Mission_San_Luis_de_Apalachee-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Florida History",
+ "address": "500 S Bronough St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/2a/e2/06/beautiful-place.jpg"
+ ],
+ "tags": [
+  "history",
+  "kids",
+  "knowledgeable",
+  "tour",
+  "walking",
+  "free",
+  "history",
+  "history",
+  "free",
+  "history",
+  "history",
+  "free",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d126925-Reviews-Museum_of_Florida_History-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cascades Park",
+ "address": "1001 S Gadsden St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/ff/dd/09/cascades-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "music",
+  "historic",
+  "history",
+  "walking",
+  "theatre",
+  "walking",
+  "kids",
+  "walk",
+  "walking",
+  "kids",
+  "walking",
+  "family",
+  "kids",
+  "free",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d6664567-Reviews-Cascades_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Marks Lighthouse",
+ "address": "1255 Lighthouse Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/5b/57/33/st-marks-lighthouse.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "learn",
+  "historic",
+  "parks",
+  "nature",
+  "historic",
+  "family",
+  "walking",
+  "parks",
+  "family",
+  "nature",
+  "history",
+  "walking",
+  "free",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d143782-Reviews-St_Marks_Lighthouse-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Goodwood Museum and Gardens",
+ "address": "1600 Miccosukee Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/ee/0b/7d/goodwood-museum-front.jpg"
+ ],
+ "tags": [
+  "tour",
+  "historic",
+  "history",
+  "tour",
+  "family",
+  "tour",
+  "history",
+  "tour",
+  "tour",
+  "tour",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d291203-Reviews-Goodwood_Museum_and_Gardens-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Railroad Square Art District",
+ "address": "618 McDonnell Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/46/01/aa/flippin-great-pinball.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "brewery",
+  "free",
+  "walk",
+  "brewery",
+  "unique",
+  "music",
+  "affordable",
+  "art",
+  "theatre",
+  "brewery",
+  "music",
+  "creative",
+  "food",
+  "art",
+  "art",
+  "music",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d8871420-Reviews-Railroad_Square_Art_District-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dorothy B Oven Park",
+ "address": "3205 Thomasville Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/8c/97/01/img-20171218-194131025.jpg"
+ ],
+ "tags": [
+  "music",
+  "nature",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d13195387-Reviews-Dorothy_B_Oven_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Marks Trail",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/b3/25/f7/saint-marks-trail.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d146247-Reviews-Saint_Marks_Trail-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Ella & Fred Drake Park",
+ "address": "N. Monroe and S. Lake Ella Dr.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/54/1d/b0/lake-ella-fred-drake.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "food",
+  "nature",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d4282322-Reviews-Lake_Ella_Fred_Drake_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Capitol Building",
+ "address": "400 S Monroe St Apalachee Pkwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/c4/d3/aa/new-capitol-building.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "historic",
+  "free",
+  "art",
+  "tour",
+  "art",
+  "tour",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d531881-Reviews-New_Capitol_Building-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "JR Alford Greenway",
+ "address": "2500 Pedrick Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/85/b8/ec/jr-alford-greenway.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walk",
+  "field",
+  "hike",
+  "walk",
+  "nature",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d10210395-Reviews-JR_Alford_Greenway-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tom Brown Park",
+ "address": "501 Easterwood Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/56/99/6a/20180826-191352-largejpg.jpg"
+ ],
+ "tags": [
+  "parks",
+  "nature",
+  "walking",
+  "walking",
+  "family",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d12533229-Reviews-Tom_Brown_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Grove Museum",
+ "address": "902 N Monroe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/dc/68/a9/img-20180504-130151817.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "free",
+  "learn",
+  "tour",
+  "family",
+  "nature",
+  "history",
+  "knowledgeable",
+  "free",
+  "history",
+  "learn",
+  "historic",
+  "free",
+  "tour",
+  "free",
+  "learn",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d12350496-Reviews-Grove_Museum-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Jackson Mounds Archaeological State Park",
+ "address": "3600 Indian Mound Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/f1/68/b1/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walk",
+  "walk",
+  "learn",
+  "history",
+  "nature",
+  "nature",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d126924-Reviews-Lake_Jackson_Mounds_Archaeological_State_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Proof Brewing Company",
+ "address": "1320 S Monroe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/d2/c4/18/expansive-tasting-room.jpg"
+ ],
+ "tags": [
+  "food",
+  "brewery",
+  "tour",
+  "food",
+  "pets",
+  "food",
+  "art",
+  "kids",
+  "brewery",
+  "kids",
+  "pets",
+  "food",
+  "art",
+  "kids",
+  "brewery",
+  "drink",
+  "food",
+  "food",
+  "brewery",
+  "food",
+  "brewery",
+  "tour",
+  "music",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d7644910-Reviews-Proof_Brewing_Company-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Apalachicola National Forest",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/7a/6d/64/trilhas.jpg"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "active",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d147133-Reviews-Apalachicola_National_Forest-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Challenger Learning Center of Tallahassee",
+ "address": "200 S Duval St Kleman Plaza",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/95/ab/94/challenger-learning-center.jpg"
+ ],
+ "tags": [
+  "nature",
+  "kids",
+  "food",
+  "theatre",
+  "kids",
+  "music",
+  "learn",
+  "kids",
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d2331081-Reviews-Challenger_Learning_Center_of_Tallahassee-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Redemptive Love Farm",
+ "address": "13800 Moccasin Gap Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/dc/e2/45/baby-cows.jpg"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "family",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d10446660-Reviews-Redemptive_Love_Farm-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Natural Bridge Battlefield Historic State Park",
+ "address": "7502 Natural Bridge Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/b3/58/07/photo5jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "unique",
+  "nature",
+  "history",
+  "learn",
+  "nature",
+  "history",
+  "kids",
+  "history",
+  "walk",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d3381808-Reviews-Natural_Bridge_Battlefield_Historic_State_Park-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Governor's Square mall",
+ "address": "1500 Apalachee Pkwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/e4/04/55/view-from-escalator.jpg"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "family",
+  "food",
+  "cheap",
+  "food",
+  "walk",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d8516374-Reviews-Governor_s_Square_mall-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lichgate on High Road",
+ "address": "1401 High Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/f3/bd/e4/lichgate-oak-tree.jpg"
+ ],
+ "tags": [
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g34675-d9871648-Reviews-Lichgate_on_High_Road-Tallahassee_Florida.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

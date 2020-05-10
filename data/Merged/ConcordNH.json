@@ -1,48 +1,5 @@
 [
 {
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint-Gaudens",
- "address": "\n139 Saint Gaudens Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/saga/crop16_9/C288303B-915B-85BF-705871C7806EFA7A.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//saga//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "N H Audubon",
  "address": "84 Silk Farm Rd",
  "avg_visitor_review": [
@@ -219,21 +176,34 @@
  "name": "Kimball-Jenkins Estate",
  "address": "266 N Main St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/59/6e/ae/off-main.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/xuxCf2DPLAKfkYNd309krw/o.jpg"
  ],
  "tags": [
-  "kids",
-  "art"
+  "art",
+  "historic",
+  "free",
+  "knowledgeable",
+  "art",
+  "art",
+  "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/kimball-jenkins-estate-concord?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/kimball-jenkins-estate-concord?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109538-Reviews-Kimball_Jenkins_Estate-Concord_New_Hampshire.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -998,6 +968,730 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint-Gaudens",
+ "address": "\n139 Saint Gaudens Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/saga/crop16_9/C288303B-915B-85BF-705871C7806EFA7A.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//saga//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "New Hampshire State House",
+ "address": "107 N Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/53/53/2f/gorgeous-state-house.jpg"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "walk",
+  "educate",
+  "history",
+  "art",
+  "history",
+  "walk",
+  "history",
+  "walk",
+  "tour",
+  "historic",
+  "library",
+  "walk",
+  "wander",
+  "history",
+  "historic",
+  "tour",
+  "knowledgeable",
+  "history",
+  "tour",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109532-Reviews-New_Hampshire_State_House-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Red River Theatres",
+ "address": "11 S Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/3b/16/ad/red-river-theatres.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "affordable",
+  "theatre",
+  "independent",
+  "theatre",
+  "independent",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d4283481-Reviews-Red_River_Theatres-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Carter Hill Orchard",
+ "address": "73 Carter Hill Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/da/22/d4/carter-hill-orchard.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "delicious",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d5041814-Reviews-Carter_Hill_Orchard-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Center for the Arts",
+ "address": "44 S Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/e6/3c/ae/capitol-center-for-the.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109542-Reviews-Capitol_Center_for_the_Arts-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Susan N. McLane Audubon Center and Silk Farm Wildlife Sanctuary",
+ "address": "84 Silk Farm Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/85/f1/f5/board-walk.jpg"
+ ],
+ "tags": [
+  "kids",
+  "nature",
+  "nature",
+  "walk",
+  "nature",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109545-Reviews-Susan_N_McLane_Audubon_Center_and_Silk_Farm_Wildlife_Sanctuary-Concord_New_Hampshir.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "McAuliffe-Shepard Discovery Center",
+ "address": "2 Institute Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/e2/03/bb/mcauliffe-shepard-discovery.jpg"
+ ],
+ "tags": [
+  "active",
+  "learn",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109539-Reviews-McAuliffe_Shepard_Discovery_Center-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Concord Craft Brewing Company",
+ "address": "117 Storrs St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/6f/c4/4a/storefront.jpg"
+ ],
+ "tags": [
+  "tour",
+  "brewery",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d12116823-Reviews-Concord_Craft_Brewing_Company-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Winant Park Hiking Trails",
+ "address": "Fisk Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/e9/cf/a9/winant-park-trails-map.jpg"
+ ],
+ "tags": [
+  "hike",
+  "field",
+  "hike",
+  "hike",
+  "family",
+  "hike",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d10231023-Reviews-Winant_Park_Hiking_Trails-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Hampshire Historical Society",
+ "address": "30 Park St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/d2/04/3f/new-hampshire-historical.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "library",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "library",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109536-Reviews-New_Hampshire_Historical_Society-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Concord Antique Gallery",
+ "address": "97 Storrs St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/50/58/e9/the-mall.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d4589818-Reviews-Concord_Antique_Gallery-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Pierce Manse",
+ "address": "14 Horseshoe Pond Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/1f/6f/0c/photo0jpg.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour",
+  "family",
+  "tour",
+  "family",
+  "knowledgeable",
+  "family",
+  "tour",
+  "historic",
+  "family",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109537-Reviews-Pierce_Manse-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Litherman's Limited Brewery",
+ "address": "126 Hall St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/fc/01/35/photo0jpg.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "adventurous",
+  "learn",
+  "food",
+  "hike",
+  "music",
+  "family",
+  "brewery",
+  "music",
+  "family",
+  "sampling"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d11706831-Reviews-Litherman_s_Limited_Brewery-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hatbox Theatre",
+ "address": "270 Loudon Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ee/3f/52/99-comfortable-seats.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d12951866-Reviews-Hatbox_Theatre-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "President Franklin Pierce Tomb",
+ "address": "Old North Cemetery North State Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/4e/a3/ef/photo8jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "structure",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d4358867-Reviews-President_Franklin_Pierce_Tomb-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Dimond Hill Farm",
+ "address": "314 Hopkinton Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/59/76/9b/what-a-view.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d6637801-Reviews-Dimond_Hill_Farm-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oak Hill Trail",
+ "address": "Shaker Rd The trailhead to the Tower Trail and Dancing Bear Trail can be found further north along Shaker Road. Or, park where the trail begins off of Oak Hill Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d11871466-Reviews-Oak_Hill_Trail-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Apple Hill Farm",
+ "address": "580 Mountain Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "organized",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d19079536-Reviews-Apple_Hill_Farm-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Daniel Webster Statue",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/75/a7/37/daniel-webster-statue.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "sampling",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109535-Reviews-Daniel_Webster_Statue-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mary Baker Eddy Historic House",
+ "address": "62 N State St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/56/71/a5/mary-baker-eddy-historic.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109541-Reviews-Mary_Baker_Eddy_Historic_House-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Statue of Franklin Pierce",
+ "address": "107 N Main St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/62/8d/19/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "walking",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d10713083-Reviews-Statue_of_Franklin_Pierce-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Eddy Plaza",
+ "address": "73 Fort Eddy Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/64/d6/cb/fort-eddy-s-plaza.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d13997277-Reviews-Fort_Eddy_Plaza-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Greater Concord Chamber of Commerce",
+ "address": "49 S Main St Suite 104",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/6a/4d/bd/concord-s-clock-tower.jpg"
+ ],
+ "tags": [
+  "art",
+  "eat",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109546-Reviews-Greater_Concord_Chamber_of_Commerce-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis Farm & Greenhouses",
+ "address": "192 Silk Farm Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/9d/65/eb/aerial-view-of-lewis.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d10757181-Reviews-Lewis_Farm_Greenhouses-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "John Stark Statue",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/59/6f/77/til-you-see-the-white.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d109534-Reviews-John_Stark_Statue-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lehtinen Park",
+ "address": "Horse Hill Road",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/d9/b4/fa/another-set-of-trails.jpg"
+ ],
+ "tags": [
+  "hike",
+  "adventurous",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d19269154-Reviews-Lehtinen_Park-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Depot Antiques & Toys",
+ "address": "30 N Main St",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d8537323-Reviews-Depot_Antiques_Toys-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "John Parker Hale Statue",
+ "address": "107 N Main St In front of the NH State House",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d10713084-Reviews-John_Parker_Hale_Statue-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sleeplegate Mall",
+ "address": "270 Loudon Rd",
+ "avg_visitor_review": [
+  "2.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1b/31/36/88/misty-s-magic-mist-customized.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "theatre",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d13936154-Reviews-Sleeplegate_Mall-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kiwanis Riverfront Park",
+ "address": "15 Loudon Rd",
+ "avg_visitor_review": [
+  "1.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/73/b7/6d/the-park.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g46052-d12446923-Reviews-Kiwanis_Riverfront_Park-Concord_New_Hampshire.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

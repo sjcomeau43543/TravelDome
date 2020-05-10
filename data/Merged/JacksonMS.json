@@ -1,228 +1,5 @@
 [
 {
- "name": "Brices Cross Roads",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/brcr/crop16_9/CBD0A0E6-1DD8-B71B-0B48BD1C5DF13E00.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//brcr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gulf Islands",
- "address": "\n1801 Gulf Breeze Parkway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/guis/crop16_9/D33D9186-1DD8-B71B-0B1CDFA4750C3578.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//guis//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mississippi Delta",
- "address": "\nMississippi Delta National Heritage Area\nThe Delta Center for Culture & Learning\nDSU Box 3152\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mide/crop16_9/6A3A2EC1-1DD8-B71B-0B700B591D0A19D9.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "food"
- ],
- "link": [
-  "https://www.nps.gov//mide//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mississippi Gulf",
- "address": "\nMississippi Gulf Coast National Heritage Area\nMississippi Department of Marine Resources\n1141 Bayview Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/migu/crop16_9/79E57940-1DD8-B71B-0B1B85148176C364.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//migu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mississippi Hills",
- "address": "\nMississippi Hills Heritage Area Alliance\n398 East Main Street, Suite 115\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mihi/crop16_9/6F5F04BB-1DD8-B71B-0B39EA03754696B9.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//mihi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natchez",
- "address": "\n640 South Canal Street\nSuite E\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/natc/crop16_9/D6119991-1DD8-B71B-0BBD280042C2CB66.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//natc//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natchez Trace",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  "",
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
-  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.nps.gov//natr//index.htm"
-  ],
-  "https://www.nps.gov//natt//index.htm"
- ],
- "source": [
-  [
-   "NPS"
-  ],
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Shiloh",
- "address": "\n1055 Pittsburg Landing Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//shil//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tupelo",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tupe/crop16_9/F9061D16-1DD8-B71B-0BE541052AD9C8EC.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tupe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Vicksburg",
- "address": "\n3201 Clay Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/vick/crop16_9/4D0C8240-1DD8-B71B-0B784DF7D8F417FF.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//vick//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Salsa Mississippi Studio & Club",
  "address": "605 Duling Ave",
  "avg_visitor_review": [
@@ -344,20 +121,42 @@
  "name": "Eudora Welty House and Garden",
  "address": "1119 Pinehurst Pl",
  "avg_visitor_review": [
+  "5.0",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/af/e6/83/home-from-street.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/Fvl-T5P0rn7WAtuH4UgwNg/o.jpg"
  ],
  "tags": [
-  "tour"
+  "tour",
+  "family",
+  "knowledgeable",
+  "tour",
+  "walk",
+  "tour",
+  "drink",
+  "tour",
+  "wander",
+  "tour",
+  "tour",
+  "family",
+  "free",
+  "tour",
+  "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/eudora-welty-house-and-garden-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/eudora-welty-house-and-garden-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d609919-Reviews-Eudora_Welty_House_and_Garden-Jackson_Mississippi.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -763,21 +562,44 @@
  "name": "Smith Robertson Museum and Cultural Center",
  "address": "528 Bloom St",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/e3/3d/c4/desks-from-the-original.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/HF7Sv0-OiDqd4rdeuAS28Q/o.jpg"
  ],
  "tags": [
-  "historic",
+  "art",
+  "history",
+  "walking",
+  "history",
+  "history",
+  "learn",
+  "tour",
+  "learn",
+  "history",
+  "art",
+  "history",
+  "history",
+  "kids",
+  "walking",
+  "history",
+  "history",
   "historic"
  ],
  "link": [
-  "https://www.yelp.com/biz/smith-robertson-museum-and-cultural-center-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/smith-robertson-museum-and-cultural-center-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d105886-Reviews-Smith_Robertson_Museum_and_Cultural_Center-Jackson_Mississippi.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -802,18 +624,26 @@
  "name": "Mynelle Gardens",
  "address": "4736 Clinton Blvd",
  "avg_visitor_review": [
+  "4.0",
   2.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/f4/29/21/the-gardens.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/-7qeOe00IB5gAKKnMBrzBg/o.jpg"
  ],
  "tags": [],
  "link": [
-  "https://www.yelp.com/biz/mynelle-gardens-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/mynelle-gardens-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d286677-Reviews-Mynelle_Gardens-Jackson_Mississippi.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -936,22 +766,40 @@
  "name": "Mississippi State Capitol",
  "address": "400 High St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/f8/81/cd/capitol.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/QoV5Nrxex6bSo-iw9RqOzA/o.jpg"
  ],
  "tags": [
-  "free",
+  "tour",
+  "historic",
+  "drink",
+  "tour",
+  "structure",
+  "historic",
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "history",
   "tour",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/mississippi-state-capitol-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/mississippi-state-capitol-jackson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d105887-Reviews-Mississippi_State_Capitol-Jackson_Mississippi.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1207,6 +1055,945 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Brices Cross Roads",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/brcr/crop16_9/CBD0A0E6-1DD8-B71B-0B48BD1C5DF13E00.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//brcr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gulf Islands",
+ "address": "\n1801 Gulf Breeze Parkway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/guis/crop16_9/D33D9186-1DD8-B71B-0B1CDFA4750C3578.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//guis//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Delta",
+ "address": "\nMississippi Delta National Heritage Area\nThe Delta Center for Culture & Learning\nDSU Box 3152\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mide/crop16_9/6A3A2EC1-1DD8-B71B-0B700B591D0A19D9.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "food"
+ ],
+ "link": [
+  "https://www.nps.gov//mide//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Gulf",
+ "address": "\nMississippi Gulf Coast National Heritage Area\nMississippi Department of Marine Resources\n1141 Bayview Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/migu/crop16_9/79E57940-1DD8-B71B-0B1B85148176C364.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//migu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Hills",
+ "address": "\nMississippi Hills Heritage Area Alliance\n398 East Main Street, Suite 115\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mihi/crop16_9/6F5F04BB-1DD8-B71B-0B39EA03754696B9.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//mihi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natchez",
+ "address": "\n640 South Canal Street\nSuite E\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/natc/crop16_9/D6119991-1DD8-B71B-0BBD280042C2CB66.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//natc//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natchez Trace",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  "",
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
+  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.nps.gov//natr//index.htm"
+  ],
+  "https://www.nps.gov//natt//index.htm"
+ ],
+ "source": [
+  [
+   "NPS"
+  ],
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Shiloh",
+ "address": "\n1055 Pittsburg Landing Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//shil//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tupelo",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tupe/crop16_9/F9061D16-1DD8-B71B-0BE541052AD9C8EC.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tupe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Vicksburg",
+ "address": "\n3201 Clay Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/vick/crop16_9/4D0C8240-1DD8-B71B-0B784DF7D8F417FF.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//vick//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Civil Rights Museum",
+ "address": "222 North Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/1e/a8/e5/mississippi-civil-rights.jpg"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "history",
+  "history",
+  "unique",
+  "art",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d13382408-Reviews-Mississippi_Civil_Rights_Museum-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Museum of Natural Science",
+ "address": "2148 Riverside Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/84/fb/bb/explore-an-entire-wall.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "nature",
+  "walking",
+  "kids",
+  "walking",
+  "family",
+  "nature",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d109484-Reviews-Mississippi_Museum_of_Natural_Science-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Medgar Evers Home",
+ "address": "2332 Margaret W Alexander Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/2b/70/01/jackson.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "tour",
+  "history",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d286679-Reviews-Medgar_Evers_Home-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Children's Museum",
+ "address": "2145 Museum Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/ef/1a/63/mississippi-children.jpg"
+ ],
+ "tags": [
+  "art",
+  "theatre",
+  "kids",
+  "kids",
+  "kids",
+  "kids",
+  "family",
+  "kids",
+  "walk",
+  "family",
+  "art",
+  "theatre",
+  "kids",
+  "learn",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d2010240-Reviews-Mississippi_Children_s_Museum-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Capitol Museum",
+ "address": "100 S State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/55/37/58/photo0jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "history",
+  "organized",
+  "free",
+  "tour",
+  "history",
+  "free",
+  "history",
+  "history",
+  "walk",
+  "free",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d109481-Reviews-Old_Capitol_Museum-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Museum of Art",
+ "address": "380 S Lamar St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/74/4f/39/mississippi-museum-of.jpg"
+ ],
+ "tags": [
+  "art",
+  "free",
+  "tour",
+  "organized",
+  "field",
+  "family",
+  "art",
+  "free",
+  "eat",
+  "art",
+  "unique",
+  "walk",
+  "tour",
+  "unique",
+  "knowledgeable",
+  "art",
+  "art",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d286673-Reviews-Mississippi_Museum_of_Art-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Agricultural & Forestry Museum",
+ "address": "1150 Lakeland Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/8c/11/29/mississippi-agricultural.jpg"
+ ],
+ "tags": [
+  "walking",
+  "history",
+  "tour",
+  "historic",
+  "kids",
+  "learn",
+  "walking",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d1028894-Reviews-Mississippi_Agricultural_Forestry_Museum-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Mississippi History",
+ "address": "222 North St Suite 1206",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/8f/c1/02/scenic-overview-of-museum.jpg"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "food",
+  "history",
+  "practical",
+  "history",
+  "free",
+  "food",
+  "history",
+  "practical",
+  "historic",
+  "history",
+  "free",
+  "food",
+  "history",
+  "practical",
+  "free",
+  "tour",
+  "history",
+  "walk",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d13271835-Reviews-Museum_of_Mississippi_History-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathead Distillery",
+ "address": "422 S Farish St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/bf/91/85/cathead-distillery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "music",
+  "food",
+  "tour",
+  "history",
+  "tasting",
+  "tour",
+  "tour",
+  "walk",
+  "tour",
+  "tasting",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d9786783-Reviews-Cathead_Distillery-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LeFleur's Bluff State Park",
+ "address": "3315 Lakeland Ter",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/6a/15/0a/on-the-banks-of-the-pearl.jpg"
+ ],
+ "tags": [
+  "walking",
+  "parks",
+  "hike",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d9996404-Reviews-LeFleur_s_Bluff_State_Park-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Jackson Zoo",
+ "address": "2918 W Capitol St",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/8d/58/6a/orangutan.jpg"
+ ],
+ "tags": [
+  "active",
+  "kids",
+  "knowledgeable",
+  "family",
+  "active",
+  "walk",
+  "walking",
+  "kids",
+  "family",
+  "walk",
+  "walk",
+  "family",
+  "kids",
+  "drink"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d109488-Reviews-The_Jackson_Zoo-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Governor's Mansion",
+ "address": "300 E Capitol St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/31/d5/e9/front-view.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "family",
+  "free",
+  "tour",
+  "free",
+  "unique",
+  "knowledgeable",
+  "structure",
+  "tour",
+  "history",
+  "knowledgeable",
+  "walk",
+  "tour",
+  "history",
+  "tour",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563602-Reviews-Mississippi_Governor_s_Mansion-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Greyhound Bus Station",
+ "address": "219 N Lamar St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/c1/d3/4e/historic-greyhound-station.jpg"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "history",
+  "free",
+  "history",
+  "walk",
+  "historic",
+  "history",
+  "history",
+  "free",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d13372713-Reviews-Old_Greyhound_Bus_Station-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Farish Street Historical District",
+ "address": "Farish Street",
+ "avg_visitor_review": [
+  "2.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/60/00/1b/farish-street.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "walk",
+  "historic",
+  "history",
+  "music",
+  "history",
+  "food",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d286681-Reviews-Farish_Street_Historical_District-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Jackson State University",
+ "address": "1400 J R Lynch St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/10/75/08/jackson-state-university.jpg"
+ ],
+ "tags": [
+  "walk",
+  "library",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563594-Reviews-Jackson_State_University-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi Sports Hall of Fame",
+ "address": "1152 Lakeland Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1f/67/8a/mississippi-sports-hall.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "knowledgeable",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d278865-Reviews-Mississippi_Sports_Hall_of_Fame-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Original First Baptist Church",
+ "address": "431 N State St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/f2/ff/first-baptist-church.jpg"
+ ],
+ "tags": [
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563611-Reviews-Original_First_Baptist_Church-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi War Memorial Building",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/c3/fa/6b/front-of-war-memorial.jpg"
+ ],
+ "tags": [
+  "walking",
+  "history",
+  "structure",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d109489-Reviews-Mississippi_War_Memorial_Building-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of St. Peter the Apostle",
+ "address": "123 N West St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/a5/5e/8c/sanctuary-of-st-peters.jpg"
+ ],
+ "tags": [
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563583-Reviews-Cathedral_of_St_Peter_the_Apostle-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Belhaven University",
+ "address": "1500 Peachtree St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "walk",
+  "tour",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563582-Reviews-Belhaven_University-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alamo Theater",
+ "address": "333 N Farish St",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/f2/fd/the-old-alamo-on-farish.jpg"
+ ],
+ "tags": [
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563581-Reviews-Alamo_Theater-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lamar Life Building",
+ "address": "317 E Capitol St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/cf/6c/4a/lamar-life-building-once.jpg"
+ ],
+ "tags": [
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563596-Reviews-Lamar_Life_Building-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Andrew's Cathedral",
+ "address": "305 E Capitol St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d12274225-Reviews-St_Andrew_s_Cathedral-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oaks Museum House",
+ "address": "823 N Jefferson St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a8/f2/af/a-view-of-the-oaks-from.jpg"
+ ],
+ "tags": [
+  "family",
+  "history",
+  "tour",
+  "knowledgeable",
+  "history",
+  "family",
+  "historic",
+  "field",
+  "tour",
+  "family",
+  "tour",
+  "family",
+  "walking",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d563609-Reviews-Oaks_Museum_House-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Russell C Davis Planetarium",
+ "address": "201 E Pascagoula St",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "unique",
+  "field",
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d109485-Reviews-Russell_C_Davis_Planetarium-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Stage Theatre",
+ "address": "1100 Carlisle St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "performance",
+  "performance"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43833-d11773316-Reviews-New_Stage_Theatre-Jackson_Mississippi.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

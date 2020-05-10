@@ -1,91 +1,5 @@
 [
 {
- "name": "George Rogers Clark",
- "address": "\n401 S. 2nd Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/gero/crop16_9/468B7EB4-D267-CF80-19BBFC2D39512181.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//gero//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Indiana Dunes",
- "address": "\n1100 North Mineral Springs Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/indu/crop16_9/2E67B413-0CF4-4C27-7A4714C8A130F68B.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//indu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lincoln Boyhood",
- "address": "\n3027 East South Street\nPO Box 1816\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/libo/crop16_9/9FD7E53A-BE05-340A-9ECB876AF19F101D.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//libo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "The Hot Room Indianapolis",
  "address": "3855 E 96th St",
  "avg_visitor_review": [
@@ -107,20 +21,45 @@
  "name": "Indianapolis Motor Speedway Museum",
  "address": "4750 W 16th St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/2c/45/8b/the-indianapolis-motor.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/OczNdxhaJZ71f3Gpd1DFsQ/o.jpg"
  ],
  "tags": [
-  "history"
+  "tour",
+  "history",
+  "theatre",
+  "historic",
+  "tour",
+  "history",
+  "knowledgeable",
+  "history",
+  "walk",
+  "food",
+  "unique",
+  "tour",
+  "history",
+  "historic",
+  "kids",
+  "family",
+  "history",
+  "tour"
  ],
  "link": [
-  "https://www.yelp.com/biz/indianapolis-motor-speedway-museum-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/indianapolis-motor-speedway-museum-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103672-Reviews-Indianapolis_Motor_Speedway_Museum-Indianapolis_Indiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -327,18 +266,44 @@
  "name": "Lucas Oil Stadium",
  "address": "500 S Capitol Ave",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/7a/54/14/gameday.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/1ofZ5wpJc8QICZqqBoBMUg/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "family",
+  "tour",
+  "field",
+  "walk",
+  "tour",
+  "field",
+  "walk",
+  "music",
+  "food",
+  "walking",
+  "music",
+  "food",
+  "kids",
+  "walk",
+  "cheap",
+  "food",
+  "tour"
+ ],
  "link": [
-  "https://www.yelp.com/biz/lucas-oil-stadium-indianapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/lucas-oil-stadium-indianapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1633438-Reviews-Lucas_Oil_Stadium-Indianapolis_Indiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -366,21 +331,48 @@
  "name": "Indiana State Museum",
  "address": "650 W Washington St",
  "avg_visitor_review": [
+  "4.5",
   4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/a8/54/b7/downtown-view-from-indiana.jpg",
   "https://s3-media3.fl.yelpcdn.com/bphoto/BNoY_HwWdPIZxN-qkb7v6w/o.jpg"
  ],
  "tags": [
-  "kids",
+  "history",
+  "walk",
+  "walking",
+  "history",
+  "free",
+  "theatre",
+  "food",
+  "tour",
+  "walking",
+  "history",
+  "free",
+  "theatre",
+  "history",
+  "knowledgeable",
+  "food",
+  "history",
+  "learn",
+  "art",
+  "structure",
+  "history",
   "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/indiana-state-museum-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/indiana-state-museum-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d274288-Reviews-Indiana_State_Museum-Indianapolis_Indiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -745,24 +737,43 @@
  "name": "Fort Harrison State Park",
  "address": "5753 Glenn Rd",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/4e/0f/f9/fall-creek-trail.jpg",
   "https://s3-media1.fl.yelpcdn.com/bphoto/8sNGNbpKQf94VS0LX1OfQg/o.jpg"
  ],
  "tags": [
-  "parks",
-  "hike",
-  "parks",
+  "history",
   "nature",
-  "family"
+  "hike",
+  "history",
+  "pets",
+  "hike",
+  "family",
+  "kids",
+  "hike",
+  "hike",
+  "history",
+  "nature",
+  "hike",
+  "history",
+  "hike",
+  "parks"
  ],
  "link": [
-  "https://www.yelp.com/biz/fort-harrison-state-park-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/fort-harrison-state-park-indianapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d274341-Reviews-Fort_Harrison_State_Park-Indianapolis_Indiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1040,18 +1051,29 @@
  "name": "Indiana Repertory Theatre",
  "address": "140 W Washington St",
  "avg_visitor_review": [
+  "5.0",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/0f/13/c7/indiana-repertory-theatre.jpg",
   "https://s3-media2.fl.yelpcdn.com/bphoto/l3hTrRtaI9KPpBcFo4W7BQ/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "theatre",
+  "theatre"
+ ],
  "link": [
-  "https://www.yelp.com/biz/indiana-repertory-theatre-indianapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/indiana-repertory-theatre-indianapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d209352-Reviews-Indiana_Repertory_Theatre-Indianapolis_Indiana.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1070,6 +1092,833 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "George Rogers Clark",
+ "address": "\n401 S. 2nd Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/gero/crop16_9/468B7EB4-D267-CF80-19BBFC2D39512181.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//gero//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana Dunes",
+ "address": "\n1100 North Mineral Springs Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/indu/crop16_9/2E67B413-0CF4-4C27-7A4714C8A130F68B.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//indu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lincoln Boyhood",
+ "address": "\n3027 East South Street\nPO Box 1816\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/libo/crop16_9/9FD7E53A-BE05-340A-9ECB876AF19F101D.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//libo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Museum of Indianapolis",
+ "address": "3000 N Meridian St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/02/60/b8/the-welcome-center-at.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "art",
+  "family",
+  "kids",
+  "food",
+  "walking",
+  "creative",
+  "free",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103671-Reviews-Children_s_Museum_of_Indianapolis-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indianapolis Museum of Art",
+ "address": "4000 Michigan Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d7/9a/11/indianapolis-museum-of.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "art",
+  "walking",
+  "family",
+  "art",
+  "nature",
+  "free",
+  "library",
+  "historic",
+  "performance",
+  "art",
+  "family",
+  "art",
+  "walking",
+  "art",
+  "nature",
+  "art",
+  "art",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103675-Reviews-Indianapolis_Museum_of_Art-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Central Canal",
+ "address": "337 W 11th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/78/98/e9/the-white-river-canal.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "walk",
+  "art",
+  "walk",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1682106-Reviews-Central_Canal-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Victory Field",
+ "address": "501 W Maryland St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/82/ed/ec/filename-p1060313-jpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "field",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d2242259-Reviews-Victory_Field-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indianapolis Zoo",
+ "address": "1200 W Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/9c/33/08/indianapolis-zoo.jpg"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "kids",
+  "tour",
+  "walk",
+  "free",
+  "walk",
+  "walk",
+  "kids",
+  "family",
+  "food",
+  "learn",
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103676-Reviews-Indianapolis_Zoo-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Benjamin Harrison Presidential Site",
+ "address": "1230 N Delaware St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/c3/8e/26/benjamin-harrison-presidential.jpg"
+ ],
+ "tags": [
+  "historic",
+  "library",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "parks",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "unique",
+  "tour",
+  "family",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d274423-Reviews-Benjamin_Harrison_Presidential_Site-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Monument Circle",
+ "address": "100 Monument Cir",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/7f/31/dc/img-20180614-110355-largejpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "food",
+  "walk",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d7038008-Reviews-Monument_Circle-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Eiteljorg Museum",
+ "address": "500 W Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/33/9a/f3/eiteljorg-museum.jpg"
+ ],
+ "tags": [
+  "music",
+  "art",
+  "food",
+  "educate",
+  "history",
+  "free",
+  "art",
+  "tour",
+  "history",
+  "art",
+  "family",
+  "free",
+  "art",
+  "learn",
+  "active",
+  "field",
+  "art",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d110141-Reviews-The_Eiteljorg_Museum-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indy 500",
+ "address": "4790 W 16th St Indianapolis Motor Speedway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/67/b2/1d/indianapolis-motor-speedway.jpg"
+ ],
+ "tags": [
+  "history",
+  "family",
+  "history",
+  "walk",
+  "food",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d8820259-Reviews-Indy_500-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eagle Creek Park",
+ "address": "7840 W 56th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/50/b7/58/docking-rick-s-visitor.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "kids",
+  "nature",
+  "family",
+  "nature",
+  "parks",
+  "walk",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d274124-Reviews-Eagle_Creek_Park-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "White River State Park",
+ "address": "801 W Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/8d/ac/cf/white-river-state-park.jpg"
+ ],
+ "tags": [
+  "historic",
+  "field",
+  "theatre",
+  "art",
+  "field",
+  "walk",
+  "walk",
+  "walking",
+  "historic",
+  "field",
+  "theatre",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d278809-Reviews-White_River_State_Park-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bankers Life Fieldhouse",
+ "address": "125 S Pennsylvania St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/8e/b3/88/view-from-200-level-seat.jpg"
+ ],
+ "tags": [
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d616522-Reviews-Bankers_Life_Fieldhouse-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana Convention Center",
+ "address": "100 S Capitol Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/76/dc/d5/entrance.jpg"
+ ],
+ "tags": [
+  "art",
+  "food",
+  "unique",
+  "walking",
+  "free",
+  "walk",
+  "organized",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1419413-Reviews-Indiana_Convention_Center-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana War Memorial",
+ "address": "51 E Michigan St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/7f/27/38/img-20180614-115040-largejpg.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "organized",
+  "tour",
+  "free",
+  "free",
+  "historic",
+  "history",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103677-Reviews-Indiana_War_Memorial-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Garfield Park Conservatory & Sunken Garden",
+ "address": "2505 Conservatory Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/ce/74/5a/the-conservatory-as-seen.jpg"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "kids",
+  "music",
+  "walk",
+  "learn",
+  "walk",
+  "walking",
+  "library",
+  "walk",
+  "field",
+  "theatre",
+  "walk",
+  "walk",
+  "kids",
+  "free",
+  "walk",
+  "active",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d2516904-Reviews-Garfield_Park_Conservatory_Sunken_Garden-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana State Capitol",
+ "address": "200 W Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/b7/ac/3f/the-full-view-of-the.jpg"
+ ],
+ "tags": [
+  "kids",
+  "tour",
+  "history",
+  "family",
+  "historic",
+  "library",
+  "structure",
+  "tour",
+  "tour",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d2494163-Reviews-Indiana_State_Capitol-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Holliday Park",
+ "address": "6363 Spring Mill Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/e5/fc/5a/ruins.jpg"
+ ],
+ "tags": [
+  "nature",
+  "parks",
+  "kids",
+  "eat",
+  "free",
+  "nature",
+  "kids",
+  "walking",
+  "nature",
+  "kids",
+  "nature",
+  "walk",
+  "parks",
+  "nature",
+  "hike",
+  "walking",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d2572220-Reviews-Holliday_Park-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Soldiers & Sailors Monument",
+ "address": "1 Monument Cir",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5c/1d/4c/it-s-like-a-postcard.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "free",
+  "art",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d126367-Reviews-Soldiers_Sailors_Monument-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Crown Hill Cemetery",
+ "address": "700 W 38th St At the corner of 38th St. & Clarendon Rd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/0a/d2/e7/crown-hill-cemetery-s.jpg"
+ ],
+ "tags": [
+  "walking",
+  "historic",
+  "family",
+  "family",
+  "history",
+  "walk",
+  "tour",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d103673-Reviews-Crown_Hill_Cemetery-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rhythm! Discovery Center",
+ "address": "110 W Washington St Ste A Suite A",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/89/50/47/rhythm-discovery-center.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "creative",
+  "kids",
+  "family",
+  "music",
+  "music",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1682087-Reviews-Rhythm_Discovery_Center-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indy Racing Experience",
+ "address": "2 Gasoline Aly",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/df/3c/ee/indy-racing-experience.jpg"
+ ],
+ "tags": [
+  "organized"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1526497-Reviews-Indy_Racing_Experience-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Oldfields-Lilly House and Gardens",
+ "address": "Indianapolis Museum of Art  4000 Michigan Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/be/e9/36/oldfields-lilly-house.jpg"
+ ],
+ "tags": [
+  "nature",
+  "sampling",
+  "family",
+  "library",
+  "historic",
+  "art",
+  "kids",
+  "walk",
+  "history",
+  "family",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d1182171-Reviews-Oldfields_Lilly_House_and_Gardens-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana Historical Society",
+ "address": "450 W Ohio St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/5e/3f/indiana-history-center.jpg"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "eat",
+  "learn",
+  "history",
+  "historic",
+  "walk",
+  "history",
+  "library",
+  "delicious",
+  "free",
+  "kids",
+  "history",
+  "history",
+  "family",
+  "walk",
+  "history",
+  "music",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d110138-Reviews-Indiana_Historical_Society-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Indiana State Fairgrounds",
+ "address": "1202 E 38th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/18/c9/70/indiana-state-fairgrounds.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "family",
+  "music",
+  "unique",
+  "family",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d7092430-Reviews-Indiana_State_Fairgrounds-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Fashion Mall at Keystone",
+ "address": "8702 Keystone Xing",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/c9/a1/4a/the-keystone-fashion.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "structure",
+  "field",
+  "art",
+  "food",
+  "eat",
+  "walk",
+  "food",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g37209-d4492561-Reviews-The_Fashion_Mall_at_Keystone-Indianapolis_Indiana.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

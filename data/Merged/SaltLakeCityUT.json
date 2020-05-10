@@ -1,378 +1,5 @@
 [
 {
- "name": "Arches",
- "address": "\nPO Box 907\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/arch/crop16_9/8E09FEF8-1DD8-B71B-0BB792C19048545A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//arch//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Bryce Canyon",
- "address": "\nP.O Box 640201\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/brca/crop16_9/BF863E02-C560-530D-CFF6C2CF258F1E15.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//brca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Canyonlands",
- "address": "\n2282 Resource Blvd.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cany/crop16_9/1A026442-0E6C-578B-C19DF6D0A7BE5CE3.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "sightseeing"
- ],
- "link": [
-  "https://www.nps.gov//cany//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Capitol Reef",
- "address": "\nHC 70, Box 15\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/care/crop16_9/65009B3C-D6CC-ECAF-41D777DE424053DE.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//care//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cedar Breaks",
- "address": "\nCedar Breaks National Monument: Administrative Office\n2390 West Highway 56\nSuite #11\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cebr/crop16_9/5585A05D-1DD8-B71B-0B4FEF0BB885403A.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "parks",
-  "wander"
- ],
- "link": [
-  "https://www.nps.gov//cebr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Dinosaur",
- "address": "\n4545 Hwy 40\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/dino/crop16_9/02BBF56A-1DD8-B71B-0B55BEAA1C13EF54.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//dino//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Glen Canyon",
- "address": "\nPO Box 1507\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/glca/crop16_9/84C871F3-1DD8-B71B-0BCAD116B65E0D38.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//glca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Golden Spike",
- "address": "\nP. O. Box 897\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/gosp/crop16_9/2A860B73-0AB7-CC4A-AFB11CD3E2422C57.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//gosp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Hovenweep",
- "address": "\nMcElmo Route\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/hove/crop16_9/40251FB3-1DD8-B71B-0B9ABE12436B5AF7.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//hove//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mormon Pioneer",
- "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//mopi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natural Bridges",
- "address": "\nHC-60 Box 1\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/nabr/crop16_9/3ECAFA5A-1DD8-B71B-0BB699FE31FE4933.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//nabr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Old Spanish",
- "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//olsp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Rainbow Bridge",
- "address": "\nc/o Glen Canyon National Recreation Area\nPO Box 1507\n691 Scenic View Dr\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/rabr/crop16_9/8EA6CC82-1DD8-B71B-0BA1AD603D42BE78.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//rabr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Timpanogos Cave",
- "address": "\n2038 W. Alpine Loop Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tica/crop16_9/A81DF35B-1DD8-B71B-0BDD27A64C5037DA.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "hike"
- ],
- "link": [
-  "https://www.nps.gov//tica//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Zion",
- "address": "\nZion National Park\n1 Zion Park Blvd.\nState Route 9\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/zion/crop16_9/CC10451A-0174-188E-5AE3B11C9227F42D.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//zion//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Thousand Peaks Snowmobiling",
  "address": "8341 E Weber Canyon Rd",
  "avg_visitor_review": [
@@ -1026,18 +653,35 @@
  "name": "Red Butte Garden",
  "address": "300 Wakara Way",
  "avg_visitor_review": [
+  "4.5",
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6c/1f/46/red-butte-garden.jpg",
   "https://s3-media4.fl.yelpcdn.com/bphoto/_i_4xIixO_2lPFOsoReCEw/o.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walking",
+  "tour",
+  "walk",
+  "hike",
+  "walking",
+  "art",
+  "creative",
+  "kids"
+ ],
  "link": [
-  "https://www.yelp.com/biz/red-butte-garden-salt-lake-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.yelp.com/biz/red-butte-garden-salt-lake-city-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  ],
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d269627-Reviews-Red_Butte_Garden-Salt_Lake_City_Utah.html"
  ],
  "source": [
-  "Yelp"
+  [
+   "Yelp"
+  ],
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1355,6 +999,1187 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Arches",
+ "address": "\nPO Box 907\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/arch/crop16_9/8E09FEF8-1DD8-B71B-0BB792C19048545A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//arch//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Bryce Canyon",
+ "address": "\nP.O Box 640201\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/brca/crop16_9/BF863E02-C560-530D-CFF6C2CF258F1E15.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//brca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Canyonlands",
+ "address": "\n2282 Resource Blvd.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cany/crop16_9/1A026442-0E6C-578B-C19DF6D0A7BE5CE3.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "sightseeing"
+ ],
+ "link": [
+  "https://www.nps.gov//cany//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Reef",
+ "address": "\nHC 70, Box 15\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/care/crop16_9/65009B3C-D6CC-ECAF-41D777DE424053DE.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//care//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cedar Breaks",
+ "address": "\nCedar Breaks National Monument: Administrative Office\n2390 West Highway 56\nSuite #11\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cebr/crop16_9/5585A05D-1DD8-B71B-0B4FEF0BB885403A.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "parks",
+  "wander"
+ ],
+ "link": [
+  "https://www.nps.gov//cebr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Dinosaur",
+ "address": "\n4545 Hwy 40\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/dino/crop16_9/02BBF56A-1DD8-B71B-0B55BEAA1C13EF54.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//dino//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Glen Canyon",
+ "address": "\nPO Box 1507\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/glca/crop16_9/84C871F3-1DD8-B71B-0BCAD116B65E0D38.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//glca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Golden Spike",
+ "address": "\nP. O. Box 897\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/gosp/crop16_9/2A860B73-0AB7-CC4A-AFB11CD3E2422C57.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//gosp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Hovenweep",
+ "address": "\nMcElmo Route\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/hove/crop16_9/40251FB3-1DD8-B71B-0B9ABE12436B5AF7.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//hove//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mormon Pioneer",
+ "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//mopi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natural Bridges",
+ "address": "\nHC-60 Box 1\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/nabr/crop16_9/3ECAFA5A-1DD8-B71B-0BB699FE31FE4933.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//nabr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//olsp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Rainbow Bridge",
+ "address": "\nc/o Glen Canyon National Recreation Area\nPO Box 1507\n691 Scenic View Dr\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/rabr/crop16_9/8EA6CC82-1DD8-B71B-0BA1AD603D42BE78.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//rabr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Timpanogos Cave",
+ "address": "\n2038 W. Alpine Loop Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tica/crop16_9/A81DF35B-1DD8-B71B-0BDD27A64C5037DA.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "hike"
+ ],
+ "link": [
+  "https://www.nps.gov//tica//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Zion",
+ "address": "\nZion National Park\n1 Zion Park Blvd.\nState Route 9\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/zion/crop16_9/CC10451A-0174-188E-5AE3B11C9227F42D.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//zion//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Big Cottonwood Canyon",
+ "address": "Big Cottonwood Canyon Rd Uintah-Wasatch-Cache National Forest",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/eb/2c/a7/big-cottonwood-canyon.jpg"
+ ],
+ "tags": [
+  "eat",
+  "nature",
+  "field",
+  "walking",
+  "unique",
+  "walk",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d255182-Reviews-Big_Cottonwood_Canyon-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Natural History Museum of Utah",
+ "address": "301 S Wakara Way",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/34/0d/a5/natural-history-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "unique",
+  "learn",
+  "kids",
+  "organized",
+  "hike",
+  "history",
+  "tour",
+  "eat",
+  "kids",
+  "history",
+  "food",
+  "tour",
+  "history",
+  "nature",
+  "learn",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d2415414-Reviews-Natural_History_Museum_of_Utah-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Temple Square",
+ "address": "50 W North Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/82/50/4d/the-assembly-hall.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "delicious",
+  "history",
+  "history",
+  "history",
+  "free",
+  "library",
+  "family",
+  "history",
+  "food",
+  "free",
+  "walking",
+  "music",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d103552-Reviews-Temple_Square-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Utah State Capitol",
+ "address": "350 N State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/be/c2/12/img-20160621-064615-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "unique",
+  "free",
+  "tour",
+  "history",
+  "free",
+  "tour",
+  "history",
+  "history",
+  "tour",
+  "walking",
+  "walk",
+  "tour",
+  "free",
+  "affordable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d144020-Reviews-Utah_State_Capitol-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Tabernacle",
+ "address": "50 E North Temple (at the Temple Square Tabernacle)",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/5e/0a/df/pipe-organ-the-color.jpg"
+ ],
+ "tags": [
+  "free",
+  "tour",
+  "history",
+  "free",
+  "music",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d107701-Reviews-The_Tabernacle-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "City Creek Center",
+ "address": "50 S Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/02/f8/c1/nordstrom-court.jpg"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "free",
+  "food",
+  "food",
+  "walk",
+  "eat",
+  "family",
+  "library",
+  "food",
+  "history",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d2692220-Reviews-City_Creek_Center-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Clark Planetarium",
+ "address": "110 S 400 W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/08/4b/89/clark-planetarium.jpg"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "theatre",
+  "free",
+  "walk",
+  "free",
+  "kids",
+  "unique",
+  "walk",
+  "free",
+  "theatre",
+  "kids",
+  "free",
+  "free",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d531654-Reviews-Clark_Planetarium-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Liberty Park",
+ "address": "1100 E 600 S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/62/52/bc/liberty-park.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "historic",
+  "art",
+  "walking",
+  "free",
+  "pets",
+  "food",
+  "family",
+  "parks",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d140393-Reviews-Liberty_Park-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tracy Aviary",
+ "address": "589 E 1300 S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/3d/da/12/say-cheese.jpg"
+ ],
+ "tags": [
+  "wander",
+  "kids",
+  "food",
+  "food",
+  "family",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d216552-Reviews-Tracy_Aviary-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salt Lake Temple",
+ "address": "50 W North Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/41/82/b6/salt-lake-temple.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "unique",
+  "family",
+  "history",
+  "walk",
+  "learn",
+  "family",
+  "tour",
+  "walk",
+  "free",
+  "structure",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d275214-Reviews-Salt_Lake_Temple-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LDS Conference Center",
+ "address": "60 W North Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/84/cf/a4/the-main-auditorium.jpg"
+ ],
+ "tags": [
+  "art",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d2179845-Reviews-LDS_Conference_Center-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ensign Peak Park",
+ "address": "1002 N Ensign Vista Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/38/31/ba/view-to-the-downtown.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d2226745-Reviews-Ensign_Peak_Park-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of the Madeleine",
+ "address": "331 E South Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/79/3f/ff/cathedral-of-the-madeline.jpg"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "unique",
+  "walk",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d564569-Reviews-Cathedral_of_the_Madeleine-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Great Salt Lake",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/93/97/df/antelope-island-prong.jpg"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d103555-Reviews-Great_Salt_Lake-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Utah's Hogle Zoo",
+ "address": "2600 E Sunnyside Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/1a/e0/7e/01/nikolai-the-tiger.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walk",
+  "active",
+  "active",
+  "free",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d140833-Reviews-Utah_s_Hogle_Zoo-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Smith's Ballpark",
+ "address": "77 W 1300 S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/a7/16/17/smith-s-ballpark.jpg"
+ ],
+ "tags": [
+  "field",
+  "food",
+  "field",
+  "affordable",
+  "kids",
+  "unique",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d4432910-Reviews-Smith_s_Ballpark-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wheeler Historic Farm",
+ "address": "6351 S 900 E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/f5/f2/b7/wheeler-historic-farm.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "historic",
+  "learn",
+  "family",
+  "walk",
+  "eat",
+  "tour",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d140260-Reviews-Wheeler_Historic_Farm-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mill Creek Canyon",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/28/6f/b2/mill-creek-canyon.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "walk",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d255181-Reviews-Mill_Creek_Canyon-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salt Lake City Public Library",
+ "address": "210 E 400 S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/a0/c6/aa/salt-lake-city-public.jpg"
+ ],
+ "tags": [
+  "library",
+  "free",
+  "eat",
+  "library",
+  "kids",
+  "food",
+  "creative",
+  "library",
+  "library",
+  "unique",
+  "library",
+  "library",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d564580-Reviews-Salt_Lake_City_Public_Library-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Memory Grove Park",
+ "address": "370 N Canyon Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/63/3c/88/memory-grove-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "history",
+  "walk",
+  "hike",
+  "kids",
+  "walking",
+  "walk",
+  "kids",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d149473-Reviews-Memory_Grove_Park-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lake  Blanche Trail",
+ "address": "Mile Marker 7 Big Cottonwood Canyon",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/89/83/64/blansh-lake-trail.jpg"
+ ],
+ "tags": [
+  "hike",
+  "walking",
+  "hike",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d4860251-Reviews-Lake_Blanche_Trail-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kindig It Design",
+ "address": "164 E Hill Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/e3/94/3f/photo4jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "organized",
+  "tour",
+  "tour",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d10788485-Reviews-Kindig_It_Design-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salt Palace Convention Center",
+ "address": "100 S West Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/8a/15/c6/salt-palace-convention.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d1419968-Reviews-Salt_Palace_Convention_Center-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "TRAX Light Rail System",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/38/38/c1/the-train.jpg"
+ ],
+ "tags": [
+  "free",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d10473661-Reviews-TRAX_Light_Rail_System-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eccles Theater",
+ "address": "131 S Main St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/15/5c/8b/photo1jpg.jpg"
+ ],
+ "tags": [
+  "performance",
+  "eat",
+  "walking",
+  "performance",
+  "family",
+  "free",
+  "theatre"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d12310893-Reviews-Eccles_Theater-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Joseph Smith Memorial Building",
+ "address": "15 E South Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/60/36/25/photo0jpg.jpg"
+ ],
+ "tags": [
+  "music",
+  "tour",
+  "eat",
+  "free",
+  "food",
+  "tour",
+  "walk",
+  "eat",
+  "food",
+  "tour",
+  "food",
+  "unique",
+  "active"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d144018-Reviews-Joseph_Smith_Memorial_Building-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Land Cruiser Heritage Museum",
+ "address": "470 West 600 South, Salt Lake City, Utah",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/fd/43/66/land-cruiser-heritage.jpg"
+ ],
+ "tags": [
+  "unique",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d12229408-Reviews-Land_Cruiser_Heritage_Museum-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Church History Museum",
+ "address": "45 N West Temple",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/a2/94/79/church-history-museum.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "history",
+  "unique",
+  "learn",
+  "history",
+  "free",
+  "family",
+  "history",
+  "learn",
+  "free",
+  "family",
+  "history",
+  "tour",
+  "theatre",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d140739-Reviews-Church_History_Museum-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Great Salt Lake State Park",
+ "address": "",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/5c/9f/9e/great-salt-lake-state.jpg"
+ ],
+ "tags": [
+  "family",
+  "learn",
+  "walking",
+  "nature",
+  "learn",
+  "learn",
+  "walk",
+  "hike",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60922-d272251-Reviews-Great_Salt_Lake_State_Park-Salt_Lake_City_Utah.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]

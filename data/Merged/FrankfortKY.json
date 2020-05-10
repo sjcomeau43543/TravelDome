@@ -1,176 +1,5 @@
 [
 {
- "name": "Abraham Lincoln Birthplace",
- "address": "\n2995 Lincoln Farm Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/abli/crop16_9/57B100F7-E2DF-11ED-BF920EDADC954F4B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//abli//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Big South Fork",
- "address": "\n4564 Leatherwood Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//biso//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Camp Nelson",
- "address": "\n6614 Old Danville Road\nLoop 2\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cane/crop16_9/756C4D33-D591-BD5A-467D7AA8F6A731FF.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cane//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cumberland Gap",
- "address": "\n91 Bartlett Park Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cuga//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Donelson",
- "address": "\n174 National Cemetery Drive\nPO Box 434\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fodo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Lewis & Clark",
- "address": "\n601 Riverfront Dr.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//lecl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mammoth Cave",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/maca/crop16_9/8F11D0EF-C455-8A36-7AD2D38C92A0263B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "nature"
- ],
- "link": [
-  "https://www.nps.gov//maca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
  "name": "Endless Summer Paddle and Coffee",
  "address": "1301 Frankfort Ave",
  "avg_visitor_review": [
@@ -1150,6 +979,1041 @@
  ],
  "source": [
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Abraham Lincoln Birthplace",
+ "address": "\n2995 Lincoln Farm Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/abli/crop16_9/57B100F7-E2DF-11ED-BF920EDADC954F4B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//abli//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Big South Fork",
+ "address": "\n4564 Leatherwood Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//biso//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Camp Nelson",
+ "address": "\n6614 Old Danville Road\nLoop 2\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cane/crop16_9/756C4D33-D591-BD5A-467D7AA8F6A731FF.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cane//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cumberland Gap",
+ "address": "\n91 Bartlett Park Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cuga//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Donelson",
+ "address": "\n174 National Cemetery Drive\nPO Box 434\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fodo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis & Clark",
+ "address": "\n601 Riverfront Dr.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/lecl/crop16_9/5A97EE80-1DD8-B71B-0B74C9641C898E41.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//lecl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mammoth Cave",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/maca/crop16_9/8F11D0EF-C455-8A36-7AD2D38C92A0263B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "nature"
+ ],
+ "link": [
+  "https://www.nps.gov//maca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Buffalo Trace Distillery",
+ "address": "113 Great Buffalo Trce",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/22/cb/45/buffalo-trace-distillery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "free",
+  "tasting",
+  "history",
+  "drink",
+  "free",
+  "tour",
+  "tour",
+  "tasting",
+  "free",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "tour",
+  "tasting",
+  "free",
+  "history",
+  "tour",
+  "tasting",
+  "tour",
+  "free",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "history",
+  "tour",
+  "free",
+  "historic",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d1112388-Reviews-Buffalo_Trace_Distillery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Castle & Key Distillery",
+ "address": "4445 McCracken Pike",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/ce/5b/bf/castle-key-distillery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "walk",
+  "knowledgeable",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "history",
+  "unique",
+  "tour",
+  "tasting",
+  "foodie",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d13109537-Reviews-Castle_Key_Distillery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Capitol Building",
+ "address": "700 Capital Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/30/df/new-capitol-building.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "kids",
+  "family",
+  "history",
+  "unique",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d4012362-Reviews-New_Capitol_Building-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Salato Wildlife Education Center",
+ "address": "1 Sportsmans Ln",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/f8/58/42/salato-wildlife-education.jpg"
+ ],
+ "tags": [
+  "learn",
+  "nature",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d1036640-Reviews-Salato_Wildlife_Education_Center-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Glenns Creek Distillery",
+ "address": "3501 McCracken Pike",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/3c/1b/8d/bourbon-history-being.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "history",
+  "tour",
+  "sampling",
+  "delicious",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "tasting",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d11513784-Reviews-Glenns_Creek_Distillery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rebecca Ruth Candy Tours & Museum",
+ "address": "116 E 2nd St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/95/f2/e7/view-from-outside.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "delicious",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "history",
+  "family",
+  "free",
+  "unique",
+  "creative",
+  "tour",
+  "history",
+  "family",
+  "tour",
+  "history",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d3948636-Reviews-Rebecca_Ruth_Candy_Tours_Museum-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cove Springs Park",
+ "address": "100 Cove Spring Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/e2/f2/59/beautiful-falls.jpg"
+ ],
+ "tags": [
+  "hike",
+  "tour",
+  "nature",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d7240726-Reviews-Cove_Springs_Park-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thomas D. Clark Center for Kentucky History",
+ "address": "100 W Broadway St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/d0/67/fd/the-battle-of-perryville.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "knowledgeable",
+  "history",
+  "family",
+  "free",
+  "library",
+  "history",
+  "history",
+  "knowledgeable",
+  "history",
+  "tour",
+  "history",
+  "learn",
+  "history",
+  "family",
+  "free",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d1112386-Reviews-Thomas_D_Clark_Center_for_Kentucky_History-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Daniel Boone Burial Site",
+ "address": "215 E Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/20/80/35/daniel-boone-burial-site.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d5415177-Reviews-Daniel_Boone_Burial_Site-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Frankfort Cemetery",
+ "address": "215 E Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/d0/24/54/war-memorial.jpg"
+ ],
+ "tags": [
+  "historic",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d105636-Reviews-Frankfort_Cemetery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Three Boys Farm Distillery",
+ "address": "283 Crab Orchard Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/3c/e2/67/ross-offered-a-very-pleasant.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "tasting",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d8635776-Reviews-Three_Boys_Farm_Distillery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Liberty Hall",
+ "address": "202 Wilkinson St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/e4/0a/c1/liberty-hall-historic.jpg"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "family",
+  "wander",
+  "history",
+  "family",
+  "library",
+  "historic",
+  "tour",
+  "tour",
+  "historic",
+  "library",
+  "history",
+  "knowledgeable",
+  "history",
+  "organized",
+  "knowledgeable",
+  "tour",
+  "historic",
+  "knowledgeable",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d1741611-Reviews-Liberty_Hall-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Prodigy Vineyards & Winery",
+ "address": "3445 Versailles Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/d6/12/58/winery.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "winery",
+  "tasting",
+  "winery",
+  "delicious",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d8059566-Reviews-Prodigy_Vineyards_Winery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Floral Clock",
+ "address": "700 Capital Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/ec/52/aa/floral-clock.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d7193408-Reviews-Floral_Clock-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old State Capitol",
+ "address": "300 W Broadway St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/c8/37/39/old-ky-state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "history",
+  "historic",
+  "tour",
+  "walk",
+  "structure",
+  "tour",
+  "history",
+  "history",
+  "historic",
+  "tour",
+  "library",
+  "knowledgeable",
+  "tour",
+  "history",
+  "library",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d105638-Reviews-Old_State_Capitol-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Elkhorn Creek",
+ "address": "off Highway 1262",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/d2/83/41/enjoying-the-creek.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d107221-Reviews-Elkhorn_Creek-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kentucky Vietnam Veterans Memorial",
+ "address": "365 Vernon Cooper Drive",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/cf/42/1e/kentucky-vietnam-veterans.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d105640-Reviews-Kentucky_Vietnam_Veterans_Memorial-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capital City Museum",
+ "address": "325 Ann St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/d3/b0/40/view-from-parking-lot.jpg"
+ ],
+ "tags": [
+  "historic",
+  "free",
+  "tour",
+  "tour",
+  "history",
+  "history",
+  "free",
+  "free",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d6732366-Reviews-Capital_City_Museum-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Josephine Sculpture Park",
+ "address": "3355 Lawrenceburg Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/50/05/9c/suspended-in-water-or.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "art",
+  "free",
+  "kids",
+  "tour",
+  "walk",
+  "free",
+  "walking",
+  "pets",
+  "nature",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d8652610-Reviews-Josephine_Sculpture_Park-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Switzer Covered Bridge",
+ "address": "Jones Lane",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/d1/99/5a/20180920-113200-largejpg.jpg"
+ ],
+ "tags": [
+  "historic",
+  "free",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d8561238-Reviews-Switzer_Covered_Bridge-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kentucky State Capitol",
+ "address": "700 Capital Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/3d/4c/97/tulips-in-full-bloom.jpg"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "library",
+  "historic",
+  "walk",
+  "tour",
+  "tour",
+  "historic",
+  "structure",
+  "tour",
+  "free",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d15067112-Reviews-Kentucky_State_Capitol-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Grand Theatre",
+ "address": "308 Saint Clair St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/70/4c/0c/photo0jpg.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "drink",
+  "theatre",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d2514442-Reviews-The_Grand_Theatre-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Leslie Morris Park",
+ "address": "400 Clifton Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/fa/46/3c/leslie-morris-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "nature",
+  "history",
+  "hike",
+  "free",
+  "tour",
+  "walk",
+  "walking",
+  "nature",
+  "history",
+  "hike",
+  "free",
+  "tour",
+  "walk",
+  "learn",
+  "free",
+  "nature",
+  "history",
+  "walking",
+  "nature",
+  "history",
+  "hike",
+  "free",
+  "tour",
+  "walk",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d3380801-Reviews-Leslie_Morris_Park-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Governor's Mansion",
+ "address": "704 Capital Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/58/4d/7e/governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d279108-Reviews-Governor_s_Mansion-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Kentucky Military History Museum",
+ "address": "125 E Main St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "free",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d14058087-Reviews-Kentucky_Military_History_Museum-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Buckley Wildlife Sanctuary & Audobon Center",
+ "address": "1305 Germany Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/dc/84/0e/buckley-wildlife-sanctuary.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d1027436-Reviews-Buckley_Wildlife_Sanctuary_Audobon_Center-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Broadway Clay Studio and Gallery",
+ "address": "223 W Broadway St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/7a/bc/55/filename-069-png-thumbnail0.jpg"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "kids",
+  "learn",
+  "affordable",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d2514427-Reviews-Broadway_Clay_Studio_and_Gallery-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Governor's Mansion",
+ "address": "420 High St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/e9/5a/05/old-governor-s-mansion.jpg"
+ ],
+ "tags": [
+  "historic",
+  "tour",
+  "history",
+  "history",
+  "tour",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d108036-Reviews-Old_Governor_s_Mansion-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "West Sixth Farm",
+ "address": "4495 Shadrick Ferry Rd",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/97/fe/a3/west-sixth-farm-at-dusk.jpg"
+ ],
+ "tags": [
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d14771525-Reviews-West_Sixth_Farm-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol View Park",
+ "address": "Glenn's Creek Road",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b9/d1/e1/fields-being-used-for.jpg"
+ ],
+ "tags": [
+  "kids",
+  "nature",
+  "parks",
+  "kids",
+  "nature",
+  "parks",
+  "free",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g39426-d7898934-Reviews-Capitol_View_Park-Frankfort_Kentucky.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 }]
