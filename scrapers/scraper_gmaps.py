@@ -1,17 +1,6 @@
-'''
-Author:        Gordon
-Last modified: 
-Status:        In progress
-
-
-TODO: only return one instance of each activity (dunks listed 5x for ex)
-TODO: image location? don't download just link the image
-'''
-
-import requests
-import json
-import time
-from math import sin, cos, sqrt, atan2, radians
+import os, time
+import requests, json
+import uuid
 
 from activity import Activity
 
@@ -22,26 +11,27 @@ class GooglePlaces(object):
 		super(GooglePlaces, self).__init__()
 		self.apiKey = apiKey
 
-	def search_places_by_coordinate(self, location, radius, types):
-		endpoint_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
+
+	def text_search(self, query):
+		endpoint_url_ts = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 		places = []
 		params = {
-			'location': location,
-			'radius': radius,
-			'types': types,
-			'key': self.apiKey
-		}
-		res = requests.get(endpoint_url, params=params)
-		results = json.loads(res.content)
+					# 'location': location,
+					# 'radius': radius,
+					'key': self.apiKey
+				}
+		response = requests.get(endpoint_url_ts + 'query=' + query, params=params)
+		results = json.loads(response.content)
 		places.extend(results['results'])
 		time.sleep(2)
 		while "next_page_token" in results:
 			params['pagetoken'] = results['next_page_token'],
-			res = requests.get(endpoint_url, params=params)
+			res = requests.get(endpoint_url_ts + 'query=' + query, params=params)
 			results = json.loads(res.content)
 			places.extend(results['results'])
 			time.sleep(2)
 		return places
+
 
 	def get_place_details(self, place_id, fields):
 		endpoint_url = "https://maps.googleapis.com/maps/api/place/details/json"
@@ -55,125 +45,127 @@ class GooglePlaces(object):
 		return place_details
 
 
-def distance_from_coords(coord1, coord2):
-	# approximate radius of earth in meter
-	R = 6373000
-	lat1, lon1 = coord1
-	lat2, lon2 = coord2
-	lat1 = radians(lat1)
-	lon1 = radians(lon1)
-	lat2 = radians(lat2)
-	lon2 = radians(lon2)
+	def get_photo(self, photo_id, photo_reference, maxwidth):
+		photo_path_str = '../data/GoogleMaps/photos/' + photo_id + '.png'
+		endpoint_url_get_photo = "https://maps.googleapis.com/maps/api/place/photo?"
+		photo = []
+		params = {
+			'photoreference': photo_reference,
+			'maxwidth': maxwidth,
+			'key': self.apiKey
+		}
+		response = requests.get(endpoint_url_get_photo, params=params)
 
-	dlon = lon2 - lon1
-	dlat = lat2 - lat1
-
-	a = sin(dlat / 2) ** 2 + cos(lat1) * cos(lat2) * sin(dlon / 2) ** 2
-	c = 2 * atan2(sqrt(a), sqrt(1 - a))
-
-	distance = R * c
-	return distance
-
+		if response.status_code == 200:
+			with open(photo_path_str, 'wb') as f:
+				f.write(response.content)
+		return photo_path_str
 
 
 def scrape(api, city, state):
-	coordinates_list = {'BostonMA':[(42.329126, -71.146042), (42.383613, -71.049872)],
-	                    'ProvidenceRI':[(42.329126, -71.146042), (42.383613, -71.049872)],
-	                    'NYCNY':[(40.702205, -74.020354), (40.869296, -73.867182)],
-	                    'DenverCO':[(39.619346, -105.098746), (39.904585, -104.613042)],
-	                    'TampaFL':[(27.845080, -82.552184), (28.170400, -82.264112)],
-	                    'HoustonTX':[(29.596677, -95.655682), (29.969183, -95.133634)]
-	                    }
+	fields = ['name', 'formatted_address', 'rating', 'review', 'url', 'photo']
+	queries = []
+	queries.append('things to do in ' + city + ', ' + state)
+	queries.append('best restaurants in ' + city + ', ' + state)
 
-	# Smaller area
-	# coordinates_list = {'BostonMA':[(42.329126, -71.146042), (42.34, -71.1)],
-	#                     'ProvidenceRI':[(42.329126, -71.146042), (42.34, -71.1)],
-	#                     'NYCNY':[(40.702205, -74.020354), (40.73, -73.98)],
-	#                     'DenverCO':[(39.619346, -105.048746), (39.64, -104.99)],
-	#                     'TampaFL':[(27.96, -82.552184), (28.0, -82.50)],
-	#                     'HoustonTX':[(29.696677, -95.3), (29.73, -95.25)]
-	#                     }
-	grid = 0.005
-	type_list = ['restaurant', 'bakery', 'cafe', 'amusement_park', 'aquarium', 'art_gallery',
-	             'casino', 'library', 'museum', 'night_club', 'park', 'stadium', 'zoo']
-	fields = ['name', 'formatted_address', 'rating', 'review']
+	places = []
+	for query in queries:
+		places_found = api.text_search(query)
+		places.extend(places_found)
 
-	city_state = city+state
 	activities = []
 	place_id_set = set()
-	sw_coord, ne_coord = coordinates_list[city_state]
-	lat_now, lon_now = sw_coord
-	lat_end, lon_end = ne_coord
-	distance_grid = distance_from_coords(sw_coord, (lat_now+grid, lon_now))
-	rad = distance_grid*1.414/2
 
-	while lat_now < lat_end:
-		while lon_now < lon_end:
-			print('coordinates:', lat_now, lon_now)
-			coord_query = ','.join([str(lat_now), str(lon_now)])
+	for place in places:
+		place_id = place['place_id']
+		if place_id in place_id_set:
+			continue
+		else:
+			place_id_set.add(place_id)
+			details = api.get_place_details(place_id, fields)
 
-			for type in type_list:
-				places = api.search_places_by_coordinate(coord_query, rad, type)
-				for place in places:
-					place_id = place['place_id']
-					if place_id in place_id_set:
-						continue
-					else:
-						place_id_set.add(place_id)
-						details = api.get_place_details(place_id, fields)
+			place = {}
 
-						place = {}
-						rating_sum = 0
+			try:
+				place['name'] = details['result']['name']
+			except KeyError:
+				place['name'] = ""
 
-						try:
-							place['name'] = details['result']['name']
-						except KeyError:
-							place['name'] = ""
+			try:
+				place['address'] = details['result']['formatted_address']
+			except KeyError:
+				place['address'] = ""
 
-						try:
-							place['address'] = details['result']['formatted_address']
-						except KeyError:
-							place['address'] = ""
+			try:
+				place['url'] = details['result']['url']
+			except KeyError:
+				place['url'] = ""
 
-						place['avg_visitor_review'] = ''
-						place['avg_time_spent'] = ''
-						place['photo_location'] = ''
-						place['tags'] = []
-						place['source'] = 'GoogleMaps'
-						place['reviews'] = []
+			try:
+				place['photo_location'] = details['result']['photos']
+			except KeyError:
+				place['photo_location'] = []
 
-						try:
-							reviews = details['result']['reviews']
-						except KeyError:
-							reviews = []
-						print("===================PLACE===================")
-						print("Name:", place['name'])
-						print("Address:", place['address'])
-						# print("==================REVIEWS==================")
-						for review in reviews:
-							rating_sum += review['rating']
-							place['reviews'].append(review['text'])
-						if len(reviews) > 0:
-							place['avg_visitor_review'] = rating_sum / len(reviews)
-							rating_sum = 0
+			try:
+				place['avg_visitor_review'] = details['result']['rating']
+			except KeyError:
+				place['avg_visitor_review'] = ""
 
-						a = Activity(place['name'], place['address'], place["avg_visitor_review"], None,
-						             None, 'GoogleMaps', reviews=place['reviews'], tags=[], get_tags=True)
-						activities.append(a)
+			place['avg_time_spent'] = ''
+			place['tags'] = []
+			place['reviews'] = []
 
-			lon_now += grid
-		lat_now += grid
+			try:
+				reviews = details['result']['reviews']
+			except KeyError:
+				reviews = []
+			print("===================PLACE===================")
+			print("Name:", place['name'])
+			print("Address:", place['address'])
+			for review in reviews:
+				place['reviews'].append(review['text'])
 
+
+			a = Activity(place['name'], place['address'], place["avg_visitor_review"], None,
+			             place['photo_location'], 'GoogleMaps', link=place['url'], reviews=place['reviews'], tags=[], get_tags=True)
+			activities.append(a)
 	return activities
 
-	# file_name = './data/' + city + '.json'
-	# with open(file_name, 'w', encoding='utf-8') as f:
-	# 	json.dump(activities, f, ensure_ascii=False, indent=1)
 
+def update_photos_from_reference():
+	api = GooglePlaces(apiKey='AIzaSyAoaZRyH4QLOZ4NB88-j4NF-erUJ9VsjhM')
+	for file in os.scandir('../data/GoogleMaps/'):
+		if file.path.endswith(".json"):
+			with open(file, "r") as json_file:
+				places = json.load(json_file)
 
+			for place in places:
+				if len(place['photo_location']) > 0:
+					photo_reference = place['photo_location'][0]['photo_reference']
+					photo_id = str(uuid.uuid1())
+					photo_path_str = api.get_photo(photo_id, photo_reference, 800)
+					place['photo_location'] = photo_path_str
+				else:
+					place['photo_location'] = ''
 
+			with open(file, "w") as jsonFile:
+				json.dump(places, jsonFile, indent=1)
+
+		else:
+			continue
 
 
 if __name__ == "__main__":
-	import sys
-	# main(sys.argv)
+	# city = 'Boston'
+	# state = 'MA'
+	# api = GooglePlaces(apiKey='AIzaSyAoaZRyH4QLOZ4NB88-j4NF-erUJ9VsjhM')
+	# activities = scrape(api, city, state)
+	#
+	# with open("./data/GoogleMaps/" + city + state + ".json", "w") as outfile:
+	# 	outfile.write("[\n")
+	# 	for activity in activities:
+	# 		json.dump(activity.encode(), outfile, indent=1)
+	# 		if activity != activities[-1]:
+	# 			outfile.write(",")
+	# 	outfile.write("]\n")
+	update_photos_from_reference()
