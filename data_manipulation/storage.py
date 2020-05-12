@@ -51,10 +51,9 @@ class Storage:
     def add_all(self, list_of_locations, adjectives):
         self.inverted_index = {}
 
-        for adj in adjectives:
-            self.inverted_index[adj] = []
-
         for location in list_of_locations:
+            for adj in adjectives:
+                self.inverted_index[adj] = []
             self.add(location[0], location[1])
             # export
             self.export(location[0]+location[1])
