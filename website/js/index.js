@@ -223,16 +223,6 @@ function loadData() {
         for(var i=0; i<comma_response.length; i++){
             locations.push(comma_response[i].replace(/ /g, "").replace(/,/g, ""));
         }
-        var times = 0;
-        var timeout = setInterval(function(){
-            if(times === 5){
-                clearInterval(timeout);
-                done_locations=1;
-            } else {
-                times = times + 1;
-                console.log(times);
-            }
-        }, 100);
     });
 
 
@@ -455,15 +445,15 @@ gets recommendations from the cluster
 */
 function queryCluster(originalActivity){
     var index = locations.indexOf(USERdestination);
-    var recommendations_scored = cluster_recommendations[index][originalActivity];
+    var recommendations_scored = cluster_recommendations[USERdestination][0][originalActivity];
 
     var recommendations = [];
 
     // get recommendation names
     for(var i=0; i<recommendations_scored.length; i++){
-        for(var j=0; j<merged_location_data[index].length; j++){
-            if (recommendations_scored[i][0] == merged_location_data[index][j].name){
-                recommendations.push(merged_location_data[index][j]);
+        for(var j=0; j<merged_location_data[USERdestination].length; j++){
+            if (recommendations_scored[i][0] == merged_location_data[USERdestination][j].name){
+                recommendations.push(merged_location_data[USERdestination][j]);
                 break;
             }
         }
@@ -496,8 +486,10 @@ function queryII(destination, personality) {
     var index = locations.indexOf(destination);
     var activities_ii = [];
     var temp = {};
+    var a_intermediate;
+
     for(var k=0; k<query_terms.length; k++){
-        a_intermediate = inverted_index[index][query_terms[k]];
+        a_intermediate = inverted_index[destination][0][query_terms[k]];
         for(var a=0; a<a_intermediate.length; a++){
             activities_ii.push(a_intermediate[a]);
         }
@@ -506,14 +498,13 @@ function queryII(destination, personality) {
     // get data for location
     var activities_results = [];
     for(var i=0; i<activities_ii.length; i++){
-        for(var j=0; j<merged_location_data[index].length; j++){
-            if (activities_ii[i] == merged_location_data[index][j].name){
-                activities_results.push(merged_location_data[index][j]);
+        for(var j=0; j<merged_location_data[destination].length; j++){
+            if (activities_ii[i] == merged_location_data[destination][j].name){
+                activities_results.push(merged_location_data[destination][j]);
                 break;
             }
         }
     }
-    console.log(activities_results);
 
     // remove duplicates
     // location.tags: fun, funny, this would return this location twice
@@ -524,7 +515,6 @@ function queryII(destination, personality) {
             activities_results_cleaned.push(activities_results[i]);
         }
     }
-    console.log(activities_results_cleaned);
 
     return activities_results_cleaned;
 }
@@ -817,8 +807,8 @@ function generateSecondaryRecommendations(originalActivity){
                         // is it in our location
                         var index = locations.indexOf(USERdestination);
                         var activity_information = "";
-                        for(var j=0; j<merged_location_data[index].length; j++){
-                            if (recommendations[i].name === merged_location_data[index][j].name){
+                        for(var j=0; j<merged_location_data[USERdestination].length; j++){
+                            if (recommendations[i].name === merged_location_data[USERdestination][j].name){
                                 // being recommended now
                                 USERrecommendations.push(recommendations[i]);
                                 cleaned_recommendations.push(recommendations[i]);
@@ -864,9 +854,9 @@ function addActivity(originalActivity){
 
     var index = locations.indexOf(USERdestination);
     var activity_information = "";
-    for(var j=0; j<merged_location_data[index].length; j++){
-        if (originalActivity === merged_location_data[index][j].name){
-            activity_information = merged_location_data[index][j];
+    for(var j=0; j<merged_location_data[USERdestination].length; j++){
+        if (originalActivity === merged_location_data[USERdestination][j].name){
+            activity_information = merged_location_data[USERdestination][j];
             break;
         }
     }

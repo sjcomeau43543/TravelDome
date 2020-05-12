@@ -32,12 +32,13 @@ class Storage:
         for root,dir,files in os.walk("../data/Merged"):
             # get the files for each location
             for file in files:
-                location = file.strip(".json")
-                if location == str(city+state):
-                    # add the activities to the inverted index
-                    with open(os.path.abspath(root+"/"+file)) as activity_file:
-                            activities = json.load(activity_file)
-                            for activity in activities:
+                # add the activities to the inverted index
+                with open(os.path.abspath(root+"/"+file)) as activity_file:
+                    data = json.load(activity_file)
+                    for location in data.keys():
+                        if location == city+state:
+
+                            for activity in data[location]:
                                 actobj = Activity(activity["name"], activity["address"], activity["avg_visitor_review"], activity["avg_time_spent"], activity["photo_location"], activity["source"], reviews=[], tags=activity["tags"])
 
                                 # get tags
