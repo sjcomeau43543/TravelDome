@@ -56,13 +56,13 @@ class Storage:
 
         for location in list_of_locations:
             self.add(location[0], location[1])
+            # export
+            self.export(location[0]+location[1])
 
-        # export
-        self.export()
 
   
-    def export(self):
-        with open("../data/InvertedIndex/inverted_index.json", "w") as outfile:
+    def export(self, location):
+        with open("../data/InvertedIndex/invertedindex_"+location+".json", "w") as outfile:
             json.dump(self.inverted_index, outfile, indent=1)
 
 

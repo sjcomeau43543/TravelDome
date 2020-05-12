@@ -1,0 +1,4402 @@
+{
+ "Big Cottonwood Canyon": [
+  [
+   "City Creek Park",
+   2.0
+  ],
+  [
+   "City Creek Natural Area",
+   2.23606797749979
+  ],
+  [
+   "Memory Grove",
+   2.449489742783178
+  ],
+  [
+   "Jordan Park",
+   2.449489742783178
+  ],
+  [
+   "Memory Grove Park",
+   2.6457513110645907
+  ]
+ ],
+ "Natural History Museum of Utah": [
+  [
+   "Church History Museum",
+   3.872983346207417
+  ],
+  [
+   "Wheeler Historic Farm",
+   4.242640687119285
+  ],
+  [
+   "Temple Square",
+   4.358898943540674
+  ],
+  [
+   "Memory Grove Park",
+   4.69041575982343
+  ],
+  [
+   "Family History Library",
+   4.795831523312719
+  ]
+ ],
+ "Red Butte Garden": [
+  [
+   "Memory Grove Park",
+   2.6457513110645907
+  ],
+  [
+   "The Leonardo Museum",
+   2.6457513110645907
+  ],
+  [
+   "LDS Conference Center",
+   2.8284271247461903
+  ],
+  [
+   "Cathedral of the Madeleine",
+   2.8284271247461903
+  ],
+  [
+   "City Creek Park",
+   2.8284271247461903
+  ]
+ ],
+ "Temple Square": [
+  [
+   "Salt Lake Temple",
+   3.0
+  ],
+  [
+   "The Leonardo Museum",
+   3.0
+  ],
+  [
+   "Pony Express National Historic Trail",
+   3.0
+  ],
+  [
+   "Chase Home Museum",
+   3.0
+  ],
+  [
+   "Red Butte Garden",
+   3.1622776601683795
+  ]
+ ],
+ "Utah State Capitol": [
+  [
+   "The Beehive House",
+   3.7416573867739413
+  ],
+  [
+   "Utah State Capitol Building",
+   4.358898943540674
+  ],
+  [
+   "Kindig It Design",
+   4.795831523312719
+  ],
+  [
+   "The Church of Jesus Christ of Latter-Day Saints Conference Center",
+   4.898979485566356
+  ],
+  [
+   "Salt Lake City Tours",
+   5.0
+  ]
+ ],
+ "The Tabernacle": [
+  [
+   "TRAX Light Rail System",
+   2.0
+  ],
+  [
+   "The Church of Jesus Christ of Latter-Day Saints Conference Center",
+   2.23606797749979
+  ],
+  [
+   "Thousand Peaks Snowmobiling",
+   2.23606797749979
+  ],
+  [
+   "Great Salt Lake Marina",
+   2.23606797749979
+  ],
+  [
+   "LDS Conference Center",
+   2.449489742783178
+  ]
+ ],
+ "City Creek Center": [
+  [
+   "Red Iguana 2",
+   3.1622776601683795
+  ],
+  [
+   "SLC Eatery",
+   3.1622776601683795
+  ],
+  [
+   "The Other Place",
+   3.1622776601683795
+  ],
+  [
+   "Chile-Tepin",
+   3.1622776601683795
+  ],
+  [
+   "Pago",
+   3.3166247903554
+  ]
+ ],
+ "Clark Planetarium": [
+  [
+   "TRAX Light Rail System",
+   3.3166247903554
+  ],
+  [
+   "Hogle Zoo",
+   3.3166247903554
+  ],
+  [
+   "This Is The Place Heritage Park",
+   3.3166247903554
+  ],
+  [
+   "Land Cruiser Heritage Museum",
+   3.4641016151377544
+  ],
+  [
+   "Jordan Park",
+   3.605551275463989
+  ]
+ ],
+ "Liberty Park": [
+  [
+   "Cottonwood Park",
+   3.0
+  ],
+  [
+   "Tracy Aviary",
+   3.1622776601683795
+  ],
+  [
+   "Millcreek Canyon",
+   3.1622776601683795
+  ],
+  [
+   "Chase Home Museum",
+   3.1622776601683795
+  ],
+  [
+   "Red Butte Garden",
+   3.3166247903554
+  ]
+ ],
+ "Tracy Aviary": [
+  [
+   "Caff\u00e9 Molise",
+   1.7320508075688772
+  ],
+  [
+   "Discovery Gateway Children's Museum",
+   2.0
+  ],
+  [
+   "Millcreek Canyon",
+   2.0
+  ],
+  [
+   "Church Fork Picnic Area",
+   2.0
+  ],
+  [
+   "Holiday River Expeditions",
+   2.0
+  ]
+ ],
+ "Salt Lake Temple": [
+  [
+   "Chase Home Museum",
+   2.449489742783178
+  ],
+  [
+   "The Tabernacle",
+   2.6457513110645907
+  ],
+  [
+   "Cathedral of the Madeleine",
+   2.6457513110645907
+  ],
+  [
+   "Land Cruiser Heritage Museum",
+   2.8284271247461903
+  ],
+  [
+   "The Leonardo Museum",
+   2.8284271247461903
+  ]
+ ],
+ "LDS Conference Center": [
+  [
+   "Painters Palette - South Jordan",
+   1.0
+  ],
+  [
+   "ClubRec",
+   1.0
+  ],
+  [
+   "Cathedral of the Madeleine",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ]
+ ],
+ "Ensign Peak Park": [
+  [
+   "Mill Creek Canyon",
+   0.0
+  ],
+  [
+   "Ensign Peak Trailhead",
+   0.0
+  ],
+  [
+   "Lake  Blanche Trail",
+   1.4142135623730951
+  ],
+  [
+   "Adams Canyon Trail",
+   1.7320508075688772
+  ],
+  [
+   "Ensign Park",
+   2.449489742783178
+  ]
+ ],
+ "Cathedral of the Madeleine": [
+  [
+   "LDS Conference Center",
+   1.4142135623730951
+  ],
+  [
+   "Utah Museum of Contemporary Art",
+   1.4142135623730951
+  ],
+  [
+   "First Encampment Park",
+   1.7320508075688772
+  ],
+  [
+   "Murray Farmer's Market",
+   1.7320508075688772
+  ],
+  [
+   "Quick Wits Comedy",
+   1.7320508075688772
+  ]
+ ],
+ "Great Salt Lake": [
+  [
+   "Pony Express National Historic Trail",
+   1.4142135623730951
+  ],
+  [
+   "Salt Lake City Council Hall",
+   1.4142135623730951
+  ],
+  [
+   "Dinosaur",
+   2.0
+  ],
+  [
+   "Glen Canyon",
+   2.0
+  ],
+  [
+   "Salt Lake City Cemetery",
+   2.0
+  ]
+ ],
+ "Utah's Hogle Zoo": [
+  [
+   "Hogle Zoo",
+   2.6457513110645907
+  ],
+  [
+   "City Creek Park",
+   2.6457513110645907
+  ],
+  [
+   "Memory Grove",
+   2.6457513110645907
+  ],
+  [
+   "Jordan Park",
+   2.6457513110645907
+  ],
+  [
+   "Lindsey Gardens Park",
+   2.6457513110645907
+  ]
+ ],
+ "Smith's Ballpark": [
+  [
+   "Takashi",
+   3.1622776601683795
+  ],
+  [
+   "Tuccis",
+   3.1622776601683795
+  ],
+  [
+   "Tracy Aviary",
+   3.3166247903554
+  ],
+  [
+   "Millcreek Canyon",
+   3.3166247903554
+  ],
+  [
+   "Cytybyrd Cafe",
+   3.3166247903554
+  ]
+ ],
+ "Wheeler Historic Farm": [
+  [
+   "Pioneer Memorial Museum",
+   3.7416573867739413
+  ],
+  [
+   "Murray Park",
+   3.7416573867739413
+  ],
+  [
+   "Family History Library",
+   3.872983346207417
+  ],
+  [
+   "Salt Lake Temple",
+   4.0
+  ],
+  [
+   "Chase Home Museum",
+   4.0
+  ]
+ ],
+ "Mill Creek Canyon": [
+  [
+   "Mill Creek Canyon",
+   0.0
+  ],
+  [
+   "Ensign Peak Trailhead",
+   0.0
+  ],
+  [
+   "Lake  Blanche Trail",
+   1.4142135623730951
+  ],
+  [
+   "Adams Canyon Trail",
+   1.7320508075688772
+  ],
+  [
+   "Ensign Park",
+   2.449489742783178
+  ]
+ ],
+ "Salt Lake City Public Library": [
+  [
+   "Quarters Arcade Bar",
+   3.4641016151377544
+  ],
+  [
+   "Lindsey Gardens Park",
+   3.7416573867739413
+  ],
+  [
+   "Just Burgers",
+   3.7416573867739413
+  ],
+  [
+   "Land Cruiser Heritage Museum",
+   3.872983346207417
+  ],
+  [
+   "Millcreek Canyon",
+   3.872983346207417
+  ]
+ ],
+ "Memory Grove Park": [
+  [
+   "City Creek Natural Area",
+   2.0
+  ],
+  [
+   "Mueller Park Picnic Area",
+   2.0
+  ],
+  [
+   "City Creek Park",
+   2.23606797749979
+  ],
+  [
+   "Memory Grove",
+   2.23606797749979
+  ],
+  [
+   "Lindsey Gardens Park",
+   2.23606797749979
+  ]
+ ],
+ "Lake  Blanche Trail": [
+  [
+   "Adams Canyon Trail",
+   1.0
+  ],
+  [
+   "Ensign Peak Park",
+   1.4142135623730951
+  ],
+  [
+   "Mill Creek Canyon",
+   1.4142135623730951
+  ],
+  [
+   "Ensign Peak Trailhead",
+   1.4142135623730951
+  ],
+  [
+   "Ensign Park",
+   2.0
+  ]
+ ],
+ "Kindig It Design": [
+  [
+   "Salt Lake City Tours",
+   2.0
+  ],
+  [
+   "Backcountry Snowmobiling",
+   3.1622776601683795
+  ],
+  [
+   "Governor's Mansion",
+   3.3166247903554
+  ],
+  [
+   "Dented Brick Distillery",
+   3.3166247903554
+  ],
+  [
+   "The Leonardo Museum",
+   3.605551275463989
+  ]
+ ],
+ "Salt Palace Convention Center": [
+  [
+   "Taco Taco",
+   1.7320508075688772
+  ],
+  [
+   "Takashi",
+   2.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   2.23606797749979
+  ],
+  [
+   "First Encampment Park",
+   2.23606797749979
+  ],
+  [
+   "Tacos Brazil",
+   2.23606797749979
+  ]
+ ],
+ "TRAX Light Rail System": [
+  [
+   "Great Salt Lake Marina",
+   1.0
+  ],
+  [
+   "Settebello Pizzeria Napoletana",
+   1.4142135623730951
+  ],
+  [
+   "Thousand Peaks Snowmobiling",
+   1.7320508075688772
+  ],
+  [
+   "The Tabernacle",
+   2.0
+  ],
+  [
+   "McCune Mansion",
+   2.0
+  ]
+ ],
+ "Eccles Theater": [
+  [
+   "Brigham Young Historic Park",
+   2.8284271247461903
+  ],
+  [
+   "Church Fork Picnic Area",
+   2.8284271247461903
+  ],
+  [
+   "Great Salt Lake Marina",
+   2.8284271247461903
+  ],
+  [
+   "Zoo Lights",
+   2.8284271247461903
+  ],
+  [
+   "Cherry Hill",
+   2.8284271247461903
+  ]
+ ],
+ "Joseph Smith Memorial Building": [
+  [
+   "The Leonardo Museum",
+   3.7416573867739413
+  ],
+  [
+   "Em's",
+   3.872983346207417
+  ],
+  [
+   "Tacos Brazil",
+   4.0
+  ],
+  [
+   "Tuccis",
+   4.123105625617661
+  ],
+  [
+   "Oquirrh Restaurant",
+   4.123105625617661
+  ]
+ ],
+ "Land Cruiser Heritage Museum": [
+  [
+   "Discovery Gateway Children's Museum",
+   2.0
+  ],
+  [
+   "Great Salt Lake Marina",
+   2.0
+  ],
+  [
+   "Peak Adventures Powersports Rentals",
+   2.0
+  ],
+  [
+   "TRAX Light Rail System",
+   2.23606797749979
+  ],
+  [
+   "Zion",
+   2.23606797749979
+  ]
+ ],
+ "Church History Museum": [
+  [
+   "Salt Lake Temple",
+   3.0
+  ],
+  [
+   "Land Cruiser Heritage Museum",
+   3.3166247903554
+  ],
+  [
+   "Brigham Young Historic Park",
+   3.3166247903554
+  ],
+  [
+   "Fort Douglas Military Museum",
+   3.3166247903554
+  ],
+  [
+   "Chase Home Museum",
+   3.3166247903554
+  ]
+ ],
+ "Great Salt Lake State Park": [
+  [
+   "Pioneer Memorial Museum",
+   3.3166247903554
+  ],
+  [
+   "City Creek Park",
+   3.4641016151377544
+  ],
+  [
+   "Memory Grove Park",
+   3.605551275463989
+  ],
+  [
+   "City Creek Natural Area",
+   3.605551275463989
+  ],
+  [
+   "Big Cottonwood Canyon",
+   3.7416573867739413
+  ]
+ ],
+ "Arches": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "Bryce Canyon": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "California": [
+  [
+   "Dinosaur",
+   1.0
+  ],
+  [
+   "Glen Canyon",
+   1.0
+  ],
+  [
+   "Mormon Pioneer",
+   1.0
+  ],
+  [
+   "Old Spanish",
+   1.0
+  ],
+  [
+   "Pony Express",
+   1.0
+  ]
+ ],
+ "Canyonlands": [
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "Capitol Reef",
+   1.0
+  ],
+  [
+   "Hovenweep",
+   1.0
+  ],
+  [
+   "Natural Bridges",
+   1.0
+  ]
+ ],
+ "Capitol Reef": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "Cedar Breaks": [
+  [
+   "Arches",
+   1.4142135623730951
+  ],
+  [
+   "Bryce Canyon",
+   1.4142135623730951
+  ],
+  [
+   "Capitol Reef",
+   1.4142135623730951
+  ],
+  [
+   "Hovenweep",
+   1.4142135623730951
+  ],
+  [
+   "Natural Bridges",
+   1.4142135623730951
+  ]
+ ],
+ "Dinosaur": [
+  [
+   "Glen Canyon",
+   0.0
+  ],
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "California",
+   1.0
+  ],
+  [
+   "Capitol Reef",
+   1.0
+  ]
+ ],
+ "Glen Canyon": [
+  [
+   "Glen Canyon",
+   0.0
+  ],
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "California",
+   1.0
+  ],
+  [
+   "Capitol Reef",
+   1.0
+  ]
+ ],
+ "Golden Spike": [
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "Capitol Reef",
+   1.0
+  ],
+  [
+   "Hovenweep",
+   1.0
+  ],
+  [
+   "Natural Bridges",
+   1.0
+  ]
+ ],
+ "Hovenweep": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "Mormon Pioneer": [
+  [
+   "Old Spanish",
+   0.0
+  ],
+  [
+   "Pony Express",
+   0.0
+  ],
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "California",
+   1.0
+  ]
+ ],
+ "Natural Bridges": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "Old Spanish": [
+  [
+   "Old Spanish",
+   0.0
+  ],
+  [
+   "Pony Express",
+   0.0
+  ],
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "California",
+   1.0
+  ]
+ ],
+ "Pony Express": [
+  [
+   "Old Spanish",
+   0.0
+  ],
+  [
+   "Pony Express",
+   0.0
+  ],
+  [
+   "Arches",
+   1.0
+  ],
+  [
+   "Bryce Canyon",
+   1.0
+  ],
+  [
+   "California",
+   1.0
+  ]
+ ],
+ "Rainbow Bridge": [
+  [
+   "Bryce Canyon",
+   0.0
+  ],
+  [
+   "Capitol Reef",
+   0.0
+  ],
+  [
+   "Hovenweep",
+   0.0
+  ],
+  [
+   "Natural Bridges",
+   0.0
+  ],
+  [
+   "Rainbow Bridge",
+   0.0
+  ]
+ ],
+ "Timpanogos Cave": [
+  [
+   "Arches",
+   1.4142135623730951
+  ],
+  [
+   "Bryce Canyon",
+   1.4142135623730951
+  ],
+  [
+   "Capitol Reef",
+   1.4142135623730951
+  ],
+  [
+   "Hovenweep",
+   1.4142135623730951
+  ],
+  [
+   "Natural Bridges",
+   1.4142135623730951
+  ]
+ ],
+ "Zion": [
+  [
+   "Dinosaur",
+   1.0
+  ],
+  [
+   "Glen Canyon",
+   1.0
+  ],
+  [
+   "Arches",
+   1.4142135623730951
+  ],
+  [
+   "Bryce Canyon",
+   1.4142135623730951
+  ],
+  [
+   "California",
+   1.4142135623730951
+  ]
+ ],
+ "Hogle Zoo": [
+  [
+   "Land Cruiser Heritage Museum",
+   2.23606797749979
+  ],
+  [
+   "Utah Museum of Fine Arts",
+   2.449489742783178
+  ],
+  [
+   "This Is The Place Heritage Park",
+   2.449489742783178
+  ],
+  [
+   "Lindsey Gardens Park",
+   2.449489742783178
+  ],
+  [
+   "Utah's Hogle Zoo",
+   2.6457513110645907
+  ]
+ ],
+ "The Church of Jesus Christ of Latter-Day Saints Conference Center": [
+  [
+   "Thousand Peaks Snowmobiling",
+   1.4142135623730951
+  ],
+  [
+   "The Tabernacle",
+   2.23606797749979
+  ],
+  [
+   "TRAX Light Rail System",
+   2.23606797749979
+  ],
+  [
+   "Backcountry Snowmobiling",
+   2.23606797749979
+  ],
+  [
+   "Governor's Mansion",
+   2.449489742783178
+  ]
+ ],
+ "Utah State Capitol Building": [
+  [
+   "The Leonardo Museum",
+   2.23606797749979
+  ],
+  [
+   "Governor's Mansion",
+   2.23606797749979
+  ],
+  [
+   "The Tabernacle",
+   2.449489742783178
+  ],
+  [
+   "Backcountry Snowmobiling",
+   2.449489742783178
+  ],
+  [
+   "Great Salt Lake",
+   2.6457513110645907
+  ]
+ ],
+ "Salt Lake Tabernacle": [
+  [
+   "The Leonardo Museum",
+   4.0
+  ],
+  [
+   "The Tabernacle",
+   4.123105625617661
+  ],
+  [
+   "Utah State Capitol Building",
+   4.123105625617661
+  ],
+  [
+   "Temple Square",
+   4.358898943540674
+  ],
+  [
+   "Salt Lake Temple",
+   4.47213595499958
+  ]
+ ],
+ "Sugar House Park": [
+  [
+   "Arches",
+   1.7320508075688772
+  ],
+  [
+   "Bryce Canyon",
+   1.7320508075688772
+  ],
+  [
+   "Capitol Reef",
+   1.7320508075688772
+  ],
+  [
+   "Hovenweep",
+   1.7320508075688772
+  ],
+  [
+   "Natural Bridges",
+   1.7320508075688772
+  ]
+ ],
+ "Salt Lake City Tours": [
+  [
+   "Kindig It Design",
+   2.0
+  ],
+  [
+   "Backcountry Snowmobiling",
+   2.449489742783178
+  ],
+  [
+   "Governor's Mansion",
+   2.6457513110645907
+  ],
+  [
+   "Dented Brick Distillery",
+   2.6457513110645907
+  ],
+  [
+   "The Leonardo Museum",
+   3.0
+  ]
+ ],
+ "The Leonardo Museum": [
+  [
+   "Backcountry Snowmobiling",
+   1.7320508075688772
+  ],
+  [
+   "Governor's Mansion",
+   2.0
+  ],
+  [
+   "Dented Brick Distillery",
+   2.0
+  ],
+  [
+   "ClubRec",
+   2.0
+  ],
+  [
+   "LDS Conference Center",
+   2.23606797749979
+  ]
+ ],
+ "Utah Museum of Fine Arts": [
+  [
+   "LDS Conference Center",
+   2.449489742783178
+  ],
+  [
+   "Hogle Zoo",
+   2.449489742783178
+  ],
+  [
+   "Peak Adventures Powersports Rentals",
+   2.6457513110645907
+  ],
+  [
+   "Painters Palette - South Jordan",
+   2.6457513110645907
+  ],
+  [
+   "The Tabernacle",
+   2.8284271247461903
+  ]
+ ],
+ "Ensign Peak Trailhead": [
+  [
+   "Mill Creek Canyon",
+   0.0
+  ],
+  [
+   "Ensign Peak Trailhead",
+   0.0
+  ],
+  [
+   "Lake  Blanche Trail",
+   1.4142135623730951
+  ],
+  [
+   "Adams Canyon Trail",
+   1.7320508075688772
+  ],
+  [
+   "Ensign Park",
+   2.449489742783178
+  ]
+ ],
+ "The Beehive House": [
+  [
+   "Utah State Capitol Building",
+   3.3166247903554
+  ],
+  [
+   "Utah State Capitol",
+   3.7416573867739413
+  ],
+  [
+   "The Church of Jesus Christ of Latter-Day Saints Conference Center",
+   4.0
+  ],
+  [
+   "The Leonardo Museum",
+   4.0
+  ],
+  [
+   "Kindig It Design",
+   4.123105625617661
+  ]
+ ],
+ "Gilgal Sculpture Garden": [
+  [
+   "Land Cruiser Heritage Museum",
+   2.23606797749979
+  ],
+  [
+   "Great Salt Lake Marina",
+   2.23606797749979
+  ],
+  [
+   "Cathedral of the Madeleine",
+   2.449489742783178
+  ],
+  [
+   "TRAX Light Rail System",
+   2.449489742783178
+  ],
+  [
+   "Zion",
+   2.449489742783178
+  ]
+ ],
+ "Pioneer Memorial Museum": [
+  [
+   "Jordan Park",
+   1.7320508075688772
+  ],
+  [
+   "City Creek Natural Area",
+   2.0
+  ],
+  [
+   "First Encampment Park",
+   2.0
+  ],
+  [
+   "Murray Farmer's Market",
+   2.0
+  ],
+  [
+   "Quick Wits Comedy",
+   2.0
+  ]
+ ],
+ "Family History Library": [
+  [
+   "Park City Rafting",
+   2.8284271247461903
+  ],
+  [
+   "Pioneer Memorial Museum",
+   3.0
+  ],
+  [
+   "Brigham Young Historic Park",
+   3.0
+  ],
+  [
+   "Boondocks Food & Fun",
+   3.0
+  ],
+  [
+   "Salt Lake Temple",
+   3.3166247903554
+  ]
+ ],
+ "Discovery Gateway Children's Museum": [
+  [
+   "Church Fork Picnic Area",
+   1.4142135623730951
+  ],
+  [
+   "Boondocks Food & Fun",
+   1.4142135623730951
+  ],
+  [
+   "Zoo Lights",
+   1.4142135623730951
+  ],
+  [
+   "Cherry Hill",
+   1.4142135623730951
+  ],
+  [
+   "Utah Flying Trapeze",
+   1.4142135623730951
+  ]
+ ],
+ "This Is The Place Heritage Park": [
+  [
+   "Land Cruiser Heritage Museum",
+   2.23606797749979
+  ],
+  [
+   "Millcreek Canyon",
+   2.23606797749979
+  ],
+  [
+   "Peak Adventures Powersports Rentals",
+   2.23606797749979
+  ],
+  [
+   "Hogle Zoo",
+   2.449489742783178
+  ],
+  [
+   "Lindsey Gardens Park",
+   2.449489742783178
+  ]
+ ],
+ "Utah Museum of Contemporary Art": [
+  [
+   "Cathedral of the Madeleine",
+   1.4142135623730951
+  ],
+  [
+   "Painters Palette - South Jordan",
+   1.7320508075688772
+  ],
+  [
+   "LDS Conference Center",
+   2.0
+  ],
+  [
+   "The Gateway",
+   2.0
+  ],
+  [
+   "First Encampment Park",
+   2.23606797749979
+  ]
+ ],
+ "City Creek Park": [
+  [
+   "Memory Grove",
+   1.4142135623730951
+  ],
+  [
+   "Tanner Park",
+   1.7320508075688772
+  ],
+  [
+   "City Creek Natural Area",
+   1.7320508075688772
+  ],
+  [
+   "First Encampment Park",
+   1.7320508075688772
+  ],
+  [
+   "Murray Farmer's Market",
+   1.7320508075688772
+  ]
+ ],
+ "Ensign Park": [
+  [
+   "Memory Grove",
+   1.7320508075688772
+  ],
+  [
+   "Neffs Canyon",
+   1.7320508075688772
+  ],
+  [
+   "Adams Canyon Trail",
+   1.7320508075688772
+  ],
+  [
+   "Lake  Blanche Trail",
+   2.0
+  ],
+  [
+   "Mueller Park Picnic Area",
+   2.0
+  ]
+ ],
+ "Brigham Young Historic Park": [
+  [
+   "Park City Rafting",
+   1.0
+  ],
+  [
+   "Church Fork Picnic Area",
+   1.4142135623730951
+  ],
+  [
+   "Boondocks Food & Fun",
+   1.4142135623730951
+  ],
+  [
+   "Zoo Lights",
+   1.4142135623730951
+  ],
+  [
+   "Cherry Hill",
+   1.4142135623730951
+  ]
+ ],
+ "Tanner Park": [
+  [
+   "City Creek Park",
+   1.7320508075688772
+  ],
+  [
+   "Lake  Blanche Trail",
+   2.449489742783178
+  ],
+  [
+   "City Creek Natural Area",
+   2.449489742783178
+  ],
+  [
+   "Big Cottonwood Canyon",
+   2.6457513110645907
+  ],
+  [
+   "Memory Grove",
+   2.6457513110645907
+  ]
+ ],
+ "Pony Express National Historic Trail": [
+  [
+   "Great Salt Lake",
+   1.4142135623730951
+  ],
+  [
+   "Salt Lake City Cemetery",
+   1.4142135623730951
+  ],
+  [
+   "Dinosaur",
+   2.0
+  ],
+  [
+   "Glen Canyon",
+   2.0
+  ],
+  [
+   "Salt Lake City Council Hall",
+   2.0
+  ]
+ ],
+ "Memory Grove": [
+  [
+   "First Encampment Park",
+   1.0
+  ],
+  [
+   "Murray Farmer's Market",
+   1.0
+  ],
+  [
+   "Quick Wits Comedy",
+   1.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   1.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   1.0
+  ]
+ ],
+ "Jordan Park": [
+  [
+   "Pioneer Memorial Museum",
+   1.7320508075688772
+  ],
+  [
+   "First Encampment Park",
+   1.7320508075688772
+  ],
+  [
+   "Murray Farmer's Market",
+   1.7320508075688772
+  ],
+  [
+   "Quick Wits Comedy",
+   1.7320508075688772
+  ],
+  [
+   "Doug's Shoot N Sports",
+   1.7320508075688772
+  ]
+ ],
+ "Fort Douglas Military Museum": [
+  [
+   "Great Salt Lake",
+   2.449489742783178
+  ],
+  [
+   "Pony Express National Historic Trail",
+   3.1622776601683795
+  ],
+  [
+   "Salt Lake City Council Hall",
+   3.1622776601683795
+  ],
+  [
+   "The Tabernacle",
+   3.3166247903554
+  ],
+  [
+   "Church History Museum",
+   3.3166247903554
+  ]
+ ],
+ "City Creek Natural Area": [
+  [
+   "Mueller Park Picnic Area",
+   1.4142135623730951
+  ],
+  [
+   "City Creek Park",
+   1.7320508075688772
+  ],
+  [
+   "Memory Grove",
+   1.7320508075688772
+  ],
+  [
+   "Memory Grove Park",
+   2.0
+  ],
+  [
+   "Pioneer Memorial Museum",
+   2.0
+  ]
+ ],
+ "Washington Square Park": [
+  [
+   "Holiday River Expeditions",
+   1.0
+  ],
+  [
+   "Smith\u2019s Ballpark",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ],
+  [
+   "Takashi",
+   1.4142135623730951
+  ]
+ ],
+ "McCune Mansion": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "The Living Room Trailhead": [
+  [
+   "Neffs Canyon",
+   2.0
+  ],
+  [
+   "Adams Canyon Trail",
+   2.0
+  ],
+  [
+   "Lake  Blanche Trail",
+   2.23606797749979
+  ],
+  [
+   "Ensign Park",
+   2.23606797749979
+  ],
+  [
+   "Millcreek Canyon",
+   2.23606797749979
+  ]
+ ],
+ "Millcreek Canyon": [
+  [
+   "Caff\u00e9 Molise",
+   1.7320508075688772
+  ],
+  [
+   "Tracy Aviary",
+   2.0
+  ],
+  [
+   "Discovery Gateway Children's Museum",
+   2.0
+  ],
+  [
+   "Brigham Young Historic Park",
+   2.0
+  ],
+  [
+   "Church Fork Picnic Area",
+   2.0
+  ]
+ ],
+ "Rotary Play Park": [
+  [
+   "This Is The Place Heritage Park",
+   2.8284271247461903
+  ],
+  [
+   "Peak Adventures Powersports Rentals",
+   3.3166247903554
+  ],
+  [
+   "Hogle Zoo",
+   3.4641016151377544
+  ],
+  [
+   "Utah Museum of Fine Arts",
+   3.4641016151377544
+  ],
+  [
+   "Lindsey Gardens Park",
+   3.4641016151377544
+  ]
+ ],
+ "Salt Lake City Council Hall": [
+  [
+   "Great Salt Lake",
+   1.4142135623730951
+  ],
+  [
+   "The Midway",
+   1.4142135623730951
+  ],
+  [
+   "We Witches 3",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   1.7320508075688772
+  ],
+  [
+   "Herman Franks Park",
+   1.7320508075688772
+  ]
+ ],
+ "Lindsey Gardens Park": [
+  [
+   "First Encampment Park",
+   1.0
+  ],
+  [
+   "Murray Farmer's Market",
+   1.0
+  ],
+  [
+   "Quick Wits Comedy",
+   1.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   1.0
+  ],
+  [
+   "Peak Adventures Powersports Rentals",
+   1.0
+  ]
+ ],
+ "Chase Home Museum": [
+  [
+   "Salt Lake City Cemetery",
+   1.4142135623730951
+  ],
+  [
+   "High Country Adventure",
+   1.7320508075688772
+  ],
+  [
+   "Brigham Young Historic Park",
+   2.0
+  ],
+  [
+   "Pony Express National Historic Trail",
+   2.0
+  ],
+  [
+   "Church Fork Picnic Area",
+   2.0
+  ]
+ ],
+ "Sunnyside Park": [
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Tunnel Springs Park",
+   1.4142135623730951
+  ],
+  [
+   "Salt Lake 2002 Olympic Cauldron Park",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ],
+  [
+   "Asylum 49",
+   1.4142135623730951
+  ]
+ ],
+ "Governor's Mansion": [
+  [
+   "Backcountry Snowmobiling",
+   1.0
+  ],
+  [
+   "Dented Brick Distillery",
+   1.4142135623730951
+  ],
+  [
+   "ClubRec",
+   1.4142135623730951
+  ],
+  [
+   "LDS Conference Center",
+   1.7320508075688772
+  ],
+  [
+   "The Leonardo Museum",
+   2.0
+  ]
+ ],
+ "Cottonwood Park": [
+  [
+   "Lindsey Gardens Park",
+   1.4142135623730951
+  ],
+  [
+   "Lagoon",
+   1.4142135623730951
+  ],
+  [
+   "Golden Spike",
+   1.7320508075688772
+  ],
+  [
+   "Discovery Gateway Children's Museum",
+   1.7320508075688772
+  ],
+  [
+   "Church Fork Picnic Area",
+   1.7320508075688772
+  ]
+ ],
+ "Tunnel Springs Park": [
+  [
+   "Church Fork Picnic Area",
+   1.0
+  ],
+  [
+   "Zoo Lights",
+   1.0
+  ],
+  [
+   "Cherry Hill",
+   1.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   1.0
+  ],
+  [
+   "Mystery Escape Room",
+   1.0
+  ]
+ ],
+ "Mueller Park Picnic Area": [
+  [
+   "City Creek Natural Area",
+   1.4142135623730951
+  ],
+  [
+   "Memory Grove",
+   1.7320508075688772
+  ],
+  [
+   "Neffs Canyon",
+   1.7320508075688772
+  ],
+  [
+   "Memory Grove Park",
+   2.0
+  ],
+  [
+   "Lake  Blanche Trail",
+   2.0
+  ]
+ ],
+ "Murray Park": [
+  [
+   "Boondocks Food & Fun",
+   2.8284271247461903
+  ],
+  [
+   "Park City Rafting",
+   3.0
+  ],
+  [
+   "Memory Grove Park",
+   3.1622776601683795
+  ],
+  [
+   "Brigham Young Historic Park",
+   3.1622776601683795
+  ],
+  [
+   "Lucky H Bar & Grille",
+   3.1622776601683795
+  ]
+ ],
+ "Cytybyrd Cafe": [
+  [
+   "Hires Big H",
+   0.0
+  ],
+  [
+   "Takashi",
+   1.0
+  ],
+  [
+   "Tuccis",
+   1.0
+  ],
+  [
+   "Osteria Amore",
+   1.0
+  ],
+  [
+   "Em's",
+   1.0
+  ]
+ ],
+ "Gardner Village": [
+  [
+   "Taco Taco",
+   2.0
+  ],
+  [
+   "Lindsey Gardens Park",
+   2.23606797749979
+  ],
+  [
+   "Just Burgers",
+   2.23606797749979
+  ],
+  [
+   "Tracy Aviary",
+   2.449489742783178
+  ],
+  [
+   "Salt Lake City Council Hall",
+   2.449489742783178
+  ]
+ ],
+ "Church Fork Picnic Area": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "Salt Lake City Cemetery": [
+  [
+   "Pony Express National Historic Trail",
+   1.4142135623730951
+  ],
+  [
+   "Chase Home Museum",
+   1.4142135623730951
+  ],
+  [
+   "First Encampment Park",
+   1.4142135623730951
+  ],
+  [
+   "Murray Farmer's Market",
+   1.4142135623730951
+  ],
+  [
+   "Quick Wits Comedy",
+   1.4142135623730951
+  ]
+ ],
+ "Salt Lake 2002 Olympic Cauldron Park": [
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Sunnyside Park",
+   1.4142135623730951
+  ],
+  [
+   "Tunnel Springs Park",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ],
+  [
+   "Asylum 49",
+   1.4142135623730951
+  ]
+ ],
+ "Herman Franks Park": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "First Encampment Park": [
+  [
+   "Murray Farmer's Market",
+   0.0
+  ],
+  [
+   "Quick Wits Comedy",
+   0.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   0.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   0.0
+  ],
+  [
+   "Memory Grove",
+   1.0
+  ]
+ ],
+ "Neffs Canyon": [
+  [
+   "Ensign Park",
+   1.7320508075688772
+  ],
+  [
+   "Mueller Park Picnic Area",
+   1.7320508075688772
+  ],
+  [
+   "Memory Grove",
+   2.0
+  ],
+  [
+   "The Living Room Trailhead",
+   2.0
+  ],
+  [
+   "Adams Canyon Trail",
+   2.0
+  ]
+ ],
+ "zest kitchen & bar": [
+  [
+   "Manoli's",
+   2.449489742783178
+  ],
+  [
+   "Cucina",
+   2.8284271247461903
+  ],
+  [
+   "Mahider Ethiopian Restaurant & Market",
+   3.0
+  ],
+  [
+   "Whiskey Street Cocktails & Dining",
+   3.1622776601683795
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   3.1622776601683795
+  ]
+ ],
+ "Settebello Pizzeria Napoletana": [
+  [
+   "The Midway",
+   1.0
+  ],
+  [
+   "Great Salt Lake Marina",
+   1.0
+  ],
+  [
+   "TRAX Light Rail System",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ]
+ ],
+ "Takashi": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Tacos Brazil",
+   1.0
+  ],
+  [
+   "Hires Big H",
+   1.0
+  ],
+  [
+   "Holiday River Expeditions",
+   1.0
+  ],
+  [
+   "Smith\u2019s Ballpark",
+   1.0
+  ]
+ ],
+ "Red Iguana": [
+  [
+   "Alamexo",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "The Bayou",
+   1.4142135623730951
+  ],
+  [
+   "The Coffee Shop at Little America Hotel",
+   1.4142135623730951
+  ],
+  [
+   "Bombay House",
+   1.4142135623730951
+  ]
+ ],
+ "Just Burgers": [
+  [
+   "Tacos Brazil",
+   1.0
+  ],
+  [
+   "Holiday River Expeditions",
+   1.0
+  ],
+  [
+   "Smith\u2019s Ballpark",
+   1.0
+  ],
+  [
+   "Washington Square Park",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ]
+ ],
+ "HSL": [
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.0
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   1.4142135623730951
+  ],
+  [
+   "Garden Caf\u00e9",
+   1.4142135623730951
+  ],
+  [
+   "Kyoto Japanese Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Taco Taco",
+   1.4142135623730951
+  ]
+ ],
+ "Valter's Osteria": [
+  [
+   "Em's",
+   2.0
+  ],
+  [
+   "The Blue Plate Diner",
+   2.0
+  ],
+  [
+   "Alamexo",
+   2.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   2.23606797749979
+  ],
+  [
+   "Red Iguana",
+   2.23606797749979
+  ]
+ ],
+ "Caff\u00e9 Molise": [
+  [
+   "Church Fork Picnic Area",
+   1.0
+  ],
+  [
+   "Holiday River Expeditions",
+   1.0
+  ],
+  [
+   "Zoo Lights",
+   1.0
+  ],
+  [
+   "Cherry Hill",
+   1.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   1.0
+  ]
+ ],
+ "The Bayou": [
+  [
+   "Bombay House",
+   0.0
+  ],
+  [
+   "Porcupine Pub & Grille",
+   1.0
+  ],
+  [
+   "Alamexo",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana",
+   1.4142135623730951
+  ]
+ ],
+ "Tacos Brazil": [
+  [
+   "Takashi",
+   1.0
+  ],
+  [
+   "Just Burgers",
+   1.0
+  ],
+  [
+   "Em's",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Hires Big H",
+   1.4142135623730951
+  ]
+ ],
+ "Stoneground Italian Kitchen": [
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.0
+  ],
+  [
+   "HSL",
+   1.4142135623730951
+  ],
+  [
+   "Garden Caf\u00e9",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.4142135623730951
+  ]
+ ],
+ "Eva": [
+  [
+   "Whiskey Street Cocktails & Dining",
+   1.4142135623730951
+  ],
+  [
+   "Osteria Amore",
+   1.4142135623730951
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.7320508075688772
+  ],
+  [
+   "The Bayou",
+   1.7320508075688772
+  ],
+  [
+   "Fleming\u2019s Prime Steakhouse & Wine Bar",
+   1.7320508075688772
+  ]
+ ],
+ "Bambara": [
+  [
+   "HSL",
+   1.7320508075688772
+  ],
+  [
+   "The Midway",
+   1.7320508075688772
+  ],
+  [
+   "Settebello Pizzeria Napoletana",
+   2.0
+  ],
+  [
+   "Salt Lake City Council Hall",
+   2.23606797749979
+  ],
+  [
+   "La Estaci\u00f3n Del Taco",
+   2.23606797749979
+  ]
+ ],
+ "Current Fish and Oyster": [
+  [
+   "Arempas",
+   0.0
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.0
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Mahider Ethiopian Restaurant & Market",
+   1.4142135623730951
+  ]
+ ],
+ "Siegfried's Delicatessen": [
+  [
+   "Current Fish and Oyster",
+   1.4142135623730951
+  ],
+  [
+   "The Coffee Shop at Little America Hotel",
+   1.4142135623730951
+  ],
+  [
+   "Arempas",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana 2",
+   1.7320508075688772
+  ],
+  [
+   "Osteria Amore",
+   1.7320508075688772
+  ]
+ ],
+ "Manoli's": [
+  [
+   "Cucina",
+   1.4142135623730951
+  ],
+  [
+   "Mahider Ethiopian Restaurant & Market",
+   1.7320508075688772
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   2.0
+  ],
+  [
+   "Cannella's",
+   2.0
+  ],
+  [
+   "Current Fish and Oyster",
+   2.23606797749979
+  ]
+ ],
+ "The Coffee Shop at Little America Hotel": [
+  [
+   "Alamexo",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana",
+   1.4142135623730951
+  ],
+  [
+   "The Bayou",
+   1.4142135623730951
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.4142135623730951
+  ]
+ ],
+ "Penny Ann's Cafe": [
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.7320508075688772
+  ],
+  [
+   "Osteria Amore",
+   1.7320508075688772
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.7320508075688772
+  ]
+ ],
+ "Tuccis": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Hires Big H",
+   1.0
+  ],
+  [
+   "Takashi",
+   1.4142135623730951
+  ],
+  [
+   "Osteria Amore",
+   1.4142135623730951
+  ],
+  [
+   "Em's",
+   1.4142135623730951
+  ]
+ ],
+ "Red Iguana 2": [
+  [
+   "Pago",
+   1.0
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.4142135623730951
+  ],
+  [
+   "SLC Eatery",
+   1.4142135623730951
+  ],
+  [
+   "The Other Place",
+   1.4142135623730951
+  ],
+  [
+   "Chile-Tepin",
+   1.4142135623730951
+  ]
+ ],
+ "Pretty Bird Chicken": [
+  [
+   "Just Burgers",
+   2.23606797749979
+  ],
+  [
+   "BOLTCUTTER",
+   2.23606797749979
+  ],
+  [
+   "Tacos Brazil",
+   2.449489742783178
+  ],
+  [
+   "Lucky H Bar & Grille",
+   2.449489742783178
+  ],
+  [
+   "Settebello Pizzeria Napoletana",
+   2.6457513110645907
+  ]
+ ],
+ "Pallet": [
+  [
+   "Tuccis",
+   2.449489742783178
+  ],
+  [
+   "Garage on Beck",
+   2.449489742783178
+  ],
+  [
+   "Cytybyrd Cafe",
+   2.6457513110645907
+  ],
+  [
+   "Red Iguana",
+   2.6457513110645907
+  ],
+  [
+   "Fleming\u2019s Prime Steakhouse & Wine Bar",
+   2.6457513110645907
+  ]
+ ],
+ "Fleming\u2019s Prime Steakhouse & Wine Bar": [
+  [
+   "Osteria Amore",
+   1.0
+  ],
+  [
+   "Garage on Beck",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.4142135623730951
+  ]
+ ],
+ "Ruth's Chris Steak House": [
+  [
+   "HSL",
+   2.449489742783178
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   2.6457513110645907
+  ],
+  [
+   "Sapa",
+   2.6457513110645907
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   2.8284271247461903
+  ],
+  [
+   "Garden Caf\u00e9",
+   2.8284271247461903
+  ]
+ ],
+ "Garden Caf\u00e9": [
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.0
+  ],
+  [
+   "HSL",
+   1.4142135623730951
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.4142135623730951
+  ]
+ ],
+ "La Estaci\u00f3n Del Taco": [
+  [
+   "First Encampment Park",
+   1.4142135623730951
+  ],
+  [
+   "Taco Taco",
+   1.4142135623730951
+  ],
+  [
+   "The Midway",
+   1.4142135623730951
+  ],
+  [
+   "Murray Farmer's Market",
+   1.4142135623730951
+  ],
+  [
+   "Quick Wits Comedy",
+   1.4142135623730951
+  ]
+ ],
+ "Spencer's For Steaks & Chops": [
+  [
+   "Eva",
+   2.23606797749979
+  ],
+  [
+   "Market Street Grill - Downtown",
+   2.449489742783178
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   2.449489742783178
+  ],
+  [
+   "Whiskey Street Cocktails & Dining",
+   2.6457513110645907
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   2.6457513110645907
+  ]
+ ],
+ "Whiskey Street Cocktails & Dining": [
+  [
+   "Eva",
+   1.4142135623730951
+  ],
+  [
+   "The Bayou",
+   1.7320508075688772
+  ],
+  [
+   "Bombay House",
+   1.7320508075688772
+  ],
+  [
+   "Osteria Amore",
+   2.0
+  ],
+  [
+   "Porcupine Pub & Grille",
+   2.0
+  ]
+ ],
+ "Pago": [
+  [
+   "Red Iguana 2",
+   1.0
+  ],
+  [
+   "Martine Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.7320508075688772
+  ],
+  [
+   "Porcupine Pub & Grille",
+   1.7320508075688772
+  ],
+  [
+   "SLC Eatery",
+   1.7320508075688772
+  ]
+ ],
+ "Bombay House": [
+  [
+   "Bombay House",
+   0.0
+  ],
+  [
+   "Porcupine Pub & Grille",
+   1.0
+  ],
+  [
+   "Alamexo",
+   1.0
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana",
+   1.4142135623730951
+  ]
+ ],
+ "Market Street Grill - Downtown": [
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   0.0
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.0
+  ],
+  [
+   "Osteria Amore",
+   1.0
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.0
+  ],
+  [
+   "Cucina",
+   1.0
+  ]
+ ],
+ "Rodizio Grill - Salt Lake City - Dine-In Open": [
+  [
+   "HSL",
+   1.0
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   1.0
+  ],
+  [
+   "Garden Caf\u00e9",
+   1.0
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.0
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.0
+  ]
+ ],
+ "Osteria Amore": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Fleming\u2019s Prime Steakhouse & Wine Bar",
+   1.0
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.0
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.0
+  ],
+  [
+   "Hires Big H",
+   1.0
+  ]
+ ],
+ "Oquirrh Restaurant": [
+  [
+   "Fleming\u2019s Prime Steakhouse & Wine Bar",
+   1.7320508075688772
+  ],
+  [
+   "Tuccis",
+   2.0
+  ],
+  [
+   "Osteria Amore",
+   2.0
+  ],
+  [
+   "Cucina",
+   2.0
+  ],
+  [
+   "Garage on Beck",
+   2.0
+  ]
+ ],
+ "Pig & A Jelly Jar Salt Lake City": [
+  [
+   "Current Fish and Oyster",
+   1.0
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.0
+  ],
+  [
+   "Arempas",
+   1.0
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.0
+  ],
+  [
+   "Red Iguana 2",
+   1.4142135623730951
+  ]
+ ],
+ "Martine Cafe": [
+  [
+   "Pago",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana 2",
+   1.7320508075688772
+  ],
+  [
+   "Osteria Amore",
+   1.7320508075688772
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.7320508075688772
+  ],
+  [
+   "Porcupine Pub & Grille",
+   1.7320508075688772
+  ]
+ ],
+ "Table X": [
+  [
+   "Cucina",
+   2.23606797749979
+  ],
+  [
+   "Cannella's",
+   2.23606797749979
+  ],
+  [
+   "Market Street Grill - Downtown",
+   2.449489742783178
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   2.449489742783178
+  ],
+  [
+   "Manoli's",
+   2.6457513110645907
+  ]
+ ],
+ "The Roof": [
+  [
+   "SLC Eatery",
+   1.4142135623730951
+  ],
+  [
+   "Red Iguana 2",
+   2.0
+  ],
+  [
+   "Alamexo",
+   2.0
+  ],
+  [
+   "Red Iguana",
+   2.23606797749979
+  ],
+  [
+   "The Bayou",
+   2.23606797749979
+  ]
+ ],
+ "Cucina": [
+  [
+   "Market Street Grill - Downtown",
+   1.0
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.0
+  ],
+  [
+   "Manoli's",
+   1.4142135623730951
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.4142135623730951
+  ],
+  [
+   "Osteria Amore",
+   1.4142135623730951
+  ]
+ ],
+ "Arempas": [
+  [
+   "Arempas",
+   0.0
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.0
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.4142135623730951
+  ],
+  [
+   "Mahider Ethiopian Restaurant & Market",
+   1.4142135623730951
+  ]
+ ],
+ "Em's": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Tacos Brazil",
+   1.0
+  ],
+  [
+   "Hires Big H",
+   1.0
+  ],
+  [
+   "Takashi",
+   1.4142135623730951
+  ],
+  [
+   "Tuccis",
+   1.4142135623730951
+  ]
+ ],
+ "Lucky H Bar & Grille": [
+  [
+   "Caff\u00e9 Molise",
+   1.7320508075688772
+  ],
+  [
+   "My Thai Asian Cuisine",
+   1.7320508075688772
+  ],
+  [
+   "Tacos Brazil",
+   2.0
+  ],
+  [
+   "Takashi",
+   2.23606797749979
+  ],
+  [
+   "Just Burgers",
+   2.23606797749979
+  ]
+ ],
+ "Kyoto Japanese Restaurant": [
+  [
+   "Garage On Beck",
+   1.0
+  ],
+  [
+   "HSL",
+   1.4142135623730951
+  ],
+  [
+   "Taco Taco",
+   1.4142135623730951
+  ],
+  [
+   "Holiday River Expeditions",
+   1.4142135623730951
+  ],
+  [
+   "The Midway",
+   1.4142135623730951
+  ]
+ ],
+ "Sapa": [
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.4142135623730951
+  ],
+  [
+   "Cucina",
+   1.4142135623730951
+  ],
+  [
+   "HSL",
+   1.7320508075688772
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   1.7320508075688772
+  ],
+  [
+   "Garden Caf\u00e9",
+   1.7320508075688772
+  ]
+ ],
+ "Porcupine Pub & Grille": [
+  [
+   "The Bayou",
+   1.0
+  ],
+  [
+   "Bombay House",
+   1.0
+  ],
+  [
+   "Alamexo",
+   1.4142135623730951
+  ],
+  [
+   "Cytybyrd Cafe",
+   1.7320508075688772
+  ],
+  [
+   "Red Iguana",
+   1.7320508075688772
+  ]
+ ],
+ "SLC Eatery": [
+  [
+   "Red Iguana 2",
+   1.4142135623730951
+  ],
+  [
+   "The Roof",
+   1.4142135623730951
+  ],
+  [
+   "Current Fish and Oyster",
+   1.7320508075688772
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.7320508075688772
+  ],
+  [
+   "Pago",
+   1.7320508075688772
+  ]
+ ],
+ "Mahider Ethiopian Restaurant & Market": [
+  [
+   "Current Fish and Oyster",
+   1.4142135623730951
+  ],
+  [
+   "Arempas",
+   1.4142135623730951
+  ],
+  [
+   "Manoli's",
+   1.7320508075688772
+  ],
+  [
+   "Red Iguana 2",
+   1.7320508075688772
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.7320508075688772
+  ]
+ ],
+ "Cannella's": [
+  [
+   "Cucina",
+   1.4142135623730951
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.7320508075688772
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "Eva",
+   2.0
+  ],
+  [
+   "Manoli's",
+   2.0
+  ]
+ ],
+ "Blue Lemon | Salt Lake City": [
+  [
+   "Red Iguana",
+   1.7320508075688772
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.7320508075688772
+  ],
+  [
+   "The Coffee Shop at Little America Hotel",
+   1.7320508075688772
+  ],
+  [
+   "Eva",
+   2.0
+  ],
+  [
+   "Red Iguana 2",
+   2.0
+  ]
+ ],
+ "The Other Place": [
+  [
+   "Red Iguana 2",
+   1.4142135623730951
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.4142135623730951
+  ],
+  [
+   "Current Fish and Oyster",
+   1.7320508075688772
+  ],
+  [
+   "Pago",
+   1.7320508075688772
+  ],
+  [
+   "Arempas",
+   1.7320508075688772
+  ]
+ ],
+ "Garage on Beck": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Fleming\u2019s Prime Steakhouse & Wine Bar",
+   1.0
+  ],
+  [
+   "Hires Big H",
+   1.0
+  ],
+  [
+   "Takashi",
+   1.4142135623730951
+  ],
+  [
+   "Tuccis",
+   1.4142135623730951
+  ]
+ ],
+ "My Thai Asian Cuisine": [
+  [
+   "Lucky H Bar & Grille",
+   1.7320508075688772
+  ],
+  [
+   "Eva",
+   2.0
+  ],
+  [
+   "Blue Lemon | Salt Lake City",
+   2.0
+  ],
+  [
+   "The Blue Plate Diner",
+   2.0
+  ],
+  [
+   "Valter's Osteria",
+   2.449489742783178
+  ]
+ ],
+ "The Rose Establishment": [
+  [
+   "Penny Ann's Cafe",
+   1.7320508075688772
+  ],
+  [
+   "Market Street Grill - Downtown",
+   1.7320508075688772
+  ],
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   2.0
+  ],
+  [
+   "Osteria Amore",
+   2.0
+  ]
+ ],
+ "Chile-Tepin": [
+  [
+   "Red Iguana 2",
+   1.4142135623730951
+  ],
+  [
+   "The Bayou",
+   1.7320508075688772
+  ],
+  [
+   "Pago",
+   1.7320508075688772
+  ],
+  [
+   "Bombay House",
+   1.7320508075688772
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   2.0
+  ]
+ ],
+ "BOLTCUTTER": [
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   2.0
+  ],
+  [
+   "HSL",
+   2.23606797749979
+  ],
+  [
+   "Tacos Brazil",
+   2.23606797749979
+  ],
+  [
+   "Stoneground Italian Kitchen",
+   2.23606797749979
+  ],
+  [
+   "Current Fish and Oyster",
+   2.23606797749979
+  ]
+ ],
+ "Sawadee (Utah) Thai Restaurant": [
+  [
+   "Sawadee (Utah) Thai Restaurant",
+   0.0
+  ],
+  [
+   "Rodizio Grill - Salt Lake City - Dine-In Open",
+   1.0
+  ],
+  [
+   "Osteria Amore",
+   1.0
+  ],
+  [
+   "Pig & A Jelly Jar Salt Lake City",
+   1.0
+  ],
+  [
+   "Cucina",
+   1.0
+  ]
+ ],
+ "The Blue Plate Diner": [
+  [
+   "Current Fish and Oyster",
+   1.7320508075688772
+  ],
+  [
+   "Siegfried's Delicatessen",
+   1.7320508075688772
+  ],
+  [
+   "Arempas",
+   1.7320508075688772
+  ],
+  [
+   "Valter's Osteria",
+   2.0
+  ],
+  [
+   "Eva",
+   2.0
+  ]
+ ],
+ "Taco Taco": [
+  [
+   "First Encampment Park",
+   1.4142135623730951
+  ],
+  [
+   "HSL",
+   1.4142135623730951
+  ],
+  [
+   "La Estaci\u00f3n Del Taco",
+   1.4142135623730951
+  ],
+  [
+   "Kyoto Japanese Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Holiday River Expeditions",
+   1.4142135623730951
+  ]
+ ],
+ "Alamexo": [
+  [
+   "Cytybyrd Cafe",
+   1.0
+  ],
+  [
+   "Red Iguana",
+   1.0
+  ],
+  [
+   "The Bayou",
+   1.0
+  ],
+  [
+   "The Coffee Shop at Little America Hotel",
+   1.0
+  ],
+  [
+   "Bombay House",
+   1.0
+  ]
+ ],
+ "Hires Big H": [
+  [
+   "Hires Big H",
+   0.0
+  ],
+  [
+   "Takashi",
+   1.0
+  ],
+  [
+   "Tuccis",
+   1.0
+  ],
+  [
+   "Osteria Amore",
+   1.0
+  ],
+  [
+   "Em's",
+   1.0
+  ]
+ ],
+ "Thousand Peaks Snowmobiling": [
+  [
+   "The Church of Jesus Christ of Latter-Day Saints Conference Center",
+   1.4142135623730951
+  ],
+  [
+   "Great Salt Lake Marina",
+   1.4142135623730951
+  ],
+  [
+   "We Witches 3",
+   1.4142135623730951
+  ],
+  [
+   "ClubRec",
+   1.4142135623730951
+  ],
+  [
+   "LDS Conference Center",
+   1.7320508075688772
+  ]
+ ],
+ "High Country Adventure": [
+  [
+   "Church Fork Picnic Area",
+   1.0
+  ],
+  [
+   "Zoo Lights",
+   1.0
+  ],
+  [
+   "Cherry Hill",
+   1.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   1.0
+  ],
+  [
+   "Mystery Escape Room",
+   1.0
+  ]
+ ],
+ "Quarters Arcade Bar": [
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ],
+  [
+   "Herman Franks Park",
+   1.4142135623730951
+  ],
+  [
+   "Asylum 49",
+   1.4142135623730951
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.4142135623730951
+  ],
+  [
+   "Enigma Escape Experience",
+   1.4142135623730951
+  ]
+ ],
+ "Asylum 49": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Holiday River Expeditions": [
+  [
+   "Smith\u2019s Ballpark",
+   0.0
+  ],
+  [
+   "Washington Square Park",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Takashi",
+   1.0
+  ]
+ ],
+ "Boondocks Food & Fun": [
+  [
+   "Park City Rafting",
+   1.0
+  ],
+  [
+   "Discovery Gateway Children's Museum",
+   1.4142135623730951
+  ],
+  [
+   "Brigham Young Historic Park",
+   1.4142135623730951
+  ],
+  [
+   "Church Fork Picnic Area",
+   1.4142135623730951
+  ],
+  [
+   "Zoo Lights",
+   1.4142135623730951
+  ]
+ ],
+ "The Midway": [
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Settebello Pizzeria Napoletana",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.0
+  ]
+ ],
+ "The Wairhouse Trampoline Park": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Lagoon": [
+  [
+   "Cottonwood Park",
+   1.4142135623730951
+  ],
+  [
+   "Arches",
+   2.0
+  ],
+  [
+   "Bryce Canyon",
+   2.0
+  ],
+  [
+   "Capitol Reef",
+   2.0
+  ],
+  [
+   "Cedar Breaks",
+   2.0
+  ]
+ ],
+ "Murray Farmer's Market": [
+  [
+   "Murray Farmer's Market",
+   0.0
+  ],
+  [
+   "Quick Wits Comedy",
+   0.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   0.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   0.0
+  ],
+  [
+   "Memory Grove",
+   1.0
+  ]
+ ],
+ "Enigma Escape Experience": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Alcatraz Escape Games": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "All Star Bowling & Entertainment": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Salt Lake Comic Con": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Great Salt Lake Marina": [
+  [
+   "TRAX Light Rail System",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Settebello Pizzeria Napoletana",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ]
+ ],
+ "Zoo Lights": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "Quick Wits Comedy": [
+  [
+   "Murray Farmer's Market",
+   0.0
+  ],
+  [
+   "Quick Wits Comedy",
+   0.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   0.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   0.0
+  ],
+  [
+   "Memory Grove",
+   1.0
+  ]
+ ],
+ "Petersen Family Farms": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "YOLO": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Crone's Hollow": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Exclusive Excursions": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "The Front Climbing Club": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Cinemark Sugarhouse": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Dented Brick Distillery": [
+  [
+   "Backcountry Snowmobiling",
+   1.0
+  ],
+  [
+   "Governor's Mansion",
+   1.4142135623730951
+  ],
+  [
+   "ClubRec",
+   1.4142135623730951
+  ],
+  [
+   "LDS Conference Center",
+   1.7320508075688772
+  ],
+  [
+   "Cathedral of the Madeleine",
+   1.7320508075688772
+  ]
+ ],
+ "Cherry Hill": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "Utah Flying Trapeze": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "The Gateway": [
+  [
+   "Church Fork Picnic Area",
+   1.0
+  ],
+  [
+   "Zoo Lights",
+   1.0
+  ],
+  [
+   "Cherry Hill",
+   1.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   1.0
+  ],
+  [
+   "Mystery Escape Room",
+   1.0
+  ]
+ ],
+ "Mystery Escape Room": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "Alchemy Coffee": [
+  [
+   "Quarters Arcade Bar",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   2.0
+  ],
+  [
+   "Herman Franks Park",
+   2.0
+  ],
+  [
+   "Asylum 49",
+   2.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   2.0
+  ]
+ ],
+ "Garage On Beck": [
+  [
+   "Kyoto Japanese Restaurant",
+   1.0
+  ],
+  [
+   "Holiday River Expeditions",
+   1.0
+  ],
+  [
+   "Smith\u2019s Ballpark",
+   1.0
+  ],
+  [
+   "Washington Square Park",
+   1.4142135623730951
+  ],
+  [
+   "McCune Mansion",
+   1.4142135623730951
+  ]
+ ],
+ "Point of View - You Are Here": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Park City Rafting": [
+  [
+   "Brigham Young Historic Park",
+   1.0
+  ],
+  [
+   "Church Fork Picnic Area",
+   1.0
+  ],
+  [
+   "Boondocks Food & Fun",
+   1.0
+  ],
+  [
+   "Zoo Lights",
+   1.0
+  ],
+  [
+   "Cherry Hill",
+   1.0
+  ]
+ ],
+ "Skywalker Balloon Company": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "The Improvables": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "Backcountry Snowmobiling": [
+  [
+   "Governor's Mansion",
+   1.0
+  ],
+  [
+   "Dented Brick Distillery",
+   1.0
+  ],
+  [
+   "ClubRec",
+   1.0
+  ],
+  [
+   "LDS Conference Center",
+   1.4142135623730951
+  ],
+  [
+   "The Leonardo Museum",
+   1.7320508075688772
+  ]
+ ],
+ "Doug's Shoot N Sports": [
+  [
+   "Murray Farmer's Market",
+   0.0
+  ],
+  [
+   "Quick Wits Comedy",
+   0.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   0.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   0.0
+  ],
+  [
+   "Memory Grove",
+   1.0
+  ]
+ ],
+ "Adams Canyon Trail": [
+  [
+   "Lake  Blanche Trail",
+   1.0
+  ],
+  [
+   "Ensign Peak Park",
+   1.7320508075688772
+  ],
+  [
+   "Mill Creek Canyon",
+   1.7320508075688772
+  ],
+  [
+   "Ensign Peak Trailhead",
+   1.7320508075688772
+  ],
+  [
+   "Ensign Park",
+   1.7320508075688772
+  ]
+ ],
+ "We Witches 3": [
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.0
+  ],
+  [
+   "Enigma Escape Experience",
+   1.0
+  ]
+ ],
+ "Momentum Indoor Climbing - Millcreek": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Peak Adventures Powersports Rentals": [
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Lindsey Gardens Park",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.0
+  ]
+ ],
+ "Momentum Indoor Climbing- Sandy": [
+  [
+   "Zoo Lights",
+   0.0
+  ],
+  [
+   "Cherry Hill",
+   0.0
+  ],
+  [
+   "Utah Flying Trapeze",
+   0.0
+  ],
+  [
+   "Mystery Escape Room",
+   0.0
+  ],
+  [
+   "The Improvables",
+   0.0
+  ]
+ ],
+ "9th and 9th Street Festival": [
+  [
+   "Murray Farmer's Market",
+   0.0
+  ],
+  [
+   "Quick Wits Comedy",
+   0.0
+  ],
+  [
+   "Doug's Shoot N Sports",
+   0.0
+  ],
+  [
+   "9th and 9th Street Festival",
+   0.0
+  ],
+  [
+   "Memory Grove",
+   1.0
+  ]
+ ],
+ "Painters Palette - South Jordan": [
+  [
+   "LDS Conference Center",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.0
+  ]
+ ],
+ "ClubRec": [
+  [
+   "LDS Conference Center",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Asylum 49",
+   1.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   1.0
+  ]
+ ],
+ "Uinta Recreation": [
+  [
+   "Herman Franks Park",
+   0.0
+  ],
+  [
+   "Asylum 49",
+   0.0
+  ],
+  [
+   "The Wairhouse Trampoline Park",
+   0.0
+  ],
+  [
+   "Enigma Escape Experience",
+   0.0
+  ],
+  [
+   "Alcatraz Escape Games",
+   0.0
+  ]
+ ],
+ "Smith\u2019s Ballpark": [
+  [
+   "Smith\u2019s Ballpark",
+   0.0
+  ],
+  [
+   "Washington Square Park",
+   1.0
+  ],
+  [
+   "McCune Mansion",
+   1.0
+  ],
+  [
+   "Herman Franks Park",
+   1.0
+  ],
+  [
+   "Takashi",
+   1.0
+  ]
+ ]
+}

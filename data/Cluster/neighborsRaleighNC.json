@@ -1,0 +1,4336 @@
+{
+ "North Carolina Museum of Natural Sciences": [
+  [
+   "Millbrook Exchange Park",
+   3.872983346207417
+  ],
+  [
+   "Raleigh Fire Museum",
+   3.872983346207417
+  ],
+  [
+   "Pullen Park",
+   4.0
+  ],
+  [
+   "Sassafras All Children's Playground",
+   4.0
+  ],
+  [
+   "Knightdale Station Park",
+   4.0
+  ]
+ ],
+ "North Carolina Museum of Art": [
+  [
+   "Artspace",
+   3.1622776601683795
+  ],
+  [
+   "Sertoma Arts Center",
+   3.1622776601683795
+  ],
+  [
+   "North Carolina Museum of Art Parking",
+   3.7416573867739413
+  ],
+  [
+   "CAM Raleigh",
+   4.242640687119285
+  ],
+  [
+   "Artsplosure",
+   4.242640687119285
+  ]
+ ],
+ "Pullen Park": [
+  [
+   "Marbles Kids Museum",
+   3.1622776601683795
+  ],
+  [
+   "Moore Square",
+   3.1622776601683795
+  ],
+  [
+   "JC Raulston Arboretum",
+   3.4641016151377544
+  ],
+  [
+   "Sassafras All Children's Playground",
+   3.4641016151377544
+  ],
+  [
+   "John Chavis Memorial Park",
+   3.4641016151377544
+  ]
+ ],
+ "Marbles Kids Museum": [
+  [
+   "Pullen Park",
+   3.1622776601683795
+  ],
+  [
+   "JC Raulston Arboretum",
+   3.1622776601683795
+  ],
+  [
+   "Sassafras All Children's Playground",
+   3.1622776601683795
+  ],
+  [
+   "John Chavis Memorial Park",
+   3.1622776601683795
+  ],
+  [
+   "Umstead State Park",
+   3.3166247903554
+  ]
+ ],
+ "North Carolina Museum of History": [
+  [
+   "Pope House Museum",
+   4.69041575982343
+  ],
+  [
+   "Joel Lane Museum House",
+   4.898979485566356
+  ],
+  [
+   "Historic Oak View County Park",
+   5.0
+  ],
+  [
+   "North Carolina State Capitol",
+   5.385164807134504
+  ],
+  [
+   "Mordecai Historic Park",
+   5.656854249492381
+  ]
+ ],
+ "Umstead State Park": [
+  [
+   "William B. Umstead State Park",
+   2.0
+  ],
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   2.23606797749979
+  ],
+  [
+   "Lake Wheeler",
+   2.6457513110645907
+  ],
+  [
+   "Durant Nature Preserve",
+   2.6457513110645907
+  ],
+  [
+   "Defygravity Durham",
+   2.6457513110645907
+  ]
+ ],
+ "Historic Yates Mill County Park": [
+  [
+   "Shelley Lake Park",
+   3.1622776601683795
+  ],
+  [
+   "Anderson Point Park",
+   3.1622776601683795
+  ],
+  [
+   "Lake Lynn Park",
+   3.1622776601683795
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   3.1622776601683795
+  ],
+  [
+   "JC Raulston Arboretum",
+   3.3166247903554
+  ]
+ ],
+ "JC Raulston Arboretum at NC State University": [
+  [
+   "The Raleigh Market",
+   2.449489742783178
+  ],
+  [
+   "State Farmers Market",
+   2.6457513110645907
+  ],
+  [
+   "The Cupcake Shoppe",
+   2.6457513110645907
+  ],
+  [
+   "Capital Area Greenway",
+   2.6457513110645907
+  ],
+  [
+   "Neuse River Trail",
+   2.8284271247461903
+  ]
+ ],
+ "State Farmers Market": [
+  [
+   "The Cupcake Shoppe",
+   0.0
+  ],
+  [
+   "Capital Area Greenway",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ]
+ ],
+ "Neuse River Trail": [
+  [
+   "Falls Lake Dam",
+   1.7320508075688772
+  ],
+  [
+   "PNC Arena",
+   2.0
+  ],
+  [
+   "The Raleigh Market",
+   2.0
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   2.0
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.0
+  ]
+ ],
+ "PNC Arena": [
+  [
+   "Margaux's Restaurant",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "The Pit Authentic Barbecue",
+   1.4142135623730951
+  ],
+  [
+   "Crabtree Valley Mall",
+   1.7320508075688772
+  ],
+  [
+   "Reynolds Coliseum",
+   1.7320508075688772
+  ]
+ ],
+ "Frankie's Fun Park": [
+  [
+   "PNC Arena",
+   2.0
+  ],
+  [
+   "Poole's",
+   2.23606797749979
+  ],
+  [
+   "Margaux's Restaurant",
+   2.23606797749979
+  ],
+  [
+   "Compass Rose Brewery",
+   2.23606797749979
+  ],
+  [
+   "Seasons 52",
+   2.449489742783178
+  ]
+ ],
+ "Lake Johnson Park": [
+  [
+   "Neuse River Trail",
+   3.1622776601683795
+  ],
+  [
+   "Shelley Lake Park",
+   3.1622776601683795
+  ],
+  [
+   "Lake Lynn Park",
+   3.1622776601683795
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   3.1622776601683795
+  ],
+  [
+   "Fred Fletcher Park",
+   3.3166247903554
+  ]
+ ],
+ "North Carolina State University": [
+  [
+   "Lake Wheeler",
+   2.449489742783178
+  ],
+  [
+   "Greater Raleigh Convention and Visitors Bureau",
+   2.449489742783178
+  ],
+  [
+   "Defygravity Durham",
+   2.449489742783178
+  ],
+  [
+   "Gotcha Paintball",
+   2.449489742783178
+  ],
+  [
+   "SPARKcon",
+   2.449489742783178
+  ]
+ ],
+ "Mordecai Historic Park": [
+  [
+   "Mordecai Historical Park",
+   2.449489742783178
+  ],
+  [
+   "Joel Lane Museum House",
+   2.8284271247461903
+  ],
+  [
+   "Carolina Touring Company",
+   3.7416573867739413
+  ],
+  [
+   "Tobacco Road Tours",
+   3.7416573867739413
+  ],
+  [
+   "North Carolina State Capitol",
+   3.872983346207417
+  ]
+ ],
+ "North Carolina State Capitol": [
+  [
+   "Mordecai Historical Park",
+   2.6457513110645907
+  ],
+  [
+   "Joel Lane Museum House",
+   2.6457513110645907
+  ],
+  [
+   "Historic Oak View County Park",
+   3.1622776601683795
+  ],
+  [
+   "Pope House Museum",
+   3.3166247903554
+  ],
+  [
+   "Tobacco Road Tours",
+   3.605551275463989
+  ]
+ ],
+ "Carter Finley Stadium": [
+  [
+   "Sunflower Field",
+   2.0
+  ],
+  [
+   "Cedar Hills Park",
+   3.0
+  ],
+  [
+   "Dorothea Dix Park",
+   3.3166247903554
+  ],
+  [
+   "Artsplosure",
+   3.3166247903554
+  ],
+  [
+   "SPARKcon",
+   3.3166247903554
+  ]
+ ],
+ "WRAL Azalea Garden": [
+  [
+   "North Carolina State University Memorial Belltower",
+   2.23606797749979
+  ],
+  [
+   "Oakwood Cemetery",
+   2.449489742783178
+  ],
+  [
+   "Carolina Touring Company",
+   2.449489742783178
+  ],
+  [
+   "Yates Mill Museum Entrance",
+   2.449489742783178
+  ],
+  [
+   "Triangle Rock Club - Morrisville",
+   2.449489742783178
+  ]
+ ],
+ "Crabtree Valley Mall": [
+  [
+   "Cortez Seafood and Cocktail",
+   1.4142135623730951
+  ],
+  [
+   "PNC Arena",
+   1.7320508075688772
+  ],
+  [
+   "Seasons 52",
+   1.7320508075688772
+  ],
+  [
+   "J Betski's",
+   1.7320508075688772
+  ],
+  [
+   "The Pit Authentic Barbecue",
+   1.7320508075688772
+  ]
+ ],
+ "The Raleigh Market": [
+  [
+   "The Pit Authentic Barbecue",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market",
+   1.7320508075688772
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.7320508075688772
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.7320508075688772
+  ],
+  [
+   "Cinemark Raleigh Grande",
+   1.7320508075688772
+  ]
+ ],
+ "Raleigh Little Theatre Rose Garden": [
+  [
+   "Jordan Lake Water Sports",
+   0.0
+  ],
+  [
+   "Wake Escape",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Oakwood Cemetery",
+   1.0
+  ],
+  [
+   "Raleigh Little Theatre",
+   1.0
+  ]
+ ],
+ "Reynolds Coliseum": [
+  [
+   "PNC Arena",
+   1.7320508075688772
+  ],
+  [
+   "Margaux's Restaurant",
+   2.0
+  ],
+  [
+   "Seasons 52",
+   2.23606797749979
+  ],
+  [
+   "The Pit Authentic Barbecue",
+   2.23606797749979
+  ],
+  [
+   "Crabtree Valley Mall",
+   2.449489742783178
+  ]
+ ],
+ "Shelley Lake Park": [
+  [
+   "Fred Fletcher Park",
+   1.7320508075688772
+  ],
+  [
+   "Lake Lynn Park",
+   2.0
+  ],
+  [
+   "Bass Lake Park",
+   2.0
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   2.449489742783178
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.449489742783178
+  ]
+ ],
+ "Historic Oakwood Cemetery": [
+  [
+   "Sacred Heart Catholic Church",
+   1.0
+  ],
+  [
+   "Greater Raleigh Convention and Visitors Bureau",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.4142135623730951
+  ],
+  [
+   "African American Cultural Complex",
+   1.4142135623730951
+  ],
+  [
+   "The Streets at Southpoint",
+   1.4142135623730951
+  ]
+ ],
+ "Lake Wheeler": [
+  [
+   "Defygravity Durham",
+   0.0
+  ],
+  [
+   "Gotcha Paintball",
+   0.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ]
+ ],
+ "Historic Oakwood": [
+  [
+   "Mordecai Historical Park",
+   4.69041575982343
+  ],
+  [
+   "Mordecai Historic Park",
+   4.898979485566356
+  ],
+  [
+   "Historic Oak View County Park",
+   5.196152422706632
+  ],
+  [
+   "Downtown Raleigh",
+   5.5677643628300215
+  ],
+  [
+   "Carolina Touring Company",
+   5.656854249492381
+  ]
+ ],
+ "Walnut Creek Amphitheatre": [
+  [
+   "Frankie's Fun Park",
+   2.8284271247461903
+  ],
+  [
+   "North Hills",
+   2.8284271247461903
+  ],
+  [
+   "North Carolina State University Memorial Belltower",
+   3.0
+  ],
+  [
+   "Nash Square",
+   3.0
+  ],
+  [
+   "Dr. Martin Luther King, Jr. Memorial Gardens",
+   3.0
+  ]
+ ],
+ "North Hills": [
+  [
+   "PNC Arena",
+   2.0
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   2.0
+  ],
+  [
+   "State Farmers Market",
+   2.23606797749979
+  ],
+  [
+   "Crabtree Valley Mall",
+   2.23606797749979
+  ],
+  [
+   "Fred Fletcher Park",
+   2.23606797749979
+  ]
+ ],
+ "Duke Energy Center for the Performing Arts": [
+  [
+   "Durham Bulls",
+   2.6457513110645907
+  ],
+  [
+   "Yates Mill Museum Entrance",
+   2.8284271247461903
+  ],
+  [
+   "Raleigh Little Theatre",
+   2.8284271247461903
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.8284271247461903
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   3.0
+  ]
+ ],
+ "Raleigh Convention Center": [
+  [
+   "Durham Bulls",
+   2.0
+  ],
+  [
+   "Oakwood Dog Park",
+   2.23606797749979
+  ],
+  [
+   "The Streets at Southpoint",
+   2.23606797749979
+  ],
+  [
+   "Triangle Skydiving Center",
+   2.23606797749979
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   2.23606797749979
+  ]
+ ],
+ "Appalachian": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Blue Ridge": [
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Cape Hatteras",
+   1.0
+  ],
+  [
+   "Carl Sandburg Home",
+   1.0
+  ],
+  [
+   "Great Smoky Mountains",
+   1.0
+  ],
+  [
+   "Guilford Courthouse",
+   1.0
+  ]
+ ],
+ "Cape Hatteras": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Cape Lookout": [
+  [
+   "Fort Raleigh",
+   1.0
+  ],
+  [
+   "Overmountain Victory",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.4142135623730951
+  ],
+  [
+   "Cape Hatteras",
+   1.4142135623730951
+  ],
+  [
+   "Carl Sandburg Home",
+   1.4142135623730951
+  ]
+ ],
+ "Carl Sandburg Home": [
+  [
+   "Blue Ridge",
+   1.0
+  ],
+  [
+   "Fort Raleigh",
+   1.0
+  ],
+  [
+   "Overmountain Victory",
+   1.0
+  ],
+  [
+   "Appalachian",
+   1.4142135623730951
+  ],
+  [
+   "Cape Hatteras",
+   1.4142135623730951
+  ]
+ ],
+ "Fort Raleigh": [
+  [
+   "Overmountain Victory",
+   0.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Cape Hatteras",
+   1.0
+  ],
+  [
+   "Cape Lookout",
+   1.0
+  ],
+  [
+   "Carl Sandburg Home",
+   1.0
+  ]
+ ],
+ "Great Smoky Mountains": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Guilford Courthouse": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Gullah/Geechee": [
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Cape Hatteras",
+   1.0
+  ],
+  [
+   "Great Smoky Mountains",
+   1.0
+  ],
+  [
+   "Guilford Courthouse",
+   1.0
+  ],
+  [
+   "Moores Creek",
+   1.0
+  ]
+ ],
+ "Moores Creek": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Overmountain Victory": [
+  [
+   "Overmountain Victory",
+   0.0
+  ],
+  [
+   "Appalachian",
+   1.0
+  ],
+  [
+   "Cape Hatteras",
+   1.0
+  ],
+  [
+   "Cape Lookout",
+   1.0
+  ],
+  [
+   "Carl Sandburg Home",
+   1.0
+  ]
+ ],
+ "Trail Of Tears": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "Wright Brothers": [
+  [
+   "Cape Hatteras",
+   0.0
+  ],
+  [
+   "Great Smoky Mountains",
+   0.0
+  ],
+  [
+   "Guilford Courthouse",
+   0.0
+  ],
+  [
+   "Moores Creek",
+   0.0
+  ],
+  [
+   "Trail Of Tears",
+   0.0
+  ]
+ ],
+ "JC Raulston Arboretum": [
+  [
+   "North Carolina State University Memorial Belltower",
+   2.0
+  ],
+  [
+   "Whole Brain Escape",
+   2.23606797749979
+  ],
+  [
+   "State Farmers Market",
+   2.449489742783178
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.449489742783178
+  ],
+  [
+   "Lake Wheeler",
+   2.449489742783178
+  ]
+ ],
+ "Raleigh Brews Cruise": [
+  [
+   "Tobacco Road Tours",
+   2.6457513110645907
+  ],
+  [
+   "The Great Raleigh Trolley",
+   2.6457513110645907
+  ],
+  [
+   "Carolina Touring Company",
+   3.0
+  ],
+  [
+   "Dorothea Dix Park",
+   3.4641016151377544
+  ],
+  [
+   "WRAL Azalea Garden",
+   3.605551275463989
+  ]
+ ],
+ "CAM Raleigh": [
+  [
+   "North Carolina Museum of Art Parking",
+   2.0
+  ],
+  [
+   "Oakwood Cemetery",
+   2.23606797749979
+  ],
+  [
+   "Triangle Rock Club - Morrisville",
+   2.23606797749979
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.449489742783178
+  ],
+  [
+   "Jordan Lake Water Sports",
+   2.449489742783178
+  ]
+ ],
+ "Mordecai Historical Park": [
+  [
+   "Mordecai Historic Park",
+   2.449489742783178
+  ],
+  [
+   "Joel Lane Museum House",
+   2.449489742783178
+  ],
+  [
+   "Carolina Touring Company",
+   2.449489742783178
+  ],
+  [
+   "North Carolina State Capitol",
+   2.6457513110645907
+  ],
+  [
+   "Tobacco Road Tours",
+   2.8284271247461903
+  ]
+ ],
+ "William B. Umstead State Park": [
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   1.7320508075688772
+  ],
+  [
+   "Umstead State Park",
+   2.0
+  ],
+  [
+   "Eno River State Park",
+   2.0
+  ],
+  [
+   "Falls Lake Dam",
+   2.23606797749979
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.449489742783178
+  ]
+ ],
+ "City of Raleigh Museum": [
+  [
+   "Raleigh Fire Museum",
+   3.4641016151377544
+  ],
+  [
+   "Pope House Museum",
+   3.7416573867739413
+  ],
+  [
+   "African American Cultural Complex",
+   4.0
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   4.0
+  ],
+  [
+   "JC Raulston Arboretum",
+   4.123105625617661
+  ]
+ ],
+ "Artspace": [
+  [
+   "Sertoma Arts Center",
+   2.0
+  ],
+  [
+   "North Carolina Museum of Art",
+   3.1622776601683795
+  ],
+  [
+   "CAM Raleigh",
+   3.1622776601683795
+  ],
+  [
+   "North Carolina Museum of Art Parking",
+   3.1622776601683795
+  ],
+  [
+   "SPARKcon",
+   3.1622776601683795
+  ]
+ ],
+ "Durant Nature Preserve": [
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   2.0
+  ],
+  [
+   "Falls Lake Dam",
+   2.449489742783178
+  ],
+  [
+   "Umstead State Park",
+   2.6457513110645907
+  ],
+  [
+   "William B. Umstead State Park",
+   2.6457513110645907
+  ],
+  [
+   "Lake Crabtree County Park",
+   2.6457513110645907
+  ]
+ ],
+ "Pope House Museum": [
+  [
+   "Joel Lane Museum House",
+   2.8284271247461903
+  ],
+  [
+   "Raleigh Fire Museum",
+   2.8284271247461903
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   2.8284271247461903
+  ],
+  [
+   "Historic Oak View County Park",
+   3.0
+  ],
+  [
+   "African American Cultural Complex",
+   3.1622776601683795
+  ]
+ ],
+ "Laurel Hills Park": [
+  [
+   "Adventure Landing",
+   2.8284271247461903
+  ],
+  [
+   "Prairie Ridge Ecostation",
+   3.4641016151377544
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   3.4641016151377544
+  ],
+  [
+   "Adventure Landing Raleigh",
+   3.4641016151377544
+  ],
+  [
+   "Sassafras All Children's Playground",
+   3.605551275463989
+  ]
+ ],
+ "Historic Oak View County Park": [
+  [
+   "Mordecai Historical Park",
+   3.0
+  ],
+  [
+   "Pope House Museum",
+   3.0
+  ],
+  [
+   "Raleigh Fire Museum",
+   3.0
+  ],
+  [
+   "North Carolina State Capitol",
+   3.1622776601683795
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   3.3166247903554
+  ]
+ ],
+ "Gregg Museum of Art & Design": [
+  [
+   "North Carolina Museum of Art Parking",
+   3.0
+  ],
+  [
+   "JC Raulston Arboretum at NC State University",
+   3.4641016151377544
+  ],
+  [
+   "CAM Raleigh",
+   3.605551275463989
+  ],
+  [
+   "Neuse River Trail",
+   4.0
+  ],
+  [
+   "The Raleigh Market",
+   4.0
+  ]
+ ],
+ "Sassafras All Children's Playground": [
+  [
+   "John Chavis Memorial Park",
+   1.4142135623730951
+  ],
+  [
+   "Lake Crabtree County Park",
+   1.7320508075688772
+  ],
+  [
+   "Adventure Landing",
+   1.7320508075688772
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.7320508075688772
+  ],
+  [
+   "Whole Brain Escape",
+   1.7320508075688772
+  ]
+ ],
+ "North Carolina State University Memorial Belltower": [
+  [
+   "Whole Brain Escape",
+   1.7320508075688772
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   1.7320508075688772
+  ],
+  [
+   "State Farmers Market",
+   2.0
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.0
+  ],
+  [
+   "Lake Wheeler",
+   2.0
+  ]
+ ],
+ "Lake Crabtree County Park": [
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.4142135623730951
+  ],
+  [
+   "Adventure Landing Raleigh",
+   1.4142135623730951
+  ],
+  [
+   "Lake Wheeler",
+   1.7320508075688772
+  ],
+  [
+   "Sassafras All Children's Playground",
+   1.7320508075688772
+  ],
+  [
+   "John Chavis Memorial Park",
+   1.7320508075688772
+  ]
+ ],
+ "Moore Square": [
+  [
+   "John Chavis Memorial Park",
+   1.4142135623730951
+  ],
+  [
+   "Adventure Landing",
+   1.7320508075688772
+  ],
+  [
+   "Whole Brain Escape",
+   1.7320508075688772
+  ],
+  [
+   "Sassafras All Children's Playground",
+   2.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   2.23606797749979
+  ]
+ ],
+ "Prairie Ridge Ecostation": [
+  [
+   "Adventure Landing",
+   2.8284271247461903
+  ],
+  [
+   "John Chavis Memorial Park",
+   3.3166247903554
+  ],
+  [
+   "Laurel Hills Park",
+   3.4641016151377544
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   3.4641016151377544
+  ],
+  [
+   "Millbrook Exchange Park",
+   3.4641016151377544
+  ]
+ ],
+ "Adventure Landing": [
+  [
+   "John Chavis Memorial Park",
+   1.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.4142135623730951
+  ],
+  [
+   "Adventure Landing Raleigh",
+   1.4142135623730951
+  ],
+  [
+   "Sassafras All Children's Playground",
+   1.7320508075688772
+  ],
+  [
+   "Moore Square",
+   1.7320508075688772
+  ]
+ ],
+ "Joel Lane Museum House": [
+  [
+   "Mordecai Historical Park",
+   2.449489742783178
+  ],
+  [
+   "Tobacco Road Tours",
+   2.449489742783178
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   2.449489742783178
+  ],
+  [
+   "North Carolina State Capitol",
+   2.6457513110645907
+  ],
+  [
+   "Mordecai Historic Park",
+   2.8284271247461903
+  ]
+ ],
+ "Raleigh-Durham International Airport Observation Park": [
+  [
+   "Adventure Landing Raleigh",
+   0.0
+  ],
+  [
+   "Lake Wheeler",
+   1.0
+  ],
+  [
+   "John Chavis Memorial Park",
+   1.0
+  ],
+  [
+   "Defygravity Durham",
+   1.0
+  ],
+  [
+   "Gotcha Paintball",
+   1.0
+  ]
+ ],
+ "Horseshoe Farm Nature Preserve": [
+  [
+   "Sassafras All Children's Playground",
+   3.1622776601683795
+  ],
+  [
+   "Nash Square",
+   3.1622776601683795
+  ],
+  [
+   "Dr. Martin Luther King, Jr. Memorial Gardens",
+   3.1622776601683795
+  ],
+  [
+   "Carl Sandburg Home",
+   3.3166247903554
+  ],
+  [
+   "Anderson Point Park",
+   3.3166247903554
+  ]
+ ],
+ "ROOM 5280 - Raleigh Live Escape Games": [
+  [
+   "C Grace",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ]
+ ],
+ "Dorothea Dix Park": [
+  [
+   "Sacred Heart Catholic Church",
+   1.4142135623730951
+  ],
+  [
+   "Cedar Hills Park",
+   1.4142135623730951
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   1.7320508075688772
+  ],
+  [
+   "Oakwood Dog Park",
+   1.7320508075688772
+  ],
+  [
+   "African American Cultural Complex",
+   1.7320508075688772
+  ]
+ ],
+ "Oakwood Dog Park": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "African American Cultural Complex": [
+  [
+   "Sacred Heart Catholic Church",
+   1.0
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   1.4142135623730951
+  ],
+  [
+   "Raleigh Fire Museum",
+   1.4142135623730951
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   1.4142135623730951
+  ],
+  [
+   "Dorothea Dix Park",
+   1.7320508075688772
+  ]
+ ],
+ "Sacred Heart Catholic Church": [
+  [
+   "Historic Oakwood Cemetery",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "African American Cultural Complex",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ]
+ ],
+ "Nash Square": [
+  [
+   "Fred G Bond Metro Park",
+   1.7320508075688772
+  ],
+  [
+   "State Farmers Market",
+   2.0
+  ],
+  [
+   "Lake Wheeler",
+   2.0
+  ],
+  [
+   "Dr. Martin Luther King, Jr. Memorial Gardens",
+   2.0
+  ],
+  [
+   "The Cupcake Shoppe",
+   2.0
+  ]
+ ],
+ "Anderson Point Park": [
+  [
+   "Sassafras All Children's Playground",
+   2.23606797749979
+  ],
+  [
+   "Nash Square",
+   2.23606797749979
+  ],
+  [
+   "Lake Crabtree County Park",
+   2.449489742783178
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   2.449489742783178
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   2.449489742783178
+  ]
+ ],
+ "Millbrook Exchange Park": [
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.4142135623730951
+  ],
+  [
+   "Adventure Landing Raleigh",
+   1.4142135623730951
+  ],
+  [
+   "Lake Wheeler",
+   1.7320508075688772
+  ],
+  [
+   "John Chavis Memorial Park",
+   1.7320508075688772
+  ],
+  [
+   "Defygravity Durham",
+   1.7320508075688772
+  ]
+ ],
+ "Downtown Raleigh": [
+  [
+   "Greater Raleigh Convention and Visitors Bureau",
+   1.4142135623730951
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   1.7320508075688772
+  ],
+  [
+   "Fort Raleigh",
+   2.0
+  ],
+  [
+   "Overmountain Victory",
+   2.0
+  ],
+  [
+   "Cape Lookout",
+   2.23606797749979
+  ]
+ ],
+ "Fred Fletcher Park": [
+  [
+   "Shelley Lake Park",
+   1.7320508075688772
+  ],
+  [
+   "Bass Lake Park",
+   1.7320508075688772
+  ],
+  [
+   "North Hills",
+   2.23606797749979
+  ],
+  [
+   "Buffaloe Road Athletic Park",
+   2.23606797749979
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.23606797749979
+  ]
+ ],
+ "Knightdale Station Park": [
+  [
+   "Sassafras All Children's Playground",
+   3.4641016151377544
+  ],
+  [
+   "Nash Square",
+   3.4641016151377544
+  ],
+  [
+   "Millbrook Exchange Park",
+   3.605551275463989
+  ],
+  [
+   "Midtown Park",
+   3.605551275463989
+  ],
+  [
+   "Neuse River Trail",
+   3.872983346207417
+  ]
+ ],
+ "Greater Raleigh Convention and Visitors Bureau": [
+  [
+   "Historic Oakwood Cemetery",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ]
+ ],
+ "North Carolina Museum of Art Parking": [
+  [
+   "CAM Raleigh",
+   2.0
+  ],
+  [
+   "Neuse River Trail",
+   2.6457513110645907
+  ],
+  [
+   "Sertoma Arts Center",
+   2.8284271247461903
+  ],
+  [
+   "Artsplosure",
+   2.8284271247461903
+  ],
+  [
+   "SPARKcon",
+   2.8284271247461903
+  ]
+ ],
+ "Carolina Pines Dog Park": [
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ],
+  [
+   "Dreamville Festival",
+   1.0
+  ]
+ ],
+ "John Chavis Memorial Park": [
+  [
+   "Adventure Landing",
+   1.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.0
+  ],
+  [
+   "Whole Brain Escape",
+   1.0
+  ],
+  [
+   "Adventure Landing Raleigh",
+   1.0
+  ],
+  [
+   "Lake Wheeler",
+   1.4142135623730951
+  ]
+ ],
+ "Raleigh Fire Museum": [
+  [
+   "African American Cultural Complex",
+   1.4142135623730951
+  ],
+  [
+   "Sacred Heart Catholic Church",
+   1.7320508075688772
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   2.0
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   2.0
+  ],
+  [
+   "Lake Wheeler",
+   2.23606797749979
+  ]
+ ],
+ "Lake Lynn Park": [
+  [
+   "Shelley Lake Park",
+   2.0
+  ],
+  [
+   "Fred Fletcher Park",
+   2.6457513110645907
+  ],
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   2.6457513110645907
+  ],
+  [
+   "North Hills",
+   2.8284271247461903
+  ],
+  [
+   "William B. Umstead State Park",
+   2.8284271247461903
+  ]
+ ],
+ "Oakwood Cemetery": [
+  [
+   "Triangle Rock Club - Morrisville",
+   0.0
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   1.0
+  ],
+  [
+   "Jordan Lake Water Sports",
+   1.0
+  ],
+  [
+   "Wake Escape",
+   1.0
+  ],
+  [
+   "Raleigh Little Theatre",
+   1.4142135623730951
+  ]
+ ],
+ "Midtown Park": [
+  [
+   "Lake Wheeler",
+   1.7320508075688772
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.7320508075688772
+  ],
+  [
+   "Cinemark Raleigh Grande",
+   1.7320508075688772
+  ],
+  [
+   "Defygravity Durham",
+   1.7320508075688772
+  ],
+  [
+   "Durham Bulls",
+   1.7320508075688772
+  ]
+ ],
+ "Dr. Martin Luther King, Jr. Memorial Gardens": [
+  [
+   "State Farmers Market",
+   1.4142135623730951
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   1.4142135623730951
+  ],
+  [
+   "Jordan Lake Water Sports",
+   1.4142135623730951
+  ],
+  [
+   "Wake Escape",
+   1.4142135623730951
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.4142135623730951
+  ]
+ ],
+ "Carl Alwin Schenck Memorial Forest": [
+  [
+   "State Farmers Market",
+   1.4142135623730951
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.4142135623730951
+  ],
+  [
+   "Falls Lake Dam",
+   1.4142135623730951
+  ],
+  [
+   "Capital Area Greenway",
+   1.4142135623730951
+  ],
+  [
+   "William B. Umstead State Park",
+   1.7320508075688772
+  ]
+ ],
+ "Carolina Touring Company": [
+  [
+   "The Great Raleigh Trolley",
+   1.4142135623730951
+  ],
+  [
+   "Tobacco Road Tours",
+   2.0
+  ],
+  [
+   "WRAL Azalea Garden",
+   2.449489742783178
+  ],
+  [
+   "Mordecai Historical Park",
+   2.449489742783178
+  ],
+  [
+   "Downtown Raleigh",
+   2.6457513110645907
+  ]
+ ],
+ "Sertoma Arts Center": [
+  [
+   "Artspace",
+   2.0
+  ],
+  [
+   "Artsplosure",
+   2.449489742783178
+  ],
+  [
+   "SPARKcon",
+   2.449489742783178
+  ],
+  [
+   "CAM Raleigh",
+   2.8284271247461903
+  ],
+  [
+   "North Carolina Museum of Art Parking",
+   2.8284271247461903
+  ]
+ ],
+ "Buffaloe Road Athletic Park": [
+  [
+   "Neuse River Trail",
+   2.0
+  ],
+  [
+   "PNC Arena",
+   2.0
+  ],
+  [
+   "North Hills",
+   2.0
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.0
+  ],
+  [
+   "Bass Lake Park",
+   2.0
+  ]
+ ],
+ "Cedar Hills Park": [
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ],
+  [
+   "Dreamville Festival",
+   1.0
+  ]
+ ],
+ "Sunflower Field": [
+  [
+   "Carter Finley Stadium",
+   2.0
+  ],
+  [
+   "Cedar Hills Park",
+   2.23606797749979
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.6457513110645907
+  ],
+  [
+   "Dorothea Dix Park",
+   2.6457513110645907
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   2.6457513110645907
+  ]
+ ],
+ "Yates Mill Museum Entrance": [
+  [
+   "Durham Bulls",
+   2.23606797749979
+  ],
+  [
+   "WRAL Azalea Garden",
+   2.449489742783178
+  ],
+  [
+   "Fred G Bond Metro Park",
+   2.449489742783178
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   2.449489742783178
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.6457513110645907
+  ]
+ ],
+ "Glenwood Grill": [
+  [
+   "Neomonde Mediterranean Raleigh",
+   0.0
+  ],
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   1.0
+  ],
+  [
+   "Bloomsbury Bistro",
+   1.4142135623730951
+  ],
+  [
+   "Crawford and Son",
+   1.4142135623730951
+  ],
+  [
+   "Cape Fear Seafood Company",
+   1.4142135623730951
+  ]
+ ],
+ "Second Empire Restaurant and Tavern": [
+  [
+   "Firebirds Wood Fired Grill",
+   1.4142135623730951
+  ],
+  [
+   "Parkside Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Centro",
+   1.7320508075688772
+  ],
+  [
+   "42nd Street Oyster Bar",
+   2.0
+  ],
+  [
+   "The Fiction Kitchen",
+   2.0
+  ]
+ ],
+ "Brewery Bhavana": [
+  [
+   "Mandolin",
+   2.23606797749979
+  ],
+  [
+   "the Oak, Kitchen | Bourbon Bar",
+   2.449489742783178
+  ],
+  [
+   "J Betski's",
+   2.6457513110645907
+  ],
+  [
+   "Bella Monica",
+   2.6457513110645907
+  ],
+  [
+   "Stanbury",
+   2.6457513110645907
+  ]
+ ],
+ "Beasley's Chicken + Honey": [
+  [
+   "Winston's Grille",
+   1.4142135623730951
+  ],
+  [
+   "Seasons 52",
+   1.7320508075688772
+  ],
+  [
+   "Angus Barn",
+   1.7320508075688772
+  ],
+  [
+   "J Betski's",
+   1.7320508075688772
+  ],
+  [
+   "Mandolin",
+   1.7320508075688772
+  ]
+ ],
+ "Poole's": [
+  [
+   "Rey's Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   2.0
+  ],
+  [
+   "State Farmers Market Restaurant",
+   2.0
+  ],
+  [
+   "Frankie's Fun Park",
+   2.23606797749979
+  ],
+  [
+   "J Betski's",
+   2.23606797749979
+  ]
+ ],
+ "42nd Street Oyster Bar": [
+  [
+   "Centro",
+   1.7320508075688772
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   2.0
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   2.0
+  ],
+  [
+   "Capital Club 16",
+   2.0
+  ],
+  [
+   "Parkside Restaurant",
+   2.0
+  ]
+ ],
+ "Sitti": [
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.7320508075688772
+  ],
+  [
+   "Garland",
+   1.7320508075688772
+  ],
+  [
+   "Centro",
+   1.7320508075688772
+  ],
+  [
+   "Royale",
+   1.7320508075688772
+  ]
+ ],
+ "Seasons 52": [
+  [
+   "Bad Daddy's Burger Bar",
+   1.0
+  ],
+  [
+   "Cortez Seafood and Cocktail",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Cafe Tiramisu",
+   1.0
+  ],
+  [
+   "Margaux's Restaurant",
+   1.0
+  ]
+ ],
+ "The Fiction Kitchen": [
+  [
+   "Parkside Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Centro",
+   1.7320508075688772
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   2.0
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   2.0
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   2.0
+  ]
+ ],
+ "Relish Craft Kitchen & Bourbon Bar": [
+  [
+   "Caffe Luna",
+   1.7320508075688772
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   2.23606797749979
+  ],
+  [
+   "42nd Street Oyster Bar",
+   2.23606797749979
+  ],
+  [
+   "Capital Club 16",
+   2.23606797749979
+  ],
+  [
+   "Garland",
+   2.449489742783178
+  ]
+ ],
+ "Bad Daddy's Burger Bar": [
+  [
+   "Cinemark Raleigh Grande",
+   0.0
+  ],
+  [
+   "High Horse",
+   0.0
+  ],
+  [
+   "American Tobacco Campus",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ]
+ ],
+ "Firebirds Wood Fired Grill": [
+  [
+   "Centro",
+   1.0
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   1.4142135623730951
+  ],
+  [
+   "Parkside Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.4142135623730951
+  ],
+  [
+   "Glenwood Grill",
+   1.7320508075688772
+  ]
+ ],
+ "Vivace": [
+  [
+   "State Farmers Market Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   1.4142135623730951
+  ],
+  [
+   "Glenwood Grill",
+   1.7320508075688772
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.7320508075688772
+  ],
+  [
+   "Bloomsbury Bistro",
+   1.7320508075688772
+  ]
+ ],
+ "Neomonde Mediterranean Raleigh": [
+  [
+   "Neomonde Mediterranean Raleigh",
+   0.0
+  ],
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   1.0
+  ],
+  [
+   "Bloomsbury Bistro",
+   1.4142135623730951
+  ],
+  [
+   "Crawford and Son",
+   1.4142135623730951
+  ],
+  [
+   "Cape Fear Seafood Company",
+   1.4142135623730951
+  ]
+ ],
+ "Angus Barn": [
+  [
+   "Tazza Kitchen Cameron Village",
+   0.0
+  ],
+  [
+   "Winston's Grille",
+   1.0
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.0
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ]
+ ],
+ "Irregardless Cafe": [
+  [
+   "The Fiction Kitchen",
+   3.605551275463989
+  ],
+  [
+   "Jose and Sons Bar and Kitchen",
+   3.605551275463989
+  ],
+  [
+   "Bloomsbury Bistro",
+   3.7416573867739413
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   3.872983346207417
+  ],
+  [
+   "Glenwood Grill",
+   4.0
+  ]
+ ],
+ "J Betski's": [
+  [
+   "Cortez Seafood and Cocktail",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "Mandolin",
+   1.4142135623730951
+  ],
+  [
+   "Bella Monica",
+   1.4142135623730951
+  ],
+  [
+   "Urban Axes - Durham",
+   1.4142135623730951
+  ]
+ ],
+ "Taverna Agora Greek Kitchen & Bar": [
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   1.7320508075688772
+  ],
+  [
+   "Glenwood Grill",
+   2.0
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   2.0
+  ],
+  [
+   "Cape Fear Seafood Company",
+   2.0
+  ],
+  [
+   "Vivace",
+   2.23606797749979
+  ]
+ ],
+ "Winston's Grille": [
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.0
+  ],
+  [
+   "Beasley's Chicken + Honey",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.4142135623730951
+  ]
+ ],
+ "David's Dumpling & Noodle Bar": [
+  [
+   "State Farmers Market Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "Poole's",
+   2.23606797749979
+  ],
+  [
+   "Vivace",
+   2.23606797749979
+  ],
+  [
+   "Winston's Grille",
+   2.23606797749979
+  ],
+  [
+   "The Station at Person Street",
+   2.23606797749979
+  ]
+ ],
+ "State Farmers Market Restaurant": [
+  [
+   "Crawford and Son",
+   1.0
+  ],
+  [
+   "Bul Box",
+   1.0
+  ],
+  [
+   "Vidrio",
+   1.0
+  ],
+  [
+   "Vivace",
+   1.4142135623730951
+  ],
+  [
+   "Winston's Grille",
+   1.4142135623730951
+  ]
+ ],
+ "The Capital Grille - Curbside Takeout & Delivery": [
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Cape Fear Seafood Company",
+   1.0
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.0
+  ],
+  [
+   "Winston's Grille",
+   1.4142135623730951
+  ],
+  [
+   "the Oak, Kitchen | Bourbon Bar",
+   1.4142135623730951
+  ]
+ ],
+ "Caffe Luna": [
+  [
+   "Relish Craft Kitchen & Bourbon Bar",
+   1.7320508075688772
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   2.8284271247461903
+  ],
+  [
+   "Garland",
+   3.0
+  ],
+  [
+   "Hummingbird",
+   3.0
+  ],
+  [
+   "42nd Street Oyster Bar",
+   3.1622776601683795
+  ]
+ ],
+ "Gravy": [
+  [
+   "Garland",
+   2.0
+  ],
+  [
+   "Rey's Restaurant",
+   2.0
+  ],
+  [
+   "so\u2022ca",
+   2.0
+  ],
+  [
+   "Hummingbird",
+   2.0
+  ],
+  [
+   "Winston's Grille",
+   2.23606797749979
+  ]
+ ],
+ "Bloomsbury Bistro": [
+  [
+   "Glenwood Grill",
+   1.4142135623730951
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Crawford and Son",
+   1.4142135623730951
+  ],
+  [
+   "Cape Fear Seafood Company",
+   1.4142135623730951
+  ]
+ ],
+ "Crawford and Son": [
+  [
+   "Bul Box",
+   0.0
+  ],
+  [
+   "Vidrio",
+   0.0
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Cafe Tiramisu",
+   1.0
+  ]
+ ],
+ "Cape Fear Seafood Company": [
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.0
+  ],
+  [
+   "Glenwood Grill",
+   1.4142135623730951
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Bloomsbury Bistro",
+   1.4142135623730951
+  ]
+ ],
+ "Bul Box": [
+  [
+   "Bul Box",
+   0.0
+  ],
+  [
+   "Vidrio",
+   0.0
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Cafe Tiramisu",
+   1.0
+  ]
+ ],
+ "The Pit Authentic Barbecue": [
+  [
+   "PNC Arena",
+   1.4142135623730951
+  ],
+  [
+   "The Raleigh Market",
+   1.4142135623730951
+  ],
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "N.C. Seafood Restaurant at the Farmers Market",
+   1.4142135623730951
+  ],
+  [
+   "Crabtree Valley Mall",
+   1.7320508075688772
+  ]
+ ],
+ "Vidrio": [
+  [
+   "Bul Box",
+   0.0
+  ],
+  [
+   "Vidrio",
+   0.0
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Cafe Tiramisu",
+   1.0
+  ]
+ ],
+ "Cortez Seafood and Cocktail": [
+  [
+   "Seasons 52",
+   1.0
+  ],
+  [
+   "J Betski's",
+   1.0
+  ],
+  [
+   "Urban Axes - Durham",
+   1.0
+  ],
+  [
+   "Crabtree Valley Mall",
+   1.4142135623730951
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.4142135623730951
+  ]
+ ],
+ "Mandolin": [
+  [
+   "J Betski's",
+   1.4142135623730951
+  ],
+  [
+   "Bella Monica",
+   1.4142135623730951
+  ],
+  [
+   "Stanbury",
+   1.4142135623730951
+  ],
+  [
+   "Beasley's Chicken + Honey",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   1.7320508075688772
+  ]
+ ],
+ "Death and Taxes": [
+  [
+   "Glenwood Grill",
+   1.7320508075688772
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.7320508075688772
+  ],
+  [
+   "Cape Fear Seafood Company",
+   1.7320508075688772
+  ],
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   2.0
+  ],
+  [
+   "Taverna Agora Greek Kitchen & Bar",
+   2.23606797749979
+  ]
+ ],
+ "Garland": [
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Centro",
+   1.4142135623730951
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.4142135623730951
+  ],
+  [
+   "Sitti",
+   1.7320508075688772
+  ]
+ ],
+ "Rey's Restaurant": [
+  [
+   "Poole's",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   1.7320508075688772
+  ],
+  [
+   "J Betski's",
+   2.0
+  ],
+  [
+   "Gravy",
+   2.0
+  ],
+  [
+   "Mandolin",
+   2.0
+  ]
+ ],
+ "Bella Monica": [
+  [
+   "J Betski's",
+   1.4142135623730951
+  ],
+  [
+   "Mandolin",
+   1.4142135623730951
+  ],
+  [
+   "Beasley's Chicken + Honey",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   1.7320508075688772
+  ],
+  [
+   "Cortez Seafood and Cocktail",
+   1.7320508075688772
+  ]
+ ],
+ "Stanbury": [
+  [
+   "Mandolin",
+   1.4142135623730951
+  ],
+  [
+   "Garland",
+   2.0
+  ],
+  [
+   "Bella Monica",
+   2.0
+  ],
+  [
+   "Beasley's Chicken + Honey",
+   2.23606797749979
+  ],
+  [
+   "Winston's Grille",
+   2.23606797749979
+  ]
+ ],
+ "ORO": [
+  [
+   "Assaggio's Italian Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   2.0
+  ],
+  [
+   "Carolina Pines Dog Park",
+   2.0
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   2.0
+  ],
+  [
+   "the Oak, Kitchen | Bourbon Bar",
+   2.0
+  ]
+ ],
+ "so\u2022ca": [
+  [
+   "Crawford and Son",
+   1.4142135623730951
+  ],
+  [
+   "Bul Box",
+   1.4142135623730951
+  ],
+  [
+   "Vidrio",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.7320508075688772
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.7320508075688772
+  ]
+ ],
+ "Centro": [
+  [
+   "Firebirds Wood Fired Grill",
+   1.0
+  ],
+  [
+   "Parkside Restaurant",
+   1.0
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Glenwood Grill",
+   1.4142135623730951
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.4142135623730951
+  ]
+ ],
+ "Royale": [
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Assaggio's Italian Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.4142135623730951
+  ],
+  [
+   "Beasley's Chicken + Honey",
+   1.7320508075688772
+  ]
+ ],
+ "Capital Club 16": [
+  [
+   "Centro",
+   1.7320508075688772
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   2.0
+  ],
+  [
+   "42nd Street Oyster Bar",
+   2.0
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   2.0
+  ],
+  [
+   "Parkside Restaurant",
+   2.0
+  ]
+ ],
+ "Parkside Restaurant": [
+  [
+   "Centro",
+   1.0
+  ],
+  [
+   "Second Empire Restaurant and Tavern",
+   1.4142135623730951
+  ],
+  [
+   "The Fiction Kitchen",
+   1.4142135623730951
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   1.4142135623730951
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.4142135623730951
+  ]
+ ],
+ "MOFU Shoppe": [
+  [
+   "Angus Barn",
+   1.7320508075688772
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   2.0
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   2.0
+  ],
+  [
+   "Parkside Restaurant",
+   2.0
+  ]
+ ],
+ "the Oak, Kitchen | Bourbon Bar": [
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.4142135623730951
+  ],
+  [
+   "Compass Rose Brewery",
+   1.4142135623730951
+  ],
+  [
+   "Seasons 52",
+   1.7320508075688772
+  ],
+  [
+   "Angus Barn",
+   1.7320508075688772
+  ],
+  [
+   "Mandolin",
+   1.7320508075688772
+  ]
+ ],
+ "Five Star Restaurant": [
+  [
+   "Beasley's Chicken + Honey",
+   2.0
+  ],
+  [
+   "Winston's Grille",
+   2.0
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   2.0
+  ],
+  [
+   "Mecca Restaurant",
+   2.0
+  ],
+  [
+   "Angus Barn",
+   2.23606797749979
+  ]
+ ],
+ "Bida Manda Laotian Restaurant and Bar": [
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Garland",
+   1.0
+  ],
+  [
+   "Centro",
+   1.0
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.0
+  ],
+  [
+   "Sitti",
+   1.4142135623730951
+  ]
+ ],
+ "N.C. Seafood Restaurant at the Farmers Market": [
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ],
+  [
+   "Cafe Tiramisu",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Crawford and Son",
+   1.4142135623730951
+  ]
+ ],
+ "The Station at Person Street": [
+  [
+   "J Betski's",
+   1.7320508075688772
+  ],
+  [
+   "Mandolin",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   2.0
+  ],
+  [
+   "State Farmers Market Restaurant",
+   2.0
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   2.0
+  ]
+ ],
+ "Assaggio's Italian Restaurant": [
+  [
+   "Jose and Sons Bar and Kitchen",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.4142135623730951
+  ],
+  [
+   "Angus Barn",
+   1.4142135623730951
+  ],
+  [
+   "Royale",
+   1.4142135623730951
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.4142135623730951
+  ]
+ ],
+ "Tazza Kitchen Cameron Village": [
+  [
+   "Tazza Kitchen Cameron Village",
+   0.0
+  ],
+  [
+   "Winston's Grille",
+   1.0
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.0
+  ],
+  [
+   "Bida Manda Laotian Restaurant and Bar",
+   1.0
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.0
+  ]
+ ],
+ "Mecca Restaurant": [
+  [
+   "Angus Barn",
+   1.7320508075688772
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.7320508075688772
+  ],
+  [
+   "Winston's Grille",
+   2.0
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   2.0
+  ],
+  [
+   "Five Star Restaurant",
+   2.0
+  ]
+ ],
+ "The Point At Glenwood Restaurant and Bar": [
+  [
+   "Cafe Tiramisu",
+   0.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ],
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Crawford and Son",
+   1.0
+  ],
+  [
+   "Bul Box",
+   1.0
+  ]
+ ],
+ "Cafe Tiramisu": [
+  [
+   "Cafe Tiramisu",
+   0.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ],
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Crawford and Son",
+   1.0
+  ],
+  [
+   "Bul Box",
+   1.0
+  ]
+ ],
+ "Margaux's Restaurant": [
+  [
+   "PNC Arena",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.4142135623730951
+  ],
+  [
+   "Cortez Seafood and Cocktail",
+   1.4142135623730951
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.4142135623730951
+  ]
+ ],
+ "Bahama Breeze - Curbside To Go & Delivery": [
+  [
+   "Glenwood Grill",
+   1.0
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   1.0
+  ],
+  [
+   "Vivace",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market Restaurant",
+   1.4142135623730951
+  ],
+  [
+   "Taverna Agora Greek Kitchen & Bar",
+   1.7320508075688772
+  ]
+ ],
+ "Hummingbird": [
+  [
+   "Gravy",
+   2.0
+  ],
+  [
+   "Garland",
+   2.0
+  ],
+  [
+   "The Fiction Kitchen",
+   2.23606797749979
+  ],
+  [
+   "Parkside Restaurant",
+   2.23606797749979
+  ],
+  [
+   "Centro",
+   2.449489742783178
+  ]
+ ],
+ "Capri Restaurant": [
+  [
+   "Bloomsbury Bistro",
+   1.7320508075688772
+  ],
+  [
+   "Glenwood Grill",
+   2.23606797749979
+  ],
+  [
+   "Neomonde Mediterranean Raleigh",
+   2.23606797749979
+  ],
+  [
+   "Centro",
+   2.23606797749979
+  ],
+  [
+   "Firebirds Wood Fired Grill",
+   2.449489742783178
+  ]
+ ],
+ "CO": [
+  [
+   "Rey's Restaurant",
+   2.23606797749979
+  ],
+  [
+   "The Fiction Kitchen",
+   2.449489742783178
+  ],
+  [
+   "Winston's Grille",
+   2.449489742783178
+  ],
+  [
+   "Parkside Restaurant",
+   2.449489742783178
+  ],
+  [
+   "Bahama Breeze - Curbside To Go & Delivery",
+   2.449489742783178
+  ]
+ ],
+ "Jose and Sons Bar and Kitchen": [
+  [
+   "Angus Barn",
+   1.0
+  ],
+  [
+   "Assaggio's Italian Restaurant",
+   1.0
+  ],
+  [
+   "Tazza Kitchen Cameron Village",
+   1.0
+  ],
+  [
+   "Winston's Grille",
+   1.4142135623730951
+  ],
+  [
+   "The Capital Grille - Curbside Takeout & Delivery",
+   1.4142135623730951
+  ]
+ ],
+ "Jordan Lake Water Sports": [
+  [
+   "Jordan Lake Water Sports",
+   0.0
+  ],
+  [
+   "Wake Escape",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Oakwood Cemetery",
+   1.0
+  ],
+  [
+   "Raleigh Little Theatre",
+   1.0
+  ]
+ ],
+ "Cipher Escape": [
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ],
+  [
+   "Dreamville Festival",
+   1.0
+  ]
+ ],
+ "Raleigh Little Theatre": [
+  [
+   "Raleigh Little Theatre Rose Garden",
+   1.0
+  ],
+  [
+   "Jordan Lake Water Sports",
+   1.0
+  ],
+  [
+   "Wake Escape",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.4142135623730951
+  ],
+  [
+   "Oakwood Cemetery",
+   1.4142135623730951
+  ]
+ ],
+ "The Streets at Southpoint": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Triangle Skydiving Center": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "By The Shore SCUBA Instruction": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Dreamville Festival": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Drag Bingo!": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Falls Lake State Recreation Area": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Fred G Bond Metro Park": [
+  [
+   "State Farmers Market",
+   1.0
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.0
+  ],
+  [
+   "Durham Bulls",
+   1.0
+  ],
+  [
+   "Falls Lake Dam",
+   1.0
+  ],
+  [
+   "Capital Area Greenway",
+   1.0
+  ]
+ ],
+ "DEFY Apex": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Whole Brain Escape": [
+  [
+   "Raleigh Little Theatre Rose Garden",
+   1.0
+  ],
+  [
+   "Lake Wheeler",
+   1.0
+  ],
+  [
+   "John Chavis Memorial Park",
+   1.0
+  ],
+  [
+   "Jordan Lake Water Sports",
+   1.0
+  ],
+  [
+   "Wake Escape",
+   1.0
+  ]
+ ],
+ "Urban Axes - Durham": [
+  [
+   "ROOM 5280 - Raleigh Live Escape Games",
+   1.0
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.0
+  ],
+  [
+   "Cortez Seafood and Cocktail",
+   1.0
+  ],
+  [
+   "Cinemark Raleigh Grande",
+   1.0
+  ],
+  [
+   "High Horse",
+   1.0
+  ]
+ ],
+ "Tobacco Road Tours": [
+  [
+   "The Great Raleigh Trolley",
+   1.4142135623730951
+  ],
+  [
+   "Carolina Touring Company",
+   2.0
+  ],
+  [
+   "Dorothea Dix Park",
+   2.23606797749979
+  ],
+  [
+   "Joel Lane Museum House",
+   2.449489742783178
+  ],
+  [
+   "Raleigh Haunted Footsteps Ghost Tour",
+   2.449489742783178
+  ]
+ ],
+ "Melissa Peil": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Illusions the Drag Queen Show": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Wake Escape": [
+  [
+   "Jordan Lake Water Sports",
+   0.0
+  ],
+  [
+   "Wake Escape",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Oakwood Cemetery",
+   1.0
+  ],
+  [
+   "Raleigh Little Theatre",
+   1.0
+  ]
+ ],
+ "The Cupcake Shoppe": [
+  [
+   "The Cupcake Shoppe",
+   0.0
+  ],
+  [
+   "Capital Area Greenway",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ]
+ ],
+ "Adventure Landing Raleigh": [
+  [
+   "Adventure Landing Raleigh",
+   0.0
+  ],
+  [
+   "Lake Wheeler",
+   1.0
+  ],
+  [
+   "John Chavis Memorial Park",
+   1.0
+  ],
+  [
+   "Defygravity Durham",
+   1.0
+  ],
+  [
+   "Gotcha Paintball",
+   1.0
+  ]
+ ],
+ "Tar River Life": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "The Great Raleigh Trolley": [
+  [
+   "Carolina Touring Company",
+   1.4142135623730951
+  ],
+  [
+   "Tobacco Road Tours",
+   1.4142135623730951
+  ],
+  [
+   "Raleigh Brews Cruise",
+   2.6457513110645907
+  ],
+  [
+   "Dorothea Dix Park",
+   2.6457513110645907
+  ],
+  [
+   "WRAL Azalea Garden",
+   2.8284271247461903
+  ]
+ ],
+ "Capital City Party Bus and Tours": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Cinemark Raleigh Grande": [
+  [
+   "Cinemark Raleigh Grande",
+   0.0
+  ],
+  [
+   "High Horse",
+   0.0
+  ],
+  [
+   "American Tobacco Campus",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ]
+ ],
+ "Total Flight Solutions": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Triangle Shooting Academy": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Defygravity Durham": [
+  [
+   "Defygravity Durham",
+   0.0
+  ],
+  [
+   "Gotcha Paintball",
+   0.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ]
+ ],
+ "Bass Lake Park": [
+  [
+   "Fred G Bond Metro Park",
+   1.4142135623730951
+  ],
+  [
+   "Eno River State Park",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market",
+   1.7320508075688772
+  ],
+  [
+   "Fred Fletcher Park",
+   1.7320508075688772
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.7320508075688772
+  ]
+ ],
+ "Durham Bulls": [
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ],
+  [
+   "Dreamville Festival",
+   1.0
+  ]
+ ],
+ "Gotcha Paintball": [
+  [
+   "Defygravity Durham",
+   0.0
+  ],
+  [
+   "Gotcha Paintball",
+   0.0
+  ],
+  [
+   "Raleigh-Durham International Airport Observation Park",
+   1.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ]
+ ],
+ "The Factory": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Raleigh Haunted Footsteps Ghost Tour": [
+  [
+   "African American Cultural Complex",
+   1.4142135623730951
+  ],
+  [
+   "North Carolina State University Memorial Belltower",
+   1.7320508075688772
+  ],
+  [
+   "Dorothea Dix Park",
+   1.7320508075688772
+  ],
+  [
+   "Sacred Heart Catholic Church",
+   1.7320508075688772
+  ],
+  [
+   "Historic Oakwood Cemetery",
+   2.0
+  ]
+ ],
+ "Eno River State Park": [
+  [
+   "Falls Lake Dam",
+   1.0
+  ],
+  [
+   "Fred G Bond Metro Park",
+   1.4142135623730951
+  ],
+  [
+   "Bass Lake Park",
+   1.4142135623730951
+  ],
+  [
+   "State Farmers Market",
+   1.7320508075688772
+  ],
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   1.7320508075688772
+  ]
+ ],
+ "Triangle Rock Club - Morrisville": [
+  [
+   "Triangle Rock Club - Morrisville",
+   0.0
+  ],
+  [
+   "Raleigh Little Theatre Rose Garden",
+   1.0
+  ],
+  [
+   "Jordan Lake Water Sports",
+   1.0
+  ],
+  [
+   "Wake Escape",
+   1.0
+  ],
+  [
+   "Raleigh Little Theatre",
+   1.4142135623730951
+  ]
+ ],
+ "High Horse": [
+  [
+   "Cinemark Raleigh Grande",
+   0.0
+  ],
+  [
+   "High Horse",
+   0.0
+  ],
+  [
+   "American Tobacco Campus",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ]
+ ],
+ "The Cowfish Sushi Burger Bar": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Rage On": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "C Grace": [
+  [
+   "C Grace",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ]
+ ],
+ "American Tobacco Campus": [
+  [
+   "Cinemark Raleigh Grande",
+   0.0
+  ],
+  [
+   "High Horse",
+   0.0
+  ],
+  [
+   "American Tobacco Campus",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "Seasons 52",
+   1.0
+  ]
+ ],
+ "Falls Lake Dam": [
+  [
+   "Fred G Bond Metro Park",
+   1.0
+  ],
+  [
+   "Eno River State Park",
+   1.0
+  ],
+  [
+   "State Farmers Market",
+   1.4142135623730951
+  ],
+  [
+   "Carl Alwin Schenck Memorial Forest",
+   1.4142135623730951
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.4142135623730951
+  ]
+ ],
+ "Capital Area Greenway": [
+  [
+   "The Cupcake Shoppe",
+   0.0
+  ],
+  [
+   "Capital Area Greenway",
+   0.0
+  ],
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ]
+ ],
+ "Hidden Spring Farm": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Artsplosure": [
+  [
+   "State Farmers Market",
+   1.4142135623730951
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.4142135623730951
+  ],
+  [
+   "The Cupcake Shoppe",
+   1.4142135623730951
+  ],
+  [
+   "Cinemark Raleigh Grande",
+   1.4142135623730951
+  ],
+  [
+   "High Horse",
+   1.4142135623730951
+  ]
+ ],
+ "Compass Rose Brewery": [
+  [
+   "Seasons 52",
+   1.0
+  ],
+  [
+   "Bad Daddy's Burger Bar",
+   1.4142135623730951
+  ],
+  [
+   "Cortez Seafood and Cocktail",
+   1.4142135623730951
+  ],
+  [
+   "the Oak, Kitchen | Bourbon Bar",
+   1.4142135623730951
+  ],
+  [
+   "The Point At Glenwood Restaurant and Bar",
+   1.4142135623730951
+  ]
+ ],
+ "The Vordach Zipline Tours": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "Dave & Buster's - Temporarily Closed": [
+  [
+   "The Streets at Southpoint",
+   0.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   0.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   0.0
+  ],
+  [
+   "Dreamville Festival",
+   0.0
+  ],
+  [
+   "Drag Bingo!",
+   0.0
+  ]
+ ],
+ "SPARKcon": [
+  [
+   "Oakwood Dog Park",
+   1.0
+  ],
+  [
+   "The Streets at Southpoint",
+   1.0
+  ],
+  [
+   "Triangle Skydiving Center",
+   1.0
+  ],
+  [
+   "By The Shore SCUBA Instruction",
+   1.0
+  ],
+  [
+   "Dreamville Festival",
+   1.0
+  ]
+ ]
+}

@@ -4,13 +4,11 @@ Last modified: 5.5.2020 by sjc
 Status:        In progress
 
 TODO
-format activities
-format itinerary
 */
 
 // recommendations
-var inverted_index;
-var cluster_recommendations;
+var inverted_index = [];
+var cluster_recommendations = [];
 
 // activity information
 var merged_location_data = []; // {location:activities}
@@ -231,15 +229,6 @@ function loadData() {
         }, 500);
     });
 
-    // load clustering recommendations
-    loadFile("data/Cluster/neighbors.json", function(response) {
-        cluster_recommendations = JSON.parse(response);
-    });
-
-    // load the inverted index
-    loadFile("data/InvertedIndex/inverted_index.json", function(response) {
-        inverted_index = JSON.parse(response);
-    });
 
     // load location data
     // wait for location data to be loaded
@@ -251,6 +240,19 @@ function loadData() {
             for(var i=0; i<locations.length; i++){
                 loadFile("data/Merged/"+locations[i].replace(/,/g, "")+".json", function(response) {
                     merged_location_data.push(JSON.parse(response));
+                });
+            }
+            // get data
+            for(var i=0; i<locations.length; i++){
+                loadFile("data/InvertedIndex/invertedindex_"+locations[i].replace(/,/g, "")+".json", function(response) {
+                    inverted_index.push(JSON.parse(response));
+                });
+            }
+
+            // get data
+            for(var i=0; i<locations.length; i++){
+                loadFile("data/Cluster/neighbors"+locations[i].replace(/,/g, "")+".json", function(response) {
+                    cluster_recommendations.push(JSON.parse(response));
                 });
             }
 
@@ -462,10 +464,10 @@ queryCluster
 gets recommendations from the cluster
 */
 function queryCluster(originalActivity){
-    var recommendations_scored = cluster_recommendations[originalActivity];
+    var index = locations.indexOf(USERdestination);
+    var recommendations_scored = cluster_recommendations[index][originalActivity];
 
     var recommendations = [];
-    var index = locations.indexOf(USERdestination);
 
     // get recommendation names
     for(var i=0; i<recommendations_scored.length; i++){
@@ -501,10 +503,11 @@ function queryII(destination, personality) {
     }
 
     // get inverted index recommendations
+    var index = locations.indexOf(USERdestination);
     var activities_ii = [];
     var temp = {};
     for(var k=0; k<query_terms.length; k++){
-        a_intermediate = inverted_index[query_terms[k]];
+        a_intermediate = inverted_index[index][query_terms[k]];
         for(var a=0; a<a_intermediate.length; a++){
             activities_ii.push(a_intermediate[a]);
         }
