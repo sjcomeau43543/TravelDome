@@ -10,7 +10,7 @@ Query must be in the form ["location", "adjective1", "adjective2", ...]
     from the ../scrapers/adjectives_extended.txt file
     - Example: ["BostonMA", "frugal", "foodie", "creative"]
 '''
-import json, requests, re
+import json, requests, re, time
 import bs4 as BeautifulSoup
 
 # limit specifies what number of the top results should be returned
@@ -137,7 +137,7 @@ def main(): # this is just for testing :)
     # query = ["BostonMA", "frugal", "foodie", "creative"]
 
     scores = []
-    adjective = "scholarly"
+    adjective = "adventurous"
     with open('../scrapers/locations.txt', "r") as locations_file:
         locations = locations_file.readlines()
         for location in locations:
@@ -146,6 +146,7 @@ def main(): # this is just for testing :)
             results = get_activities(query)
             score = get_quality(query, results)
             scores.append(score)
+            time.sleep(5)
     print(scores)
     avg_score = sum(scores) / len(scores)
     print("Average score for {0}: ".format(adjective), avg_score)
