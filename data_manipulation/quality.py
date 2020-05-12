@@ -29,15 +29,15 @@ def get_activities(query, limit=-1):
 
     # ---- Get activities at location ---- #
     q_loc = query[0]
-    with open('../data/Merged/{0}.json'.format(q_loc), 'r') as d:
-        all_loc_act_data = json.load(d) # activities at that location
+    with open('../data/Merged/merged.json', 'r') as d:
+        all_loc_act_data = json.load(d)[q_loc] # activities at that location
 
-    loc_act_names = [entry['name'] for entry in all_loc_act_data]
+    # loc_act_names = [entry['name'] for entry in all_loc_act_data]
 
     # ---- Use inverted index to get activity names that match adjectives and location ---- #
     # TODO: what if activities at different locations have the same name... how to differentiate
-    with open('../data/InvertedIndex/inverted_index.json', 'r') as i:
-        index = json.load(i)
+    with open('../data/InvertedIndex/invertedindex.json', 'r') as i:
+        index = json.load(i)[q_loc][0]
 
     act_names = []
     for row in adjs:
@@ -45,7 +45,7 @@ def get_activities(query, limit=-1):
             act_names += index[adj]
     # only keep activities that are in the location
     # TODO: not very efficient... :(
-    act_names = (set(act_names) & set(loc_act_names))
+    # act_names = (set(act_names) & set(loc_act_names))
 
     # ---- Get activity data for names ---- #
     act_data = []
