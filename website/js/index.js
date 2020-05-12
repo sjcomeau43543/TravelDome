@@ -488,7 +488,6 @@ function queryCluster(originalActivity){
     var recommendations = [];
 
     // get recommendation names
-    console.log(USERdestination, index, cluster_recommendations);
     for(var i=0; i<recommendations_scored.length; i++){
         for(var j=0; j<merged_location_data[index].length; j++){
             if (recommendations_scored[i][0] == merged_location_data[index][j].name){
@@ -813,7 +812,6 @@ function generateRecommendations(){
     var recommendations = queryII(USERdestination, USERadjectives);
 
     // rank the recommendations
-    console.log(recommendations);
     recommendations = rank(recommendations);
 
     // return top 10 at a time
