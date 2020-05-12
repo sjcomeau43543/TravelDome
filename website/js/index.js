@@ -243,7 +243,6 @@ function loadData() {
             clearInterval(timeout);
 
             // get data
-            console.log("merged", locations);
             for(var i=0; i<locations.length; i++){
                 loadFile("data/Merged/"+locations[i].replace(/,/g, "")+".json", function(response) {
                     merged_location_data.push(JSON.parse(response));
@@ -251,13 +250,12 @@ function loadData() {
             }
 
         }
-    }, );
+    }, 100);
     var timeout = setInterval(function(){
         if(done_locations){
             clearInterval(timeout);
 
             // get data
-            console.log("cluster", locations);
             for(var i=0; i<locations.length; i++){
                 loadFile("data/Cluster/neighbors"+locations[i].replace(/,/g, "")+".json", function(response) {
                     cluster_recommendations.push(JSON.parse(response));
@@ -265,20 +263,19 @@ function loadData() {
             }
 
         }
-    }, 500);
+    }, 100);
     var timeout = setInterval(function(){
         if(done_locations){
             clearInterval(timeout);
 
             // get data
-            console.log("ii", locations);
             for(var i=0; i<locations.length; i++){
                 loadFile("data/InvertedIndex/invertedindex_"+locations[i].replace(/,/g, "")+".json", function(response) {
                     inverted_index.push(JSON.parse(response));
                 });
             }
         }
-    }, 500);
+    }, 100);
 
 }
 
