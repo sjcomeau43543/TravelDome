@@ -99,14 +99,19 @@ class Merger:
             all_activities[str(location[0]+location[1])] = self.merge_location(location[0], location[1])
         return all_activities
 
-    def export(self, city, state, activities):
-        with open("../data/Merged/"+city+state+".json", "w") as outfile:
-            outfile.write("[\n")
-            for activity in activities:
-                json.dump(activity.encode(), outfile, indent=1)
-                if activity != activities[-1]:
-                    outfile.write(",")
-            outfile.write("]\n")
+    def export(self, locations, activities):
+        with open("../data/Merged/merged.json", "w") as outfile:
+            outfile.write("{\n")
+            for location in locations:
+                loc = str(location[0]+location[1])
+                
+                outfile.write('"'+loc+'":[\n')
+                for activity in activities[loc]:
+                    json.dump(activity.encode(), outfile, indent=1)
+                    if activity != activities[loc][-1]:
+                        outfile.write(",")
+                outfile.write("],\n")
+            outfile.write("}\n")
 
 def main():
     merger = Merger()
@@ -121,9 +126,8 @@ def main():
         locations = [(loc.strip('\n').split(',')[0],loc.strip('\n').split(',')[1]) for loc in locations]
 
     # merge all current
-    all_activities = merger.merge_all(locations)
-    for location in locations:
-        merger.export(location[0], location[1], all_activities[str(location[0]+location[1])])
+    act = merger.merge_all(locations)
+    merger.export(locations, act)
 
     
 main()

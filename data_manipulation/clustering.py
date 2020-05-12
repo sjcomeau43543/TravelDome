@@ -49,7 +49,7 @@ class Clustering:
         for root,dir,files in os.walk("../data/Merged"):
             for file in files:
                 with open(os.path.abspath(root+"/"+file)) as activity_file:
-                    self.activities[file.strip(",").strip(".json")] = json.load(activity_file)
+                    self.activities = json.load(activity_file)
 
 
     def vectorize(self):
@@ -87,16 +87,20 @@ class Clustering:
         return neighbors
 
     def store_KNN(self, num_nay=5):
-        for location in self.locations:
-            self.all_neighbors = {}
+        with open("../data/Cluster/neighbors.json", "w") as cluster_file:
+            cluster_file.write("{\n")
+            for location in self.locations:
+                
+                cluster_file.write('"'+location+'":[\n')
+                self.all_neighbors = {}
 
-            # for every activity
-            for (name, vector) in self.vectors[location]:
-                self.all_neighbors[name] = self.KNN(location, vector, num_nay)
-
-            # export
-            with open("../data/Cluster/neighbors"+location+".json", "w") as cluster_file:
+                # for every activity
+                for (name, vector) in self.vectors[location]:
+                    self.all_neighbors[name] = self.KNN(location, vector, num_nay)
                 json.dump(self.all_neighbors, cluster_file, indent=1)
+
+                cluster_file.write("],\n")
+            cluster_file.write("}\n")
 
         
 

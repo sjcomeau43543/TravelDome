@@ -50,19 +50,27 @@ class Storage:
 
     def add_all(self, list_of_locations, adjectives):
         self.inverted_index = {}
+        with open("../data/InvertedIndex/invertedindex.json", "w") as outfile:
+            outfile.write("{\n")
 
-        for location in list_of_locations:
-            for adj in adjectives:
-                self.inverted_index[adj] = []
-            self.add(location[0], location[1])
-            # export
-            self.export(location[0]+location[1])
+            for location in list_of_locations:
+                loc = str(location[0]+location[1])
+                
+                outfile.write('"'+loc+'":[\n')
+
+                for adj in adjectives:
+                    self.inverted_index[adj] = []
+                # add
+                self.add(location[0], location[1])
+
+                # export
+                json.dump(self.inverted_index, outfile, indent=1)
+
+                outfile.write("],\n")
+            outfile.write("}\n")
 
 
-  
-    def export(self, location):
-        with open("../data/InvertedIndex/invertedindex_"+location+".json", "w") as outfile:
-            json.dump(self.inverted_index, outfile, indent=1)
+
 
 
 

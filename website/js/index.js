@@ -236,47 +236,19 @@ function loadData() {
     });
 
 
-    // load location data
-    // wait for location data to be loaded
-    var timeout = setInterval(function(){
-        if(done_locations){
-            clearInterval(timeout);
+    // get data
+    loadFile("data/Merged/merged.json", function(response) {
+        merged_location_data = JSON.parse(response);
+    });
 
-            // get data
-            for(var i=0; i<locations.length; i++){
-                loadFile("data/Merged/"+locations[i].replace(/,/g, "")+".json", function(response) {
-                    merged_location_data.push(JSON.parse(response));
-                });
-            }
-
-        }
-    }, 100);
-    var timeout = setInterval(function(){
-        if(done_locations){
-            clearInterval(timeout);
-
-            // get data
-            for(var i=0; i<locations.length; i++){
-                loadFile("data/Cluster/neighbors"+locations[i].replace(/,/g, "")+".json", function(response) {
-                    cluster_recommendations.push(JSON.parse(response));
-                });
-            }
-
-        }
-    }, 100);
-    var timeout = setInterval(function(){
-        if(done_locations){
-            clearInterval(timeout);
-
-            // get data
-            for(var i=0; i<locations.length; i++){
-                loadFile("data/InvertedIndex/invertedindex_"+locations[i].replace(/,/g, "")+".json", function(response) {
-                    inverted_index.push(JSON.parse(response));
-                });
-            }
-        }
-    }, 100);
-
+    // get data
+    loadFile("data/InvertedIndex/invertedindex.json", function(response) {
+        inverted_index = JSON.parse(response);
+    });
+    // get data
+    loadFile("data/Cluster/neighbors.json", function(response) {
+        cluster_recommendations = JSON.parse(response);
+    });
 }
 
 /*
