@@ -114,7 +114,7 @@ def get_quality(query, ranked_acts):
     for page in range(1, 6):
         response = requests.get(url)
         if not response.ok:
-            print("Oops, something went wrong with GET and/or url: ", url)
+            print("Oops, something went wrong with GET and/or url: ", url, response)
             return None
 
         soup = BeautifulSoup.BeautifulSoup(response.text, features="html.parser")
@@ -135,10 +135,23 @@ def get_quality(query, ranked_acts):
 
 def main(): # this is just for testing :)
     # query = ["BostonMA", "frugal", "foodie", "creative"]
-    query = ["BostonMA", "scholarly"]
-    results = get_activities(query)
-    score = get_quality(query, results)
-    print('Quality Score: ', score)
+
+    scores = []
+    adjective = "scholarly"
+    with open('../scrapers/locations.txt', "r") as locations_file:
+        locations = locations_file.readlines()
+        for location in locations:
+            [city, state] = location.strip('\n').split(',')
+            query = [city+state, adjective]
+            results = get_activities(query)
+            score = get_quality(query, results)
+            scores.append(score)
+    print(scores)
+    avg_score = sum(scores) / len(scores)
+    print("Average score for {0}: ".format(adjective), avg_score)
+    # results = get_activities(query)
+    # score = get_quality(query, results)
+    # print('Quality Score: ', score)
     return
 
 if __name__ == '__main__':
