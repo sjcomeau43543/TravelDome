@@ -23,22 +23,22 @@ from activity import Activity
 
 class Clustering:
 
-    def __init__(self, adjectives=[], number_neigbors=5):
+    def __init__(self, locations=[], adjectives=[], number_neigbors=5):
         self.adjectives = adjectives
-        self.activities = []
-        self.vectors = []
+        self.locations = locations
+        self.activities = {}
+        self.vectors = {}
+
+        # populate activities
+        for location in locations:
+            self.activities[location] = []
+            self.vectors[location] = []
 
         # populate data
         self.get_data()
 
         # vectorize data
         self.vectorize()
-
-        # create model
-        # self.cluster()
-
-        # querying KNN
-        # self.KNN(self.vectors[0][1])
 
         # store the nearest neighbors
         self.store_KNN(number_neigbors)
@@ -49,14 +49,14 @@ class Clustering:
         for root,dir,files in os.walk("../data/Merged"):
             for file in files:
                 with open(os.path.abspath(root+"/"+file)) as activity_file:
-                    activities = json.load(activity_file)
-                    self.activities.extend(activities)
+                    self.activities = json.load(activity_file)
 
 
     def vectorize(self):
-        for activity in self.activities:
-            # if multiple sources tagged an activity with a certain tag that increases the significance of the tag
-            self.vectors.append((activity["name"], [activity["tags"].count(adj) if adj in activity["tags"] else 0 for adj in self.adjectives]))
+        for location in self.locations:
+            for activity in self.activities[location]:
+                # if multiple sources tagged an activity with a certain tag that increases the significance of the tag
+                self.vectors[location].append((activity["name"], [activity["tags"].count(adj) if adj in activity["tags"] else 0 for adj in self.adjectives]))
 
 
     def cluster(self):
@@ -71,10 +71,10 @@ class Clustering:
             dist += (row1[i] - row2[i]) ** 2
         return sqrt(dist)
 
-    def KNN(self, vector, num_nay=5):
+    def KNN(self, location, vector, num_nay=5):
         # calculate distances
         dists = []
-        for vect in self.vectors:
+        for vect in self.vectors[location]:
             dist = self.euc(vector, vect[1])
             dists.append((vect[0], dist))
         dists.sort(key=lambda x:x[1])
@@ -87,15 +87,20 @@ class Clustering:
         return neighbors
 
     def store_KNN(self, num_nay=5):
-        self.all_neighbors = {}
-
-        # for every activity
-        for (name, vector) in self.vectors:
-            self.all_neighbors[name] = self.KNN(vector, num_nay)
-
-        # export
         with open("../data/Cluster/neighbors.json", "w") as cluster_file:
-            json.dump(self.all_neighbors, cluster_file, indent=1)
+            cluster_file.write("{\n")
+            for location in self.locations:
+                
+                cluster_file.write('"'+location+'":[\n')
+                self.all_neighbors = {}
+
+                # for every activity
+                for (name, vector) in self.vectors[location]:
+                    self.all_neighbors[name] = self.KNN(location, vector, num_nay)
+                json.dump(self.all_neighbors, cluster_file, indent=1)
+
+                cluster_file.write("],\n")
+            cluster_file.write("}\n")
 
         
 
@@ -103,10 +108,16 @@ class Clustering:
 def main():
     # parser
     parser = argparse.ArgumentParser()
+    parser.add_argument("-l", "--locations", help="locations.txt file", required=True)
     parser.add_argument("-e", "--adjectivesext", help="adjectives_extended.txt file", required=True)
     parser.add_argument("-n", "--number_neighbors", help="the number of neighbors for each activity to generate", type=int)
     args = parser.parse_args()
 
+
+    # locations
+    with open(args.locations, "r") as locations_file:
+        locations = locations_file.readlines()
+        locations = [(loc.strip('\n').split(',')[0]+loc.strip('\n').split(',')[1]) for loc in locations]
 
     # get adjectives
     with open(args.adjectivesext, 'r') as f:
@@ -114,8 +125,8 @@ def main():
 
     # cluster
     if args.number_neighbors:
-        cluster = Clustering(adjectives_ext, args.number_neighbors)
+        cluster = Clustering(locations, adjectives_ext, args.number_neighbors)
     else:
-        cluster = Clustering(adjectives_ext)
+        cluster = Clustering(locations, adjectives_ext)
     
 main()

@@ -32,12 +32,13 @@ class Storage:
         for root,dir,files in os.walk("../data/Merged"):
             # get the files for each location
             for file in files:
-                location = file.strip(".json")
-                if location == str(city+state):
-                    # add the activities to the inverted index
-                    with open(os.path.abspath(root+"/"+file)) as activity_file:
-                            activities = json.load(activity_file)
-                            for activity in activities:
+                # add the activities to the inverted index
+                with open(os.path.abspath(root+"/"+file)) as activity_file:
+                    data = json.load(activity_file)
+                    for location in data.keys():
+                        if location == city+state:
+
+                            for activity in data[location]:
                                 actobj = Activity(activity["name"], activity["address"], activity["avg_visitor_review"], activity["avg_time_spent"], activity["photo_location"], activity["source"], reviews=[], tags=activity["tags"])
 
                                 # get tags
@@ -50,20 +51,27 @@ class Storage:
 
     def add_all(self, list_of_locations, adjectives):
         self.inverted_index = {}
+        with open("../data/InvertedIndex/invertedindex.json", "w") as outfile:
+            outfile.write("{\n")
 
-        for adj in adjectives:
-            self.inverted_index[adj] = []
+            for location in list_of_locations:
+                loc = str(location[0]+location[1])
+                
+                outfile.write('"'+loc+'":[\n')
 
-        for location in list_of_locations:
-            self.add(location[0], location[1])
+                for adj in adjectives:
+                    self.inverted_index[adj] = []
+                # add
+                self.add(location[0], location[1])
 
-        # export
-        self.export()
+                # export
+                json.dump(self.inverted_index, outfile, indent=1)
 
-  
-    def export(self):
-        with open("../data/InvertedIndex/inverted_index.json", "w") as outfile:
-            json.dump(self.inverted_index, outfile, indent=1)
+                outfile.write("],\n")
+            outfile.write("}\n")
+
+
+
 
 
 
