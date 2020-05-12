@@ -137,7 +137,7 @@ def main(): # this is just for testing :)
     # query = ["BostonMA", "frugal", "foodie", "creative"]
 
     scores = []
-    adjective = "adventurous"
+    adjective = "scholarly"
     with open('../scrapers/locations.txt', "r") as locations_file:
         locations = locations_file.readlines()
         for location in locations:
