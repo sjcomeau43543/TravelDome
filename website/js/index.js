@@ -178,7 +178,7 @@ function loadFile(filename, callback) {
     xobj.overrideMimeType("application/json");
      // change to ../../ for local https://sjcomeau43543.githu.io/TravelDome/ bfor online
     if(production) {
-        xobj.open("GET", "https://sjcomeau43543.githu.io/TravelDome/"+filename, true);
+        xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true);
     } else {
         xobj.open("GET", "../../"+filename, true);
     }
