@@ -1,90 +1,3928 @@
 [
 {
- "name": "Santa Fe Children's Museum",
- "address": "1050 Old Pecos Trl",
+ "name": "Georgia O'Keeffe Museum",
+ "address": "217 Johnson St, Santa Fe, NM 87501, USA",
  "avg_visitor_review": [
-  4.0
+  4.6,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/9_oGrIJnOMysun9GYc7dFg/o.jpg"
+  "GoogleMapsPhotoLibrary/06bc18b0-9334-11ea-bedc-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/c9/13/4c/galleries.jpg"
  ],
  "tags": [
-  "creative",
-  "kids",
-  "kids",
-  "kids"
+  "knowledgeable",
+  "art",
+  "art",
+  "tour",
+  "unique",
+  "walking",
+  "history",
+  "organized",
+  "learn"
  ],
  "link": [
-  "https://www.yelp.com/biz/santa-fe-childrens-museum-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d787426-Reviews-Georgia_O_Keeffe_Museum-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=9315933292621040249"
  ],
  "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Plaza",
+ "address": "100 Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b6/99/d1/santa-fe-historic-plaza.jpg"
+ ],
+ "tags": [
+  "art",
+  "historic",
+  "history",
+  "food",
+  "historic",
+  "food",
+  "historic",
+  "music",
+  "walk",
+  "walking",
+  "walk",
+  "art",
+  "history",
+  "unique",
+  "history",
+  "food",
+  "art",
+  "eat",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d107439-Reviews-Santa_Fe_Plaza-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Canyon Road",
+ "address": "225 Canyon Rd",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/FsPJ2KyA1Zjqwe_AW_AFvA/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/24/28/59/siford-gallery.jpg"
+ ],
+ "tags": [
+  "art",
+  "walk",
+  "nature",
+  "unique",
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d117221-Reviews-Canyon_Road-Santa_Fe_New_Mexico.html"
+  ],
+  "https://www.yelp.com/biz/canyon-road-santa-fe-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Opera House",
+ "address": "301 Opera Dr",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/78/93/73/santa-fe-opera-house.jpg"
+ ],
+ "tags": [
+  "unique",
+  "theatre",
+  "family",
+  "performance",
+  "delicious",
+  "performance",
+  "performance"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d107440-Reviews-Santa_Fe_Opera_House-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Cathedral Basilica of St. Francis of Assisi",
+ "address": "131 Cathedral Pl, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0705b91c-9334-11ea-8a69-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/ad/6c/57/the-inside-of-the-basilica.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "music",
+  "history",
+  "tour",
+  "walking",
+  "historic",
+  "sightseeing",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d123657-Reviews-The_Cathedral_Basilica_of_St_Francis_of_Assisi-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=3117908723797510247"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Meow Wolf",
+ "address": "1352 Rufina Cir, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/062a1168-9334-11ea-9909-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/18/de/ef/there-is-a-diver-behind.jpg"
+ ],
+ "tags": [
+  "kids",
+  "unique",
+  "art",
+  "nature",
+  "music",
+  "art",
+  "family",
+  "art",
+  "food",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d10084963-Reviews-Meow_Wolf-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=9895253263373375600"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of International Folk Art",
+ "address": "On Museum Hill, 706 Camino Lejo, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0797891a-9334-11ea-8738-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/9f/7d/c1/lots-of-action.jpg"
+ ],
+ "tags": [
+  "kids",
+  "unique",
+  "art",
+  "walk",
+  "food",
+  "music",
+  "tour",
+  "eat",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d135699-Reviews-Museum_of_International_Folk_Art-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=9487731362818051058"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New Mexico State Capitol (Roundhouse)",
+ "address": "Paseo de Peralta and Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/04/78/46/new-mexico-state-capitol.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "creative",
+  "free",
+  "art",
+  "unique",
+  "art",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d534384-Reviews-New_Mexico_State_Capitol_Roundhouse-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "El Rancho de las Golondrinas",
+ "address": "334 Los Pinos Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/9e/b7/trip-to-el-rancho-de.jpg"
+ ],
+ "tags": [
+  "music",
+  "history",
+  "food",
+  "history",
+  "kids",
+  "historic",
+  "history",
+  "learn",
+  "walking",
+  "family",
+  "history",
+  "drink",
+  "field",
+  "food",
+  "family",
+  "nature",
+  "learn",
+  "walk",
+  "tour",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d117438-Reviews-El_Rancho_de_las_Golondrinas-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Loretto Chapel",
+ "address": "207 Old Santa Fe Trail Between Alameda and Water sts.",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/074b3d9a-9334-11ea-a4a4-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/c7/c1/34/loretto-chapel.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "historic",
+  "cheap",
+  "walking",
+  "unique"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d123660-Reviews-Loretto_Chapel-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=10588692310470129380"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ski Santa Fe",
+ "address": "1477 NM, NM-475, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/12ea0f18-9334-11ea-8086-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/19/82/8d/cc/powder-day-at-ski-santa.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "independent",
+  "kids",
+  "food",
+  "organized",
+  "family",
+  "drink"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d124601-Reviews-Ski_Santa_Fe-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=4427599964361793682"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Indian Arts & Culture",
+ "address": "710 Camino Lejo, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08923d62-9334-11ea-ac34-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/51/15/20/greeting-statue-outside.jpg"
+ ],
+ "tags": [
+  "music",
+  "learn",
+  "unique",
+  "art",
+  "kids",
+  "free",
+  "history",
+  "creative"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d110198-Reviews-Museum_of_Indian_Arts_Culture-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=110194037112599434"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Palace of the Governors",
+ "address": "105 W Palace Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  3.5,
+  4.4,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/dhfIRPU68YeiKgk6_WcljQ/o.jpg",
+  "GoogleMapsPhotoLibrary/0c6703c0-9334-11ea-a3b9-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/fe/21/61/palace-of-the-governors.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walk",
+  "history",
+  "tour",
+  "family",
+  "learn",
+  "art",
+  "unique",
+  "cheap"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g60958-d4868364-Reviews-Palace_of_the_Governors-Santa_Fe_New_Mexico.html"
+   ],
+   "https://maps.google.com/?cid=4487154007435568703"
+  ],
+  "https://www.yelp.com/biz/palace-of-the-governors-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "San Miguel Chapel",
+ "address": "401 Old Santa Fe Trl Lower Old Santa Fe Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/4e/b2/2b/photo0jpg.jpg"
+ ],
+ "tags": [
+  "structure",
+  "music",
+  "historic",
+  "history",
+  "unique",
+  "walk",
+  "history",
+  "art",
+  "history",
+  "walking",
+  "music",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d124600-Reviews-San_Miguel_Chapel-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Farmers Market",
+ "address": "1607 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08dcb418-9334-11ea-abb6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/27/dc/10/the-santa-fe-farmer-s.jpg"
+ ],
+ "tags": [
+  "wander",
+  "family",
+  "art",
+  "food",
+  "creative",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d580947-Reviews-Santa_Fe_Farmers_Market-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=9811399512046209922"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nedra Matteucci Galleries",
+ "address": "1075 Paseo de Peralta",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/47/27/11/the-sculpture-garden.jpg"
+ ],
+ "tags": [
+  "wander",
+  "art",
+  "art",
+  "art",
+  "art",
+  "art",
+  "art",
+  "historic",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d124569-Reviews-Nedra_Matteucci_Galleries-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "New Mexico History Museum",
  "address": "113 Lincoln Ave",
  "avg_visitor_review": [
-  "4.5",
-  4.0
+  4.0,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/11/e1/ea/95/photo9jpg.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/T9pWx9T9cHSUupWDZ8oK_A/o.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/T9pWx9T9cHSUupWDZ8oK_A/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/e1/ea/95/photo9jpg.jpg"
  ],
  "tags": [
+  "history",
   "free",
   "learn",
-  "history",
   "tour",
-  "history",
-  "free",
-  "tour",
-  "free",
   "walking",
-  "history",
-  "historic",
-  "history",
-  "walking",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "history"
+  "historic"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/new-mexico-history-museum-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d1459364-Reviews-New_Mexico_History_Museum-Santa_Fe_New_Mexico.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d1459364-Reviews-New_Mexico_History_Museum-Santa_Fe_New_Mexico.html"
+  "https://www.yelp.com/biz/new-mexico-history-museum-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dale Ball Trails",
+ "address": "Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08363a92-9334-11ea-b568-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/e5/64/a2/picacho-peak.jpg"
+ ],
+ "tags": [
+  "kids",
+  "historic",
+  "hike",
+  "hike",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d7212551-Reviews-Dale_Ball_Trails-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=5589489984680474527"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cross of the Martyrs",
+ "address": "617 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/092c3400-9334-11ea-a5fc-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/59/6d/32/cross-of-the-martyrs.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "history",
+  "walk",
+  "history",
+  "walk",
+  "learn",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d123656-Reviews-Cross_of_the_Martyrs-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=18313280607586912497"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Cieneguilla Petroglyph Site",
+ "address": "Airport Road",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/47/0c/c1/this-spot-had-a-big-variety.jpg"
+ ],
+ "tags": [
+  "tour",
+  "hike",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d3671778-Reviews-La_Cieneguilla_Petroglyph_Site-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "New Mexico State Capitol",
- "address": "Paseo De Peralta Old Santa Fe Trl",
+ "name": "Atalaya Mountain Hiking Trail",
+ "address": "Access from Parking Area at St. John's College",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/8c/62/62/photo0jpg.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "hike",
+  "hike",
+  "walking",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d3498636-Reviews-Atalaya_Mountain_Hiking_Trail-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Randall Davey Audubon Center",
+ "address": "Upper Canyon Rd.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/1e/a3/6b/entrance-to-center.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "nature",
+  "tour",
+  "walk",
+  "tour",
+  "nature",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d143971-Reviews-Randall_Davey_Audubon_Center-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Harrell House Bug Museum",
+ "address": "556 N Guadalupe St Inside DeVargas Center Mall",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/a4/ea/73/amazing-collection-of.jpg"
+ ],
+ "tags": [
+  "tour",
+  "kids",
+  "sampling",
+  "tour",
+  "kids",
+  "active",
+  "kids",
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d4570589-Reviews-The_Harrell_House_Bug_Museum-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New Mexico Museum of Art",
+ "address": "107 W Palace Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/h7rfEEs5BQ6xnI8cSJJK3Q/o.jpg",
+  "GoogleMapsPhotoLibrary/098cdfd8-9334-11ea-a1b1-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/04/b8/5d/new-mexico-museum-of.jpg"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "music",
+  "tour",
+  "organized",
+  "free"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g60958-d1458256-Reviews-New_Mexico_Museum_of_Art-Santa_Fe_New_Mexico.html"
+   ],
+   "https://maps.google.com/?cid=10169780421891377365"
+  ],
+  "https://www.yelp.com/biz/new-mexico-museum-of-art-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Hyde Memorial State Park",
+ "address": "740 Hyde Park Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/11625c8c-9334-11ea-833c-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/1a/99/76/fall-colors.jpg"
+ ],
+ "tags": [
+  "parks",
+  "kids",
+  "hike",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d123659-Reviews-Hyde_Memorial_State_Park-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=2980628586067048945"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Old Fort Marcy Park",
+ "address": "617 Paseo de Peralta Also access it by traveling 3 blocks up Artist Rd. and turning right",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/d3/82/26/old-fort-marcy-park-view.jpg"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "walk",
+  "walking",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d143975-Reviews-Old_Fort_Marcy_Park-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wheelwright Museum of the American Indian",
+ "address": "704 Camino Lejo, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0af0dd98-9334-11ea-8e7f-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/7d/b9/71/filename-p1019728-jpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "creative",
+  "art",
+  "history",
+  "creative",
+  "art",
+  "free",
+  "art"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d110197-Reviews-Wheelwright_Museum_of_the_American_Indian-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=15355057855282985937"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Railyard Arts District",
+ "address": "South Guadalupe Street Between Agua Fria and Paseo de Peralta",
+ "avg_visitor_review": [
+  3.5,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/jqTq-lKGKTm63ezIS_zNiw/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/f1/2b/the-water-tower.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "art",
+  "walk",
+  "music",
+  "unique"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d8670359-Reviews-Railyard_Arts_District-Santa_Fe_New_Mexico.html"
+  ],
+  "https://www.yelp.com/biz/railyard-arts-district-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Botanical Garden",
+ "address": "715 Camino Lejo, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.4,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0b34c488-9334-11ea-a2cd-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/c6/99/98/20180704-131626-effects.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "art",
+  "knowledgeable",
+  "kids",
+  "nature",
+  "food",
+  "walk",
+  "wander"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60958-d3611694-Reviews-Santa_Fe_Botanical_Garden-Santa_Fe_New_Mexico.html"
+  ],
+  "https://maps.google.com/?cid=9242424807881498233"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santuario De Nuestra Senora de Guadalupe",
+ "address": "100 S Guadalupe St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/65/f5/b4/santuario-de-nuestra.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "walking",
+  "walk",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60958-d123658-Reviews-Santuario_De_Nuestra_Senora_de_Guadalupe-Santa_Fe_New_Mexico.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Aztec Ruins",
+ "address": "\n725 Ruins Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/azru/crop16_9/4E4ECF26-1DD8-B71B-0BB1ED16F5EF8D5E.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//azru//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Bandelier",
+ "address": "\nBandelier National Monument\n15 Entrance RD\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/band/crop16_9/B8AAA1F6-0A63-6915-F97134A3E3B1B64A.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//band//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Capulin Volcano",
+ "address": "\nP.O. Box 40\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cavo/crop16_9/675649E4-1DD8-B71B-0B9A456AB03A85C2.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cavo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Carlsbad Caverns",
+ "address": "\n3225 National Parks Highway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cave/crop16_9/B4BB8A3A-B807-8F2B-2A91D1C154698E31.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cave//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chaco Culture",
+ "address": "\nPO Box 220\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chcu/crop16_9/93B2271B-1DD8-B71B-0B4687A786E516E7.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chcu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Camino Real de Tierra Adentro",
+ "address": "\nNational Trails\nEl Camino Real de Tierra Adentro National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elca/crop16_9/19F62C50-00CE-1815-868F1BAF27BB70C2.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//elca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Malpais",
+ "address": "\n1900 E. Santa Fe Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elma/crop16_9/C97A69A8-1DD8-B71B-0BFCF7F4527B3A5D.JPG?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//elma//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "El Morro",
+ "address": "\nHC 61 Box 43\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/elmo/crop16_9/C93EB9D8-1DD8-B71B-0B9876524D79D70D.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//elmo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Union",
+ "address": "\nPO Box 127\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/foun/crop16_9/8817A02F-1DD8-B71B-0BC007AB1E887AEA.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//foun//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Gila Cliff Dwellings",
+ "address": "\n26 Jim Bradford Trail\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/gicl/crop16_9/64FAA53C-1DD8-B71B-0BA27FA6E2059F98.JPG?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//gicl//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Manhattan Project",
+ "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mapr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Spanish",
+ "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//olsp//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pecos",
+ "address": "\nPecos National Historical Park\nP.O. Box 418\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/peco/crop16_9/C5A7CCFA-1DD8-B71B-0BB9C5C2F335B24C.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//peco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Petroglyph",
+ "address": "\nHeadquarters Administration Offices\n6001 Unser Blvd. NW\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/petr/crop16_9/00BB01D4-E567-AB72-139F0609AAEA1B87.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//petr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Salinas Pueblo Missions",
+ "address": "\nSalinas Pueblo Missions National Monument\nPO Box 517\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sapu/crop16_9/01BB3CAA-E714-D7B5-0C87A0DDBCA60356.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//sapu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe",
+ "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//safe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Valles Caldera",
+ "address": "\nPO Box 359\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/vall/crop16_9/3B28E7E1-1DD8-B71B-0B94843BD818651D.JPG?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//vall//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "White Sands",
+ "address": "\nPO Box 1086\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/whsa/crop16_9/18F2C9E0-1DD8-B71B-0B69C6EF63E10C88.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//whsa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Plaza Inc",
+ "address": "63 Lincoln Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/06723e4c-9334-11ea-8048-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "walk",
+  "family",
+  "eat",
+  "historic",
+  "food",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=410234213081149643"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fenn-Nedra Matteucci Galleries",
+ "address": "1075 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/07de0826-9334-11ea-b64c-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12786474355184103959"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Railyard Park",
+ "address": "740 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/09e3b298-9334-11ea-b232-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "family",
+  "art",
+  "food",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5073869066131883094"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Children's Museum",
+ "address": "1050 Old Pecos Trail, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/9_oGrIJnOMysun9GYc7dFg/o.jpg",
+  "GoogleMapsPhotoLibrary/0a56e714-9334-11ea-a681-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "kids",
+  "kids",
+  "kids",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=16893744602450873686"
+  ],
+  "https://www.yelp.com/biz/santa-fe-childrens-museum-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Randall Davey Audubon Center & Sanctuary",
+ "address": "1800 Upper Canyon Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0aa49226-9334-11ea-8e26-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9156694971520906262"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Railyard",
+ "address": "332 Read St, Santa Fe, NM 87501, USA",
  "avg_visitor_review": [
   4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/tH-0a2Ah4O51OhoLUAq1xg/o.jpg"
+  "GoogleMapsPhotoLibrary/0b82e4b6-9334-11ea-b7cc-14b31f159f22.png"
  ],
  "tags": [
-  "art"
+  "brewery",
+  "food"
  ],
  "link": [
+  "https://maps.google.com/?cid=7651878539082568121"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New Mexico State Capitol",
+ "address": "490 Old Santa Fe Trail, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/tH-0a2Ah4O51OhoLUAq1xg/o.jpg",
+  "GoogleMapsPhotoLibrary/0bd3eb22-9334-11ea-8ece-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "knowledgeable",
+  "unique",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=781480427681156017"
+  ],
   "https://www.yelp.com/biz/new-mexico-state-capitol-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
+  [
+   "GoogleMaps"
+  ],
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Harrell House Bug Museum",
+ "address": "542 N Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0c1d5078-9334-11ea-98b9-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "kids",
+  "eat",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10043828363407920294"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Railyard Arts District",
+ "address": "544 S Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0cb41298-9334-11ea-a76e-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "art",
+  "art",
+  "brewery"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=319301716441510598"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Oldest House Museum",
+ "address": "215 E De Vargas St #2703, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0cfe1426-9334-11ea-8dc7-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17258210202670510005"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral Park",
+ "address": "131 Cathedral Pl, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0d404d64-9334-11ea-9591-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12365982342435949233"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New Mexico History Museum/Palace of the Governors",
+ "address": "113 Lincoln Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0d9412dc-9334-11ea-8227-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "unique",
+  "history",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8767615153334400359"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Marcy Park",
+ "address": "490 Bishops Lodge Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0dd6c176-9334-11ea-b384-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "walking",
+  "field",
+  "walk",
+  "walking",
+  "family",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14867284429983074833"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Spanish Colonial Art",
+ "address": "750 Camino Lejo, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0e1c0806-9334-11ea-ae7b-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "history",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17533766177180924187"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mark White Fine Art",
+ "address": "409 Canyon Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0e70b7de-9334-11ea-b20a-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2247989630482821379"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Canyon Road Contemporary Art",
+ "address": "622 Canyon Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0ec5b5ec-9334-11ea-b886-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "walk",
+  "art",
+  "walk",
+  "art",
+  "walking",
+  "wander",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10049248536563960716"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Santa Fe Foundation",
+ "address": "545 Canyon Rd #2, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0f1ef9e2-9334-11ea-be74-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "art",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8110885618510922949"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "SITE Santa Fe",
+ "address": "1606 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0f6a81d4-9334-11ea-971a-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "tour",
+  "free",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8296855080371529270"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jackalope Mercado at Santa Fe",
+ "address": "2820 Cerrillos Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0fb8f03e-9334-11ea-9866-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11177917880353350765"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santuario de Guadalupe",
+ "address": "100 S Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1001930c-9334-11ea-b267-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3652249988993553471"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Museo Cultural De Santa Fe",
+ "address": "555 Camino de la Familia, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/10444198-9334-11ea-988d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=983844777204022898"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ragle Park",
+ "address": "2530 W Zia Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/108d31ee-9334-11ea-9032-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "parks",
+  "walk",
+  "kids",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9036740269936193743"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frenchy's Field/Santa Fe River Trail",
+ "address": "Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/10e0a940-9334-11ea-b619-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=18206936457006559374"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "IAIA Museum of Contemporary Native Arts (MoCNA)",
+ "address": "108 Cathedral Pl, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/111fae0c-9334-11ea-938b-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "wander",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7069102519285260689"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ashbaugh Park",
+ "address": "1703 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/11a5f578-9334-11ea-9777-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "field",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8679844331199808353"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "De Vargas Park",
+ "address": "Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/11f2dd3a-9334-11ea-8a89-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=6778254550690748921"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monica Lucero Park",
+ "address": "850 Camino Consuelo, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/123fc4da-9334-11ea-ab16-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "field"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5896497012448034540"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Torreon Park",
+ "address": "Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1298e18a-9334-11ea-a66a-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2408618003619775547"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Southern Railway",
+ "address": "430 W Manhattan Ave A, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/134575b6-9334-11ea-8b10-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2708355916806151299"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bicentennial / Alto Park",
+ "address": "1121 Alto St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/138f0208-9334-11ea-b251-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11159695059176321658"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Mountain Adventures",
+ "address": "711 Don Diego Ct, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/13d35e52-9334-11ea-b568-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "knowledgeable",
+  "family",
+  "tour",
+  "tour",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12597063344726985906"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Herb Martinez Park",
+ "address": "914 Camino Carlos Rey, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/141a2b70-9334-11ea-a798-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16021990524533755793"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe National Forest",
+ "address": "Los Alamos, NM 87544, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/14736f46-9334-11ea-96ea-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16201294690312269484"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "KESHi the zuni connection",
+ "address": "227 Don Gaspar Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/14bf26fa-9334-11ea-9784-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "art",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16605576009060991443"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Andrea Fisher Fine Pottery",
+ "address": "100 W San Francisco St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/150557d8-9334-11ea-b9f2-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=996367098102616289"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gerald Peters Gallery",
+ "address": "1005 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1546a70c-9334-11ea-ab9b-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13396339773838977173"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "International Folk Art Market",
+ "address": "620 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  2.5,
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/OxZlYx2KA6ySwXWuHTMI8w/o.jpg",
+  "GoogleMapsPhotoLibrary/15916ba6-9334-11ea-841a-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "unique"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=10165190047269256037"
+  ],
+  "https://www.yelp.com/biz/international-folk-art-market-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Poeh Cultural Center",
+ "address": "78 Cities of Gold Rd, Santa Fe, NM 87506, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/15dbbb58-9334-11ea-b461-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15986399505107445194"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe National Cemetery",
+ "address": "501 N Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/162806da-9334-11ea-b6e3-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6842174174975341913"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pecos National Historical Park",
+ "address": "1 NM-63, Pecos, NM 87552, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1681bfc0-9334-11ea-8194-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "learn",
+  "hike",
+  "walk",
+  "walking",
+  "family",
+  "history",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17800158308841182282"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Aspen Vista Picnic Ground",
+ "address": "Hyde Park Rd, Santa Fe, NM 87506, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/16dd74cc-9334-11ea-b04d-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "family",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16456004943713126523"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Georgia O'Keeffe Museum Annex",
+ "address": "123 Grant Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/174c3c9c-9334-11ea-b17f-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=9615726331659273445"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bandelier National Monument",
+ "address": "15 Entrance Rd, Los Alamos, NM 87544, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/179a0e5e-9334-11ea-be60-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "history",
+  "walk",
+  "history",
+  "walking",
+  "adventurous",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2217692914669619645"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santuario de Chimayo",
+ "address": "15 Santuario Dr, Chimayo, NM 87522, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/17eac6a4-9334-11ea-91c1-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "historic",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5423102514952409892"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chamisa Trailhead",
+ "address": "Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1837874a-9334-11ea-8912-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18229326901776536568"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Geronimo",
+ "address": "724 Canyon Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/188fb9ae-9334-11ea-a0ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3343501238274771741"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Pantry",
+ "address": "1820 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/18d156be-9334-11ea-afc7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15143247624038872762"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Paper Dosa",
+ "address": "551 W Cordova Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/19193558-9334-11ea-8686-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "unique",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16204348858377444644"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafe Pasqual's",
+ "address": "121 Don Gaspar Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/195bbcc0-9334-11ea-adb9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "unique",
+  "delicious",
+  "art",
+  "tasting",
+  "eat",
+  "delicious",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7025910105218768594"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Amaya at Hotel Santa Fe, The Hacienda & Spa",
+ "address": "1501 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/19a3833a-9334-11ea-9a59-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "delicious",
+  "art",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10078482494762049042"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dolina Bakery & Cafe",
+ "address": "402 N Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/19f2b510-9334-11ea-b449-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4001483312687419068"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jambo Cafe",
+ "address": "2010 Cerrillos Rd #2010, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1a3a939e-9334-11ea-af4c-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8995221660913323315"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Callej\u00f3n",
+ "address": "208 Galisteo St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1a809d68-9334-11ea-a464-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "food",
+  "food",
+  "kids",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10419464381546857691"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Plazuela At La Fonda",
+ "address": "100 E San Francisco St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1ac806f0-9334-11ea-9804-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "free",
+  "drink",
+  "wander",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13548913337199010831"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Compound Restaurant",
+ "address": "653 Canyon Rd A, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1b1e657a-9334-11ea-b2a6-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "food",
+  "walk",
+  "food",
+  "walking",
+  "food",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6048929226297519878"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Mes\u00f3n Restaurant and Tapas Bar",
+ "address": "213 Washington Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1b60ebf4-9334-11ea-af34-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16215960353479381790"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Restaurant Martin",
+ "address": "526 Galisteo St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1ba6cf00-9334-11ea-b668-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "creative",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15737601505033020809"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "L'OLIVIER",
+ "address": "229 Galisteo St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1be892dc-9334-11ea-acda-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "free",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4661661083490564155"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tia Sophia's",
+ "address": "210 W San Francisco St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1c2af334-9334-11ea-99f7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "family",
+  "eat",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15199240806418574903"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Trattoria A Mano",
+ "address": "227 Galisteo St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1c72d1d8-9334-11ea-880d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1465201747351909762"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mucho Gusto",
+ "address": "839 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1cba142e-9334-11ea-8d6d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17589376523431606095"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dr. Field Goods Kitchen",
+ "address": "2860 Cerrillos Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1d006c4c-9334-11ea-ac6b-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "music",
+  "field"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1671803156803273105"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tomasita's",
+ "address": "500 S Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/TIDKCCndKc2CPgT4HijTpQ/o.jpg",
+  "GoogleMapsPhotoLibrary/1d4dcd26-9334-11ea-801f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "family"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=14586014722387557001"
+  ],
+  "https://www.yelp.com/biz/tomasitas-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Saz\u00f3n",
+ "address": "221 Shelby St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1d91c908-9334-11ea-b412-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "creative",
+  "knowledgeable",
+  "food",
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=446884948102014286"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santafamous Street Eats",
+ "address": "502 Old Santa Fe Trail, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1dd7e74c-9334-11ea-be87-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4500499366496527369"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Atrisco Cafe & Bar",
+ "address": "DeVargas Center, 193 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1e2801ec-9334-11ea-a15e-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "delicious",
+  "kids",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14344363893148756855"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Izanami Restaurant",
+ "address": "21 Ten Thousand Waves Way #2, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1e767370-9334-11ea-8d96-14b31f159f22.png"
+ ],
+ "tags": [
+  "sampling",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5126788344014377454"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dinner For Two Santa Fe",
+ "address": "106 N Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1ebe6fd0-9334-11ea-bfa5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "creative",
+  "delicious",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17592024752616666426"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Paloma Restaurant",
+ "address": "401 S Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1f012ab0-9334-11ea-a85f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17984999455420744286"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Dining",
+ "address": "4056 Cerrillos Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1f4aeef4-9334-11ea-96df-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=14711078373817590837"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Pink Adobe",
+ "address": "406 Old Santa Fe Trail, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1f8d0112-9334-11ea-8a35-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16176376742323149625"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maria's New Mexican Kitchen",
+ "address": "555 Cordova Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1fd9e8b8-9334-11ea-8871-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11801072153920289452"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eloisa",
+ "address": "228 E Palace Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/201ae978-9334-11ea-81e2-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16022922695165162563"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Luminaria Restaurant & Patio",
+ "address": "211 Old Santa Fe Trail, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/205f93d0-9334-11ea-abac-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10774564212921060729"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bumble Bee's Baja Grill",
+ "address": "301 Jefferson St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/209fd162-9334-11ea-8ad2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "food",
+  "food",
+  "affordable",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11251780804397559374"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Anasazi Restaurant & Bar",
+ "address": "113 Washington Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/20f14e26-9334-11ea-9119-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3445770749438563613"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Apothecary Restaurant at Santa Fe Oxygen and Healing Bar",
+ "address": "133 W San Francisco St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2140ccd4-9334-11ea-bf1e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3489061594769823423"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Weck's Breakfast Lunch",
+ "address": "2000 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2184dab6-9334-11ea-9c7d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "unique",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15517755901734864579"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Milad Betterday Kitchen",
+ "address": "905 W Alameda St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/21c7d790-9334-11ea-8c60-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "eat",
+  "foodie",
+  "creative",
+  "food",
+  "music",
+  "delicious",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4757714272272090748"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rio Chama Steakhouse",
+ "address": "414 Old Santa Fe Trail, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/221f6d98-9334-11ea-91f7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "art",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10039092879034322892"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Vinaigrette",
+ "address": "709 Don Cubero Alley, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2263a2a2-9334-11ea-89d3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9849954517495629443"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Palacio Caf\u00e9",
+ "address": "209 E Palace Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/22acb9cc-9334-11ea-baad-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "delicious",
+  "creative",
+  "eat",
+  "affordable",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2909383240659836629"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafe Sonder",
+ "address": "326 S Guadalupe St, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/22f35fd8-9334-11ea-a18d-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "unique",
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18052227584779143691"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Joseph's Culinary Pub",
+ "address": "428 Agua Fria St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2347e8ca-9334-11ea-8514-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "cheap",
+  "unique",
+  "foodie",
+  "delicious",
+  "food",
+  "food",
+  "walking",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11445843883361854417"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sweetwater Harvest Kitchen",
+ "address": "1512 Pacheco St B, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/23978f8c-9334-11ea-aa88-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "eat",
+  "foodie",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4319803738613335670"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caf\u00e9 Castro",
+ "address": "2811 Cerrillos Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/23e78498-9334-11ea-8fea-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12266958900080881940"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Los Potrillos",
+ "address": "1947 Cerrillos Rd, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/242fb152-9334-11ea-801e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4848604714540135631"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Casa Chimayo Restaurant",
+ "address": "409 W Water St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/BSgHMplLt7fbUvb2NJI7sg/o.jpg",
+  "GoogleMapsPhotoLibrary/247bfcb6-9334-11ea-abfe-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "knowledgeable",
+  "creative",
+  "food"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=13081798010264466022"
+  ],
+  "https://www.yelp.com/biz/casa-chimayo-restaurant-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Oster\u00eda d'Assisi",
+ "address": "58 S Federal Pl, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/24cae042-9334-11ea-878c-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5222516939745678600"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Piccolino",
+ "address": "2890 Agua Fria St, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/250a5a68-9334-11ea-91fd-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18240168600744432827"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bouche Bistro",
+ "address": "451 W Alameda St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/25534a86-9334-11ea-8ac1-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "food",
+  "food",
+  "delicious",
+  "delicious",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17411564878410034505"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Sabor Spanish Tapas Y Masss - Food Truck",
+ "address": "518 Old Santa Fe Trail, Santa Fe, NM 87505, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/25986a10-9334-11ea-bd52-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "historic",
+  "food",
+  "food",
+  "eat",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11378047925172662051"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Joe's Dining",
+ "address": "2801 Rodeo Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/25ea0cba-9334-11ea-a0f0-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13338196817836186161"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Los Amigos Restaurant",
+ "address": "3904 Rodeo Rd, Santa Fe, NM 87507, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/263127dc-9334-11ea-81b0-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "music",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15873236170179354871"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sabor Peruano Restaurant",
+ "address": "163 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/267d2542-9334-11ea-bf1c-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "delicious",
+  "delicious",
+  "eat",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "tasting",
+  "walking",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6784992735689924122"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "TerraCotta Wine Bistro",
+ "address": "304 Johnson St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/26c4b5dc-9334-11ea-a052-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7081538094489775838"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Il Piatto Italian Farmhouse Kitchen",
+ "address": "95 W Marcy St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/270604ba-9334-11ea-b1fa-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "eat",
+  "delicious",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2404980754598643325"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cowgirl",
+ "address": "319 S Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/274557ba-9334-11ea-bb65-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2438432453223127250"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Casa Sena",
+ "address": "125 E Palace Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2794effa-9334-11ea-87bc-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "free",
+  "food",
+  "food",
+  "cheap",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4355093837554356661"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Farol Restaurant",
+ "address": "808 Canyon Rd, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/27d72966-9334-11ea-b982-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "music",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1873134799515533567"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sassella Restaurant",
+ "address": "225 Johnson St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2832de3a-9334-11ea-957a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15978011912725263124"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fire & Hops",
+ "address": "222 N Guadalupe St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/28856b30-9334-11ea-ba71-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "drink",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13647157070541950565"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santa Fe Bar & Grill",
+ "address": "187 Paseo De Peralta, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/28c70838-9334-11ea-b9d6-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "food",
+  "drink",
+  "food",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12314583906420202223"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maize Restaurant",
+ "address": "225 Johnson St, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/29150168-9334-11ea-bd12-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5822083012196792144"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Santacafe",
+ "address": "231 Washington Ave, Santa Fe, NM 87501, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/296935d2-9334-11ea-8b84-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12521951723838542047"
+ ],
+ "source": [
+  "GoogleMaps"
  ],
  "reviews": []
 },{
@@ -593,41 +4431,6 @@
  ],
  "reviews": []
 },{
- "name": "Palace of the Governors",
- "address": "105 W Palace Ave",
- "avg_visitor_review": [
-  "4.5",
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/fe/21/61/palace-of-the-governors.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/dhfIRPU68YeiKgk6_WcljQ/o.jpg"
- ],
- "tags": [
-  "art",
-  "family",
-  "history",
-  "art",
-  "unique",
-  "family",
-  "cheap",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/palace-of-the-governors-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d4868364-Reviews-Palace_of_the_Governors-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Burro Alley",
  "address": "63 Lincoln Ave",
  "avg_visitor_review": [
@@ -684,28 +4487,6 @@
  ],
  "reviews": []
 },{
- "name": "Tomasita's",
- "address": "500 S Guadalupe St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/TIDKCCndKc2CPgT4HijTpQ/o.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "delicious"
- ],
- "link": [
-  "https://www.yelp.com/biz/tomasitas-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Center For Contemporary Arts",
  "address": "1050 Old Pecos Trl",
  "avg_visitor_review": [
@@ -742,42 +4523,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Railyard Arts District",
- "address": "South Guadalupe Street Between Agua Fria and Paseo de Peralta",
- "avg_visitor_review": [
-  "4.0",
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/f1/2b/the-water-tower.jpg",
-  "https://s3-media3.fl.yelpcdn.com/bphoto/jqTq-lKGKTm63ezIS_zNiw/o.jpg"
- ],
- "tags": [
-  "art",
-  "walk",
-  "art",
-  "art",
-  "music",
-  "unique",
-  "walk",
-  "art",
-  "brewery"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/railyard-arts-district-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d8670359-Reviews-Railyard_Arts_District-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -866,88 +4611,6 @@
  ],
  "reviews": []
 },{
- "name": "New Mexico Museum of Art",
- "address": "107 W Palace Ave",
- "avg_visitor_review": [
-  "4.5",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/04/b8/5d/new-mexico-museum-of.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/h7rfEEs5BQ6xnI8cSJJK3Q/o.jpg"
- ],
- "tags": [
-  "organized",
-  "art",
-  "art",
-  "history",
-  "free",
-  "art",
-  "history",
-  "art",
-  "history",
-  "art",
-  "art",
-  "art"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/new-mexico-museum-of-art-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d1458256-Reviews-New_Mexico_Museum_of_Art-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Canyon Road",
- "address": "225 Canyon Rd",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/24/28/59/siford-gallery.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/FsPJ2KyA1Zjqwe_AW_AFvA/o.jpg"
- ],
- "tags": [
-  "art",
-  "walk",
-  "art",
-  "walk",
-  "art",
-  "nature",
-  "unique",
-  "walk",
-  "art",
-  "art",
-  "walk",
-  "tour",
-  "art",
-  "knowledgeable",
-  "art",
-  "walk"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/canyon-road-santa-fe-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d117221-Reviews-Canyon_Road-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Gryphon Helicopter Tours",
  "address": "109 Aviation Dr",
  "avg_visitor_review": [
@@ -981,47 +4644,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/santa-fe-children-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "International Folk Art Market",
- "address": "706 Camino Lejo",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/OxZlYx2KA6ySwXWuHTMI8w/o.jpg"
- ],
- "tags": [
-  "art"
- ],
- "link": [
-  "https://www.yelp.com/biz/international-folk-art-market-santa-fe-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Casa Chimayo Restaurant",
- "address": "409 W Water St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/BSgHMplLt7fbUvb2NJI7sg/o.jpg"
- ],
- "tags": [
-  "eat",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/casa-chimayo-restaurant-santa-fe?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1108,1089 +4730,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Aztec Ruins",
- "address": "\n725 Ruins Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/azru/crop16_9/4E4ECF26-1DD8-B71B-0BB1ED16F5EF8D5E.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//azru//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Bandelier",
- "address": "\nBandelier National Monument\n15 Entrance RD\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/band/crop16_9/B8AAA1F6-0A63-6915-F97134A3E3B1B64A.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//band//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Capulin Volcano",
- "address": "\nP.O. Box 40\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cavo/crop16_9/675649E4-1DD8-B71B-0B9A456AB03A85C2.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cavo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Carlsbad Caverns",
- "address": "\n3225 National Parks Highway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cave/crop16_9/B4BB8A3A-B807-8F2B-2A91D1C154698E31.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cave//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chaco Culture",
- "address": "\nPO Box 220\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chcu/crop16_9/93B2271B-1DD8-B71B-0B4687A786E516E7.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chcu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Camino Real de Tierra Adentro",
- "address": "\nNational Trails\nEl Camino Real de Tierra Adentro National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elca/crop16_9/19F62C50-00CE-1815-868F1BAF27BB70C2.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//elca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Malpais",
- "address": "\n1900 E. Santa Fe Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elma/crop16_9/C97A69A8-1DD8-B71B-0BFCF7F4527B3A5D.JPG?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//elma//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "El Morro",
- "address": "\nHC 61 Box 43\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/elmo/crop16_9/C93EB9D8-1DD8-B71B-0B9876524D79D70D.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//elmo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Union",
- "address": "\nPO Box 127\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/foun/crop16_9/8817A02F-1DD8-B71B-0BC007AB1E887AEA.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//foun//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Gila Cliff Dwellings",
- "address": "\n26 Jim Bradford Trail\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/gicl/crop16_9/64FAA53C-1DD8-B71B-0BA27FA6E2059F98.JPG?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//gicl//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Manhattan Project",
- "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mapr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Old Spanish",
- "address": "\nNational Trails\nOld Spanish National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/olsp/crop16_9/2529AF16-B883-E151-D69F263EA23DB1D3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//olsp//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pecos",
- "address": "\nPecos National Historical Park\nP.O. Box 418\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/peco/crop16_9/C5A7CCFA-1DD8-B71B-0BB9C5C2F335B24C.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//peco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Petroglyph",
- "address": "\nHeadquarters Administration Offices\n6001 Unser Blvd. NW\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/petr/crop16_9/00BB01D4-E567-AB72-139F0609AAEA1B87.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//petr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Salinas Pueblo Missions",
- "address": "\nSalinas Pueblo Missions National Monument\nPO Box 517\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sapu/crop16_9/01BB3CAA-E714-D7B5-0C87A0DDBCA60356.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//sapu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Santa Fe",
- "address": "\nNational Trails\nSanta Fe National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/safe/crop16_9/91948716-D973-6DCF-1E5CDC7DD9EF1DDB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//safe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Valles Caldera",
- "address": "\nPO Box 359\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/vall/crop16_9/3B28E7E1-1DD8-B71B-0B94843BD818651D.JPG?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//vall//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "White Sands",
- "address": "\nPO Box 1086\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/whsa/crop16_9/18F2C9E0-1DD8-B71B-0B69C6EF63E10C88.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//whsa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Georgia O'Keeffe Museum",
- "address": "217 Johnson St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/c9/13/4c/galleries.jpg"
- ],
- "tags": [
-  "tour",
-  "art",
-  "unique",
-  "walking",
-  "history",
-  "art",
-  "art",
-  "art",
-  "art",
-  "knowledgeable",
-  "organized",
-  "learn",
-  "art",
-  "art",
-  "history",
-  "art",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d787426-Reviews-Georgia_O_Keeffe_Museum-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Santa Fe Plaza",
- "address": "100 Old Santa Fe Trail",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b6/99/d1/santa-fe-historic-plaza.jpg"
- ],
- "tags": [
-  "art",
-  "historic",
-  "history",
-  "food",
-  "historic",
-  "food",
-  "historic",
-  "music",
-  "walk",
-  "walking",
-  "walk",
-  "art",
-  "history",
-  "unique",
-  "history",
-  "food",
-  "art",
-  "eat",
-  "eat"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d107439-Reviews-Santa_Fe_Plaza-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Santa Fe Opera House",
- "address": "301 Opera Dr",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/78/93/73/santa-fe-opera-house.jpg"
- ],
- "tags": [
-  "unique",
-  "theatre",
-  "family",
-  "performance",
-  "delicious",
-  "performance",
-  "performance"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d107440-Reviews-Santa_Fe_Opera_House-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Cathedral Basilica of St. Francis of Assisi",
- "address": "131 Cathedral Pl",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/ad/6c/57/the-inside-of-the-basilica.jpg"
- ],
- "tags": [
-  "tour",
-  "history",
-  "history",
-  "history",
-  "historic",
-  "history",
-  "sightseeing",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d123657-Reviews-The_Cathedral_Basilica_of_St_Francis_of_Assisi-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Meow Wolf",
- "address": "1352 Rufina Cir",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/18/de/ef/there-is-a-diver-behind.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "kids",
-  "unique",
-  "music",
-  "kids",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d10084963-Reviews-Meow_Wolf-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Museum of International Folk Art",
- "address": "706 Camino Lejo on Museum Hill",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0e/9f/7d/c1/lots-of-action.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "art",
-  "food",
-  "eat",
-  "kids",
-  "art",
-  "art",
-  "free",
-  "tour",
-  "tour",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d135699-Reviews-Museum_of_International_Folk_Art-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "New Mexico State Capitol (Roundhouse)",
- "address": "Paseo de Peralta and Old Santa Fe Trail",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/04/78/46/new-mexico-state-capitol.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "creative",
-  "free",
-  "art",
-  "unique",
-  "art",
-  "walk",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d534384-Reviews-New_Mexico_State_Capitol_Roundhouse-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "El Rancho de las Golondrinas",
- "address": "334 Los Pinos Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/9e/b7/trip-to-el-rancho-de.jpg"
- ],
- "tags": [
-  "music",
-  "history",
-  "food",
-  "history",
-  "kids",
-  "historic",
-  "history",
-  "learn",
-  "walking",
-  "family",
-  "history",
-  "drink",
-  "field",
-  "food",
-  "family",
-  "nature",
-  "learn",
-  "walk",
-  "tour",
-  "tour",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d117438-Reviews-El_Rancho_de_las_Golondrinas-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Loretto Chapel",
- "address": "207 Old Santa Fe Trail Between Alameda and Water sts.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/c7/c1/34/loretto-chapel.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "tour",
-  "historic",
-  "cheap",
-  "walking",
-  "history",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d123660-Reviews-Loretto_Chapel-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ski Santa Fe",
- "address": "Highway 475",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/19/82/8d/cc/powder-day-at-ski-santa.jpg"
- ],
- "tags": [
-  "organized",
-  "family",
-  "kids",
-  "food",
-  "drink"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d124601-Reviews-Ski_Santa_Fe-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Museum of Indian Arts & Culture",
- "address": "710 Camino Lejo",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/51/15/20/greeting-statue-outside.jpg"
- ],
- "tags": [
-  "free",
-  "art",
-  "history",
-  "unique",
-  "creative",
-  "art",
-  "art",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d110198-Reviews-Museum_of_Indian_Arts_Culture-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "San Miguel Chapel",
- "address": "401 Old Santa Fe Trl Lower Old Santa Fe Trail",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/4e/b2/2b/photo0jpg.jpg"
- ],
- "tags": [
-  "structure",
-  "music",
-  "historic",
-  "history",
-  "unique",
-  "walk",
-  "history",
-  "art",
-  "history",
-  "walking",
-  "music",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d124600-Reviews-San_Miguel_Chapel-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Santa Fe Farmers Market",
- "address": "1607 Paseo de Peralta",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/27/dc/10/the-santa-fe-farmer-s.jpg"
- ],
- "tags": [
-  "art",
-  "food",
-  "creative",
-  "food",
-  "eat",
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d580947-Reviews-Santa_Fe_Farmers_Market-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nedra Matteucci Galleries",
- "address": "1075 Paseo de Peralta",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/47/27/11/the-sculpture-garden.jpg"
- ],
- "tags": [
-  "wander",
-  "art",
-  "art",
-  "art",
-  "art",
-  "art",
-  "art",
-  "historic",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d124569-Reviews-Nedra_Matteucci_Galleries-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Dale Ball Trails",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/e5/64/a2/picacho-peak.jpg"
- ],
- "tags": [
-  "walking",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d7212551-Reviews-Dale_Ball_Trails-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cross of the Martyrs",
- "address": "600 Paseo de Peralta",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/59/6d/32/cross-of-the-martyrs.jpg"
- ],
- "tags": [
-  "history",
-  "walk",
-  "walk",
-  "hike",
-  "history",
-  "learn",
-  "walk",
-  "history",
-  "walk",
-  "history",
-  "walk",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d123656-Reviews-Cross_of_the_Martyrs-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "La Cieneguilla Petroglyph Site",
- "address": "Airport Road",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/47/0c/c1/this-spot-had-a-big-variety.jpg"
- ],
- "tags": [
-  "tour",
-  "hike",
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d3671778-Reviews-La_Cieneguilla_Petroglyph_Site-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Atalaya Mountain Hiking Trail",
- "address": "Access from Parking Area at St. John's College",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/8c/62/62/photo0jpg.jpg"
- ],
- "tags": [
-  "walking",
-  "walk",
-  "hike",
-  "hike",
-  "walking",
-  "hike",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d3498636-Reviews-Atalaya_Mountain_Hiking_Trail-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Randall Davey Audubon Center",
- "address": "Upper Canyon Rd.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/1e/a3/6b/entrance-to-center.jpg"
- ],
- "tags": [
-  "tour",
-  "walk",
-  "nature",
-  "tour",
-  "walk",
-  "tour",
-  "nature",
-  "nature",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d143971-Reviews-Randall_Davey_Audubon_Center-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Harrell House Bug Museum",
- "address": "556 N Guadalupe St Inside DeVargas Center Mall",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/a4/ea/73/amazing-collection-of.jpg"
- ],
- "tags": [
-  "tour",
-  "kids",
-  "sampling",
-  "tour",
-  "kids",
-  "active",
-  "kids",
-  "family",
-  "kids",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d4570589-Reviews-The_Harrell_House_Bug_Museum-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Hyde Memorial State Park",
- "address": "740 Hyde Park Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/1a/99/76/fall-colors.jpg"
- ],
- "tags": [
-  "hike",
-  "hike",
-  "walk",
-  "kids",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d123659-Reviews-Hyde_Memorial_State_Park-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Old Fort Marcy Park",
- "address": "617 Paseo de Peralta Also access it by traveling 3 blocks up Artist Rd. and turning right",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/d3/82/26/old-fort-marcy-park-view.jpg"
- ],
- "tags": [
-  "walk",
-  "history",
-  "walk",
-  "walking",
-  "history",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d143975-Reviews-Old_Fort_Marcy_Park-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Wheelwright Museum of the American Indian",
- "address": "704 Camino Lejo",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/7d/b9/71/filename-p1019728-jpg.jpg"
- ],
- "tags": [
-  "art",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d110197-Reviews-Wheelwright_Museum_of_the_American_Indian-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Santa Fe Botanical Garden",
- "address": "715 Camino Lejo Museum Hill",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/c6/99/98/20180704-131626-effects.jpg"
- ],
- "tags": [
-  "knowledgeable",
-  "kids",
-  "art",
-  "nature",
-  "family",
-  "food",
-  "walk",
-  "wander",
-  "free",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d3611694-Reviews-Santa_Fe_Botanical_Garden-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Santuario De Nuestra Senora de Guadalupe",
- "address": "100 S Guadalupe St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/65/f5/b4/santuario-de-nuestra.jpg"
- ],
- "tags": [
-  "walking",
-  "walk",
-  "walking",
-  "walk",
-  "walk",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60958-d123658-Reviews-Santuario_De_Nuestra_Senora_de_Guadalupe-Santa_Fe_New_Mexico.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

@@ -1,1030 +1,955 @@
 [
 {
- "name": "Guptill's Roller Skating Arena",
- "address": "1085 New Loudon Rd",
+ "name": "New York State Museum",
+ "address": "222 Madison Ave, Albany, NY 12230, USA",
  "avg_visitor_review": [
-  3.0
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/up_MgzRA3SF9EpipqLne7w/o.jpg"
+  "GoogleMapsPhotoLibrary/8a27934a-932d-11ea-ab4a-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/96/14/18/outside-of-the-museum.jpg"
  ],
  "tags": [
-  "food"
+  "family",
+  "free",
+  "history",
+  "learn",
+  "history",
+  "organized",
+  "kids",
+  "walking",
+  "library",
+  "nature",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/guptills-roller-skating-arena-cohoes-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d282091-Reviews-New_York_State_Museum-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=13313036823836325564"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Painting with a Twist",
- "address": "899 New Loudon Rd",
+ "name": "USS Slater DE-766",
+ "address": "Broadway and Quay Street",
  "avg_visitor_review": [
-  5.0
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/1Kv1MUPtdCSvQ4ltaqr6pA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/painting-with-a-twist-latham?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Enchanted City",
- "address": "1 1st St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/LamtcDSoLbMwt5vYt2SyHg/o.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-enchanted-city-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Regal Colonie Center & RPX",
- "address": "131 Colonie Ctr",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/_8jEyG47jDESUrHWYfzNaQ/o.jpg"
- ],
- "tags": [
-  "theatre"
- ],
- "link": [
-  "https://www.yelp.com/biz/regal-colonie-center-and-rpx-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Clarksville Cave Preserve",
- "address": "2082 Delaware Tpke",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Ioxlpx1kyuI6Gi1JztaV8A/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/clarksville-cave-preserve-clarksville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Ayelet Tours",
- "address": "19 Aviation Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/3olPcQ8fspFQGqiULh8hMg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/29/97/3d/uss-slater.jpg"
  ],
  "tags": [
   "tour",
-  "organized"
- ],
- "link": [
-  "https://www.yelp.com/biz/ayelet-tours-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Ridiculous Food Society of Upstate New York",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/b0-4WX9BcOeGzrVmIHLCQg/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/ridiculous-food-society-of-upstate-new-york-delmar?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rivers Casino",
- "address": "1 Rush St",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/oKzw2JOwuBXrDlFzm6rTLA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/rivers-casino-schenectady-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Elite Event - A Night at Cider Belly",
- "address": "25 North Pearl St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/yV2zbRk_ZMIREPpOyJ3rZw/o.jpg"
- ],
- "tags": [
-  "brewery"
- ],
- "link": [
-  "https://www.yelp.com/biz/elite-event-a-night-at-cider-belly-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alive at Five",
- "address": "Corning Preserve",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/VIgq7uq7PJiGyMX9xlNtPw/o.jpg"
- ],
- "tags": [
-  "food",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/alive-at-five-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The City Beer Hall",
- "address": "42 Howard St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/gc8GdoUypUCYLEks7CWGXw/o.jpg"
- ],
- "tags": [
-  "food",
+  "history",
+  "knowledgeable",
+  "tour",
+  "family",
+  "history",
+  "history",
+  "history",
+  "tour",
+  "kids",
+  "knowledgeable",
+  "kids",
+  "tour",
+  "tour",
   "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/the-city-beer-hall-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d534392-Reviews-USS_Slater_DE_766-Albany_New_York.html"
  ],
  "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "New York State Capitol",
+ "address": "State St. and, Washington Ave, Albany, NY 12224, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a7629e2-932d-11ea-877b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/ae/8c/6d/new-york-state-capitol.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "history",
+  "tour",
+  "historic",
+  "tour",
+  "library",
+  "free",
+  "art",
+  "structure",
+  "learn",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d282090-Reviews-New_York_State_Capitol-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=8263776940085683472"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Washington Park",
+ "address": "Madison Ave and Willet St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/51/ee/c1/washington-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "free",
+  "walk",
+  "walking",
+  "walk",
+  "historic",
+  "walking",
+  "parks",
+  "sightseeing"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d277177-Reviews-Washington_Park-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Schuyler Mansion",
+ "address": "32 Catherine St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/55/11/26/schuyler-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable",
+  "learn",
+  "history",
+  "knowledgeable",
+  "tour",
+  "unique",
+  "family",
+  "free",
+  "music",
+  "food",
+  "tour",
+  "knowledgeable",
+  "family",
+  "history",
+  "historic",
+  "tour",
+  "family",
+  "walking",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "art",
+  "family",
+  "history",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d263721-Reviews-Schuyler_Mansion-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Albany Institute of History & Art",
+ "address": "125 Washington Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8bf92d7a-932d-11ea-8943-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/0c/a5/16/albany-institute-of-history.jpg"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "art",
+  "history",
+  "art",
+  "food",
+  "knowledgeable",
+  "learn",
+  "library"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d207878-Reviews-Albany_Institute_of_History_Art-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=12617233855426390701"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crossgates",
+ "address": "1 Crossgates Mall Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/47/27/b2/le-loin-couloir.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "walk",
+  "food",
+  "kids",
+  "food",
+  "eat",
+  "drink",
+  "eat"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d1161070-Reviews-Crossgates-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Erastus Corning II Tower",
+ "address": "5 Empire State Plz",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/c1/18/corning-tower.jpg"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "free",
+  "free",
+  "free",
+  "walking",
+  "art",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d282274-Reviews-Erastus_Corning_II_Tower-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Times Union Center",
+ "address": "51 S Pearl St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  3.0,
+  4.3,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/UJKw_FpHPtsqf-eiWFJe9A/o.jpg",
+  "GoogleMapsPhotoLibrary/9c546568-932d-11ea-be5e-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/60/81/16/siena-college-graduation.jpg"
+ ],
+ "tags": [
+  "tour",
+  "drink",
+  "food",
+  "music",
+  "performance"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g29786-d207877-Reviews-Times_Union_Center-Albany_New_York.html"
+   ],
+   "https://maps.google.com/?cid=7808240469845054340"
+  ],
+  "https://www.yelp.com/biz/times-union-center-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Bowman Orchards",
- "address": "147 Sugar Hill Rd",
+ "name": "Palace Theatre",
+ "address": "19 Clinton Ave, Albany, NY 12207, USA",
  "avg_visitor_review": [
-  3.0
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/lEVBt6lJcQ8QF8j_wkk_Yg/o.jpg"
+  "GoogleMapsPhotoLibrary/9a7fb492-932d-11ea-86b8-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/e6/ea/fb/palace-theatre.jpg"
  ],
  "tags": [
-  "eat",
-  "tour"
+  "free",
+  "theatre",
+  "music"
  ],
  "link": [
-  "https://www.yelp.com/biz/bowman-orchards-rexford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d2314777-Reviews-Palace_Theatre-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=9244840344646195465"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
  "name": "The Egg",
  "address": "Empire State Plaza Concourse Level",
  "avg_visitor_review": [
-  "4.5",
-  4.0
+  4.0,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/11/51/bd/the-egg.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/LIJk0MEvyKew5HuKdk6gmw/o.jpg"
+  "https://s3-media4.fl.yelpcdn.com/bphoto/LIJk0MEvyKew5HuKdk6gmw/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/11/51/bd/the-egg.jpg"
  ],
  "tags": [
-  "music",
   "walk",
+  "music",
   "affordable",
   "drink",
   "tour",
-  "kids",
-  "music"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/the-egg-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d207876-Reviews-The_Egg-Albany_New_York.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ghosts of Albany",
- "address": "40 Lodge St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "knowledgeable",
-  "walking",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/ghosts-of-albany-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wolf Road",
- "address": "Wolf Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/1S4-LZA_RsyPnYxwT2o91A/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wolf-road-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Ama Cocina",
- "address": "4-6 Sheridan Ave",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/3lowMj4tUib8n44iaYe0TQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/ama-cocina-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Schuyler Mansion State Historic Site",
- "address": "32 Catherine St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/j-YMN7UQSv54LtwHhiMrzg/o.jpg"
- ],
- "tags": [
-  "knowledgeable",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/schuyler-mansion-state-historic-site-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Funny Bone Comedy Club & Restaurant",
- "address": "1 Crossgates Mall Rd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/uCkh1Fe3bFTXoNvv1FZWXQ/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/funny-bone-comedy-club-and-restaurant-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rudy A Ciccotti Family Recreation Center",
- "address": "30 Aviation Rd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/XyjI_bn4NnTLmmcmKHrlvA/o.jpg"
- ],
- "tags": [
-  "learn"
- ],
- "link": [
-  "https://www.yelp.com/biz/rudy-a-ciccotti-family-recreation-center-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Rollarama Skating Center",
- "address": "2710 Hamburg St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ewjLyudmpq487yvplsxIyQ/o.jpg"
- ],
- "tags": [
-  "unique",
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/rollarama-skating-center-schenectady-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Muza",
- "address": "1300 15th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/uzUzy5JmFDQH6tZ5LBu9-A/o.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/muza-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Photography Center Of Capital District",
- "address": "404 River St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/KVC4CCQeriH2dc4aTx9QiQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/photography-center-of-capital-district-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Peck's Arcade",
- "address": "217 Broadway",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/pjCPQhQaLHwUX9Z5nfHIXg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/pecks-arcade-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "River Street Festival",
- "address": "251 River St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/08-cYqFMnhcuQ8TSzchgGg/o.jpg"
- ],
- "tags": [
-  "music",
-  "food",
-  "music",
-  "art"
- ],
- "link": [
-  "https://www.yelp.com/biz/river-street-festival-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cohoes Falls Park",
- "address": "231-341 N Mohawk St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/60j1YTTIqul-xWzkC5Ixeg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/cohoes-falls-park-cohoes?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The City of Albany",
- "address": null,
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/z39FoW9w1elPOpIazTxvkA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-city-of-albany-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Upstate Kayak Rentals",
- "address": "First And Front St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/JMZ9PiX7uDdX5G5pRU-xvA/o.jpg"
- ],
- "tags": [
-  "organized"
- ],
- "link": [
-  "https://www.yelp.com/biz/upstate-kayak-rentals-waterford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Psychic Readings at Seraphim's Keep",
- "address": "569 Columbia Tpke",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/z7PPBH6s7_6y21oZsIsyBg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/psychic-readings-at-seraphims-keep-east-greenbush?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Scotia Cinema",
- "address": "117 Mohawk Ave",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/YxHLmtz7BZVVkJxKrcX75w/o.jpg"
- ],
- "tags": [
-  "cheap"
- ],
- "link": [
-  "https://www.yelp.com/biz/scotia-cinema-scotia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Movieland 6",
- "address": "400 State St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Wh1n-i_UZFx1sia-73WN6A/o.jpg"
- ],
- "tags": [
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/movieland-6-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Times Union Center",
- "address": "51 S Pearl St",
- "avg_visitor_review": [
-  "4.0",
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/60/81/16/siena-college-graduation.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/UJKw_FpHPtsqf-eiWFJe9A/o.jpg"
- ],
- "tags": [
-  "music",
-  "performance",
-  "tour"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/times-union-center-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d207877-Reviews-Times_Union_Center-Albany_New_York.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Albany Devils",
- "address": "51 South Pearl St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/ZVdKZKmjPCPNgefJZWwbug/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/albany-devils-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Palace Theatre Albany",
- "address": "19 Clinton Ave",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/6bKoeLMykSl_GmnrmHozuQ/o.jpg"
- ],
- "tags": [
-  "theatre"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-palace-theatre-albany-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tipsy Moose Tap & Tavern",
- "address": "185 Old Loudon Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/_gpPP-JPm0b_6PC6W6PetQ/o.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/tipsy-moose-tap-and-tavern-latham-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "LAX On Lark",
- "address": "205 Lark St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/iSwB6nlfBwvxL70-L0uCFA/o.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/lax-on-lark-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Get Air Albany",
- "address": "1 Crossgates Mall Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Z2juzhXH53wGREAIdmXVEQ/o.jpg"
- ],
- "tags": [
   "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/get-air-albany-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d207876-Reviews-The_Egg-Albany_New_York.html"
+  ],
+  "https://www.yelp.com/biz/the-egg-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
+  [
+   "TripAdvisor"
+  ],
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Troy Pig Out",
- "address": "River Front Park",
+ "name": "Governor Nelson A. Rockefeller Empire State Plaza",
+ "address": "100 S Mall Arterial",
  "avg_visitor_review": [
-  3.5
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/T1OU5ZVhlQWOy4r_CRJzKA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/d5/12/8a/20160702-092022-largejpg.jpg"
  ],
  "tags": [
+  "art",
+  "walk",
+  "art",
+  "unique",
+  "kids",
+  "food",
+  "walking",
+  "wander",
+  "art",
+  "walk",
+  "unique",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d277175-Reviews-Governor_Nelson_A_Rockefeller_Empire_State_Plaza-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Albany Pine Bush Preserve",
+ "address": "195 New Karner Rd #1, Albany, NY 12205, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b1531ca-932d-11ea-94e6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/b8/be/b7/albany-pine-bush-preserve.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "walk",
+  "nature",
+  "learn",
+  "parks",
+  "history",
+  "hike",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d282167-Reviews-Albany_Pine_Bush_Preserve-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=1217077071136101642"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Stephen and Harriet Myers Residence",
+ "address": "194 Livingston Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7e/ce/54/the-myers-residence-front.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "historic",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "historic",
+  "history",
+  "family",
+  "history",
+  "historic",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d11659110-Reviews-The_Stephen_and_Harriet_Myers_Residence-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Chester A. Arthur Memorial Tomb",
+ "address": "Albany Rural Cemetery Cemetery Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/38/12/77/the-tomb-and-accoutrement.jpg"
+ ],
+ "tags": [
+  "pets",
+  "history",
+  "learn",
+  "walk",
+  "family",
+  "history",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d4283464-Reviews-Chester_A_Arthur_Memorial_Tomb-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Huck Finn's Playland",
+ "address": "25 Erie Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/3d/26/13/huck-finn-s-playland.jpg"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "kids",
+  "family",
+  "drink",
+  "eat",
+  "walk",
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d8389741-Reviews-Huck_Finn_s_Playland-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Nine Pin Cider Works",
+ "address": "929 Broadway",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/06/1b/ef/cute-place.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d6412410-Reviews-Nine_Pin_Cider_Works-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Discover Albany Visitors Center",
+ "address": "25 Quackenbush Square, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.1,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8d894c50-932d-11ea-a09c-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/bd/ad/a7/albany-visitors-center.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "history",
+  "walking",
+  "free",
+  "art"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d282163-Reviews-Discover_Albany_Visitors_Center-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=1139675757152422150"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Empire State Plaza Convention Center",
+ "address": "Empire State Plaza",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/46/8f/fc/architecture-and-the.jpg"
+ ],
+ "tags": [
+  "performance",
+  "family",
+  "kids",
+  "free",
+  "walk",
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d1418734-Reviews-Empire_State_Plaza_Convention_Center-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lark Street",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/9a/e6/72/lark-street.jpg"
+ ],
+ "tags": [
+  "walk",
+  "eat",
+  "kids",
+  "eat",
+  "food",
+  "food",
+  "eat",
+  "drink",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d282173-Reviews-Lark_Street-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "C.H. Evans Brewing Co.",
+ "address": "19 Quackenbush Sq",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/5f/4b/4c/ch-evans-brewing-co.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "family",
+  "tour",
+  "history",
+  "food",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d613983-Reviews-C_H_Evans_Brewing_Co-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Albany Indoor Rockgym",
+ "address": "4 Vatrano Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/be/34/31/albany-indoor-rockgym.jpg"
+ ],
+ "tags": [
+  "eat",
+  "kids",
+  "eat",
+  "kids",
+  "free",
+  "walking",
+  "unique",
+  "adventurous",
+  "kids",
+  "unique",
+  "food",
+  "cheap",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d3546177-Reviews-Albany_Indoor_Rockgym-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Albany City Hall",
+ "address": "24 Eagle St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/ce/74/75/albany-city-hall.jpg"
+ ],
+ "tags": [
+  "historic",
+  "tour",
+  "free",
+  "structure"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d282162-Reviews-Albany_City_Hall-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "US Route 20",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/18/90/52/antiquing-alont-us-rt.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "performance",
+  "historic",
+  "kids",
+  "sightseeing"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d1149550-Reviews-US_Route_20-Albany_New_York.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Shaker Heritage Society",
+ "address": "25 Meeting House Rd, Albany, NY 12211, USA",
+ "avg_visitor_review": [
+  4.4,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/90b5df92-932d-11ea-90d8-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c1/b5/c5/herb-garden-gate.jpg"
+ ],
+ "tags": [
+  "learn",
+  "knowledgeable",
+  "history",
+  "tour",
+  "organized",
+  "walk",
+  "knowledgeable",
+  "historic",
+  "walking",
+  "nature",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d534391-Reviews-Shaker_Heritage_Society-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=15017658558667633755"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of the Immaculate Conception",
+ "address": "125 Eagle St, Albany, NY 12202, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8d2be858-932d-11ea-8204-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/e1/0a/a9/candelabra-inside-cathedral.jpg"
+ ],
+ "tags": [
+  "music",
+  "free",
+  "free",
+  "historic",
+  "art",
+  "history",
+  "walking",
+  "tour",
   "family"
  ],
  "link": [
-  "https://www.yelp.com/biz/troy-pig-out-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d12756579-Reviews-Cathedral_of_the_Immaculate_Conception-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=16213845401188594968"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
  "name": "Park Playhouse",
  "address": "Madison Ave. cor. New Scotland Ave.",
  "avg_visitor_review": [
-  "5.0",
-  5.0
+  5.0,
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png",
-  "https://s3-media3.fl.yelpcdn.com/bphoto/pVdWTyEQ5IuDV2SIAtWaLQ/o.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/pVdWTyEQ5IuDV2SIAtWaLQ/o.jpg",
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
  ],
  "tags": [
+  "free",
+  "free",
+  "free",
   "theatre",
   "performance",
   "music",
-  "theatre",
-  "theatre",
-  "family",
-  "free"
+  "family"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/park-playhouse-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d8545290-Reviews-Park_Playhouse-Albany_New_York.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d8545290-Reviews-Park_Playhouse-Albany_New_York.html"
+  "https://www.yelp.com/biz/park-playhouse-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Orange Brewery",
+ "address": "450 N Pearl St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/3f/89/02/inside-bar.jpg"
+ ],
+ "tags": [
+  "unique",
+  "family",
+  "free",
+  "brewery",
+  "food",
+  "brewery",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d13089619-Reviews-Fort_Orange_Brewery-Albany_New_York.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Cook Park",
- "address": "Shambrook Pkwy",
+ "name": "The Irish American Heritage Museum",
+ "address": "370 Broadway",
  "avg_visitor_review": [
-  5.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/e7eshZYQK-20eGKS7_5QQA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/cook-park-colonie?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Willow Creek Equestrian",
- "address": "586 Pearse Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/3u48GAjRK0cj8lnwWj3JAQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/71/ea/5e/the-irish-american-heritage.jpg"
  ],
  "tags": [
-  "free"
+  "library",
+  "library",
+  "knowledgeable",
+  "art",
+  "library",
+  "historic",
+  "music",
+  "walking",
+  "history",
+  "library",
+  "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/willow-creek-equestrian-niskayuna?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d3494028-Reviews-The_Irish_American_Heritage_Museum-Albany_New_York.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Karma Bistro",
- "address": "2321 Nott St E",
+ "name": "American Italian Heritage Museum",
+ "address": "1227 Central Ave, Albany, NY 12205, USA",
  "avg_visitor_review": [
-  4.5
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/k0K6nDvVrI_m_DbfyXbbSw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/karma-bistro-niskayuna-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Capt J P Cruise Lines",
- "address": "278 River St",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/A8QR_qSprLAL-ws0BpGtMw/o.jpg"
+  "GoogleMapsPhotoLibrary/8fd902a6-932d-11ea-ad61-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/30/90/3b/a-photo-of-our-building.jpg"
  ],
  "tags": [
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/capt-j-p-cruise-lines-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Uncle Sam Monument",
- "address": "River St At 3rd St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/2tUnWPeGU_lWOHuupSD5cA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/uncle-sam-monument-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "McGeary's Travel",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/gf_7F5Qu5WL4YXO9YTVaVw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/mcgearys-travel-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wolff's Biergarten",
- "address": "895 Broadway",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/W_5HjVw_EeIiB1K3ULOxqg/o.jpg"
- ],
- "tags": [
-  "food",
-  "cheap"
- ],
- "link": [
-  "https://www.yelp.com/biz/wolffs-biergarten-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tru Escape",
- "address": "93 W Cambell Ave",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/EYpbdg8y4R53FdgbO4PjGA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/tru-escape-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "New World Bistro Bar",
- "address": "300 Delaware Ave",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/AdFarpUhCSiafu4gUeeicw/o.jpg"
- ],
- "tags": [
-  "unique",
-  "creative"
- ],
- "link": [
-  "https://www.yelp.com/biz/new-world-bistro-bar-albany-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Nexgen Indoor Golf",
- "address": "1214 Troy Schenectady Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/BnzGG5u4h9Z6No7yV_ONPQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/nexgen-indoor-golf-latham?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Children's Museum of Science and Technology",
- "address": "250 Jordan Rd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/oykTDE3tky0_zyRSO9c6mw/o.jpg"
- ],
- "tags": [
+  "history",
+  "tour",
+  "affordable",
   "learn",
-  "kids",
-  "kids"
+  "unique",
+  "art",
+  "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/childrens-museum-of-science-and-technology-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29786-d7935830-Reviews-American_Italian_Heritage_Museum-Albany_New_York.html"
+  ],
+  "https://maps.google.com/?cid=16706196643614267444"
  ],
  "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Kleinke's farm",
- "address": "96 Kenwood Ave",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/yk1NZsDnKeBcq3BWM3y42w/o.jpg"
- ],
- "tags": [
-  "family",
-  "walk",
-  "field"
- ],
- "link": [
-  "https://www.yelp.com/biz/kleinkes-farm-glenmont?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
@@ -1791,807 +1716,3529 @@
  ],
  "reviews": []
 },{
- "name": "New York State Museum",
- "address": "Empire State Plaza",
+ "name": "USS SLATER",
+ "address": "1 Quay St, Albany, NY 12202, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.8
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/96/14/18/outside-of-the-museum.jpg"
+  "GoogleMapsPhotoLibrary/8ac339dc-932d-11ea-a961-14b31f159f22.png"
  ],
  "tags": [
-  "walking",
-  "family",
-  "free",
-  "family",
-  "free",
-  "history",
-  "library",
-  "nature",
-  "free",
-  "history",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282091-Reviews-New_York_State_Museum-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "USS Slater DE-766",
- "address": "Broadway and Quay Street",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/29/97/3d/uss-slater.jpg"
- ],
- "tags": [
-  "tour",
-  "history",
   "knowledgeable",
   "tour",
+  "history",
+  "tour",
+  "tour",
+  "art",
+  "history",
+  "tour",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=393120351852663886"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dutch Apple Cruises & Tours",
+ "address": "Broadway and, Quay St, Albany, NY 12202, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b5fd0b8-932d-11ea-8cab-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15191457630927961732"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Holiday Lights",
+ "address": "Madison Ave, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8ba53f8a-932d-11ea-bc12-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
   "family",
-  "history",
-  "history",
-  "history",
-  "tour",
   "kids",
-  "knowledgeable",
-  "kids",
-  "tour",
-  "tour",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d534392-Reviews-USS_Slater_DE_766-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "New York State Capitol",
- "address": "State St.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/ae/8c/6d/new-york-state-capitol.jpg"
- ],
- "tags": [
-  "tour",
-  "free",
-  "art",
-  "tour",
-  "art",
-  "historic",
-  "free",
-  "tour",
-  "tour",
-  "structure",
-  "historic",
-  "tour",
-  "tour",
-  "learn",
-  "tour",
-  "eat",
-  "walking",
-  "history",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282090-Reviews-New_York_State_Capitol-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Washington Park",
- "address": "Madison Ave and Willet St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/51/ee/c1/washington-park.jpg"
- ],
- "tags": [
-  "walk",
-  "walking",
-  "free",
-  "walk",
-  "walking",
-  "walk",
-  "historic",
-  "walking",
+  "family",
   "parks",
-  "sightseeing"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d277177-Reviews-Washington_Park-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Schuyler Mansion",
- "address": "32 Catherine St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/55/11/26/schuyler-mansion.jpg"
- ],
- "tags": [
-  "tour",
-  "knowledgeable",
-  "learn",
-  "history",
-  "knowledgeable",
-  "tour",
-  "unique",
-  "family",
-  "free",
-  "music",
-  "food",
-  "tour",
-  "knowledgeable",
-  "family",
-  "history",
-  "historic",
-  "tour",
-  "family",
-  "walking",
-  "tour",
-  "knowledgeable",
-  "tour",
-  "art",
-  "family",
-  "history",
-  "tour",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d263721-Reviews-Schuyler_Mansion-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Albany Institute of History & Art",
- "address": "125 Washington Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/0c/a5/16/albany-institute-of-history.jpg"
- ],
- "tags": [
-  "art",
-  "free",
-  "art",
-  "art",
-  "learn",
-  "library"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d207878-Reviews-Albany_Institute_of_History_Art-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Crossgates",
- "address": "1 Crossgates Mall Rd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/47/27/b2/le-loin-couloir.jpg"
- ],
- "tags": [
-  "family",
-  "food",
-  "walk",
-  "food",
-  "kids",
-  "food",
-  "eat",
-  "drink",
-  "eat"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d1161070-Reviews-Crossgates-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Erastus Corning II Tower",
- "address": "5 Empire State Plz",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/c1/18/corning-tower.jpg"
- ],
- "tags": [
-  "free",
-  "free",
-  "free",
-  "free",
-  "free",
-  "walking",
-  "art",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282274-Reviews-Erastus_Corning_II_Tower-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Palace Theatre",
- "address": "19 Clinton Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/e6/ea/fb/palace-theatre.jpg"
- ],
- "tags": [
-  "theatre",
-  "theatre",
-  "free",
-  "theatre",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d2314777-Reviews-Palace_Theatre-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Governor Nelson A. Rockefeller Empire State Plaza",
- "address": "100 S Mall Arterial",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/d5/12/8a/20160702-092022-largejpg.jpg"
- ],
- "tags": [
-  "art",
-  "walk",
-  "art",
-  "unique",
-  "kids",
-  "food",
-  "walking",
-  "wander",
-  "art",
-  "walk",
-  "unique",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d277175-Reviews-Governor_Nelson_A_Rockefeller_Empire_State_Plaza-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Albany Pine Bush Preserve",
- "address": "New Karner Road",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/b8/be/b7/albany-pine-bush-preserve.jpg"
- ],
- "tags": [
-  "learn",
-  "parks",
-  "history",
-  "hike",
-  "nature",
-  "history",
-  "nature",
-  "hike",
-  "learn",
-  "kids",
-  "learn",
-  "parks",
-  "history",
-  "kids",
-  "hike",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282167-Reviews-Albany_Pine_Bush_Preserve-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Stephen and Harriet Myers Residence",
- "address": "194 Livingston Ave",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7e/ce/54/the-myers-residence-front.jpg"
- ],
- "tags": [
-  "historic",
-  "history",
-  "historic",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "historic",
-  "history",
-  "family",
-  "history",
-  "historic",
-  "history",
-  "tour",
-  "history",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d11659110-Reviews-The_Stephen_and_Harriet_Myers_Residence-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Chester A. Arthur Memorial Tomb",
- "address": "Albany Rural Cemetery Cemetery Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/11/38/12/77/the-tomb-and-accoutrement.jpg"
- ],
- "tags": [
-  "pets",
-  "history",
-  "learn",
-  "walk",
-  "family",
-  "history",
-  "history",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d4283464-Reviews-Chester_A_Arthur_Memorial_Tomb-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Huck Finn's Playland",
- "address": "25 Erie Blvd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/3d/26/13/huck-finn-s-playland.jpg"
- ],
- "tags": [
-  "food",
-  "kids",
-  "kids",
-  "family",
-  "drink",
-  "eat",
-  "walk",
-  "history",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d8389741-Reviews-Huck_Finn_s_Playland-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nine Pin Cider Works",
- "address": "929 Broadway",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/06/1b/ef/cute-place.jpg"
- ],
- "tags": [
-  "walk",
-  "free",
-  "family",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d6412410-Reviews-Nine_Pin_Cider_Works-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Discover Albany Visitors Center",
- "address": "25 Quackenbush Sq",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/bd/ad/a7/albany-visitors-center.jpg"
- ],
- "tags": [
-  "art",
-  "history",
-  "walking",
-  "tour",
-  "walking",
-  "history",
-  "free",
-  "history",
-  "art",
-  "history",
-  "tour",
-  "free",
-  "history",
   "walking"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282163-Reviews-Discover_Albany_Visitors_Center-Albany_New_York.html"
+  "https://maps.google.com/?cid=3146226423107524636"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Empire State Plaza Convention Center",
- "address": "Empire State Plaza",
+ "name": "Ten Broeck Mansion",
+ "address": "9 Ten Broeck Pl, Albany, NY 12210, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/46/8f/fc/architecture-and-the.jpg"
+  "GoogleMapsPhotoLibrary/8c43801e-932d-11ea-8e40-14b31f159f22.png"
  ],
  "tags": [
-  "performance",
-  "family",
-  "kids",
-  "free",
-  "walk",
-  "walking",
-  "food"
+  "tour",
+  "history"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d1418734-Reviews-Empire_State_Plaza_Convention_Center-Albany_New_York.html"
+  "https://maps.google.com/?cid=10105865041824720904"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Lark Street",
- "address": "",
+ "name": "Far Shot Albany - Axe Throwing/Archery/Knife Throwing",
+ "address": "69 N Pearl St, Albany, NY 12207, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.9
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/9a/e6/72/lark-street.jpg"
+  "GoogleMapsPhotoLibrary/8cb1d424-932d-11ea-9ba0-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10275427401187004405"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lincoln Park",
+ "address": "228 Eagle St, Albany, NY 12202, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8de7c1c0-932d-11ea-9fb7-14b31f159f22.png"
  ],
  "tags": [
   "walk",
-  "eat",
+  "walk",
   "kids",
-  "eat",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15946237342816421200"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Irish American Heritage Museum",
+ "address": "21 Quackenbush Square, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8e406aa8-932d-11ea-8ddd-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "learn",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=588103803134959414"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Six Mile Waterworks Park",
+ "address": "135 Fuller Rd, Albany, NY 12205, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8e8d2c78-932d-11ea-90a1-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
   "food",
-  "food",
-  "eat",
-  "drink",
+  "kids",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6121460926007194174"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New York State Executive Mansion",
+ "address": "138 Eagle St, Albany, NY 12202, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8eded064-932d-11ea-8c95-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=9141384314294806730"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Children's Museum of Science and Technology",
+ "address": "250 Jordan Rd, Troy, NY 12180, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f315eb0-932d-11ea-b6c0-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18167602598475854358"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Buckingham Lake Park",
+ "address": "39 Berkshire Blvd, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f79b3a2-932d-11ea-a6fc-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "kids",
+  "walking",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4795010848788714910"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Crossings of Colonie",
+ "address": "580 Albany Shaker Rd, Loudonville, NY 12211, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/90207a92-932d-11ea-9723-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "family",
+  "walking",
+  "kids",
+  "walking",
+  "family",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282173-Reviews-Lark_Street-Albany_New_York.html"
+  "https://maps.google.com/?cid=17136778740795866488"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "C.H. Evans Brewing Co.",
- "address": "19 Quackenbush Sq",
+ "name": "Historic Cherry Hill",
+ "address": "523 S Pearl St, Albany, NY 12202, USA",
  "avg_visitor_review": [
-  "4.0"
+  5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/5f/4b/4c/ch-evans-brewing-co.jpg"
+  "GoogleMapsPhotoLibrary/906c7924-932d-11ea-9bd5-14b31f159f22.png"
  ],
  "tags": [
-  "brewery",
-  "family",
   "tour",
   "history",
-  "food",
-  "brewery"
+  "creative",
+  "knowledgeable",
+  "historic"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d613983-Reviews-C_H_Evans_Brewing_Co-Albany_New_York.html"
+  "https://maps.google.com/?cid=4656955246605834584"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Albany Indoor Rockgym",
- "address": "4 Vatrano Rd",
+ "name": "Funplex Funpark",
+ "address": "589 Columbia Turnpike, East Greenbush, NY 12061, USA",
  "avg_visitor_review": [
-  "4.0"
+  4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/be/34/31/albany-indoor-rockgym.jpg"
+  "GoogleMapsPhotoLibrary/910ba234-932d-11ea-8248-14b31f159f22.png"
  ],
  "tags": [
-  "eat",
   "kids",
-  "eat",
+  "family",
+  "family",
   "kids",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1678601756408158989"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Burden Iron Works Museum",
+ "address": "1 E Industrial Pkwy, Troy, NY 12180, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/91530cee-932d-11ea-acf5-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "tour",
   "free",
-  "walking",
-  "unique",
-  "adventurous",
+  "knowledgeable",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16227844182764057434"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Opalka Gallery",
+ "address": "140 New Scotland Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/91a1a36c-932d-11ea-90b9-14b31f159f22.png"
+ ],
+ "tags": [
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10387429704054419172"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crailo State Historic Site",
+ "address": "9 1/2 Riverside Ave, Rensselaer, NY 12144, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/91e69cf0-932d-11ea-be40-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7332209756803206668"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Falls View Park",
+ "address": "231-341 N Mohawk St, Cohoes, NY 12047, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/923fe22e-932d-11ea-b90a-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12301839518745393915"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Thacher Park",
+ "address": "1 Hailes Cave Rd, Voorheesville, NY 12186, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/929e3054-932d-11ea-8747-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "hike",
+  "sightseeing"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3360928457972531157"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ridgefield Park",
+ "address": "316 Partridge St, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/93111870-932d-11ea-be28-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=17237252271200969825"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "miSci - Museum of Innovation and Science",
+ "address": "15 Nott Terrace Heights, Schenectady, NY 12308, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/938fe7be-932d-11ea-b499-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "family",
+  "history",
+  "learn",
   "kids",
+  "family",
+  "kids",
+  "learn",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4651625280074331854"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St. Peter's Church",
+ "address": "107 State St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/93ed5394-932d-11ea-ba3b-14b31f159f22.png"
+ ],
+ "tags": [
   "unique",
+  "historic",
+  "music",
+  "historic"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8764072928521743878"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Central Park",
+ "address": "500 Iroquois Path, Schenectady, NY 12309, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/94489bb4-932d-11ea-b3ee-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "pets",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14512736124475287088"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Pine Hollow Arboretum",
+ "address": "34 Pine Hollow Rd, Slingerlands, NY 12159, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/94944c06-932d-11ea-b60f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10607182893828886768"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wacky Walks",
+ "address": "57 Washington Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=12893312542716223812"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Washington Park Lake House",
+ "address": "Washington Park Rd, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=5631798427162693818"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Five Rivers Environmental Education Center",
+ "address": "56 Game Farm Rd, Delmar, NY 12054, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/94d9ac8c-932d-11ea-8693-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "nature",
+  "walk",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12597109610191719384"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "John Boyd Thacher State Park",
+ "address": "830 Thacher Park Rd, Voorheesville, NY 12186, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/95270ac2-932d-11ea-8dd7-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "kids",
+  "history",
+  "walking",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10934798122969268879"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Vischer Ferry Nature & Historic Preserve",
+ "address": "Riverview Rd, Rexford, NY 12148, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/957edd8a-932d-11ea-a8e3-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2137216619531795767"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Friends of Peebles Island State Park",
+ "address": "1 Delaware Ave North, Cohoes, NY 12047, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/95cfbe12-932d-11ea-aa8a-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "walking",
+  "walk",
   "food",
-  "cheap",
+  "walk",
+  "kids",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9455941394539453420"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Emma Treadwell Thacher Ntr Ct",
+ "address": "87 Stan Levine Dr, Voorheesville, NY 12186, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/96246f68-932d-11ea-ba41-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "kids",
+  "knowledgeable",
+  "art",
+  "nature",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2738358839381927147"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Prospect Park",
+ "address": "65 Prospect Park Rd, Troy, NY 12180, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/966faa6c-932d-11ea-ad4c-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "kids",
   "family",
   "kids"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d3546177-Reviews-Albany_Indoor_Rockgym-Albany_New_York.html"
+  "https://maps.google.com/?cid=1636992756682076976"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Albany City Hall",
- "address": "24 Eagle St",
+ "name": "Schodack Island State Park",
+ "address": "1 Schodack Island Way, Schodack Landing, NY 12156, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/ce/74/75/albany-city-hall.jpg"
+  "GoogleMapsPhotoLibrary/96d0ea5e-932d-11ea-812c-14b31f159f22.png"
  ],
  "tags": [
-  "historic",
-  "tour",
-  "free",
+  "walk",
+  "kids",
+  "parks"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12993196213285806183"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Empire State Aerosciences Museum",
+ "address": "250 Rudy Chase Dr, Glenville, NY 12302, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/97313488-932d-11ea-9bd4-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6595290117350800151"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Indian Ladder Trail",
+ "address": "John Boyd Thacher State Park, Voorheesville, NY 12186, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9778b612-932d-11ea-8bfb-14b31f159f22.png"
+ ],
+ "tags": [
+  "active",
+  "walk",
+  "walk",
+  "hike",
+  "hike",
+  "hike",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7538751307480430133"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bethlehem Parks & Recreation",
+ "address": "261 Elm Ave, Delmar, NY 12054, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/97dc5ba4-932d-11ea-b02b-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8837332016408123537"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rivers Casino & Resort Schenectady",
+ "address": "1 Rush St, Schenectady, NY 12305, USA",
+ "avg_visitor_review": [
+  3.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/98352b94-932d-11ea-8d59-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6031239591530160716"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Overlook Park",
+ "address": "Cohoes, NY 12047, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/98a666d2-932d-11ea-8118-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
   "structure"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d282162-Reviews-Albany_City_Hall-Albany_New_York.html"
+  "https://maps.google.com/?cid=9664520054131660921"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "US Route 20",
- "address": "",
+ "name": "Henry Hudson Park",
+ "address": "Barent Winne Rd, Selkirk, NY 12158, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/18/90/52/antiquing-alont-us-rt.jpg"
+  "GoogleMapsPhotoLibrary/9906fb24-932d-11ea-83b2-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17615703592406348106"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grafton Lake State Park",
+ "address": "254 Grafton Lakes State Park Way, Grafton, NY 12082, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9973a1c2-932d-11ea-bb03-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=11063766641547752925"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "East Greenbush Town Park",
+ "address": "Town Park Rd, East Greenbush, NY 12061, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/99e3f1b8-932d-11ea-b512-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8039927449542220924"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Saratoga Spa State Park",
+ "address": "19 Roosevelt Dr, Saratoga Springs, NY 12866, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9a31e138-932d-11ea-8f77-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "parks",
+  "history",
+  "tasting",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7148947160635447708"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pursue the Clue",
+ "address": "1500 Central Ave, Albany, NY 12205, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9acb64dc-932d-11ea-b24c-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8003211844758438754"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crossgates Mall",
+ "address": "1 Crossgates Mall Rd, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b17d898-932d-11ea-bff1-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "kids",
+  "food",
+  "walk",
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4110326987130251529"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Howe Cavern",
+ "address": "255 Discovery Dr, Howes Cave, NY 12092, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b620242-932d-11ea-936e-14b31f159f22.png"
  ],
  "tags": [
   "tour",
-  "art",
-  "performance",
-  "historic",
+  "tour",
   "kids",
-  "sightseeing"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d1149550-Reviews-US_Route_20-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Shaker Heritage Society",
- "address": "25 Meeting House Rd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c1/b5/c5/herb-garden-gate.jpg"
- ],
- "tags": [
-  "historic",
-  "walking",
-  "nature",
-  "free",
-  "history",
-  "historic",
-  "walking",
-  "nature",
-  "free",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d534391-Reviews-Shaker_Heritage_Society-Albany_New_York.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cathedral of the Immaculate Conception",
- "address": "125 Eagle St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/16/e1/0a/a9/candelabra-inside-cathedral.jpg"
- ],
- "tags": [
-  "art",
-  "history",
-  "free",
-  "free",
-  "historic",
-  "walking",
+  "delicious",
+  "tour",
+  "family",
   "tour",
   "family"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d12756579-Reviews-Cathedral_of_the_Immaculate_Conception-Albany_New_York.html"
+  "https://maps.google.com/?cid=10872407095453386317"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Fort Orange Brewery",
- "address": "450 N Pearl St",
+ "name": "Bethlehem Town Family Dental",
+ "address": "241 Rte 9W, Glenmont, NY 12077, USA",
  "avg_visitor_review": [
-  "4.0"
+  5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/11/3f/89/02/inside-bar.jpg"
+  "GoogleMapsPhotoLibrary/9ba267dc-932d-11ea-942e-14b31f159f22.png"
  ],
  "tags": [
-  "unique",
+  "family",
+  "knowledgeable",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13615795642514642372"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Saratoga Winery",
+ "address": "462 NY-29, Saratoga Springs, NY 12866, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9be9ab54-932d-11ea-b31f-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "food",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=177297875889060754"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Museum at Saratoga",
+ "address": "69 Caroline St, Saratoga Springs, NY 12866, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9c95b55c-932d-11ea-b379-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
   "family",
   "free",
-  "brewery",
+  "library",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2986633894115874939"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hart-Cluett Mansion",
+ "address": "57 2nd St, Troy, NY 12180, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9ce3d6b4-932d-11ea-bce6-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "knowledgeable",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3299588963089869209"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Albany Rural Cemetery",
+ "address": "Cemetery Ave, Albany, NY 12204, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9d3887fa-932d-11ea-bd7f-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "walk",
+  "walk",
+  "active",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1482392766904646236"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Druthers Brewing Company",
+ "address": "1053 Broadway, Albany, NY 12204, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9d861cb0-932d-11ea-94c1-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
   "food",
-  "brewery",
+  "unique",
+  "food",
+  "delicious",
+  "drink",
+  "food",
   "brewery"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d13089619-Reviews-Fort_Orange_Brewery-Albany_New_York.html"
+  "https://maps.google.com/?cid=11459949193916587799"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "The Irish American Heritage Museum",
- "address": "370 Broadway",
+ "name": "677 Prime",
+ "address": "677 Broadway, Albany, NY 12207, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/71/ea/5e/the-irish-american-heritage.jpg"
+  "GoogleMapsPhotoLibrary/9dd047cc-932d-11ea-89b0-14b31f159f22.png"
  ],
  "tags": [
-  "library",
-  "library",
-  "knowledgeable",
-  "art",
-  "library",
-  "historic",
+  "food",
+  "delicious",
+  "family",
+  "delicious",
+  "comforting",
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9805959684243935146"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hollow Bar + Kitchen",
+ "address": "79 N Pearl St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9e2239c0-932d-11ea-83ea-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2124253614074873021"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Yono's",
+ "address": "25 Chapel St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9e6f49a2-932d-11ea-bb8b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4664520584197050653"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "H&L On The Hudson",
+ "address": "5 Broadway, Albany, NY 12202, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9eb8b002-932d-11ea-954f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16521361229329140147"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grappa '72",
+ "address": "818 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9f0b6568-932d-11ea-839f-14b31f159f22.png"
+ ],
+ "tags": [
   "music",
-  "walking",
-  "history",
-  "library",
-  "knowledgeable"
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d3494028-Reviews-The_Irish_American_Heritage_Museum-Albany_New_York.html"
+  "https://maps.google.com/?cid=212563844486080307"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "American Italian Heritage Museum",
- "address": "1227 Central Ave",
+ "name": "Athos Restaurant",
+ "address": "1814 Western Ave, Albany, NY 12203, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/30/90/3b/a-photo-of-our-building.jpg"
+  "GoogleMapsPhotoLibrary/9f5986f6-932d-11ea-b8a0-14b31f159f22.png"
  ],
  "tags": [
-  "tour",
-  "tour",
-  "history",
-  "affordable",
-  "learn",
-  "history",
-  "unique",
-  "learn",
-  "history",
-  "affordable",
-  "learn",
-  "history",
-  "tour",
-  "tour",
-  "history",
-  "art",
-  "history",
+  "delicious",
+  "free",
+  "food",
+  "delicious",
+  "food",
+  "music",
+  "food",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5374791326538534398"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caffe Italia",
+ "address": "662 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9fd8a552-932d-11ea-baa8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13317023613409159498"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caf\u00e9 Capriccio",
+ "address": "49 Grand St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a01e12da-932d-11ea-97e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
   "knowledgeable"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d7935830-Reviews-American_Italian_Heritage_Museum-Albany_New_York.html"
+  "https://maps.google.com/?cid=9008719252397872336"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Barcelona Restaurant-Wine Bar",
+ "address": "1192 Western Ave, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a06770e8-932d-11ea-8400-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "music",
+  "organized",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5794492233649798344"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jack's Oyster House",
+ "address": "42 State St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a0b82294-932d-11ea-8caa-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "free",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1161362259226071976"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kismet Mediterranean Grill",
+ "address": "1116 Madison Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a0faaaf6-932d-11ea-aa4f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "knowledgeable",
+  "unique",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7966563084780974852"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafe Madison",
+ "address": "1108 Madison Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a1463434-932d-11ea-99c5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15400892633059547035"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Cuckoo's Nest",
+ "address": "234 Western Ave, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a19c932c-932d-11ea-9ed3-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "family",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9170328846519468463"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Umana Restaurant & Wine Bar",
+ "address": "236 Washington Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a1ec6252-932d-11ea-9457-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12964983625612950490"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sweet Basil Thai Restaurant",
+ "address": "370 Delaware Ave, Albany, NY 12209, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a2345928-932d-11ea-a545-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15337377502407317314"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tanpopo Ramen and Sake Bar",
+ "address": "893 Broadway, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a28b2e48-932d-11ea-8b69-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11155816885268573660"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Paper Dragon",
+ "address": "5 Clinton Square, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a2d509fe-932d-11ea-ac08-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9156651082016557676"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Provence Restaurant",
+ "address": "Stuyvesant Plaza, 1475 Western Ave, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a318cad8-932d-11ea-a150-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18285668652682801421"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wellington's",
+ "address": "144 State St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a35c3dc0-932d-11ea-b790-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "knowledgeable",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17037755206941109676"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "ama cocina",
+ "address": "4 Sheridan Ave, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3a8ff8a-932d-11ea-8af5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "creative",
+  "food",
+  "food",
+  "eat",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1161002591333867854"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Van's",
+ "address": "307 Central Ave #2508, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a406636e-932d-11ea-9948-14b31f159f22.png"
+ ],
+ "tags": [
+  "affordable",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3356802373908432953"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "dp An American Brasserie",
+ "address": "25 Chapel St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a45e972c-932d-11ea-9bd0-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16904520798135466411"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Navona",
+ "address": "289 New Scotland Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4b03b18-932d-11ea-bf69-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "nature",
+  "creative",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8427986375607984661"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Savoy Taproom",
+ "address": "301 Lark St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4f386da-932d-11ea-be4e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "music",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17755085418369709173"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Risotto",
+ "address": "320 Northern Blvd, Albany, NY 12204, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a54bba9c-932d-11ea-9d6b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12254308150098081113"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Berben & Wolff's",
+ "address": "227 Lark St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a597ba4c-932d-11ea-aa52-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "delicious",
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11085028599174881215"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Point",
+ "address": "1100 Madison Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a5e1b62c-932d-11ea-b9d5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1708238265541360748"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Loco Mexican Cafe",
+ "address": "465 Madison Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a6259e50-932d-11ea-a855-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17769677116496950195"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Taiwan Noodle",
+ "address": "218 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a676f40c-932d-11ea-a6e5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "organized",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9963539230334334227"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "New World Bistro Bar",
+ "address": "300 Delaware Ave, Albany, NY 12209, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/AdFarpUhCSiafu4gUeeicw/o.jpg",
+  "GoogleMapsPhotoLibrary/a6bc1492-932d-11ea-b8a1-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "creative",
+  "delicious",
+  "walk",
+  "food"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=17247381415948676633"
+  ],
+  "https://www.yelp.com/biz/new-world-bistro-bar-albany-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mamoun's Restaurant",
+ "address": "206 Washington Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a703a648-932d-11ea-b64d-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "eat",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13071743978722073484"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Salsa Latina",
+ "address": "315 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a74df71c-932d-11ea-b086-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "music",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10764098324140403322"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crave",
+ "address": "217 Western Ave, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a7895380-932d-11ea-af87-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3152201080506159226"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Iron Gate Cafe",
+ "address": "182 Washington Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a7d0bdec-932d-11ea-9761-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2045058433553938197"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rain Modern Chinese",
+ "address": "259 Lark St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a81bd210-932d-11ea-9bb6-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17890978795347114873"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Bishop",
+ "address": "90 N Pearl St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a865adca-932d-11ea-8b77-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "eat",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15357461169002472526"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sukhothai",
+ "address": "254 Lark St #1105, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a8b332c6-932d-11ea-8a7f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10239250203973056978"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zi Jing Ge Restaurant(aka: Shining Rainbow)",
+ "address": "209 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a8fe1fd8-932d-11ea-a2f5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17282868852766609688"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Standard",
+ "address": "1 Crossgates Mall Rd, Albany, NY 12203, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a949820a-932d-11ea-9e78-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "drink",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5476143172290433620"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "LaZeez",
+ "address": "35 Central Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a99254a8-932d-11ea-b628-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk",
+  "food",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11048355095143331583"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nicole's",
+ "address": "556 Delaware Ave, Albany, NY 12209, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a9d55254-932d-11ea-8d02-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14848063322744296645"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "TapAsia Asian Tapas",
+ "address": "227 Lark St #1101, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aa2c9ba6-932d-11ea-b391-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5294566970096404147"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Q Smokehouse",
+ "address": "329 Ontario St, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aa8c2286-932d-11ea-a087-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14142407488703998773"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Serre",
+ "address": "14 Green St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aaf56d80-932d-11ea-aa55-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk",
+  "knowledgeable",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3115260210150572703"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Fountain",
+ "address": "283 New Scotland Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ab5d350a-932d-11ea-b2d6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5939594652841817436"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shining Rainbow",
+ "address": "209 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/abb75ee8-932d-11ea-9a6e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4532225159838196067"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dove + Deer",
+ "address": "32 Dove St, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/abfec974-932d-11ea-b6d5-14b31f159f22.png"
+ ],
+ "tags": [
+  "frugal",
+  "food",
+  "free",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7929120273036326044"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lost & Found Bar & Kitchen",
+ "address": "942 Broadway, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac4740e4-932d-11ea-961a-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "creative",
+  "food",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16106660197221478328"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McGeary's",
+ "address": "4 Clinton Square, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac9bf212-932d-11ea-a9db-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7178899664613549198"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Mariachi Restaurant",
+ "address": "289 Hamilton St #291, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ace223fa-932d-11ea-b3af-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "walking",
+  "delicious",
+  "family",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3820808883366211859"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ocean Palace",
+ "address": "68 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad2f8212-932d-11ea-b9be-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5570378928469800144"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Oaxaquena Triqui",
+ "address": "77 N Lake Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad7936b8-932d-11ea-92a0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "food",
+  "family",
+  "eat",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18267626442409640605"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Orchard Tavern",
+ "address": "68 N Manning Blvd, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/adbdbadc-932d-11ea-8b53-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5799525188113022732"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jonathan's Pizza",
+ "address": "31 N Pearl St, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae03027a-932d-11ea-b389-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14135942122639289250"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Emmanuel Thai Restaurant",
+ "address": "35 Maiden Ln, Albany, NY 12207, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae4d2c26-932d-11ea-b2f7-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5523136658846230322"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juniors Bar and Grill",
+ "address": "1094 Madison Ave, Albany, NY 12208, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae933758-932d-11ea-894a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17316633709853764143"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Healthy On Lark",
+ "address": "274 Lark St, Albany, NY 12201, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aee0e374-932d-11ea-a5ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4777253837048810013"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Local 217",
+ "address": "12 \u00bd, Delaware Ave, Albany, NY 12210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/af2c6cd4-932d-11ea-8642-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8964966543670711319"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Patron",
+ "address": "198 Central Ave, Albany, NY 12206, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/af6be7d4-932d-11ea-87b6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1907943964628248177"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Guptill's Roller Skating Arena",
+ "address": "1085 New Loudon Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/up_MgzRA3SF9EpipqLne7w/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/guptills-roller-skating-arena-cohoes-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Painting with a Twist",
+ "address": "899 New Loudon Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/1Kv1MUPtdCSvQ4ltaqr6pA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/painting-with-a-twist-latham?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Enchanted City",
+ "address": "1 1st St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/LamtcDSoLbMwt5vYt2SyHg/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-enchanted-city-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Regal Colonie Center & RPX",
+ "address": "131 Colonie Ctr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/_8jEyG47jDESUrHWYfzNaQ/o.jpg"
+ ],
+ "tags": [
+  "theatre"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/regal-colonie-center-and-rpx-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Clarksville Cave Preserve",
+ "address": "2082 Delaware Tpke",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Ioxlpx1kyuI6Gi1JztaV8A/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/clarksville-cave-preserve-clarksville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ayelet Tours",
+ "address": "19 Aviation Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/3olPcQ8fspFQGqiULh8hMg/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "organized"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/ayelet-tours-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ridiculous Food Society of Upstate New York",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/b0-4WX9BcOeGzrVmIHLCQg/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/ridiculous-food-society-of-upstate-new-york-delmar?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Rivers Casino",
+ "address": "1 Rush St",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/oKzw2JOwuBXrDlFzm6rTLA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/rivers-casino-schenectady-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Elite Event - A Night at Cider Belly",
+ "address": "25 North Pearl St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/yV2zbRk_ZMIREPpOyJ3rZw/o.jpg"
+ ],
+ "tags": [
+  "brewery"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/elite-event-a-night-at-cider-belly-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alive at Five",
+ "address": "Corning Preserve",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/VIgq7uq7PJiGyMX9xlNtPw/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alive-at-five-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The City Beer Hall",
+ "address": "42 Howard St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/gc8GdoUypUCYLEks7CWGXw/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-city-beer-hall-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bowman Orchards",
+ "address": "147 Sugar Hill Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/lEVBt6lJcQ8QF8j_wkk_Yg/o.jpg"
+ ],
+ "tags": [
+  "eat",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/bowman-orchards-rexford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ghosts of Albany",
+ "address": "40 Lodge St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "knowledgeable",
+  "walking",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/ghosts-of-albany-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wolf Road",
+ "address": "Wolf Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/1S4-LZA_RsyPnYxwT2o91A/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wolf-road-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Ama Cocina",
+ "address": "4-6 Sheridan Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/3lowMj4tUib8n44iaYe0TQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/ama-cocina-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Schuyler Mansion State Historic Site",
+ "address": "32 Catherine St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/j-YMN7UQSv54LtwHhiMrzg/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/schuyler-mansion-state-historic-site-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Funny Bone Comedy Club & Restaurant",
+ "address": "1 Crossgates Mall Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/uCkh1Fe3bFTXoNvv1FZWXQ/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/funny-bone-comedy-club-and-restaurant-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Rudy A Ciccotti Family Recreation Center",
+ "address": "30 Aviation Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/XyjI_bn4NnTLmmcmKHrlvA/o.jpg"
+ ],
+ "tags": [
+  "learn"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/rudy-a-ciccotti-family-recreation-center-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Rollarama Skating Center",
+ "address": "2710 Hamburg St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ewjLyudmpq487yvplsxIyQ/o.jpg"
+ ],
+ "tags": [
+  "unique",
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/rollarama-skating-center-schenectady-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Muza",
+ "address": "1300 15th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/uzUzy5JmFDQH6tZ5LBu9-A/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/muza-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Photography Center Of Capital District",
+ "address": "404 River St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/KVC4CCQeriH2dc4aTx9QiQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/photography-center-of-capital-district-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Peck's Arcade",
+ "address": "217 Broadway",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/pjCPQhQaLHwUX9Z5nfHIXg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/pecks-arcade-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "River Street Festival",
+ "address": "251 River St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/08-cYqFMnhcuQ8TSzchgGg/o.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "music",
+  "art"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/river-street-festival-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cohoes Falls Park",
+ "address": "231-341 N Mohawk St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/60j1YTTIqul-xWzkC5Ixeg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/cohoes-falls-park-cohoes?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The City of Albany",
+ "address": null,
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/z39FoW9w1elPOpIazTxvkA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-city-of-albany-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Upstate Kayak Rentals",
+ "address": "First And Front St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/JMZ9PiX7uDdX5G5pRU-xvA/o.jpg"
+ ],
+ "tags": [
+  "organized"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/upstate-kayak-rentals-waterford?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Psychic Readings at Seraphim's Keep",
+ "address": "569 Columbia Tpke",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/z7PPBH6s7_6y21oZsIsyBg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/psychic-readings-at-seraphims-keep-east-greenbush?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Scotia Cinema",
+ "address": "117 Mohawk Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/YxHLmtz7BZVVkJxKrcX75w/o.jpg"
+ ],
+ "tags": [
+  "cheap"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/scotia-cinema-scotia?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Movieland 6",
+ "address": "400 State St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Wh1n-i_UZFx1sia-73WN6A/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/movieland-6-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Albany Devils",
+ "address": "51 South Pearl St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/ZVdKZKmjPCPNgefJZWwbug/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/albany-devils-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Palace Theatre Albany",
+ "address": "19 Clinton Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/6bKoeLMykSl_GmnrmHozuQ/o.jpg"
+ ],
+ "tags": [
+  "theatre"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-palace-theatre-albany-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tipsy Moose Tap & Tavern",
+ "address": "185 Old Loudon Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/_gpPP-JPm0b_6PC6W6PetQ/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/tipsy-moose-tap-and-tavern-latham-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "LAX On Lark",
+ "address": "205 Lark St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/iSwB6nlfBwvxL70-L0uCFA/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/lax-on-lark-albany-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Get Air Albany",
+ "address": "1 Crossgates Mall Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Z2juzhXH53wGREAIdmXVEQ/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/get-air-albany-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Troy Pig Out",
+ "address": "River Front Park",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/T1OU5ZVhlQWOy4r_CRJzKA/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/troy-pig-out-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cook Park",
+ "address": "Shambrook Pkwy",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/e7eshZYQK-20eGKS7_5QQA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/cook-park-colonie?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Willow Creek Equestrian",
+ "address": "586 Pearse Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/3u48GAjRK0cj8lnwWj3JAQ/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/willow-creek-equestrian-niskayuna?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Karma Bistro",
+ "address": "2321 Nott St E",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/k0K6nDvVrI_m_DbfyXbbSw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/karma-bistro-niskayuna-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Capt J P Cruise Lines",
+ "address": "278 River St",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/A8QR_qSprLAL-ws0BpGtMw/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/capt-j-p-cruise-lines-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Uncle Sam Monument",
+ "address": "River St At 3rd St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/2tUnWPeGU_lWOHuupSD5cA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/uncle-sam-monument-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "McGeary's Travel",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/gf_7F5Qu5WL4YXO9YTVaVw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/mcgearys-travel-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wolff's Biergarten",
+ "address": "895 Broadway",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/W_5HjVw_EeIiB1K3ULOxqg/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "cheap"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/wolffs-biergarten-albany?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tru Escape",
+ "address": "93 W Cambell Ave",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/EYpbdg8y4R53FdgbO4PjGA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/tru-escape-schenectady?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Nexgen Indoor Golf",
+ "address": "1214 Troy Schenectady Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/BnzGG5u4h9Z6No7yV_ONPQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/nexgen-indoor-golf-latham?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Museum of Science and Technology",
+ "address": "250 Jordan Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/oykTDE3tky0_zyRSO9c6mw/o.jpg"
+ ],
+ "tags": [
+  "learn",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/childrens-museum-of-science-and-technology-troy?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Kleinke's farm",
+ "address": "96 Kenwood Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/yk1NZsDnKeBcq3BWM3y42w/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "field"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/kleinkes-farm-glenmont?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
  ],
  "reviews": []
 }]

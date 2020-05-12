@@ -1,5 +1,3630 @@
 [
 {
+ "name": "Potter Park Zoo",
+ "address": "1301 S Pennsylvania Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/85e419be-9331-11ea-9ca0-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/70/c9/24/photo1jpg.jpg"
+ ],
+ "tags": [
+  "affordable",
+  "family",
+  "unique",
+  "family",
+  "walking",
+  "walk",
+  "organized"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d282094-Reviews-Potter_Park_Zoo-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=2854223862299392029"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan State Capitol",
+ "address": "100 N Capitol Ave, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8c5dba5e-9331-11ea-af78-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/82/30/9b/michigan-state-capitol.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "tour",
+  "history",
+  "history",
+  "walk",
+  "eat",
+  "cheap",
+  "kids",
+  "learn",
+  "unique"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d282093-Reviews-Michigan_State_Capitol-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=1636195100584881612"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan History Center",
+ "address": "702 W Kalamazoo St, Lansing, MI 48915, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/86460fe8-9331-11ea-8ccd-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0c/0e/c0/michigan-historical-museum.jpg"
+ ],
+ "tags": [
+  "organized",
+  "history",
+  "free",
+  "music",
+  "learn",
+  "family",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d282095-Reviews-Michigan_History_Center-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=2200327346752173592"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Impression 5 Science Center",
+ "address": "200 Museum Dr, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/87a3cd7e-9331-11ea-83a8-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/46/25/99/impression-5-science.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "unique",
+  "organized",
+  "family",
+  "eat",
+  "learn"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d282150-Reviews-Impression_5_Science_Center-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=6486480815922181659"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "R.E. Olds Transportation Museum",
+ "address": "240 Museum Dr, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/vJ4R-X3ika-d3z-tdvKh-A/o.jpg",
+  "GoogleMapsPhotoLibrary/86f2a41a-9331-11ea-aa59-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/51/0e/a9/excellent-very-cool-collection.jpg"
+ ],
+ "tags": [
+  "history",
+  "family",
+  "walk",
+  "tour",
+  "walking",
+  "learn",
+  "free",
+  "historic",
+  "performance",
+  "kids"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g42391-d282224-Reviews-R_E_Olds_Transportation_Museum-Lansing_Ingham_County_Michigan.html"
+   ],
+   "https://maps.google.com/?cid=8070689363209473308"
+  ],
+  "https://www.yelp.com/biz/r-e-olds-transportation-museum-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Michigan Princess",
+ "address": "Grand River Park",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/da/97/c1/early-morning-on-the.jpg"
+ ],
+ "tags": [
+  "history",
+  "kids",
+  "drink",
+  "music",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d2228897-Reviews-The_Michigan_Princess-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hawk Island Park",
+ "address": "1601 E Cavanaugh Rd, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/869827f6-9331-11ea-b2d1-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/79/a8/79/hawk-island-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "kids",
+  "parks",
+  "free",
+  "food"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d10378995-Reviews-Hawk_Island_Park-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=13120098112427773396"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cooley Law School Stadium",
+ "address": "505 E Michigan Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/RKGrEPfQ2Ggy1r9YVISzUA/o.jpg",
+  "GoogleMapsPhotoLibrary/97d809ec-9331-11ea-bbc4-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/fd/1b/78/ball-field-view-from.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "cheap",
+  "field",
+  "kids",
+  "drink",
+  "walk",
+  "creative",
+  "free"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g42391-d3443187-Reviews-Cooley_Law_School_Stadium-Lansing_Ingham_County_Michigan.html"
+   ],
+   "https://maps.google.com/?cid=1802336473979748939"
+  ],
+  "https://www.yelp.com/biz/cooley-law-school-stadium-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "River Trail",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/9d/68/c6/river-trail.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "parks",
+  "walk",
+  "walk",
+  "unique",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282096-Reviews-River_Trail-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Town",
+ "address": "201 E Grand River Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/3e/dd/ef/old-town.jpg"
+ ],
+ "tags": [
+  "unique",
+  "art",
+  "eat",
+  "walk",
+  "food",
+  "unique",
+  "pets",
+  "food",
+  "art",
+  "walk",
+  "drink",
+  "art",
+  "unique",
+  "pets"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282396-Reviews-Old_Town-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Turner-Dodge House & Heritage Center",
+ "address": "100 E North St",
+ "avg_visitor_review": [
+  3.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/AzMsCd240i_34mKd_LI1-g/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/11/d0/f6/turner-dodge-house-heritage.jpg"
+ ],
+ "tags": [
+  "food",
+  "historic",
+  "history",
+  "learn",
+  "music",
+  "knowledgeable",
+  "tour",
+  "family",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d282156-Reviews-Turner_Dodge_House_Heritage_Center-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://www.yelp.com/biz/turner-dodge-house-and-heritage-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Carl G. Fenner Nature Center",
+ "address": "2020 E Mount Hope Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/5a/a8/fa/carl-g-fenner-nature.jpg"
+ ],
+ "tags": [
+  "nature",
+  "walk",
+  "learn",
+  "nature",
+  "knowledgeable",
+  "learn",
+  "kids",
+  "knowledgeable",
+  "learn",
+  "kids",
+  "walk",
+  "field",
+  "family",
+  "nature",
+  "walk",
+  "family",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3871068-Reviews-Carl_G_Fenner_Nature_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mega Mall",
+ "address": "15487 S US Highway 27",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/a0/8e/a5/mega-mall-lansing-mi.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d8464076-Reviews-Mega_Mall-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing Center",
+ "address": "333 E Michigan Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/c4/57/lansing-center-lansing.jpg"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d1419468-Reviews-Lansing_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Moores Park",
+ "address": "Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.3,
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8eb753b6-9331-11ea-a0c0-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/85/b0/11/mi-lansing-moores-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "parks",
+  "walk",
+  "walk",
+  "kids",
+  "family",
+  "historic",
+  "field"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d12826990-Reviews-Moores_Park-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=16307549508759923547"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Brenke Fish Ladder",
+ "address": "Lansing River Trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/18/71/49/brenke-fish-ladder.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "nature",
+  "wander",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10799307-Reviews-Brenke_Fish_Ladder-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Granger Meadows Park",
+ "address": "1745 Granger Meadows Ln, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8d5aa8c0-9331-11ea-a7f8-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/4c/2c/95/mi-lansing-granger-meadow.jpg"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "field",
+  "nature"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d10296185-Reviews-Granger_Meadows_Park-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=15713844292267089497"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Reo Town",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/9e/48/79/mi-lansing-reo-town.jpg"
+ ],
+ "tags": [
+  "eat",
+  "walk",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10312299-Reviews-Reo_Town-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Woldumar Nature Center",
+ "address": "5739 Old Lansing Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b46cb9e-9331-11ea-900f-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/6d/e3/20/photo5jpg.jpg"
+ ],
+ "tags": [
+  "nature",
+  "nature",
+  "walking",
+  "walk",
+  "field"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d3804320-Reviews-Woldumar_Nature_Center-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=13014979882505779585"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "MichiGrain Distillery",
+ "address": "523 E Shiawassee St",
+ "avg_visitor_review": [
+  4.0,
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/wW9nvvLwNG31F4hwy2FuoA/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/fc/f2/be/building-front.jpg"
+ ],
+ "tags": [
+  "unique",
+  "drink"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d15196578-Reviews-MichiGrain_Distillery-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://www.yelp.com/biz/michigrain-distillery-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Creole Gallery",
+ "address": "1218 Turner St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/3c/c3/b7/the-creole-gallery.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "drink",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282147-Reviews-The_Creole_Gallery-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing Mall",
+ "address": "5330 W Saginaw Hwy",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/52/40/e5/lansing-mall.jpg"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "family",
+  "free",
+  "food",
+  "walk",
+  "food",
+  "food",
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d6120507-Reviews-Lansing_Mall-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mt Hope Cemetery",
+ "address": "1709 E Mount Hope Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/3c/1b/mt-hope-cemetery.jpg"
+ ],
+ "tags": [
+  "family",
+  "history",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d3978214-Reviews-Mt_Hope_Cemetery-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Ralph W. Crego Park",
+ "address": "1600 Fidelity Rd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/34/d9/2a/crego-park-lake-area.jpg"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walk",
+  "free",
+  "walking",
+  "parks"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d7109395-Reviews-Ralph_W_Crego_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Woods Park",
+ "address": "Grand Woods Park Dr, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b9ab200-9331-11ea-b197-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/7f/9a/92/grand-woods-park.jpg"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g42391-d8464449-Reviews-Grand_Woods_Park-Lansing_Ingham_County_Michigan.html"
+  ],
+  "https://maps.google.com/?cid=15644143096865848926"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Adado Park",
+ "address": "300 N Grand Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/da/30/68/adado-park.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4858571-Reviews-Adado_Park-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing's First Capital Building",
+ "address": "South Washington Square near Allegan",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/0b/f6/42/lansing-s-first-capital.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4271620-Reviews-Lansing_s_First_Capital_Building-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "9-11-2001 Remembrance Memorial",
+ "address": "northeast corner of Michigan Ave. and Grand Ave. in Wentworth Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/48/72/memorial-in-park-seen.jpg"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d4914822-Reviews-9_11_2001_Remembrance_Memorial-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eastwood Towne Center",
+ "address": "3003 Preyde Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/b9/85/d0/bravo-cucina-italiana.jpg"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d10800253-Reviews-Eastwood_Towne_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Greater Lansing Visitors Center",
+ "address": "500 E Michigan Ave Suite 180",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/59/75/greater-lansing-visitors.jpg"
+ ],
+ "tags": [
+  "kids",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g42391-d282397-Reviews-Greater_Lansing_Visitors_Center-Lansing_Ingham_County_Michigan.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Isle Royale",
+ "address": "\n800 East Lakeshore Drive\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/isro/crop16_9/2B4A6A37-C285-6E66-14FDD40511BEAC4B.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//isro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Keweenaw",
+ "address": "\n25970 Red Jacket Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kewe/crop16_9/A445BAAC-1DD8-B71B-0B19D14FCA2C58B1.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kewe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Motor Cities",
+ "address": "\n200 Renaissance Center, Suite 3148\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/auto/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//auto//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pictured Rocks",
+ "address": "\nP.O. Box 40\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/piro/crop16_9/2B107BCC-C18E-0037-E60800C825DD8798.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "sightseeing",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//piro//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "River Raisin",
+ "address": "\n1403 East Elm Avenue\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/rira/crop16_9/BA0D6A1F-1DD8-B71B-0BA82BBBA6D58536.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//rira//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Sleeping Bear Dunes",
+ "address": "\n9922 Front Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/slbe/crop16_9/BD64924B-B395-BBF9-71AA7C3437090370.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//slbe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan Princess Riverboat",
+ "address": "Grand River Park, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/874bc0d8-9331-11ea-9c9d-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "food",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12488697964624862925"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fenner Nature Center",
+ "address": "2020 E Mt Hope Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/cDXsAJH6aKfjh7ZLNKnm1Q/o.jpg",
+  "GoogleMapsPhotoLibrary/87f2a912-9331-11ea-bbe7-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "kids",
+  "food",
+  "eat",
+  "nature",
+  "hike",
+  "family",
+  "adventurous",
+  "walk",
+  "field"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=17712668010189192847"
+  ],
+  "https://www.yelp.com/biz/fenner-nature-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Crego Park",
+ "address": "1600 Fidelity Road,, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/885773ca-9331-11ea-888d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18032935250323305040"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Adado Riverfront Park",
+ "address": "201 E Shiawassee St, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/88affcde-9331-11ea-9562-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8665506236294501145"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan 4-H Children's Garden",
+ "address": "1066 Bogue St, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8919e274-9331-11ea-af49-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10180207691017773073"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "W.J. Beal Botanical Garden",
+ "address": "W Circle Dr, East Lansing, MI 48824, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/897e1552-9331-11ea-bd77-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8104928898366409588"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Abrams Planetarium",
+ "address": "755 Science Rd, East Lansing, MI 48824, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/89e45bc0-9331-11ea-84ad-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "family",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5816591551071138516"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eli and Edythe Broad Art Museum at Michigan State University",
+ "address": "547 E Circle Dr, East Lansing, MI 48824, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a2de5cc-9331-11ea-830c-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "creative",
+  "free",
+  "art",
+  "kids",
+  "art",
+  "history",
+  "active",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4075254326052915342"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "MSU Horticulture Gardens",
+ "address": "1066 Bogue St, East Lansing, MI 48824, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a8be77e-9331-11ea-918d-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=1459493969125511278"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Remembrance Memorial",
+ "address": "100 N Grand Ave, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b1c32ca-9331-11ea-9452-14b31f159f22.png"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13314207920512671809"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Durant Park",
+ "address": "700 N Capitol Ave, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8c050d0a-9331-11ea-abb2-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7926803565768582902"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frances Park",
+ "address": "Lansing, MI 48911, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8cfdcc7a-9331-11ea-a42e-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "kids",
+  "music",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13130942054279551071"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Scott Woods Park",
+ "address": "2605 Clifton Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8ddc0e28-9331-11ea-bb98-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "structure",
+  "walk",
+  "walk",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14417552276337308843"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Meridian Historical Village",
+ "address": "5151 Marsh Rd, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8e50c986-9331-11ea-bb0f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "field",
+  "historic",
+  "free",
+  "walk",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4629167251680698556"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Anderson Nature Park",
+ "address": "3301-, 3377 Wardell Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f109786-9331-11ea-a11d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15145683012589665391"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "John M. Patriarche Park",
+ "address": "960 Alton Street, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f78f658-9331-11ea-b75e-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "structure"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1249022291627973023"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St. Thomas Aquinas Church",
+ "address": "955 Alton Rd, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8fe4149e-9331-11ea-9565-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=341414084997877657"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Harris Nature Center",
+ "address": "3998 Van Atta Rd, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/905ceec0-9331-11ea-a393-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "nature",
+  "walk",
+  "walk",
+  "walk",
+  "nature",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7832483403674862434"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Lansing Park South",
+ "address": "1621 Pike St, Haslett, MI 48840, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/90bdac46-9331-11ea-a01d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3348495719664039125"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cristo Rey Church",
+ "address": "201 W Miller Rd, Lansing, MI 48911, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/911ce39e-9331-11ea-9675-14b31f159f22.png"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6790164647572282107"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hawk Meadow Park",
+ "address": "6160 Delta River Dr, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9179f81c-9331-11ea-9759-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "kids",
+  "walking",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5393987521177363015"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Washington Park",
+ "address": "2700 S Washington Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/92560092-9331-11ea-a5de-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6036190736604470305"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hartrick Park",
+ "address": "3685 Hulett Rd, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/92eb3c48-9331-11ea-bcee-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "parks",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16882705073114162706"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nancy Moore Park",
+ "address": "1960 Gaylord C Smith Ct, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/933f4fdc-9331-11ea-b0f7-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=6051899831451629950"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fitzgerald Park",
+ "address": "100 Fitzgerald Park Dr, Grand Ledge, MI 48837, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9395d47a-9331-11ea-9a6f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walking",
+  "kids",
+  "family",
+  "structure",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11288416681417301960"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lewis Landscape Arboretum",
+ "address": "East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/93ee2fd2-9331-11ea-83b2-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "family",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9708874297432256409"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nokomis Cultural Heritage Center",
+ "address": "5153 Marsh Rd, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/944b6982-9331-11ea-bfea-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2967056231571284052"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ferguson Park",
+ "address": "4540 Okemos Rd, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/949f5698-9331-11ea-8c52-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2939064043781054737"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan Orthopedic Center: Charles J. Taunt Jr, DO",
+ "address": "2815 S Pennsylvania Ave # 204, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "active"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5477496970481411138"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Michigan Women's Historical Center & Hall of Fame",
+ "address": "105 W Allegan St, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/950ee2e4-9331-11ea-a774-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12114542013522440852"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sleepy Hollow State Park",
+ "address": "7835 E Price Rd, Laingsburg, MI 48848, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/956d367e-9331-11ea-9f28-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "nature",
+  "parks"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9186401911758476808"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lincoln Brick Park",
+ "address": "13991 Tallman Rd, Grand Ledge, MI 48837, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/95d4e92c-9331-11ea-95a8-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "historic",
+  "walking",
+  "walking",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17583385192670457739"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Lansing Park North",
+ "address": "6260 E Lake Dr, Haslett, MI 48840, USA",
+ "avg_visitor_review": [
+  5.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/cx08G-OJctSTn1KiDkOFMw/o.jpg",
+  "GoogleMapsPhotoLibrary/962c2eee-9331-11ea-83e8-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "unique",
+  "family",
+  "nature",
+  "historic",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=6446133238399805854"
+  ],
+  "https://www.yelp.com/biz/lake-lansing-park-north-meridian-charter-township?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lansing Parks & Recreation",
+ "address": "200 N Foster Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9683d98c-9331-11ea-8301-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "pets",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7100821614175172012"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Trager Park",
+ "address": "1316 S Pennsylvania Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/96dd2d7a-9331-11ea-b7a9-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10297423643481804854"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bharatiya Temple",
+ "address": "955 Haslett Rd, Haslett, MI 48840, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/972a63a8-9331-11ea-8cdf-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=15497077205253290689"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sam\u2019s Physical Therapy, P.C",
+ "address": "1515 Lake Lansing Rd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "knowledgeable",
+  "knowledgeable",
+  "practical",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8755730724133667580"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "African World Museum and Resource Center",
+ "address": "1136 Shepard St, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/978380f4-9331-11ea-8e49-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2593807571989259645"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rotary Steam Clock",
+ "address": "100 N Grand Ave, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/98401b4a-9331-11ea-afa1-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9790363893642849502"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Owosso Curwood Castle",
+ "address": "224 Curwood Castle Dr, Owosso, MI 48867, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/98d2e95a-9331-11ea-a4df-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "walking",
+  "history",
+  "walk",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8673310418653049865"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kids 'N' Stuff Children's Museum",
+ "address": "301 S Superior St, Albion, MI 49224, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/99317f3a-9331-11ea-bfe2-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "family",
+  "kids",
+  "kids",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13048039743715287405"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Castaway Play Cafe",
+ "address": "1800 N Burkhart Rd, Howell, MI 48855, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9991a0e8-9331-11ea-a86f-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "kids",
+  "food",
+  "affordable",
+  "free",
+  "structure"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10595364740390197721"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Bank Tower",
+ "address": "124 W Allegan St, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/99da9146-9331-11ea-a692-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8448485034434580520"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boulder Ridge Wild Animal Park",
+ "address": "8313 Pratt Lake Ave SE, Alto, MI 49302, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9a3709c6-9331-11ea-8191-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "kids",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12454691369447366303"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Motz Park",
+ "address": "4630 N Dewitt Rd, St Johns, MI 48879, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9a94e01c-9331-11ea-b8eb-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=3132682008460371781"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chateau Aeronautique Winery",
+ "address": "1849 Rives Eaton Rd, Jackson, MI 49201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9aee9ac6-9331-11ea-a965-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "tasting",
+  "delicious",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9347929772857349950"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "ALT Printing Co.",
+ "address": "1139 S Washington Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b9dee00-9331-11ea-83b5-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12661123132648682442"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ella Sharp Museum",
+ "address": "3225 Fourth St, Jackson, MI 49203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9c081f4c-9331-11ea-b582-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4925783079061795065"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Waterloo State Recreation Area",
+ "address": "16345 McClure Rd, Chelsea, MI 48118, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9c6c8d78-9331-11ea-80ef-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7889020765361589345"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Creole Burger Bar & Southern Kitchen",
+ "address": "1218 Turner Rd, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9cd7abb6-9331-11ea-a1d0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17015286411316047815"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Deluca's Restaurant",
+ "address": "2006 W Willow St, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9d2f1b38-9331-11ea-be7a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "tasting",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9379691622333140939"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Meat BBQ",
+ "address": "1224 Turner Rd, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9d83f1a8-9331-11ea-9067-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1030890493335350286"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Good Truckin' Diner",
+ "address": "1107 S Washington Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9dc973ca-9331-11ea-90cd-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "unique",
+  "free",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1399945962373426986"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Cosmos",
+ "address": "1200 N Larch St, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9e18331a-9331-11ea-9fa5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "creative",
+  "unique",
+  "delicious",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6939639580450765441"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Naing Myanmar Family Restaurant",
+ "address": "3308 S Cedar St #3, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9e7aecc6-9331-11ea-adc7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "unique",
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17206072385506777667"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Prime",
+ "address": "2324 Showtime Dr, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9ec6753a-9331-11ea-a121-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16097796785206237519"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mitchell's Fish Market",
+ "address": "2975 Preyde Blvd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9f07ee8c-9331-11ea-9701-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "delicious",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3122323225964810854"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Golden Harvest Restaurant",
+ "address": "1625 Turner Rd, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9f5c776e-9331-11ea-9600-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food",
+  "unique",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10216988428973279591"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pablo's Old Town Mexican Restaurant",
+ "address": "311 E Grand River Ave, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9fe68006-9331-11ea-be88-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "cheap",
+  "eat",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15688205100091186327"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bowdies Chophouse",
+ "address": "320 E Michigan Ave, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a03cdd5a-9331-11ea-bc38-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=615346467524560784"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dagwood's Tavern & Grill",
+ "address": "2803 E Kalamazoo St, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a09ce424-9331-11ea-bac2-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5442699486609948268"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Roadhouse",
+ "address": "280 E Edgewood Blvd, Lansing, MI 48911, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a0e22a9a-9331-11ea-a223-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16389157930400960733"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zeus' Coney Island",
+ "address": "6525 S Pennsylvania Ave, Lansing, MI 48911, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a11e019e-9331-11ea-9a63-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "drink",
+  "food",
+  "walking",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9744165491986123433"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "BRAVO",
+ "address": "2970 Centre Blvd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a17df1a8-9331-11ea-b4a0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8680952238697333693"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Traverse Pie Company",
+ "address": "200 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a1d0579c-9331-11ea-91d6-14b31f159f22.png"
+ ],
+ "tags": [
+  "comforting",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1700071515412207884"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fidler's on the Grand",
+ "address": "4805 N Grand River Ave, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a213f074-9331-11ea-a964-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "family",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17593379825225593692"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Saddleback BBQ",
+ "address": "1147 S Washington Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a264a8ac-9331-11ea-bc4d-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16079195624919106129"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "P.F. Chang's",
+ "address": "2425 Lake Lansing Rd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a2b44f80-9331-11ea-8c8e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14445350771140384261"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "State Room Restaurant",
+ "address": "219 S Harrison Rd, East Lansing, MI 48824, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3057d0a-9331-11ea-9f28-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "creative",
+  "learn",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7717158259117939003"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "EnVie",
+ "address": "210 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3554b58-9331-11ea-8be3-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7016225616291107681"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Aladdin's Restaurant",
+ "address": "300 N Clippert St, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3bb600c-9331-11ea-a622-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=549859359908416436"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tannin",
+ "address": "1620 E Michigan Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/gKvbITPxCgyPy3KMJDGIXg/o.jpg",
+  "GoogleMapsPhotoLibrary/a3fc12f0-9331-11ea-b7cc-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=5088689210707604367"
+  ],
+  "https://www.yelp.com/biz/tannin-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Taste of Thai",
+ "address": "2838 E Grand River Ave #2, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a489fb2c-9331-11ea-9781-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17107624472996688751"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Soup Spoon Caf\u00e9",
+ "address": "1419 E Michigan Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4d471e4-9331-11ea-8465-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6044028371928695532"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Altu's Ethiopian Cuisine",
+ "address": "1312 E Michigan Ave, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a5346c78-9331-11ea-aacd-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "unique",
+  "eat",
+  "delicious",
+  "adventurous",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8785855892323615037"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Charlie Kang's Restaurant",
+ "address": "109 E Grand River Ave, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a5a15f62-9331-11ea-a691-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6583086495956457087"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Huapei Restaurant",
+ "address": "401 E Mt Hope Ave, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a60837c6-9331-11ea-9c96-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5239565079832584457"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital City BBQ",
+ "address": "1026 W Saginaw St, Lansing, MI 48915, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a65100dc-9331-11ea-b1b6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7551471901803797429"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Acapulco Mexican Grill",
+ "address": "300 N Clippert St suite.17, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a6aae0d0-9331-11ea-b0f2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "unique",
+  "food",
+  "music",
+  "drink",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16846493829582369829"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olympic Broil",
+ "address": "1320 N Grand River Ave, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a70c890a-9331-11ea-a0e0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6594762501790169247"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The People's Kitchen",
+ "address": "2722 E Michigan Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a7c1cfe4-9331-11ea-996c-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "drink",
+  "food",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5556381885289434213"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jalape\u00f1os Mexican Restaurant",
+ "address": "307 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a8239f34-9331-11ea-a9e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "organized",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1749915552132594323"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Haven Farm to Table Restaurant",
+ "address": "4480 Hagadorn Rd #103, Okemos, MI 48864, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a88c7362-9331-11ea-9e8e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "tasting",
+  "affordable",
+  "delicious",
+  "food",
+  "creative",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1807678585731081716"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boston's Restaurant & Sports Bar",
+ "address": "3301 Centre Blvd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a8e2f80a-9331-11ea-b581-14b31f159f22.png"
+ ],
+ "tags": [
+  "organized",
+  "food",
+  "family",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17332148918406957724"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gumps BBQ",
+ "address": "1105 River St, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a93536f0-9331-11ea-96a7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "affordable",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8276304452964255674"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Thai Village",
+ "address": "400 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a9894aa8-9331-11ea-804b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14848562667464184649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zoup!",
+ "address": "214 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a9df3328-9331-11ea-81d4-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "eat",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8265335030118307737"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sultan's Express Lansing",
+ "address": "305 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aa4a2a30-9331-11ea-bb94-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7901290739356048400"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tony M's Restaurant & Banquet Center",
+ "address": "3420 S Creyts Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aaa0fcfe-9331-11ea-8a24-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "walking",
+  "family",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15273468002335003518"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nola Bistro",
+ "address": "603 N Waverly Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ab04a146-9331-11ea-80d5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5660827857441006072"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bangkok House",
+ "address": "420 E Saginaw St #112, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ab59c624-9331-11ea-9e7a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12188606483704172768"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "SPUDS Restaurant and Greek Pastry Shop",
+ "address": "611 S Waverly Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/abbe549e-9331-11ea-9efb-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2290338381414668113"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zoobie's Old Town Tavern",
+ "address": "1200 N Larch St, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac1bde2e-9331-11ea-b518-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "drink",
+  "creative"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13716167546644393984"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "For Cr\u00eape Sake",
+ "address": "221 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac6ac1ba-9331-11ea-b1ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7224114460456671385"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chen's Restaurant",
+ "address": "600 E Thomas St, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/acc342a2-9331-11ea-b4ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10682565709938352275"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fleetwood Diner",
+ "address": "2211 S Cedar St, Lansing, MI 48910, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad2119e4-9331-11ea-bc25-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4390297586478468640"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sultan's",
+ "address": "4790 Hagadorn Rd, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad799a6c-9331-11ea-a172-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=713180215586075600"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Detroit Frankie's Wood Fired Brick Oven",
+ "address": "921 N Washington Ave, Lansing, MI 48906, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ade1f992-9331-11ea-9fc3-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "knowledgeable",
+  "delicious",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=653774005254696697"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Flap Jack Shack",
+ "address": "3000 E Grand River Ave, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae3570c6-9331-11ea-9a91-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12353641070985235729"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Midtown Brewing Co.",
+ "address": "402 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  3.5,
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/fEuU-xMJyp55Ur_k6ksmXw/o.jpg",
+  "GoogleMapsPhotoLibrary/aee623ae-9331-11ea-8b13-14b31f159f22.png"
+ ],
+ "tags": [
+  "brewery",
+  "walk",
+  "eat",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=9805195417720659061"
+  ],
+  "https://www.yelp.com/biz/midtown-brewing-co-lansing-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "AnQi Sushi Express",
+ "address": "111 E Allegan St #1801, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/af411526-9331-11ea-8589-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "affordable",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1678971495378993932"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Korea House Restaurant",
+ "address": "978 Trowbridge Rd, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/afa46b22-9331-11ea-bef0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13776984350516787573"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Falsetta's Casa Nova",
+ "address": "138 S Waverly Rd, Lansing, MI 48917, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/afe6f298-9331-11ea-904a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "family",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11040742706737659190"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Claddagh Irish Pub",
+ "address": "2900 Centre Blvd, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b0384746-9331-11ea-bd28-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11375767507319310298"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fazoli's",
+ "address": "5705 S Cedar St, Lansing, MI 48911, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b08c4974-9331-11ea-ad0c-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "free",
+  "cheap"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1109572777583036705"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Azteco",
+ "address": "1016 W Saginaw St, Lansing, MI 48915, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b0dc3e62-9331-11ea-9d5b-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "free",
+  "kids",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18247024459451595878"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "AI Fusion Sushi & Grill",
+ "address": "2827 E Grand River Ave, East Lansing, MI 48823, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b1209a9e-9331-11ea-b635-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12141843580277618389"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Cocina Cubana LLC",
+ "address": "123 S Washington Square, Lansing, MI 48933, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b1685234-9331-11ea-87c6-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "foodie",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9870210355149420891"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cask & Company Kitchen & Bar",
+ "address": "3415 E Saginaw St, Lansing, MI 48912, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b1d62fb4-9331-11ea-beaa-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8024639685455398219"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
  "name": "Soldan Dog Park",
  "address": "1601 E Cavanaugh Rd",
  "avg_visitor_review": [
@@ -53,48 +3678,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cooley Law School Stadium",
- "address": "505 E Michigan Ave",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/fd/1b/78/ball-field-view-from.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/RKGrEPfQ2Ggy1r9YVISzUA/o.jpg"
- ],
- "tags": [
-  "food",
-  "drink",
-  "kids",
-  "walk",
-  "field",
-  "food",
-  "kids",
-  "creative",
-  "food",
-  "cheap",
-  "free",
-  "walk",
-  "food",
-  "kids",
-  "family"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/cooley-law-school-stadium-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d3443187-Reviews-Cooley_Law_School_Stadium-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -465,30 +4048,6 @@
  ],
  "reviews": []
 },{
- "name": "Fenner Nature Center",
- "address": "2020 E Mount Hope Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/cDXsAJH6aKfjh7ZLNKnm1Q/o.jpg"
- ],
- "tags": [
-  "parks",
-  "kids",
-  "food",
-  "eat",
-  "nature"
- ],
- "link": [
-  "https://www.yelp.com/biz/fenner-nature-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Lansing Art Glass",
  "address": "2320 E Michigan Ave",
  "avg_visitor_review": [
@@ -569,38 +4128,6 @@
  ],
  "reviews": []
 },{
- "name": "MichiGrain Distillery",
- "address": "523 E Shiawassee St",
- "avg_visitor_review": [
-  "5.0",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/fc/f2/be/building-front.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/wW9nvvLwNG31F4hwy2FuoA/o.jpg"
- ],
- "tags": [
-  "unique",
-  "drink",
-  "drink",
-  "unique",
-  "unique"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/michigrain-distillery-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d15196578-Reviews-MichiGrain_Distillery-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Patriarche Park",
  "address": "1100-1174 Alton St",
  "avg_visitor_review": [
@@ -656,26 +4183,6 @@
  ],
  "link": [
   "https://www.yelp.com/biz/play-east-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lake Lansing Park North",
- "address": "6260 E Lake Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/cx08G-OJctSTn1KiDkOFMw/o.jpg"
- ],
- "tags": [
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/lake-lansing-park-north-meridian-charter-township?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -857,109 +4364,6 @@
  ],
  "reviews": []
 },{
- "name": "R.E. Olds Transportation Museum",
- "address": "240 Museum Dr",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/51/0e/a9/excellent-very-cool-collection.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/vJ4R-X3ika-d3z-tdvKh-A/o.jpg"
- ],
- "tags": [
-  "history",
-  "free",
-  "family",
-  "historic",
-  "history",
-  "historic",
-  "family",
-  "history",
-  "free",
-  "performance",
-  "history",
-  "kids"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/r-e-olds-transportation-museum-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282224-Reviews-R_E_Olds_Transportation_Museum-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Midtown Brewing Co.",
- "address": "402 S Washington Sq",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/fEuU-xMJyp55Ur_k6ksmXw/o.jpg"
- ],
- "tags": [
-  "brewery"
- ],
- "link": [
-  "https://www.yelp.com/biz/midtown-brewing-co-lansing-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Turner-Dodge House & Heritage Center",
- "address": "100 E North St",
- "avg_visitor_review": [
-  "4.5",
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/00/11/d0/f6/turner-dodge-house-heritage.jpg",
-  "https://s3-media3.fl.yelpcdn.com/bphoto/AzMsCd240i_34mKd_LI1-g/o.jpg"
- ],
- "tags": [
-  "learn",
-  "history",
-  "historic",
-  "music",
-  "knowledgeable",
-  "learn",
-  "tour",
-  "history",
-  "learn",
-  "history",
-  "family",
-  "history",
-  "walking",
-  "historic",
-  "family",
-  "music",
-  "food"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/turner-dodge-house-and-heritage-center-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282156-Reviews-Turner_Dodge_House_Heritage_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Greater Lansing Sports Authority",
  "address": "500 E Michigan Ave",
  "avg_visitor_review": [
@@ -974,26 +4378,6 @@
  ],
  "link": [
   "https://www.yelp.com/biz/greater-lansing-sports-authority-lansing-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tannin",
- "address": "1620 E Michigan Ave",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/gKvbITPxCgyPy3KMJDGIXg/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/tannin-lansing?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1053,826 +4437,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Isle Royale",
- "address": "\n800 East Lakeshore Drive\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/isro/crop16_9/2B4A6A37-C285-6E66-14FDD40511BEAC4B.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//isro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Keweenaw",
- "address": "\n25970 Red Jacket Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kewe/crop16_9/A445BAAC-1DD8-B71B-0B19D14FCA2C58B1.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kewe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Motor Cities",
- "address": "\n200 Renaissance Center, Suite 3148\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/auto/crop16_9/2843EBF5-1DD8-B71B-0B236681AE3BF79E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn",
-  "tour",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//auto//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pictured Rocks",
- "address": "\nP.O. Box 40\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/piro/crop16_9/2B107BCC-C18E-0037-E60800C825DD8798.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "sightseeing",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//piro//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "River Raisin",
- "address": "\n1403 East Elm Avenue\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/rira/crop16_9/BA0D6A1F-1DD8-B71B-0BA82BBBA6D58536.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//rira//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Sleeping Bear Dunes",
- "address": "\n9922 Front Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/slbe/crop16_9/BD64924B-B395-BBF9-71AA7C3437090370.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//slbe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Potter Park Zoo",
- "address": "1301 S Pennsylvania Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/70/c9/24/photo1jpg.jpg"
- ],
- "tags": [
-  "walking",
-  "walk",
-  "organized"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282094-Reviews-Potter_Park_Zoo-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Michigan State Capitol",
- "address": "Capitol Avenue at Michigan Avenue",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/82/30/9b/michigan-state-capitol.jpg"
- ],
- "tags": [
-  "walk",
-  "free",
-  "eat",
-  "tour",
-  "cheap",
-  "history",
-  "history",
-  "eat",
-  "tour",
-  "cheap",
-  "tour",
-  "kids",
-  "walk",
-  "learn",
-  "tour",
-  "unique",
-  "tour",
-  "tour",
-  "free",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282093-Reviews-Michigan_State_Capitol-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Michigan History Center",
- "address": "702 W Kalamazoo St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/0c/0e/c0/michigan-historical-museum.jpg"
- ],
- "tags": [
-  "music",
-  "learn",
-  "history",
-  "family",
-  "history",
-  "free",
-  "family",
-  "free",
-  "walking",
-  "history",
-  "free",
-  "history",
-  "free",
-  "history",
-  "free",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282095-Reviews-Michigan_History_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Impression 5 Science Center",
- "address": "200 Museum Dr",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/46/25/99/impression-5-science.jpg"
- ],
- "tags": [
-  "unique",
-  "kids",
-  "organized",
-  "kids",
-  "family",
-  "family",
-  "eat",
-  "learn",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282150-Reviews-Impression_5_Science_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Michigan Princess",
- "address": "Grand River Park",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/da/97/c1/early-morning-on-the.jpg"
- ],
- "tags": [
-  "history",
-  "kids",
-  "drink",
-  "music",
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d2228897-Reviews-The_Michigan_Princess-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Hawk Island Park",
- "address": "1601 E Cavanaugh Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/79/a8/79/hawk-island-park.jpg"
- ],
- "tags": [
-  "parks",
-  "walking",
-  "kids",
-  "walk",
-  "walk",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d10378995-Reviews-Hawk_Island_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "River Trail",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/9d/68/c6/river-trail.jpg"
- ],
- "tags": [
-  "walking",
-  "family",
-  "parks",
-  "walk",
-  "walk",
-  "unique",
-  "parks"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282096-Reviews-River_Trail-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Old Town",
- "address": "201 E Grand River Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/3e/dd/ef/old-town.jpg"
- ],
- "tags": [
-  "unique",
-  "art",
-  "eat",
-  "walk",
-  "food",
-  "unique",
-  "pets",
-  "food",
-  "art",
-  "walk",
-  "drink",
-  "art",
-  "unique",
-  "pets"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282396-Reviews-Old_Town-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Carl G. Fenner Nature Center",
- "address": "2020 E Mount Hope Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/5a/a8/fa/carl-g-fenner-nature.jpg"
- ],
- "tags": [
-  "nature",
-  "walk",
-  "learn",
-  "nature",
-  "knowledgeable",
-  "learn",
-  "kids",
-  "knowledgeable",
-  "learn",
-  "kids",
-  "walk",
-  "field",
-  "family",
-  "nature",
-  "walk",
-  "family",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d3871068-Reviews-Carl_G_Fenner_Nature_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mega Mall",
- "address": "15487 S US Highway 27",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/a0/8e/a5/mega-mall-lansing-mi.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d8464076-Reviews-Mega_Mall-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lansing Center",
- "address": "333 E Michigan Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/c4/57/lansing-center-lansing.jpg"
- ],
- "tags": [
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d1419468-Reviews-Lansing_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Moores Park",
- "address": "420 Moores River Dr",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/85/b0/11/mi-lansing-moores-park.jpg"
- ],
- "tags": [
-  "field",
-  "kids",
-  "field",
-  "kids",
-  "kids",
-  "field"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d12826990-Reviews-Moores_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Brenke Fish Ladder",
- "address": "Lansing River Trail",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/18/71/49/brenke-fish-ladder.jpg"
- ],
- "tags": [
-  "walk",
-  "walk",
-  "nature",
-  "wander",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d10799307-Reviews-Brenke_Fish_Ladder-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Granger Meadows Park",
- "address": "16980 Wood Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/4c/2c/95/mi-lansing-granger-meadow.jpg"
- ],
- "tags": [
-  "walk",
-  "field",
-  "nature",
-  "walk",
-  "nature",
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d10296185-Reviews-Granger_Meadows_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Reo Town",
- "address": "",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/9e/48/79/mi-lansing-reo-town.jpg"
- ],
- "tags": [
-  "eat",
-  "walk",
-  "eat",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d10312299-Reviews-Reo_Town-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Woldumar Nature Center",
- "address": "5739 Old Lansing Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/6d/e3/20/photo5jpg.jpg"
- ],
- "tags": [
-  "walk",
-  "field",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d3804320-Reviews-Woldumar_Nature_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Creole Gallery",
- "address": "1218 Turner St",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/3c/c3/b7/the-creole-gallery.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "drink",
-  "food",
-  "food",
-  "delicious",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282147-Reviews-The_Creole_Gallery-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lansing Mall",
- "address": "5330 W Saginaw Hwy",
- "avg_visitor_review": [
-  "3.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/52/40/e5/lansing-mall.jpg"
- ],
- "tags": [
-  "walk",
-  "food",
-  "family",
-  "free",
-  "food",
-  "walk",
-  "food",
-  "food",
-  "family",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d6120507-Reviews-Lansing_Mall-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mt Hope Cemetery",
- "address": "1709 E Mount Hope Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/3c/1b/mt-hope-cemetery.jpg"
- ],
- "tags": [
-  "family",
-  "history",
-  "learn",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d3978214-Reviews-Mt_Hope_Cemetery-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ralph W. Crego Park",
- "address": "1600 Fidelity Rd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/34/d9/2a/crego-park-lake-area.jpg"
- ],
- "tags": [
-  "walk",
-  "nature",
-  "walk",
-  "free",
-  "walking",
-  "parks"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d7109395-Reviews-Ralph_W_Crego_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Grand Woods Park",
- "address": "4500 W Willow Hwy",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/7f/9a/92/grand-woods-park.jpg"
- ],
- "tags": [
-  "family",
-  "kids",
-  "kids",
-  "walking",
-  "walk",
-  "kids",
-  "family",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d8464449-Reviews-Grand_Woods_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Adado Park",
- "address": "300 N Grand Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/da/30/68/adado-park.jpg"
- ],
- "tags": [
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d4858571-Reviews-Adado_Park-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lansing's First Capital Building",
- "address": "South Washington Square near Allegan",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/0b/f6/42/lansing-s-first-capital.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "history",
-  "tour",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d4271620-Reviews-Lansing_s_First_Capital_Building-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "9-11-2001 Remembrance Memorial",
- "address": "northeast corner of Michigan Ave. and Grand Ave. in Wentworth Park",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/48/72/memorial-in-park-seen.jpg"
- ],
- "tags": [
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d4914822-Reviews-9_11_2001_Remembrance_Memorial-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Eastwood Towne Center",
- "address": "3003 Preyde Blvd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0e/b9/85/d0/bravo-cucina-italiana.jpg"
- ],
- "tags": [
-  "food",
-  "family",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d10800253-Reviews-Eastwood_Towne_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Greater Lansing Visitors Center",
- "address": "500 E Michigan Ave Suite 180",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/a2/59/75/greater-lansing-visitors.jpg"
- ],
- "tags": [
-  "kids",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g42391-d282397-Reviews-Greater_Lansing_Visitors_Center-Lansing_Ingham_County_Michigan.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

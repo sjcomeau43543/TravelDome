@@ -1,5 +1,3640 @@
 [
 {
+ "name": "Wyoming State Museum",
+ "address": "2301 Central Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/38afe478-932f-11ea-bc5c-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/c2/69/ed/hands-on-habitats-lab.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "history",
+  "kids",
+  "walk",
+  "kids",
+  "walk",
+  "kids",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d279397-Reviews-Wyoming_State_Museum-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=6682336131914299131"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Depot Museum",
+ "address": "121 W 15th St #300, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/348f60da-932f-11ea-ae09-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/18/eb/cheyenne-depot-museum.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn",
+  "learn",
+  "kids",
+  "historic",
+  "knowledgeable",
+  "history",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d582386-Reviews-Cheyenne_Depot_Museum-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=7687481468333213278"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Frontier Days Old West Museum",
+ "address": "4610 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/34d2d050-932f-11ea-955d-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/81/84/frontier-days-museum.jpg"
+ ],
+ "tags": [
+  "learn",
+  "history",
+  "art",
+  "theatre",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d278944-Reviews-Cheyenne_Frontier_Days_Old_West_Museum-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=14127920885670247695"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Southeast Wyoming Welcome Center",
+ "address": "5611 High Plains Road, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/396725e8-932f-11ea-bb94-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/e7/41/24/photo0jpg.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "learn",
+  "history",
+  "historic",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d3953858-Reviews-Southeast_Wyoming_Welcome_Center-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=1457020853364444853"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Frontier Days",
+ "address": "4610 Carey Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/06/84/e8/old-yellowstone-carraige.jpg"
+ ],
+ "tags": [
+  "art",
+  "music",
+  "history",
+  "delicious",
+  "free",
+  "affordable",
+  "music",
+  "sampling",
+  "drink",
+  "food",
+  "family",
+  "family",
+  "kids",
+  "food",
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d8820183-Reviews-Cheyenne_Frontier_Days-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Terry Bison Ranch",
+ "address": "51 I-25 Service Road East",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/22/1d/e7/terry-bison-ranch.jpg"
+ ],
+ "tags": [
+  "free",
+  "family",
+  "unique",
+  "food",
+  "tour",
+  "history",
+  "tour",
+  "food",
+  "free",
+  "family",
+  "food",
+  "field",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d2284971-Reviews-Terry_Bison_Ranch-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Curt Gowdy State Park",
+ "address": "1264 Granite Springs Rd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3a9cf030-932f-11ea-bd43-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/04/8f/f0/crystal-reservoir-curt.jpg"
+ ],
+ "tags": [
+  "hike",
+  "kids",
+  "walk",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d279474-Reviews-Curt_Gowdy_State_Park-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=15634765002080215961"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Big Boy Steam Engine",
+ "address": "Holliday Park Near East 17th St and Morrie Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/be/35/big-boy-steam-engine.jpg"
+ ],
+ "tags": [
+  "history",
+  "kids",
+  "history",
+  "history",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279403-Reviews-Big_Boy_Steam_Engine-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Botanic Gardens",
+ "address": "710 S Lions Park Dr, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3432f1ac-932f-11ea-97a4-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/51/05/20/cheyenne-botanic-gardens.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "family",
+  "tour",
+  "free",
+  "walking",
+  "walk",
+  "art"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d279401-Reviews-Cheyenne_Botanic_Gardens-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=10207914847595039094"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Big Boots",
+ "address": "121 W 15th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/08/e6/3e/cheyenne-big-boots.jpg"
+ ],
+ "tags": [
+  "walk",
+  "learn",
+  "art",
+  "historic",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d8259414-Reviews-Cheyenne_Big_Boots-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Governors' Mansion",
+ "address": "300 E 21st St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/a4/d5/89/wyoming-s-historic-governors.jpg"
+ ],
+ "tags": [
+  "unique",
+  "history",
+  "tour",
+  "free",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "historic",
+  "walk",
+  "free",
+  "free",
+  "historic",
+  "tour",
+  "history",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d278946-Reviews-Historic_Governors_Mansion-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Depot Plaza",
+ "address": "1 Depot Square Capitol &, W 15th St, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/35bc6e1a-932f-11ea-9081-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7d/af/30/cheyenne-depot-plaza.jpg"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d3957946-Reviews-Cheyenne_Depot_Plaza-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=15760721210368942849"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Warren Air Force Base",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/7a/98/geese-on-fe-warren-october.jpg"
+ ],
+ "tags": [
+  "active",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279731-Reviews-Warren_Air_Force_Base-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming State Capitol",
+ "address": "200 W 24th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/77/63/53/wyoming-state-capitol.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "art",
+  "free",
+  "walk",
+  "historic",
+  "knowledgeable",
+  "tour",
+  "history",
+  "walk",
+  "wander",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d278945-Reviews-Wyoming_State_Capitol-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Civic Center",
+ "address": "510 West 20th St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/8a/c4/61/peter-frampton.jpg"
+ ],
+ "tags": [
+  "eat",
+  "drink",
+  "art",
+  "free",
+  "free",
+  "free",
+  "music",
+  "kids",
+  "walk",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d1418668-Reviews-Cheyenne_Civic_Center-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Happy Jack Road",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c4/d7/00/happy-jack-road.jpg"
+ ],
+ "tags": [
+  "hike",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279475-Reviews-Happy_Jack_Road-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Laramie County Library",
+ "address": "2200 Pioneer Ave",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/f6/34/dd/laramie-county-public.jpg"
+ ],
+ "tags": [
+  "family",
+  "library",
+  "active",
+  "library",
+  "drink",
+  "library",
+  "food",
+  "library",
+  "kids",
+  "kids",
+  "library",
+  "family",
+  "library",
+  "active",
+  "library",
+  "kids",
+  "library",
+  "drink",
+  "library",
+  "library"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d4545230-Reviews-Laramie_County_Library-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cowgirls of the West Museum",
+ "address": "205 W 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3677d9e6-932f-11ea-b3a8-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/cb/d0/f6/exhibit.jpg"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "structure",
+  "learn",
+  "unique"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d3353461-Reviews-Cowgirls_of_the_West_Museum-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=6951245746758386260"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nelson Museum of the West",
+ "address": "1714 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/370dcae4-932f-11ea-99aa-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/56/69/d6/western-cowboy-boots.jpg"
+ ],
+ "tags": [
+  "tour",
+  "art",
+  "kids",
+  "organized",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d279398-Reviews-Nelson_Museum_of_the_West-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=3322439478068829961"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Merci Train",
+ "address": "E. Lincolnway and Big Horn  (in American Legion Post #6 parking lot)",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/5c/1e/7d/box-car-beneath-a-roof.jpg"
+ ],
+ "tags": [
+  "history",
+  "food",
+  "history",
+  "history",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279404-Reviews-The_Merci_Train-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bit-O-Wyo Ranch",
+ "address": "470 Happy Jack Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/3d/dc/2a/bit-o-wyo-ranch-horseback.jpg"
+ ],
+ "tags": [
+  "hospitable",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d1061874-Reviews-Bit_O_Wyo_Ranch-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "NCAR-Wyoming Supercomputing Center Visitor Center",
+ "address": "8120 Veta Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/b7/4a/7a/the-building.jpg"
+ ],
+ "tags": [
+  "organized",
+  "tour",
+  "walking",
+  "learn",
+  "food",
+  "tour",
+  "tour",
+  "learn",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3671816-Reviews-NCAR_Wyoming_Supercomputing_Center_Visitor_Center-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Messenger's Old West Museum",
+ "address": "616 Crook Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/38405864-932f-11ea-a8f4-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/17/16/fd/20181018-112145-largejpg.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d3179445-Reviews-Messenger_s_Old_West_Museum-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=16147413669639554839"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Artists Guild",
+ "address": "1701 Morrie Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/7d/31/26/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "unique",
+  "walking",
+  "art",
+  "walk",
+  "art",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d3861084-Reviews-Cheyenne_Artists_Guild-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Danielmark's Brewery and Tap Room",
+ "address": "209 E 18th St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/91/5e/ed/great-tasting-room-layout.jpg"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "food",
+  "family",
+  "food",
+  "free",
+  "brewery",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d10727033-Reviews-Danielmark_s_Brewery_and_Tap_Room-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Mylar Park",
+ "address": "5117 Seminoe Rd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/375a164a-932f-11ea-a0ad-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/ad/aa/2b/fenced-in-goats-near.jpg"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "walking",
+  "parks",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g60439-d10753881-Reviews-Mylar_Park-Cheyenne_Wyoming.html"
+  ],
+  "https://maps.google.com/?cid=241084771500168252"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Quebec 01 Missile Alert Facility",
+ "address": "2025 Road 238",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "parks",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d18913136-Reviews-Quebec_01_Missile_Alert_Facility-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Lakeview Cemetery",
+ "address": "Seymour Ave.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/08/80/97/lakeview-cemetery.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "history",
+  "walking",
+  "walk",
+  "history",
+  "walk",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d279405-Reviews-Lakeview_Cemetery-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Frontier Mall",
+ "address": "1400 Dell Range Blvd",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/48/87/94/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "unique",
+  "eat",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d6028483-Reviews-Frontier_Mall-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Big Country Speedway",
+ "address": "4820 S Greeley Hwy",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/6f/f6/7a/big-country-speedway.jpg"
+ ],
+ "tags": [
+  "cheap",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g60439-d6163537-Reviews-Big_Country_Speedway-Cheyenne_Wyoming.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bighorn Canyon",
+ "address": "\nBighorn Canyon National Recreation Area South District Visitor Center\n20 US Hwy 14A\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/bica/crop16_9/26D3F295-CC8E-D818-80898DD04FD0AE29.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//bica//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "California",
+ "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//cali//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Devils Tower",
+ "address": "\nPO Box 10\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/deto/crop16_9/893914AB-C506-A2AD-D41690FD11B7B348.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://www.nps.gov//deto//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Laramie",
+ "address": "\n965 Gray Rocks Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fola/crop16_9/6B27393B-1DD8-B71B-0B0BC39F4F656691.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fola//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fossil Butte",
+ "address": "\nP.O. Box 592\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fobu/crop16_9/3C1A37F7-1DD8-B71B-0BCEAB5DD145D46B.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fobu//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Teton",
+ "address": "\nP.O. Box 170\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grte/crop16_9/3F15BEB5-C1A9-0D95-E3101881838E79CF.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mormon Pioneer",
+ "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//mopi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Oregon",
+ "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "walk"
+ ],
+ "link": [
+  "https://www.nps.gov//oreg//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pony Express",
+ "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "practical",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//poex//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Yellowstone",
+ "address": "\nPO Box 168\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "unique"
+ ],
+ "link": [
+  "https://www.nps.gov//yell//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Big Boy Steam Engine 4004",
+ "address": "1705 Morrie Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/35233a9c-932f-11ea-9feb-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7704812800963631605"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming State Capitol Building",
+ "address": "200 W 24th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/357ad0b8-932f-11ea-960b-14b31f159f22.png"
+ ],
+ "tags": [
+  "library",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10886539687144673158"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Paul Smith Children's Village at the Cheyenne Botanic Gardens",
+ "address": "616 S Lions Park Dr, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/360fbdee-932f-11ea-b3f6-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10868103943699830263"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Warren ICBM & Heritage Museum",
+ "address": "401 N Champagne Dr #31, Francis E. Warren AFB, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/36bf916c-932f-11ea-b3a3-14b31f159f22.png"
+ ],
+ "tags": [
+  "active",
+  "knowledgeable",
+  "history",
+  "tour",
+  "history",
+  "kids",
+  "historic",
+  "history",
+  "historic"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4677378360446033285"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Street Railway Trolley",
+ "address": "121 W 15th St #202, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/37b703a8-932f-11ea-a9f8-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14250417662745008604"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Epic Escape Game Cheyenne",
+ "address": "218 E 25th St, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/37fcbf64-932f-11ea-b50a-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=15576783588256864235"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming Historic Governors' Mansion",
+ "address": "300 E 21st St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/391ed1f0-932f-11ea-8f9a-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "structure",
+  "learn",
+  "history",
+  "history",
+  "free",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9879406383381849630"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Terry Bison Ranch Resort",
+ "address": "51 I-25 Frontage Rd, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/39bf583e-932f-11ea-96d5-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "kids",
+  "food",
+  "tour",
+  "pets",
+  "parks",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14486293588778531754"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne - Parks Division",
+ "address": "4603 Lions Park Dr, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3a036634-932f-11ea-9b96-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5370131792943095837"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "military memorial museum",
+ "address": "1714 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=12224285011434982363"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming National Guard Museum",
+ "address": "624 E Pershing Blvd, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3a49edd4-932f-11ea-ad1d-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2959237901058828957"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Aesthetic Dentistry, P.C.",
+ "address": "7010 Yellowtail Rd #100, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ae8515c-932f-11ea-80b7-14b31f159f22.png"
+ ],
+ "tags": [
+  "comforting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13255944213586901751"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Abraham Lincoln Memorial Monument",
+ "address": "136 US Frst Service Rd 705 A, Laramie, WY 82070, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3b49f974-932f-11ea-8082-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "structure",
+  "history",
+  "structure"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8971779919069291036"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rocky Mountain Herbarium",
+ "address": "1000 E University Ave, Laramie, WY 82071, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3bc06246-932f-11ea-b2cc-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14975165646122810808"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ames Brothers Monument",
+ "address": "210 Monument Rd, Buford, WY 82052, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3c1475e4-932f-11ea-98cf-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16734225646292024792"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Mountain Open Space",
+ "address": "799 Red Canyon Rd, Wellington, CO 80549, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3c59457a-932f-11ea-8d3b-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=3877331450464679891"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "University of Wyoming Geological Museum",
+ "address": "200 N 9th St, Laramie, WY 82072, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3c9f0310-932f-11ea-97c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3108921327874329810"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "University of Wyoming Art Museum",
+ "address": "Centennial Complex, 2111 E Willett Dr, Laramie, WY 82071, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3cee34dc-932f-11ea-af60-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "art",
+  "kids",
+  "educate"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9463382093342615791"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lory State Park",
+ "address": "708 N Co Rd 25G, Bellvue, CO 80512, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3d39791a-932f-11ea-9eff-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "hike",
+  "free",
+  "nature",
+  "kids",
+  "hike",
+  "hike",
+  "walk",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2589946570422060664"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pawnee National Grassland",
+ "address": "115 North 2nd Ave, Ault, CO 80610, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3d877238-932f-11ea-aabc-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=861350677157313664"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rocky Mountain National Park",
+ "address": "Colorado, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3dca47f4-932f-11ea-9f6f-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18025638007915053591"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Laramie Railroad Depot",
+ "address": "600 S 1st St, Laramie, WY 82072, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3e088998-932f-11ea-9eec-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "historic",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7242857044188935861"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boardwalk Park",
+ "address": "100 N 5th St, Windsor, CO 80550, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3e4b3800-932f-11ea-8aff-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "kids",
+  "active"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7830226547439693002"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Riverbend Ponds Natural Area",
+ "address": "E Prospect Rd, Fort Collins, CO 80525, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3e938bd4-932f-11ea-a433-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "walk",
+  "kids",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12963883969434109209"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gateway Natural Area",
+ "address": "5216 West Highway 14, Bellvue, CO 80512, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ee3a802-932f-11ea-a99d-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17222258260423271441"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glenmere Park",
+ "address": "Greeley, CO 80631, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3f2fa526-932f-11ea-92aa-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11615270843163871624"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bittersweet Park",
+ "address": "35th Ave & 16th St, Greeley, CO 80634, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3f8825b8-932f-11ea-8fec-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "walking",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3264489502107972462"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Our Lady of Peace Shrine",
+ "address": "185 Equality, Pine Bluffs, WY 82082, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3fda8b92-932f-11ea-b59c-14b31f159f22.png"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14464852647671057388"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nagle Warren Mansion B&B",
+ "address": "222 E 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4024ca5c-932f-11ea-b56c-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "history",
+  "cheap",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9468408620997955075"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Medicine Bow-Routt National Forest",
+ "address": "Laramie, WY 82070, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/406817cc-932f-11ea-8111-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "historic",
+  "hike",
+  "affordable",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11472911452550940168"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arapahoe Bend Natural Area",
+ "address": "Fort Collins, CO 80528, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/40ad5e68-932f-11ea-8022-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15681399662729478337"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Rocks Park and Amphitheatre",
+ "address": "18300 W Alameda Pkwy, Morrison, CO 80465, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/40fb3082-932f-11ea-84e2-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "music",
+  "walk",
+  "hike",
+  "free",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8972268900862187181"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Denver Botanic Gardens",
+ "address": "1007 York St, Denver, CO 80206, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4148183e-932f-11ea-8115-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "nature",
+  "kids",
+  "unique",
+  "food",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6704051071303811988"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Greeley History Museum",
+ "address": "714 8th St, Greeley, CO 80631, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/41a69512-932f-11ea-9314-14b31f159f22.png"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18430142411466241421"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Laramie Visitor Center",
+ "address": "965 Grey Rocks Road, Fort Laramie, WY 82212, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/41f29bcc-932f-11ea-af56-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "history",
+  "free",
+  "history",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2183934378481263707"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Scotts Bluff National Monument",
+ "address": "190276 Old Oregon Trail, Gering, NE 69341, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/423ea89c-932f-11ea-851d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "knowledgeable",
+  "hike",
+  "hike",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=795971636046548045"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Snowy Range Ski Area",
+ "address": "3254 WY-130, Centennial, WY 82055, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/42881000-932f-11ea-b4a5-14b31f159f22.png"
+ ],
+ "tags": [
+  "affordable",
+  "learn",
+  "kids",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6834904200545294660"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bee Family Centennial Farm Msm",
+ "address": "4320 E Co Rd 58, Fort Collins, CO 80524, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/42c65dc8-932f-11ea-829f-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "family",
+  "kids",
+  "family",
+  "family",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13485228644888251254"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Denver Zoo",
+ "address": "2300 Steele St, Denver, CO 80205, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/43119a22-932f-11ea-84a4-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "family",
+  "food",
+  "drink",
+  "food",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6052009770394020905"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Guernsey Ruts",
+ "address": "Guernsey, WY 82214, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/435c3b7a-932f-11ea-a62e-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "walking",
+  "history",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3877212813410454651"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Denver Art Museum",
+ "address": "100 W 14th Ave Pkwy, Denver, CO 80204, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/43b011d2-932f-11ea-b812-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "drink",
+  "art",
+  "creative",
+  "unique",
+  "art",
+  "kids",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4895980547090937649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Harmony Park",
+ "address": "5015 Corbett Dr, Fort Collins, CO 80528, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/43fb99ee-932f-11ea-88b6-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4180055037201948497"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Global Village Museum of Arts",
+ "address": "200 W Mountain Ave # C, Fort Collins, CO 80521, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4448f6f6-932f-11ea-b0f7-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=563268740500446446"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Butterfly Pavilion",
+ "address": "6252 W 104th Ave, Westminster, CO 80020, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/448ae1fa-932f-11ea-85bb-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "walking",
+  "knowledgeable",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10460704098384178030"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wings Over the Rockies Air & Space Museum",
+ "address": "7711 E Academy Blvd, Denver, CO 80230, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/44d29990-932f-11ea-87c0-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18042612551295927622"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boot Barn",
+ "address": "1518 Capitol Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4511cf9a-932f-11ea-b020-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13920951298419049621"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Medicine Bow-Routt National Forests",
+ "address": "Steamboat Springs, CO 80487, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/45529c28-932f-11ea-924e-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "parks"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15100505697730499900"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Greeley Poudre River Trails",
+ "address": "Vern Schafer Blvd, Greeley, CO 80631, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4595dfe2-932f-11ea-8be1-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=8859168262570631073"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glendo State Park",
+ "address": "397 Glendo Park Rd, Glendo, WY 82213, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/45e81eb0-932f-11ea-bbb2-14b31f159f22.png"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2010541564280934064"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Poor Richard's Restaurant",
+ "address": "2233 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/463e2e0a-932f-11ea-924a-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "food",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13486751162668863619"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Anong's | Thai Cuisine",
+ "address": "620 Central Ave, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/46806762-932f-11ea-a58b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17355053811827208221"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Guadalajara Mexican Restaurant Cheyenne",
+ "address": "1745 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/46cab6fa-932f-11ea-ad83-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17654788609177622145"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Roadhouse",
+ "address": "1931 Blue Grass Cir, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47149192-932f-11ea-95bb-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2090337232436050564"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "L'Osteria Mondello",
+ "address": "1507 Stillwater Ave ste d, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/475e1282-932f-11ea-8cf3-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "cheap"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11815613248459076438"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bella Fuoco Wood Fired Pizza",
+ "address": "2115 Warren Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47a83b14-932f-11ea-91ba-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food",
+  "creative",
+  "free",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8893924908504116352"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Albany",
+ "address": "1506 Capitol Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47f28ac2-932f-11ea-9da0-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6019177316152355508"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sanford's Grub & Pub",
+ "address": "115 E 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/48381fca-932f-11ea-b3f2-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "family",
+  "free",
+  "food",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7549693014925940440"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hacienda Guadalajara Cheyenne",
+ "address": "317 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4883a79c-932f-11ea-8ed1-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17365465375518181498"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grandpa's Downtown Pizzeria",
+ "address": "1611 Central Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/48cae9ee-932f-11ea-9b53-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "delicious",
+  "eat",
+  "affordable",
+  "food",
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8398405776683759573"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bejo Sushi and Asian Cuisine",
+ "address": "112 W 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/49167b4a-932f-11ea-bdc9-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8292455468985278443"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "R&B Breakfast Club",
+ "address": "2102 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/49651092-932f-11ea-947e-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "eat",
+  "eat",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16007361495511684268"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "AB BBQ",
+ "address": "1503 W College Dr, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/49b1ced2-932f-11ea-9a2c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4210953469623533690"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Korean House Restaurant",
+ "address": "3219 Snyder Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/49f7d508-932f-11ea-b8ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "unique",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12424508638517899005"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "2 Doors Down",
+ "address": "118 E 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4a3887c0-932f-11ea-b945-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4058000454389482227"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wasabi",
+ "address": "4620 Grandview Ave #205, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4a814280-932f-11ea-a584-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3173579067492527911"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wyoming's Rib & Chop House, Cheyenne",
+ "address": "400 W Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4ad0e964-932f-11ea-b659-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "walk",
+  "food",
+  "drink",
+  "tour",
+  "kids",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11945955213528842349"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Good Friends",
+ "address": "507 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4b2216ca-932f-11ea-a3b9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "walk",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5704849099176762989"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Napoli's",
+ "address": "1901 Central Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4b74a3dc-932f-11ea-b422-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "art",
+  "food",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15578463621266803389"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Outback Steakhouse",
+ "address": "1626 Fleischli Pkwy, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4bbc5b70-932f-11ea-bbb3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15149570344703720096"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Twin Dragon",
+ "address": "1809 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4c07cd7e-932f-11ea-8ec5-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "family",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=240393471275105780"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mongolian Grill",
+ "address": "1637 Stillwater Ave STE C, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4c6185b4-932f-11ea-a854-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15398865578976796649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hathaways Restaurant & Lounge",
+ "address": "2800 W Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4ca61d42-932f-11ea-966a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "music",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9359457343039556008"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Luxury Diner",
+ "address": "1401 W Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4cf012d8-932f-11ea-848d-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "eat",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5915818539830244045"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "China Buffet",
+ "address": "1958 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4d36b8f4-932f-11ea-b149-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5061306081450217211"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Cuisine",
+ "address": "1720 Capitol Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4d7ee5c6-932f-11ea-a922-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7594837936712356152"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olive Garden Italian Restaurant",
+ "address": "1536 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4dd14bae-932f-11ea-a5f3-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14684652751381262965"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tortilla Factory Express",
+ "address": "1507 Stillwater Ave # G, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4e1ef6b6-932f-11ea-97b8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10361965368067872427"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Culver's",
+ "address": "1239 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4e67c840-932f-11ea-98a7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "family",
+  "food",
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5952937257018225109"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Perkins Restaurant & Bakery",
+ "address": "1730 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4eb12d52-932f-11ea-a8d8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "free",
+  "affordable",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12666627708904944514"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Renzios Greek Food",
+ "address": "1400 Dell Range Blvd, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4ef3b752-932f-11ea-8e20-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11835031502303006083"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Epic Egg Restaurants Cheyenne",
+ "address": "2300 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4f372f1e-932f-11ea-9dad-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "organized",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9048593037999651785"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chick-fil-A",
+ "address": "1400 Dell Range Blvd Spc 89, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.2,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5413be70-932f-11ea-a360-14b31f159f22.png",
+  "GoogleMapsPhotoLibrary/4f8c9b6e-932f-11ea-8d3a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "eat",
+  "free"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=13211535940216050558"
+  ],
+  "https://maps.google.com/?cid=9519560605642166975"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "QDOBA Mexican Eats",
+ "address": "1958 Dell Range Blvd Unit F, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4fd0d5f6-932f-11ea-88fa-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4181394046786983707"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Metropolitan Downtown",
+ "address": "1701 Carey Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/501c2280-932f-11ea-919e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15974956081569701744"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rx Tea Time",
+ "address": "1605 Pebrican Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/50697db4-932f-11ea-85ef-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15343339632295880359"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hi Sushi",
+ "address": "2543 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/50bc0dfe-932f-11ea-a721-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5945027577788355819"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rolando's Mexican Grill",
+ "address": "1829 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/51093de8-932f-11ea-854d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "food",
+  "food",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=878346414769950845"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Village Inn",
+ "address": "411 E 16th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/515143c0-932f-11ea-b79f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12029163887640215561"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Diamond Horseshoe Cafe",
+ "address": "404 Central Ave, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5197c9e2-932f-11ea-a490-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17204179896263428725"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Down Home Diner",
+ "address": "2310 W Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/51dd1064-932f-11ea-a8c3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13286739337917045771"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rodolfo's Mexican Grill",
+ "address": "801 E Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5227120c-932f-11ea-8d5f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walking",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15670742018441845803"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chipotle Mexican Grill",
+ "address": "1508 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/526c7786-932f-11ea-9b6c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15174856819246187997"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Godfather's Pizza",
+ "address": "5719 Yellowstone Rd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/52ba70b4-932f-11ea-b240-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "affordable",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16200152422304097352"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rubyjuice Fruit & Smoothies",
+ "address": "113 E 17th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/52fd6d52-932f-11ea-9f6a-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "knowledgeable",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10186167953881219614"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Accomplice Beer Company",
+ "address": "115 W 15th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5345acd8-932f-11ea-b64c-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "cheap",
+  "food",
+  "brewery",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18103268055232772527"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cheyenne Country Club Restaurant & Bar",
+ "address": "800 Stinner Rd, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/53885b7a-932f-11ea-926b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12533363015625019883"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Taqueria Mi Tierra",
+ "address": "314 Dell Range Blvd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/53ccc334-932f-11ea-a0be-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6102754496001736518"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Casa de Trujillo",
+ "address": "122 W 6th St, Cheyenne, WY 82007, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/545163dc-932f-11ea-9074-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3106015800010805877"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wing Shack",
+ "address": "7367, 1439 Stillwater Ave #1, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/549fd95a-932f-11ea-bae1-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15332459585583928870"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Carol's Cafe",
+ "address": "2800 W Lincolnway, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/54e434e8-932f-11ea-9d60-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9605738662433863101"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Five Guys",
+ "address": "1400 Dell Range Blvd Unit 85, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/552e5d80-932f-11ea-821a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16981936796266265477"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "MrJims.Pizza Cheyenne on Vandehei Street",
+ "address": "453 Vandehei St #180, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/557c89a2-932f-11ea-838e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2756431727376949937"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Honolulu Poke & Ramen",
+ "address": "1400 Dell Range Blvd # 36, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/55cf03a4-932f-11ea-a1d9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16213791681887209997"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arby's",
+ "address": "5250 Yellowstone Rd, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/561b4f1e-932f-11ea-ade4-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14987879364399328725"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Paramount Ballroom",
+ "address": "1609 Capitol Ave, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5663f108-932f-11ea-872e-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "sampling",
+  "walking",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4374529494007526295"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Best Tacos y Burritos La Paz",
+ "address": "200 E 18th St, Cheyenne, WY 82001, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/56b076ca-932f-11ea-92d9-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=14905921328007307093"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dickey's Barbecue Pit",
+ "address": "1400 Dell Range Blvd Spc 85A Ste 085A, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/56fd31b6-932f-11ea-89be-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18385979939544392833"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Corner Cafe LLC",
+ "address": "6101 Yellowstone Rd # 90, Cheyenne, WY 82009, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16488400590336156810"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
  "name": "Airport Golf Club",
  "address": "4801 Central Ave",
  "avg_visitor_review": [
@@ -860,1023 +4495,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bighorn Canyon",
- "address": "\nBighorn Canyon National Recreation Area South District Visitor Center\n20 US Hwy 14A\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/bica/crop16_9/26D3F295-CC8E-D818-80898DD04FD0AE29.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//bica//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "California",
- "address": "\nNational Trails\nCalifornia National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/cali/crop16_9/FC417F31-0DE9-1731-4E10FBFEE9B35278.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//cali//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Devils Tower",
- "address": "\nPO Box 10\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/deto/crop16_9/893914AB-C506-A2AD-D41690FD11B7B348.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "learn"
- ],
- "link": [
-  "https://www.nps.gov//deto//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Laramie",
- "address": "\n965 Gray Rocks Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fola/crop16_9/6B27393B-1DD8-B71B-0B0BC39F4F656691.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fola//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fossil Butte",
- "address": "\nP.O. Box 592\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fobu/crop16_9/3C1A37F7-1DD8-B71B-0BCEAB5DD145D46B.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fobu//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Grand Teton",
- "address": "\nP.O. Box 170\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grte/crop16_9/3F15BEB5-C1A9-0D95-E3101881838E79CF.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mormon Pioneer",
- "address": "\nNational Trails\nMormon Pioneer National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mopi/crop16_9/9D910366-B09E-80CA-20F3335DA57E5ECB.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//mopi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Oregon",
- "address": "\nNational Trails\nOregon National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/oreg/crop16_9/8E8ADB66-D1EF-6FD1-A19C021E3A531A57.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "walk"
- ],
- "link": [
-  "https://www.nps.gov//oreg//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pony Express",
- "address": "\nNational Trails\nPony Express National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/poex/crop16_9/E6C453A6-BE5A-3716-27B76479EB351E43.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "practical",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//poex//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Yellowstone",
- "address": "\nPO Box 168\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/yell/crop16_9/ABD89557-FB30-F062-30B74CCD9C906E67.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "unique"
- ],
- "link": [
-  "https://www.nps.gov//yell//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Wyoming State Museum",
- "address": "2301 Central Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/c2/69/ed/hands-on-habitats-lab.jpg"
- ],
- "tags": [
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279397-Reviews-Wyoming_State_Museum-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Depot Museum",
- "address": "121 W 15th St Number One Depot Square",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/18/eb/cheyenne-depot-museum.jpg"
- ],
- "tags": [
-  "historic",
-  "knowledgeable",
-  "historic",
-  "history",
-  "history",
-  "walk",
-  "history",
-  "history",
-  "historic",
-  "knowledgeable",
-  "history",
-  "historic"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d582386-Reviews-Cheyenne_Depot_Museum-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Frontier Days Old West Museum",
- "address": "4610 Carey Ave Frontier Park",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/81/84/frontier-days-museum.jpg"
- ],
- "tags": [
-  "art",
-  "theatre",
-  "history",
-  "history",
-  "history",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d278944-Reviews-Cheyenne_Frontier_Days_Old_West_Museum-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Southeast Wyoming Welcome Center",
- "address": "5611 High Plains Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/e7/41/24/photo0jpg.jpg"
- ],
- "tags": [
-  "free",
-  "learn",
-  "history",
-  "historic",
-  "knowledgeable",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3953858-Reviews-Southeast_Wyoming_Welcome_Center-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Frontier Days",
- "address": "4610 Carey Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/06/84/e8/old-yellowstone-carraige.jpg"
- ],
- "tags": [
-  "art",
-  "music",
-  "history",
-  "delicious",
-  "free",
-  "affordable",
-  "music",
-  "sampling",
-  "drink",
-  "food",
-  "family",
-  "family",
-  "kids",
-  "food",
-  "music",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d8820183-Reviews-Cheyenne_Frontier_Days-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Terry Bison Ranch",
- "address": "51 I-25 Service Road East",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/22/1d/e7/terry-bison-ranch.jpg"
- ],
- "tags": [
-  "free",
-  "family",
-  "unique",
-  "food",
-  "tour",
-  "history",
-  "tour",
-  "food",
-  "free",
-  "family",
-  "food",
-  "field",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d2284971-Reviews-Terry_Bison_Ranch-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Curt Gowdy State Park",
- "address": "1351 Hynds Lodge Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/04/8f/f0/crystal-reservoir-curt.jpg"
- ],
- "tags": [
-  "hike",
-  "walk",
-  "knowledgeable",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279474-Reviews-Curt_Gowdy_State_Park-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Big Boy Steam Engine",
- "address": "Holliday Park Near East 17th St and Morrie Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/54/be/35/big-boy-steam-engine.jpg"
- ],
- "tags": [
-  "history",
-  "kids",
-  "history",
-  "history",
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279403-Reviews-Big_Boy_Steam_Engine-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Botanic Gardens",
- "address": "710 S Lions Park Dr",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/51/05/20/cheyenne-botanic-gardens.jpg"
- ],
- "tags": [
-  "tour",
-  "kids",
-  "free",
-  "walking",
-  "walk",
-  "walk",
-  "art",
-  "walk",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279401-Reviews-Cheyenne_Botanic_Gardens-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Big Boots",
- "address": "121 W 15th St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/08/e6/3e/cheyenne-big-boots.jpg"
- ],
- "tags": [
-  "walk",
-  "learn",
-  "art",
-  "historic",
-  "eat",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d8259414-Reviews-Cheyenne_Big_Boots-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Historic Governors' Mansion",
- "address": "300 E 21st St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/a4/d5/89/wyoming-s-historic-governors.jpg"
- ],
- "tags": [
-  "unique",
-  "history",
-  "tour",
-  "free",
-  "tour",
-  "history",
-  "knowledgeable",
-  "tour",
-  "historic",
-  "walk",
-  "free",
-  "free",
-  "historic",
-  "tour",
-  "history",
-  "knowledgeable",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d278946-Reviews-Historic_Governors_Mansion-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Depot Plaza",
- "address": "121 W 15th St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/7d/af/30/cheyenne-depot-plaza.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3957946-Reviews-Cheyenne_Depot_Plaza-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Warren Air Force Base",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/7a/98/geese-on-fe-warren-october.jpg"
- ],
- "tags": [
-  "active",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279731-Reviews-Warren_Air_Force_Base-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Wyoming State Capitol",
- "address": "200 W 24th St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/77/63/53/wyoming-state-capitol.jpg"
- ],
- "tags": [
-  "knowledgeable",
-  "art",
-  "free",
-  "walk",
-  "historic",
-  "knowledgeable",
-  "tour",
-  "history",
-  "walk",
-  "wander",
-  "history",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d278945-Reviews-Wyoming_State_Capitol-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Civic Center",
- "address": "510 West 20th St.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/8a/c4/61/peter-frampton.jpg"
- ],
- "tags": [
-  "eat",
-  "drink",
-  "art",
-  "free",
-  "free",
-  "free",
-  "music",
-  "kids",
-  "walk",
-  "tour",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d1418668-Reviews-Cheyenne_Civic_Center-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Happy Jack Road",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c4/d7/00/happy-jack-road.jpg"
- ],
- "tags": [
-  "hike",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279475-Reviews-Happy_Jack_Road-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Laramie County Library",
- "address": "2200 Pioneer Ave",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/f6/34/dd/laramie-county-public.jpg"
- ],
- "tags": [
-  "family",
-  "library",
-  "active",
-  "library",
-  "drink",
-  "library",
-  "food",
-  "library",
-  "kids",
-  "kids",
-  "library",
-  "family",
-  "library",
-  "active",
-  "library",
-  "kids",
-  "library",
-  "drink",
-  "library",
-  "library"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d4545230-Reviews-Laramie_County_Library-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cowgirls of the West Museum",
- "address": "205 W 17th St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/cb/d0/f6/exhibit.jpg"
- ],
- "tags": [
-  "history",
-  "structure",
-  "history",
-  "learn",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3353461-Reviews-Cowgirls_of_the_West_Museum-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nelson Museum of the West",
- "address": "1714 Carey Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/56/69/d6/western-cowboy-boots.jpg"
- ],
- "tags": [
-  "tour",
-  "art",
-  "kids",
-  "organized",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279398-Reviews-Nelson_Museum_of_the_West-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Merci Train",
- "address": "E. Lincolnway and Big Horn  (in American Legion Post #6 parking lot)",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/5c/1e/7d/box-car-beneath-a-roof.jpg"
- ],
- "tags": [
-  "history",
-  "food",
-  "history",
-  "history",
-  "history",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279404-Reviews-The_Merci_Train-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bit-O-Wyo Ranch",
- "address": "470 Happy Jack Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/3d/dc/2a/bit-o-wyo-ranch-horseback.jpg"
- ],
- "tags": [
-  "hospitable",
-  "kids",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d1061874-Reviews-Bit_O_Wyo_Ranch-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "NCAR-Wyoming Supercomputing Center Visitor Center",
- "address": "8120 Veta Drive",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/b7/4a/7a/the-building.jpg"
- ],
- "tags": [
-  "organized",
-  "tour",
-  "walking",
-  "learn",
-  "food",
-  "tour",
-  "tour",
-  "learn",
-  "free",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3671816-Reviews-NCAR_Wyoming_Supercomputing_Center_Visitor_Center-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Messenger's Old West Museum",
- "address": "616 Crook Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/17/16/fd/20181018-112145-largejpg.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "knowledgeable",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3179445-Reviews-Messenger_s_Old_West_Museum-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheyenne Artists Guild",
- "address": "1701 Morrie Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/7d/31/26/getlstd-property-photo.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "art",
-  "unique",
-  "walking",
-  "art",
-  "walk",
-  "art",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d3861084-Reviews-Cheyenne_Artists_Guild-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Danielmark's Brewery and Tap Room",
- "address": "209 E 18th St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/91/5e/ed/great-tasting-room-layout.jpg"
- ],
- "tags": [
-  "food",
-  "free",
-  "food",
-  "family",
-  "food",
-  "free",
-  "brewery",
-  "free",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d10727033-Reviews-Danielmark_s_Brewery_and_Tap_Room-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mylar Park",
- "address": "5117 Seminoe Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/ad/aa/2b/fenced-in-goats-near.jpg"
- ],
- "tags": [
-  "parks",
-  "walk",
-  "parks",
-  "walk",
-  "parks",
-  "walk",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d10753881-Reviews-Mylar_Park-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Quebec 01 Missile Alert Facility",
- "address": "2025 Road 238",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "history",
-  "parks",
-  "tour",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d18913136-Reviews-Quebec_01_Missile_Alert_Facility-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lakeview Cemetery",
- "address": "Seymour Ave.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/08/80/97/lakeview-cemetery.jpg"
- ],
- "tags": [
-  "tour",
-  "walking",
-  "history",
-  "walking",
-  "walk",
-  "history",
-  "walk",
-  "tour",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d279405-Reviews-Lakeview_Cemetery-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Frontier Mall",
- "address": "1400 Dell Range Blvd",
- "avg_visitor_review": [
-  "3.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/48/87/94/getlstd-property-photo.jpg"
- ],
- "tags": [
-  "food",
-  "walk",
-  "unique",
-  "eat",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d6028483-Reviews-Frontier_Mall-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Big Country Speedway",
- "address": "4820 S Greeley Hwy",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/6f/f6/7a/big-country-speedway.jpg"
- ],
- "tags": [
-  "cheap",
-  "family",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g60439-d6163537-Reviews-Big_Country_Speedway-Cheyenne_Wyoming.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

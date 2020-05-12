@@ -31,6 +31,7 @@ var somethingChanged = false;
 var page_state = 1; // 1: search, 2: results, 3: itinerary
 
 // page loading
+var production = true;
 
 /*
 loadHome
@@ -175,8 +176,12 @@ function loadFile(filename, callback) {
     var xobj = new XMLHttpRequest();
 
     xobj.overrideMimeType("application/json");
-     // change to ../../ for local https://sjcomeau43543.github.io/TravelDome/ for online
-     xobj.open("GET", "https://sjcomeau43543.github.io/TravelDome/"+filename, true);
+     // change to ../../ for local https://sjcomeau43543.githu.io/TravelDome/ bfor online
+    if(production) {
+        xobj.open("GET", "https://sjcomeau43543.githu.io/TravelDome/"+filename, true);
+    } else {
+        xobj.open("GET", "../../"+filename, true);
+    }
     xobj.onreadystatechange = function () {
         if(xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -617,12 +622,25 @@ function activityDiv(activity, plusminus) {
     // photo
     for(var i=0; i<activity.photo_location.length; i++){
         if(activity.photo_location[i] !== null) {
+            if(activity.photo_location[i].includes("GoogleMapsPhotoAlbum")){
+                var photo = document.createElement("img");
+                photo.setAttribute("class", "sams-photoalbum");
+                photo.setAttribute("id", "photo"+activity.name);
+                if(production) {
+                    photo.setAttribute("src", "https://sjcomeau43543.github.io/TravelDome/GoogleMapsPhotoAlbum/"+activity.photo_location[i]);
+                } else {
+                    photo.setAttribute("src", "../../GoogleMapsPhotoAlbum/"+activity.photo_location[i]);
+                }
+                col1.appendChild(photo);
 
-            var photo = document.createElement("img");
-            photo.setAttribute("class", "sams-photoalbum");
-            photo.setAttribute("id", "photo"+activity.name);
-            photo.setAttribute("src", activity.photo_location[i]);
-            col1.appendChild(photo);
+            } else {
+                var photo = document.createElement("img");
+                photo.setAttribute("class", "sams-photoalbum");
+                photo.setAttribute("id", "photo"+activity.name);
+                photo.setAttribute("src", activity.photo_location[i]);
+                col1.appendChild(photo);
+
+            }
         }
     }
 

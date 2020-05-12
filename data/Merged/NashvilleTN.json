@@ -1,39 +1,4039 @@
 [
 {
- "name": "Madame Tussauds Nashville",
- "address": "515 Opry Mills Dr Opry Mills",
+ "name": "Grand Ole Opry",
+ "address": "2804 Opryland Dr, Nashville, TN 37214, USA",
  "avg_visitor_review": [
-  "4.5",
-  4.0
+  4.8,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/55/25/c7/img-20180618-105304-largejpg.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/8W6y3VRn7YQxrzHNzC5few/o.jpg"
+  "GoogleMapsPhotoLibrary/6f388bf6-9332-11ea-b074-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/2b/4a/5c/photo3jpg.jpg"
  ],
  "tags": [
-  "family",
+  "walk",
+  "learn",
+  "tour",
+  "history",
   "music",
-  "kids",
-  "kids",
-  "wander",
+  "walk",
+  "tour",
+  "music",
+  "tour",
+  "historic",
+  "history",
+  "sampling",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d106503-Reviews-Grand_Ole_Opry-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=2845966795787791477"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ryman Auditorium",
+ "address": "116 5th Ave N, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70092340-9332-11ea-9ca0-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/25/0d/86/ryman-auditorium.jpg"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "music",
+  "free",
+  "family",
+  "history",
+  "tour",
+  "theatre",
+  "historic",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d106496-Reviews-Ryman_Auditorium-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=7133835491838936491"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Country Music Hall of Fame and Museum",
+ "address": "222 5th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7f567592-9332-11ea-b9e6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/88/6c/a5/country-music-hall-of.jpg"
+ ],
+ "tags": [
+  "history",
   "music",
   "art",
   "music",
+  "learn",
+  "history",
+  "music",
+  "historic",
+  "history",
+  "music",
+  "tour",
+  "active",
+  "family"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d106493-Reviews-Country_Music_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=11941312864776359527"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Belle Meade Plantation",
+ "address": "5025 Harding Pike, Nashville, TN 37205, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/77662b34-9332-11ea-9d03-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/aa/8e/73/belle-meade-mansion.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "history",
+  "winery",
+  "tour",
+  "brewery",
+  "tour",
+  "tasting",
+  "field",
+  "learn",
+  "history",
+  "tour",
+  "tasting",
+  "delicious",
+  "tour",
+  "historic",
+  "history",
+  "affordable",
+  "family",
+  "library",
+  "walk",
+  "cheap",
+  "walking",
+  "food",
+  "unique",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d108042-Reviews-Belle_Meade_Plantation-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=7244420887945079455"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Jackson's Hermitage",
+ "address": "4580 Rachels Ln",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/52/64/front-view.jpg"
+ ],
+ "tags": [
+  "tour",
+  "structure",
+  "historic",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "tour",
+  "family",
+  "kids",
+  "tour",
+  "family",
+  "history",
+  "kids",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106501-Reviews-Andrew_Jackson_s_Hermitage-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Downtown Nashville",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/9a/1b/9a/downtown-nashville.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "music",
+  "walking",
+  "walk",
+  "music",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d1378948-Reviews-Downtown_Nashville-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Johnny Cash Museum",
+ "address": "119 3rd Ave S",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/80/e0/the-johnny-cash-museum.jpg"
+ ],
+ "tags": [
+  "kids",
+  "music",
+  "learn",
+  "family",
+  "food",
+  "tour",
+  "walk",
+  "music",
+  "family",
+  "history",
+  "music",
+  "music",
+  "learn",
+  "kids",
+  "performance",
+  "music",
+  "walk",
+  "music",
+  "walk",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d4177748-Reviews-The_Johnny_Cash_Museum-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "RCA Studio B",
+ "address": "1611 Roy Acuff Pl",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/27/36/44/20160125-142351-largejpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable",
+  "tour",
+  "music",
+  "history",
+  "tour",
+  "music",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "music",
+  "music",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106495-Reviews-RCA_Studio_B-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gaylord Opryland Resort Gardens",
+ "address": "2800 Opryland Drive",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/c7/ac/33/opryland-resort-gardens.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "walk",
+  "walk",
+  "walking",
+  "walking",
+  "walk",
+  "free",
+  "walking",
+  "walk",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d592251-Reviews-Gaylord_Opryland_Resort_Gardens-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Musicians Hall of Fame and Museum",
+ "address": "401 Gay St, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/7RjG651oL43t6zV8FTEpag/o.jpg",
+  "GoogleMapsPhotoLibrary/72c4475e-9332-11ea-99f6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/4c/dd/9e/musicians-hall-of-fame.jpg"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "cheap",
+  "kids",
+  "family",
+  "history",
+  "walking",
+  "walk",
+  "knowledgeable",
+  "learn",
+  "tour"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g55229-d621531-Reviews-Musicians_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
+   ],
+   "https://maps.google.com/?cid=9963223541041595752"
+  ],
+  "https://www.yelp.com/biz/musicians-hall-of-fame-and-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Nelson's Green Brier Distillery",
+ "address": "1414 Clinton St, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.8,
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7482914c-9332-11ea-8d7e-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/00/79/the-distillery.jpg"
+ ],
+ "tags": [
+  "family",
+  "learn",
+  "knowledgeable",
+  "tasting",
+  "history",
+  "tour",
+  "tour",
+  "family",
+  "tasting",
+  "history",
+  "tour",
+  "tasting",
+  "knowledgeable",
+  "learn",
+  "tour",
+  "tasting",
+  "history",
+  "drink",
+  "delicious"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d7305616-Reviews-Nelson_s_Green_Brier_Distillery-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=11422430528601746454"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Parthenon",
+ "address": "2500 West End Ave, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6fc2849a-9332-11ea-9f03-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/60/59/40/side-view.jpg"
+ ],
+ "tags": [
+  "free",
+  "library",
+  "structure",
+  "history",
+  "structure",
+  "walking",
+  "tour",
+  "art",
+  "walk",
+  "unique",
+  "parks",
+  "family",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d106498-Reviews-The_Parthenon-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=8139362955125514662"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ole Smoky Distillery",
+ "address": "423 6th Ave S",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/54/15/81/getlstd-property-photo.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "tasting",
+  "tasting",
+  "delicious",
+  "tasting",
+  "tasting",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d17406536-Reviews-Ole_Smoky_Distillery-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cheekwood",
+ "address": "1200 Forrest Park Dr, Nashville, TN 37205, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7230e0a6-9332-11ea-b691-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/65/10/8e/cheekwood-botanical-gardens.jpg"
+ ],
+ "tags": [
+  "walk",
+  "family",
+  "art",
+  "eat",
+  "walk",
+  "family",
+  "art",
+  "walk",
+  "learn",
+  "history",
+  "music",
+  "tour",
+  "walking",
+  "tour",
+  "family",
+  "history",
+  "historic",
+  "knowledgeable",
+  "food",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d109248-Reviews-Cheekwood-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=13992208353136058915"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Zoo",
+ "address": "3777 Nolensville Pike",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/77/a1/white-rhino-photo-by.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "kids",
+  "drink",
+  "kids",
+  "walking",
+  "kids",
+  "walking",
+  "food",
+  "active",
+  "walking",
+  "walk",
+  "active",
+  "cheap",
+  "kids",
+  "walk",
+  "unique",
+  "walking",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d108396-Reviews-Nashville_Zoo-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Centennial Park",
+ "address": "2500 West End Ave, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70699d4c-9332-11ea-9855-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/59/2b/1b/centennial-park.jpg"
+ ],
+ "tags": [
+  "art",
+  "food",
+  "walking",
+  "free",
+  "history",
+  "art",
+  "walk",
+  "eat",
+  "tour",
+  "music",
+  "family",
+  "kids",
+  "delicious",
+  "learn"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d105780-Reviews-Centennial_Park-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=17541516360761870548"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Belmont Mansion",
+ "address": "Acklen Avenue at Belmont Blvd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/9f/70/photo0jpg.jpg"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "music",
+  "knowledgeable",
+  "art",
+  "historic",
+  "history",
+  "tour",
+  "kids",
+  "art",
+  "walking",
+  "tour",
+  "family",
+  "historic",
+  "learn",
+  "knowledgeable",
+  "family",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d105782-Reviews-Belmont_Mansion-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Tennessee State Museum",
+ "address": "1000 Rosa L. Parks Blvd",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Pj11pvEVrZtS_1eenKcluw/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/f2/d1/b5/front-of-new-tennessee.jpg"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "history",
+  "music",
+  "wander",
+  "walking",
+  "historic",
+  "learn",
+  "walk",
+  "family",
+  "tour"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d139368-Reviews-Tennessee_State_Museum-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://www.yelp.com/biz/tennessee-state-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lane Motor Museum",
+ "address": "702 Murfreesboro Pike, Nashville, TN 37210, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/710607d2-9332-11ea-9b52-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/11/ba/2b/42/czechoslovakian-vehicles.jpg"
+ ],
+ "tags": [
+  "unique",
+  "unique",
+  "walking",
+  "family",
+  "history",
+  "tour",
+  "knowledgeable",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d664127-Reviews-Lane_Motor_Museum-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=9859121989056358689"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bridgestone Arena",
+ "address": "501 Broadway 41415 Justin Clinton Twp. Mi.48038",
+ "avg_visitor_review": [
+  4.0,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Xubilr3HKiXWXKVMC7cFZg/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/65/b0/3a/filename-img-1784-jpg.jpg"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "family",
+  "kids",
+  "free",
+  "music",
+  "walking",
+  "drink"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d108425-Reviews-Bridgestone_Arena-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://www.yelp.com/biz/bridgestone-arena-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "John Seigenthaler Pedestrian Bridge",
+ "address": "Nashville, TN 37213, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7318b858-9332-11ea-9a31-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/36/d2/59/skyline-to-the-left.jpg"
+ ],
+ "tags": [
+  "music",
+  "walking",
+  "walk",
+  "walk",
   "walk",
   "free"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/madame-tussauds-nashville-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d10533133-Reviews-John_Seigenthaler_Pedestrian_Bridge-Nashville_Davidson_County_Tennessee.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d12221658-Reviews-Madame_Tussauds_Nashville-Nashville_Davidson_County_Tennessee.html"
+  "https://maps.google.com/?cid=9447779123025571320"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frist Art Museum",
+ "address": "919 Broadway, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Dj-1Nx5gbumtNzqI7Lhczg/o.jpg",
+  "GoogleMapsPhotoLibrary/714cc652-9332-11ea-abca-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/e6/33/94/frist-art-museum-exterior.jpg"
+ ],
+ "tags": [
+  "free",
+  "art",
+  "kids",
+  "learn",
+  "music",
+  "historic",
+  "unique",
+  "tour",
+  "walk",
+  "family",
+  "history"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g55229-d216268-Reviews-Frist_Art_Museum-Nashville_Davidson_County_Tennessee.html"
+   ],
+   "https://maps.google.com/?cid=16659808873053781659"
+  ],
+  "https://www.yelp.com/biz/frist-art-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Radnor Lake State Park",
+ "address": "1160 Otter Creek Rd, Nashville, TN 37220, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/71e7b842-9332-11ea-bda5-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/ba/e1/c7/radnor-lake-state-park.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "nature",
+  "walk",
+  "free",
+  "walking",
+  "hike",
+  "nature",
+  "historic",
+  "history"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d207294-Reviews-Radnor_Lake_State_Park-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=14214199913383126306"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fontanel Mansion",
+ "address": "4125 Whites Creek Pike",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/a2/14/67/view-coming-up-driveway.jpg"
+ ],
+ "tags": [
+  "tour",
+  "music",
+  "history",
+  "knowledgeable",
+  "tour",
+  "family",
+  "tour",
+  "family",
+  "history",
+  "knowledgeable",
+  "music",
+  "tour",
+  "tour",
+  "delicious",
+  "unique",
+  "winery",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d2092245-Reviews-Fontanel_Mansion-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
   "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Madame Tussauds Nashville",
+ "address": "515 Opry Mills Dr, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/8W6y3VRn7YQxrzHNzC5few/o.jpg",
+  "GoogleMapsPhotoLibrary/73a17f2c-9332-11ea-84be-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/55/25/c7/img-20180618-105304-largejpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "music",
+  "free",
+  "history",
+  "eat",
+  "cheap",
+  "family",
+  "kids",
+  "wander",
+  "art",
+  "walk"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g55229-d12221658-Reviews-Madame_Tussauds_Nashville-Nashville_Davidson_County_Tennessee.html"
+   ],
+   "https://maps.google.com/?cid=1620238348461011238"
+  ],
+  "https://www.yelp.com/biz/madame-tussauds-nashville-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The District",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/41/08/4f/photo5jpg.jpg"
+ ],
+ "tags": [
+  "music",
+  "kids",
+  "music",
+  "music",
+  "walk",
+  "music",
+  "music",
+  "walking",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d106497-Reviews-The_District-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bicentennial Capitol Mall State Park",
+ "address": "600 James Robertson Pkwy, Nashville, TN 37243, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70b770f8-9332-11ea-b5c6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/48/c0/bicentennial-capitol.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "walk",
+  "learn",
+  "free",
+  "walk",
+  "food",
+  "unique",
+  "parks",
+  "music",
+  "history",
+  "tour",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d207248-Reviews-Bicentennial_Capitol_Mall_State_Park-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=10113675880784199210"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cooter\u2019s Museum and Store Nashville",
+ "address": "2613 McGavock Pike",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/e9/77/03/cooter-s-garage.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "walk",
+  "economical",
+  "walk",
+  "free",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d1165693-Reviews-Cooter_s_Museum_and_Store_Nashville-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The George Jones",
+ "address": "128 2nd Ave N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/49/1f/ab/the-george-jones-rooftop.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "music",
+  "music",
+  "walking",
+  "tour",
+  "music",
+  "food",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g55229-d8042439-Reviews-The_George_Jones-Nashville_Davidson_County_Tennessee.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Patsy Cline Museum",
+ "address": "119 3rd Ave S, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/763dff40-9332-11ea-928b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/fb/c8/love-the-cowgirl-costumes.jpg"
+ ],
+ "tags": [
+  "affordable",
+  "tour",
+  "active",
+  "cheap",
+  "performance",
+  "history",
+  "family",
+  "music",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g55229-d12281778-Reviews-Patsy_Cline_Museum-Nashville_Davidson_County_Tennessee.html"
+  ],
+  "https://maps.google.com/?cid=5331235669228123855"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Johnson",
+ "address": "\nAndrew Johnson National Historic Site\n121 Monument Ave.\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/anjo/crop16_9/A42C4A8D-1DD8-B71B-0B1C79E9A4EF6232.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//anjo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Big South Fork",
+ "address": "\n4564 Leatherwood Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//biso//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Chickamauga & Chattanooga",
+ "address": "\n3370 LaFayette Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/chch/crop16_9/12A12195-1DD8-B71B-0B98FBFA8A3D0086.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//chch//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Cumberland Gap",
+ "address": "\n91 Bartlett Park Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  null
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//cuga//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Donelson",
+ "address": "\n174 National Cemetery Drive\nPO Box 434\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//fodo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Great Smoky Mountains",
+ "address": "\n107 Park Headquarters Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grsm/crop16_9/42D5A0DE-1DD8-B71B-0B142ACA49A96CDE.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grsm//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Manhattan Project",
+ "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//mapr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Natchez Trace",
+ "address": "\n2680 Natchez Trace Parkway\n",
+ "avg_visitor_review": [
+  "",
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
+  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.nps.gov//natr//index.htm"
+  ],
+  "https://www.nps.gov//natt//index.htm"
+ ],
+ "source": [
+  [
+   "NPS"
+  ],
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Obed",
+ "address": "\n208 N. Maiden Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/obed/crop16_9/102ABD41-1DD8-B71B-0B3F66AA67361CF1.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "hospitable"
+ ],
+ "link": [
+  "https://www.nps.gov//obed//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Overmountain Victory",
+ "address": "\n338 New Pleasant Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//ovvi//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Shiloh",
+ "address": "\n1055 Pittsburg Landing Road\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//shil//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Stones River",
+ "address": "\n3501 Old Nashville Highway\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/stri/crop16_9/72C9CC35-1DD8-B71B-0BBD8005EAFC2363.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//stri//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Tennessee Civil War",
+ "address": "\n1416 E Main St\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/tecw/crop16_9/0C79B1AC-1DD8-B71B-0BE50D29D241817F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//tecw//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Trail Of Tears",
+ "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//trte//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Zoo at Grassmere",
+ "address": "3777 Nolensville Pike, Nashville, TN 37211, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6f7b2cdc-9332-11ea-b367-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "history",
+  "walk",
+  "kids",
+  "nature",
+  "walking",
+  "knowledgeable",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17729384407095934438"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Adventure Science Center",
+ "address": "800 Fort Negley Blvd, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7195b3e8-9332-11ea-8e1f-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "family",
+  "creative",
+  "kids",
+  "family",
+  "kids",
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2346075252042315831"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Symphony | Schermerhorn Symphony Center",
+ "address": "1 Symphony Pl, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/736056e4-9332-11ea-81d3-14b31f159f22.png"
+ ],
+ "tags": [
+  "performance",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4053383899035965594"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Historic RCA Studio B",
+ "address": "1611 Roy Acuff Pl, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/73e53f90-9332-11ea-bc0b-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "learn",
+  "tour",
+  "history",
+  "music",
+  "knowledgeable",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1274770268346624433"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Johnny Cash Museum & Cafe",
+ "address": "119 3rd Ave S, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7435aa00-9332-11ea-bc9e-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12701666461124076277"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Escape Game Nashville",
+ "address": "523 Opry Mills Dr, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  4.9,
+  4.9,
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7682cf6e-9332-11ea-ba33-14b31f159f22.png",
+  "GoogleMapsPhotoLibrary/75fc1434-9332-11ea-a548-14b31f159f22.png",
+  "GoogleMapsPhotoLibrary/74ccba7a-9332-11ea-be0a-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "cheap"
+ ],
+ "link": [
+  [
+   [
+    "https://maps.google.com/?cid=6413247128859262961"
+   ],
+   "https://maps.google.com/?cid=4404428304195323860"
+  ],
+  "https://maps.google.com/?cid=5450094686206779407"
+ ],
+ "source": [
+  [
+   [
+    "GoogleMaps"
+   ],
+   "GoogleMaps"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tootsies Orchid Lounge",
+ "address": "422 Broadway, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7510c7d4-9332-11ea-83ee-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "music",
+  "drink",
+  "music",
+  "performance"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2575564174631023828"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Honky Tonk Party Express Bus",
+ "address": "208 Broadway suite b, Nashville, TN 37210, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/756550ec-9332-11ea-b1a1-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "music",
+  "drink",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12316249276690398972"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Honky Tonk Highway",
+ "address": "Broadway, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/75ad2f4c-9332-11ea-a0a1-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "music",
+  "family",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1815400073359395367"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Convention & Visitors Corporation",
+ "address": "150 4th Ave N G-250, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/76ccd11e-9332-11ea-9609-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12288124331729079046"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "I BELIEVE IN NASHVILLE Mural",
+ "address": "2702 12th Ave S, Nashville, TN 37204, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/77109106-9332-11ea-9490-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1092149867514856123"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cumberland Park",
+ "address": "592 S 1st St, Nashville, TN 37213, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/77b499b4-9332-11ea-9437-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10936636824793438057"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tennessee Agricultural Museum",
+ "address": "404 Hogan Rd, Nashville, TN 37220, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/77faf2ba-9332-11ea-9d27-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "learn",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2740608718618082925"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Percy Warner Park",
+ "address": "50 Vaughn Rd, Nashville, TN 37221, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/78540e6c-9332-11ea-8ebd-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "walk",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5032905476192483345"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Music City Walk of Fame Park",
+ "address": "121 4th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/78997bee-9332-11ea-8c46-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "music",
+  "kids",
+  "family",
+  "kids",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11292262136222187955"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "General Jackson Showboat",
+ "address": "2812 Opryland Dr, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  3.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/Ubo4HxY2ROz_O5sg4yNRuQ/o.jpg",
+  "GoogleMapsPhotoLibrary/78e1f864-9332-11ea-9482-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "delicious",
+  "knowledgeable",
+  "food",
+  "music",
+  "performance"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=6043919699323735081"
+  ],
+  "https://www.yelp.com/biz/general-jackson-showboat-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Andrew Jackson\u2019s Hermitage",
+ "address": "4580 Rachels Ln, Hermitage, TN 37076, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/792baa92-9332-11ea-8f0d-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "tour",
+  "historic",
+  "history",
+  "walk",
+  "tour",
+  "history",
+  "learn",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7186269056876293187"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Public Square Park",
+ "address": "Union St & 3rd Ave N, Nashville, TN 37243, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/796928ba-9332-11ea-bdb7-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17440414322437007396"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hatch Show Print",
+ "address": "224 5th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/79bacc68-9332-11ea-a864-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "history",
+  "learn",
+  "unique",
+  "tour",
+  "history",
+  "tour",
+  "art",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9202142089970499160"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tennessee State Capitol",
+ "address": "600 Dr. M.L.K. Jr Blvd, Nashville, TN 37243, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7a0e69cc-9332-11ea-88b1-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "history",
+  "tour",
+  "family",
+  "learn",
+  "history",
+  "free",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1255106270164848382"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Centennial Dog Park",
+ "address": "2500 West End Ave, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7a516634-9332-11ea-96c9-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "free",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18122273450532605042"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Adventureworks Zipline Forest",
+ "address": "4129 Whites Creek Pike, Whites Creek, TN 37189, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7a9c7970-9332-11ea-a35b-14b31f159f22.png"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15755300992462666270"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Gulch | Nashville",
+ "address": "Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7aec5812-9332-11ea-b400-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "family",
+  "wander",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5796384747231400398"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fannie Mae Dees Park",
+ "address": "2400 Blakemore Ave, Nashville, TN 37212, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7b30dc54-9332-11ea-988a-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "art",
+  "historic",
+  "history",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14264875580919709699"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Escape Experience - Nashville Escape Games",
+ "address": "501 Union St, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7b897bf0-9332-11ea-aa67-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=2377775606260814407"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Treetop Adventure Park",
+ "address": "Nashville Shores, Hermitage, TN 37076, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7bd0b9a4-9332-11ea-9b6f-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "drink",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3686760555477748963"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "NashTrash Tours",
+ "address": "900 Rosa L Parks Blvd, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7c35a8b8-9332-11ea-8c11-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "history",
+  "music",
+  "history",
+  "music",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18304919560061386250"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Park",
+ "address": "100 1st Ave N, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7c8008f8-9332-11ea-bcf4-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "walk",
+  "walk",
+  "food",
+  "parks",
+  "music",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8929440521236858735"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Warner Park Nature Center",
+ "address": "7311 TN-100, Nashville, TN 37221, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7cd7eae6-9332-11ea-b845-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "nature",
+  "learn",
+  "hike",
+  "nature",
+  "walking",
+  "hike",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3637014716590459896"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Germantown | Nashville",
+ "address": "Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7d29b1f6-9332-11ea-a6b3-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=5680490591613282469"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Negley Park",
+ "address": "1100 Fort Negley Blvd, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7d81303e-9332-11ea-aa69-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "historic",
+  "history",
+  "tour",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10247717189385349106"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville WhatLiftsYou Wings Mural",
+ "address": "302 11th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7dd98446-9332-11ea-9538-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17920472479372343476"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Music City Escape Room",
+ "address": "2416 Music Valley Dr #135, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7e240b76-9332-11ea-b093-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9103216569132983595"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Nashboro",
+ "address": "170 1st Ave N, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7e6cacc0-9332-11ea-ab8f-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "music",
+  "learn",
+  "history",
+  "historic",
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7378062788924654031"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shelby Park",
+ "address": "Shelby Ave & S 20th St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7eb7ddfa-9332-11ea-ab6f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "active",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10520346930638352838"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cumberland River Pedestrian Bridge",
+ "address": "Cumberland River Pedestrian Bridge, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7f0f9798-9332-11ea-b054-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8788674925971289696"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shelby Bottoms Nature Center & Greenway",
+ "address": "1900 Shelby Bottoms Greenway, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7fa1b1b0-9332-11ea-ac66-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "family",
+  "nature",
+  "active",
+  "walk",
+  "kids",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5402378312337459223"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Nashville Shores Lakeside Resort",
+ "address": "4001 Bell Rd, Hermitage, TN 37076, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/800455ca-9332-11ea-b5c1-14b31f159f22.png"
+ ],
+ "tags": [
+  "economical"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1674821185632899988"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "12South Nashville",
+ "address": "12th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/804adffe-9332-11ea-8af8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "walking",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9585246209574363227"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Downtown Presbyterian Church",
+ "address": "154 5th Ave N, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8095a4e2-9332-11ea-b8e5-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "history",
+  "tour",
+  "history",
+  "structure",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17886522476630530516"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Off The Wagon Tractor Tours - Nashville Party Wagon",
+ "address": "533 Lafayette St, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/80e67d82-9332-11ea-876f-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "tour",
+  "drink",
+  "tour",
+  "music",
+  "drink",
+  "tour",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8960403765813111607"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Music City Crawler",
+ "address": "122 3rd Ave S, Nashville, TN 37210, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/81284018-9332-11ea-8c4a-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "tour",
+  "tour",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5822619441388847403"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Etch",
+ "address": "303 Demonbreun St, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8179bb6c-9332-11ea-a4f4-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "food",
+  "delicious",
+  "drink",
+  "food",
+  "adventurous",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6005516580883070453"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "TENN",
+ "address": "118 7th Ave N, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/81bd064c-9332-11ea-a252-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "walk",
+  "food",
+  "food",
+  "art",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11618221002982865441"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lockeland Table",
+ "address": "1520 Woodland St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8207a40a-9332-11ea-a3d9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "drink",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13236255427409060361"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Catbird Seat",
+ "address": "1711 Division St, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/82501ed8-9332-11ea-b0cf-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "hospitable",
+  "food",
+  "music",
+  "food",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4955667124652886318"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Husk",
+ "address": "37 Rutledge St, Nashville, TN 37210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/829cb864-9332-11ea-889d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "food",
+  "creative",
+  "food",
+  "creative",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=163690886611976298"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jeff Ruby's Steakhouse, Nashville",
+ "address": "300 4th Ave N, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/82f36434-9332-11ea-9259-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9749053997957150805"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maggiano's Little Italy",
+ "address": "3106 West End Ave, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/83415d36-9332-11ea-8464-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10803388429374629302"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rodizio Grill The Brazilian Steakhouse - Nashville (Dine-In Open May 13)",
+ "address": "166 2nd Ave N, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8388c6ee-9332-11ea-a4a0-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "drink",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11974468864369029861"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Stillery",
+ "address": "113 2nd Ave N, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/83da4270-9332-11ea-a1df-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "music",
+  "food",
+  "music",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12561200058311051231"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Midtown Cafe",
+ "address": "102 19th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/84215d9e-9332-11ea-bdd5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13203967795068645626"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rolf and Daughters",
+ "address": "700 Taylor St, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8464814c-9332-11ea-9b5e-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "food",
+  "knowledgeable",
+  "food",
+  "creative",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11966876047554416366"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Margot Cafe & Bar",
+ "address": "1017 Woodland St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/84b1de48-9332-11ea-a610-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7039934944988334645"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monell's",
+ "address": "1235 6th Ave N, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/84fbdfb0-9332-11ea-9eec-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "family",
+  "family",
+  "tasting",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5824665683740858933"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Henrietta Red",
+ "address": "1200 4th Ave N, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/iNfRGYwIQNNkYPz5moXZ8w/o.jpg",
+  "GoogleMapsPhotoLibrary/85414d52-9332-11ea-94b6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "creative",
+  "art"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=18137338139233472862"
+  ],
+  "https://www.yelp.com/biz/henrietta-red-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Butcher & Bee",
+ "address": "902 Main St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8588ddee-9332-11ea-9d37-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "drink",
+  "knowledgeable",
+  "food",
+  "creative",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18196430105044398388"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Skull's Rainbow Room",
+ "address": "222 Printers Alley, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/u2TMCHV7huRMUwqRV8Oc4Q/o.jpg",
+  "GoogleMapsPhotoLibrary/85d17ff4-9332-11ea-9399-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "food",
+  "drink",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=16599841109210531003"
+  ],
+  "https://www.yelp.com/biz/skulls-rainbow-room-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "M",
+ "address": "209 10th Ave S #223, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/861a6fe2-9332-11ea-9b80-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8778699558001504304"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sperry's Belle Meade",
+ "address": "5109 Harding Pike, Nashville, TN 37205, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/865f8fac-9332-11ea-a1ed-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "cheap",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17950265732363292155"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Wild Cow",
+ "address": "1100 Fatherland St SUITE 104 11/22, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/86b074b6-9332-11ea-a44a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "delicious",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15931984662883328265"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Darfons Restaurant & Lounge",
+ "address": "2810 Elm Hill Pike, Nashville, TN 37214, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/86f8a15a-9332-11ea-b3b0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4111325315517867543"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bakersfield Nashville Temporarily Closed",
+ "address": "201 3rd Ave S, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8746e8b8-9332-11ea-b6ba-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "active"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5554820453192343508"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Chef And I on Ninth",
+ "address": "611 9th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8793d6e4-9332-11ea-b24c-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "tasting",
+  "food",
+  "organized",
+  "delicious",
+  "tasting",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14001715934347532670"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "March\u00e9 Artisan Foods",
+ "address": "1000 Main St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/87e0dc30-9332-11ea-b9dd-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "family",
+  "food",
+  "family",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1783963493126300719"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Puckett's Grocery & Restaurant - Downtown Nashville",
+ "address": "500 Church St, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/884395fa-9332-11ea-9cde-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food",
+  "walking",
+  "eat",
+  "music",
+  "food",
+  "music",
+  "library",
+  "food",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6052646246245675915"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Peg Leg Porker BBQ",
+ "address": "903 Gleaves St, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/88905698-9332-11ea-b760-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15494490959652767891"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Five Points Pizza East",
+ "address": "1012 Woodland St, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/88ef66e8-9332-11ea-b4a8-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13254743005423165438"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Standard",
+ "address": "167 Rosa L Parks Blvd, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8936b6b8-9332-11ea-be48-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "food",
+  "unique",
+  "food",
+  "food",
+  "music",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4298314143845771189"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arnold's Country Kitchen",
+ "address": "605 8th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/89778250-9332-11ea-9666-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "food",
+  "food",
+  "walk",
+  "food",
+  "food",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17433571359055614162"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Josephine",
+ "address": "2316 12th Ave S, Nashville, TN 37204, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/89b94d66-9332-11ea-b035-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "walk",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10140286639077536837"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Peninsula",
+ "address": "1035 W Eastland Ave, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a013bee-9332-11ea-9415-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "unique",
+  "adventurous",
+  "delicious",
+  "food",
+  "creative",
+  "unique",
+  "family",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9236165273464804656"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chauhan Ale & Masala House",
+ "address": "123 12th Ave N, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a498a0c-9332-11ea-803d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "cheap",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15598054295373222350"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Barcelona Wine Bar",
+ "address": "1200 Villa Pl Suite 110, Nashville, TN 37212, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8a908580-9332-11ea-ab80-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10640080568784493123"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "etc. restaurant",
+ "address": "3790 Bedford Ave, Nashville, TN 37215, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8ae200ac-9332-11ea-b4a4-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16379723182526134513"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bastion",
+ "address": "434 Houston St STE 110, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b2a5502-9332-11ea-adf2-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "unique",
+  "food",
+  "drink",
+  "unique",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16881045256164078770"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Folk",
+ "address": "823 Meridian St, Nashville, TN 37207, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8b6eef12-9332-11ea-9d78-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "family",
+  "food",
+  "delicious",
+  "adventurous",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10384373980952784748"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Merchants",
+ "address": "401 Broadway, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8bb5d83a-9332-11ea-88f1-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "delicious",
+  "delicious",
+  "food",
+  "food",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5493754643826672356"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hattie B's Hot Chicken - Midtown Nashville, TN",
+ "address": "112 19th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8bfb24d2-9332-11ea-b18a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11608428533289486235"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tailor Nashville",
+ "address": "1300B 3rd Ave N, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8c413ef0-9332-11ea-837e-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "family",
+  "food",
+  "family",
+  "unique",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17333623771404454860"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Mockingbird",
+ "address": "121 12th Ave N, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8c896b94-9332-11ea-a6c9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "drink",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11229118178080628253"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hathorne",
+ "address": "4708 Charlotte Ave, Nashville, TN 37209, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8cd23040-9332-11ea-99a9-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "history",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9808566195725993643"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Martin's Bar-B-Que Joint",
+ "address": "410 4th Ave S, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8d15a1a2-9332-11ea-b257-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "walk",
+  "food",
+  "delicious",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7874948438422664866"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pita Plus Gyro",
+ "address": "12 Arcade Alley, Nashville, TN 37219, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8d6c3bc6-9332-11ea-9217-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "nature",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16175404157850831651"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lyra",
+ "address": "935 W Eastland Ave, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8dba9ea4-9332-11ea-8ace-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "unique",
+  "food",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13977836910845121369"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Butchertown Hall",
+ "address": "1416 4th Ave N, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8e0a8362-9332-11ea-9d69-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16596743898666201672"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Farm House",
+ "address": "210 Almond St, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8e576c80-9332-11ea-b1a5-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "drink",
+  "food",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9749908023053790209"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Geist Bar + Restaurant",
+ "address": "311 Jefferson St, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8eaf3746-9332-11ea-b17d-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6283827871733972836"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pancho & Lefty's Cantina",
+ "address": "104 5th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8ef82aa2-9332-11ea-835b-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8883562713907783455"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hattie B's Hot Chicken - West Nashville, TN",
+ "address": "5209 Charlotte Ave, Nashville, TN 37209, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f4141e4-9332-11ea-9895-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17419417628829805716"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sunda Nashville",
+ "address": "592 12th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8f89638a-9332-11ea-8a3f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17266092914237703789"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "5th & Taylor",
+ "address": "1411 5th Ave N, Nashville, TN 37208, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/4DcfBgY-zrF6ES4B_q31Iw/o.jpg",
+  "GoogleMapsPhotoLibrary/8fd4c4ac-9332-11ea-815d-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "drink",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=4075074709462803969"
+  ],
+  "https://www.yelp.com/biz/5th-and-taylor-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Treehouse",
+ "address": "1011 Clearview Ave, Nashville, TN 37206, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/902025d2-9332-11ea-8e4c-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11647371867141015089"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Redheaded Stranger",
+ "address": "305 Arrington St, Nashville, TN 37207, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/90674246-9332-11ea-b91f-14b31f159f22.png"
+ ],
+ "tags": [
+  "adventurous",
+  "food",
+  "creative",
+  "family",
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7641312763392378610"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Southern Steak & Oyster",
+ "address": "150 3rd Ave S Ste 110, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/90b4510c-9332-11ea-ae71-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "music",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9196215542020637725"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kayne Prime Steakhouse",
+ "address": "1103 McGavock St, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/910001a2-9332-11ea-89df-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "food",
+  "food",
+  "delicious",
+  "walking",
+  "affordable",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3468578607035259348"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monell's At the Manor",
+ "address": "1400 Murfreesboro Pike, Nashville, TN 37217, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/91445436-9332-11ea-af28-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1125099886339603403"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pastaria",
+ "address": "8 City Blvd, Nashville, TN 37209, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/919364b6-9332-11ea-9ad0-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6717253363176468627"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Black Rabbit",
+ "address": "218 3rd Ave N, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/91dde00a-9332-11ea-a660-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "eat",
+  "music",
+  "comforting",
+  "food",
+  "comforting",
+  "food",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6598156990594838723"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Acme Feed & Seed",
+ "address": "101 Broadway, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/q_Ia3PokAVaVXLuR_t4Zjg/o.jpg",
+  "GoogleMapsPhotoLibrary/922fd2d8-9332-11ea-9835-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "music",
+  "cheap",
+  "food",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=7044471688452009327"
+  ],
+  "https://www.yelp.com/biz/acme-feed-and-seed-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Melting Pot",
+ "address": "166 2nd Ave N ste a, Nashville, TN 37201, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9279a9f6-9332-11ea-9def-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "learn",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5868718001000996950"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Trattoria Il Mulino",
+ "address": "144 5th Ave S, Nashville, TN 37203, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/92c2d99a-9332-11ea-bbeb-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "eat",
+  "food",
+  "food",
+  "family",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3212241208059713192"
+ ],
+ "source": [
+  "GoogleMaps"
  ],
  "reviews": []
 },{
@@ -495,64 +4495,6 @@
  ],
  "reviews": []
 },{
- "name": "5th & Taylor",
- "address": "1411 5th Ave N",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/4DcfBgY-zrF6ES4B_q31Iw/o.jpg"
- ],
- "tags": [
-  "family",
-  "walking"
- ],
- "link": [
-  "https://www.yelp.com/biz/5th-and-taylor-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bridgestone Arena",
- "address": "501 Broadway 41415 Justin Clinton Twp. Mi.48038",
- "avg_visitor_review": [
-  "4.5",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/65/b0/3a/filename-img-1784-jpg.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Xubilr3HKiXWXKVMC7cFZg/o.jpg"
- ],
- "tags": [
-  "food",
-  "affordable",
-  "family",
-  "kids",
-  "free",
-  "music",
-  "walking",
-  "food",
-  "food",
-  "drink"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/bridgestone-arena-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d108425-Reviews-Bridgestone_Arena-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Marathon Village",
  "address": "1305 Clinton St",
  "avg_visitor_review": [
@@ -575,78 +4517,6 @@
  ],
  "reviews": []
 },{
- "name": "Henrietta Red",
- "address": "1200 4th Ave N",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/iNfRGYwIQNNkYPz5moXZ8w/o.jpg"
- ],
- "tags": [
-  "food",
-  "drink",
-  "creative"
- ],
- "link": [
-  "https://www.yelp.com/biz/henrietta-red-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Frist Art Museum",
- "address": "919 Broadway",
- "avg_visitor_review": [
-  "4.5",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/e6/33/94/frist-art-museum-exterior.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Dj-1Nx5gbumtNzqI7Lhczg/o.jpg"
- ],
- "tags": [
-  "art",
-  "learn",
-  "art",
-  "music",
-  "art",
-  "art",
-  "art",
-  "historic",
-  "unique",
-  "tour",
-  "art",
-  "historic",
-  "unique",
-  "tour",
-  "walk",
-  "art",
-  "music",
-  "family",
-  "history",
-  "art",
-  "music",
-  "art",
-  "free"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/frist-art-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d216268-Reviews-Frist_Art_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Shenanigoats Yoga",
  "address": "1046 Westchester Dr",
  "avg_visitor_review": [
@@ -659,28 +4529,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/shenanigoats-yoga-madison?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Skull's Rainbow Room",
- "address": "222 Printers Aly",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/u2TMCHV7huRMUwqRV8Oc4Q/o.jpg"
- ],
- "tags": [
-  "food",
-  "music",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/skulls-rainbow-room-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -746,50 +4594,6 @@
  ],
  "reviews": []
 },{
- "name": "Musicians Hall of Fame and Museum",
- "address": "401 Gay St",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/4c/dd/9e/musicians-hall-of-fame.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/7RjG651oL43t6zV8FTEpag/o.jpg"
- ],
- "tags": [
-  "music",
-  "history",
-  "music",
-  "walking",
-  "history",
-  "music",
-  "music",
-  "history",
-  "walk",
-  "walking",
-  "knowledgeable",
-  "music",
-  "learn",
-  "history",
-  "tour",
-  "knowledgeable",
-  "music"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/musicians-hall-of-fame-and-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d621531-Reviews-Musicians_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "The Adventure Park at Nashville",
  "address": "801 Percy Warner Blvd",
  "avg_visitor_review": [
@@ -805,51 +4609,6 @@
  ],
  "link": [
   "https://www.yelp.com/biz/the-adventure-park-at-nashville-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Acme Feed & Seed",
- "address": "101 Broadway",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/q_Ia3PokAVaVXLuR_t4Zjg/o.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "music",
-  "cheap",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/acme-feed-and-seed-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "General Jackson Showboat",
- "address": "2812 Opryland Dr",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Ubo4HxY2ROz_O5sg4yNRuQ/o.jpg"
- ],
- "tags": [
-  "family",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/general-jackson-showboat-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -1074,54 +4833,6 @@
  ],
  "reviews": []
 },{
- "name": "Tennessee State Museum",
- "address": "1000 Rosa L. Parks Blvd",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/f2/d1/b5/front-of-new-tennessee.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/Pj11pvEVrZtS_1eenKcluw/o.jpg"
- ],
- "tags": [
-  "music",
-  "wander",
-  "walking",
-  "history",
-  "free",
-  "historic",
-  "learn",
-  "history",
-  "free",
-  "history",
-  "walk",
-  "free",
-  "family",
-  "learn",
-  "history",
-  "free",
-  "history",
-  "tour",
-  "history",
-  "walk",
-  "free"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/tennessee-state-museum-nashville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d139368-Reviews-Tennessee_State_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Higher Pursuits",
  "address": "3114 Cheeks Bend Rd",
  "avg_visitor_review": [
@@ -1139,1192 +4850,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Andrew Johnson",
- "address": "\nAndrew Johnson National Historic Site\n121 Monument Ave.\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/anjo/crop16_9/A42C4A8D-1DD8-B71B-0B1C79E9A4EF6232.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//anjo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Big South Fork",
- "address": "\n4564 Leatherwood Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/biso/crop16_9/071DA84C-A783-6789-A586A137247B399C.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//biso//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Chickamauga & Chattanooga",
- "address": "\n3370 LaFayette Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/chch/crop16_9/12A12195-1DD8-B71B-0B98FBFA8A3D0086.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//chch//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Cumberland Gap",
- "address": "\n91 Bartlett Park Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  null
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//cuga//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Fort Donelson",
- "address": "\n174 National Cemetery Drive\nPO Box 434\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/fodo/crop16_9/4D864C4D-1DD8-B71B-0B0A61067B208560.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//fodo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Great Smoky Mountains",
- "address": "\n107 Park Headquarters Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grsm/crop16_9/42D5A0DE-1DD8-B71B-0B142ACA49A96CDE.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grsm//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Manhattan Project",
- "address": "\nManhattan Project National Historical Park\nc/o NPS Intermountain Regional Office\nP.O. Box 25287\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/mapr/crop16_9/6CBD908C-1DD8-B71B-0B91A6F11E3C1697.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//mapr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Natchez Trace",
- "address": "\n2680 Natchez Trace Parkway\n",
- "avg_visitor_review": [
-  "",
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=950&quality=90&mode=crop",
-  "https://www.nps.gov//common/uploads/grid_builder/natr/crop16_9/D438D336-1DD8-B71B-0B9BEA2135423214.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.nps.gov//natr//index.htm"
-  ],
-  "https://www.nps.gov//natt//index.htm"
- ],
- "source": [
-  [
-   "NPS"
-  ],
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Obed",
- "address": "\n208 N. Maiden Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/obed/crop16_9/102ABD41-1DD8-B71B-0B3F66AA67361CF1.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "hospitable"
- ],
- "link": [
-  "https://www.nps.gov//obed//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Overmountain Victory",
- "address": "\n338 New Pleasant Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/ovvi/crop16_9/FF7F56DB-1DD8-B71B-0B9201A7591EAC86.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//ovvi//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Shiloh",
- "address": "\n1055 Pittsburg Landing Road\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/shil/crop16_9/DAF959BA-1DD8-B71B-0BE10EBFBD3334F4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//shil//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Stones River",
- "address": "\n3501 Old Nashville Highway\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/stri/crop16_9/72C9CC35-1DD8-B71B-0BBD8005EAFC2363.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//stri//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Tennessee Civil War",
- "address": "\n1416 E Main St\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/tecw/crop16_9/0C79B1AC-1DD8-B71B-0BE50D29D241817F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//tecw//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Trail Of Tears",
- "address": "\nNational Trails\nTrail of Tears National Historic Trail\nPO Box 728\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/trte/crop16_9/CA8E89C8-E240-04EA-3726F955582CD8B3.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//trte//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Grand Ole Opry",
- "address": "2804 Opryland Drive",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/2b/4a/5c/photo3jpg.jpg"
- ],
- "tags": [
-  "music",
-  "sampling",
-  "tour",
-  "music",
-  "tour",
-  "free",
-  "tour",
-  "music",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106503-Reviews-Grand_Ole_Opry-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ryman Auditorium",
- "address": "116 Fifth Ave N",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/25/0d/86/ryman-auditorium.jpg"
- ],
- "tags": [
-  "family",
-  "music",
-  "history",
-  "tour",
-  "theatre",
-  "history",
-  "family",
-  "music",
-  "history",
-  "historic",
-  "music",
-  "music",
-  "history",
-  "tour",
-  "history",
-  "free",
-  "tour",
-  "history",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106496-Reviews-Ryman_Auditorium-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Country Music Hall of Fame and Museum",
- "address": "222 Fifth Avenue South",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/88/6c/a5/country-music-hall-of.jpg"
- ],
- "tags": [
-  "tour",
-  "active",
-  "music",
-  "history",
-  "historic",
-  "music",
-  "tour",
-  "history",
-  "music",
-  "music",
-  "family",
-  "music",
-  "history",
-  "history",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106493-Reviews-Country_Music_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Belle Meade Plantation",
- "address": "110 Leake Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/aa/8e/73/belle-meade-mansion.jpg"
- ],
- "tags": [
-  "tour",
-  "affordable",
-  "tasting",
-  "tour",
-  "history",
-  "family",
-  "historic",
-  "library",
-  "winery",
-  "tour",
-  "tasting",
-  "walk",
-  "cheap",
-  "history",
-  "delicious",
-  "tour",
-  "walking",
-  "tasting",
-  "history",
-  "winery",
-  "tour",
-  "tasting",
-  "cheap",
-  "winery",
-  "food",
-  "tour",
-  "family",
-  "history",
-  "delicious",
-  "unique",
-  "tour",
-  "history",
-  "tour",
-  "unique",
-  "history",
-  "knowledgeable",
-  "tour",
-  "history",
-  "tasting"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d108042-Reviews-Belle_Meade_Plantation-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Andrew Jackson's Hermitage",
- "address": "4580 Rachels Ln",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/16/e0/52/64/front-view.jpg"
- ],
- "tags": [
-  "tour",
-  "structure",
-  "historic",
-  "history",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "tour",
-  "family",
-  "kids",
-  "tour",
-  "family",
-  "history",
-  "kids",
-  "learn",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106501-Reviews-Andrew_Jackson_s_Hermitage-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Downtown Nashville",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/9a/1b/9a/downtown-nashville.jpg"
- ],
- "tags": [
-  "music",
-  "music",
-  "music",
-  "walking",
-  "walk",
-  "music",
-  "family",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d1378948-Reviews-Downtown_Nashville-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Johnny Cash Museum",
- "address": "119 3rd Ave S",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/80/e0/the-johnny-cash-museum.jpg"
- ],
- "tags": [
-  "kids",
-  "music",
-  "learn",
-  "family",
-  "food",
-  "tour",
-  "walk",
-  "music",
-  "family",
-  "history",
-  "music",
-  "music",
-  "learn",
-  "kids",
-  "performance",
-  "music",
-  "walk",
-  "music",
-  "walk",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d4177748-Reviews-The_Johnny_Cash_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "RCA Studio B",
- "address": "1611 Roy Acuff Pl",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/27/36/44/20160125-142351-largejpg.jpg"
- ],
- "tags": [
-  "tour",
-  "knowledgeable",
-  "tour",
-  "music",
-  "history",
-  "tour",
-  "music",
-  "history",
-  "knowledgeable",
-  "tour",
-  "tour",
-  "music",
-  "music",
-  "tour",
-  "knowledgeable",
-  "tour",
-  "tour",
-  "knowledgeable",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106495-Reviews-RCA_Studio_B-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Gaylord Opryland Resort Gardens",
- "address": "2800 Opryland Drive",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/c7/ac/33/opryland-resort-gardens.jpg"
- ],
- "tags": [
-  "tour",
-  "walk",
-  "walk",
-  "walk",
-  "walking",
-  "walking",
-  "walk",
-  "free",
-  "walking",
-  "walk",
-  "eat",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d592251-Reviews-Gaylord_Opryland_Resort_Gardens-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nelson's Green Brier Distillery",
- "address": "1414 Clinton St",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/00/79/the-distillery.jpg"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "family",
-  "history",
-  "tasting",
-  "tour",
-  "learn",
-  "family",
-  "history",
-  "drink",
-  "tour",
-  "tasting",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "tasting",
-  "knowledgeable",
-  "tour",
-  "tasting",
-  "knowledgeable",
-  "history",
-  "family",
-  "delicious",
-  "drink",
-  "tour",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d7305616-Reviews-Nelson_s_Green_Brier_Distillery-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Parthenon",
- "address": "2600 W End Ave Centennial Park",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/60/59/40/side-view.jpg"
- ],
- "tags": [
-  "history",
-  "tour",
-  "unique",
-  "parks",
-  "free",
-  "art",
-  "art",
-  "structure",
-  "history",
-  "free",
-  "family",
-  "eat",
-  "walk",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106498-Reviews-The_Parthenon-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ole Smoky Distillery",
- "address": "423 6th Ave S",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/54/15/81/getlstd-property-photo.jpg"
- ],
- "tags": [
-  "tasting",
-  "tasting",
-  "tasting",
-  "delicious",
-  "tasting",
-  "tasting",
-  "food",
-  "tasting"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d17406536-Reviews-Ole_Smoky_Distillery-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cheekwood",
- "address": "1200 Forrest Park Dr",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/65/10/8e/cheekwood-botanical-gardens.jpg"
- ],
- "tags": [
-  "art",
-  "historic",
-  "family",
-  "tour",
-  "tour",
-  "knowledgeable",
-  "food",
-  "walk",
-  "tour",
-  "walk",
-  "tour",
-  "walk",
-  "tour",
-  "food",
-  "kids",
-  "art",
-  "art",
-  "art",
-  "art",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d109248-Reviews-Cheekwood-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nashville Zoo",
- "address": "3777 Nolensville Pike",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/77/a1/white-rhino-photo-by.jpg"
- ],
- "tags": [
-  "family",
-  "food",
-  "kids",
-  "drink",
-  "kids",
-  "walking",
-  "kids",
-  "walking",
-  "food",
-  "active",
-  "walking",
-  "walk",
-  "active",
-  "cheap",
-  "kids",
-  "walk",
-  "unique",
-  "walking",
-  "kids",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d108396-Reviews-Nashville_Zoo-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Centennial Park",
- "address": "2500 W End Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/59/2b/1b/centennial-park.jpg"
- ],
- "tags": [
-  "art",
-  "eat",
-  "tour",
-  "walk",
-  "free",
-  "walking",
-  "art",
-  "music",
-  "food",
-  "family",
-  "kids",
-  "kids",
-  "delicious",
-  "free",
-  "learn",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d105780-Reviews-Centennial_Park-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Belmont Mansion",
- "address": "Acklen Avenue at Belmont Blvd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/9f/70/photo0jpg.jpg"
- ],
- "tags": [
-  "tour",
-  "family",
-  "history",
-  "knowledgeable",
-  "tour",
-  "music",
-  "knowledgeable",
-  "art",
-  "historic",
-  "history",
-  "tour",
-  "kids",
-  "art",
-  "walking",
-  "tour",
-  "family",
-  "historic",
-  "learn",
-  "knowledgeable",
-  "family",
-  "history",
-  "knowledgeable",
-  "tour",
-  "tour",
-  "history",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d105782-Reviews-Belmont_Mansion-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lane Motor Museum",
- "address": "702 Murfreesboro Pike",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/11/ba/2b/42/czechoslovakian-vehicles.jpg"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "knowledgeable",
-  "unique",
-  "unique",
-  "historic",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d664127-Reviews-Lane_Motor_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "John Seigenthaler Pedestrian Bridge",
- "address": "Cumberland River",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/36/d2/59/skyline-to-the-left.jpg"
- ],
- "tags": [
-  "walk",
-  "walk",
-  "walking",
-  "free",
-  "walk",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d10533133-Reviews-John_Seigenthaler_Pedestrian_Bridge-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Radnor Lake State Park",
- "address": "1160 Otter Creek Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/ba/e1/c7/radnor-lake-state-park.jpg"
- ],
- "tags": [
-  "historic",
-  "nature",
-  "hike",
-  "walk",
-  "walk",
-  "walking",
-  "walk",
-  "hike",
-  "walk",
-  "nature",
-  "history",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d207294-Reviews-Radnor_Lake_State_Park-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Fontanel Mansion",
- "address": "4125 Whites Creek Pike",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/a2/14/67/view-coming-up-driveway.jpg"
- ],
- "tags": [
-  "tour",
-  "music",
-  "history",
-  "knowledgeable",
-  "tour",
-  "family",
-  "tour",
-  "family",
-  "history",
-  "knowledgeable",
-  "music",
-  "tour",
-  "tour",
-  "delicious",
-  "unique",
-  "winery",
-  "food",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d2092245-Reviews-Fontanel_Mansion-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The District",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0e/41/08/4f/photo5jpg.jpg"
- ],
- "tags": [
-  "music",
-  "kids",
-  "music",
-  "music",
-  "walk",
-  "music",
-  "music",
-  "walking",
-  "food",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d106497-Reviews-The_District-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bicentennial Capitol Mall State Park",
- "address": "600 James Robertson Pkwy",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/37/48/c0/bicentennial-capitol.jpg"
- ],
- "tags": [
-  "unique",
-  "music",
-  "history",
-  "tour",
-  "walking",
-  "walk",
-  "history",
-  "walk",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d207248-Reviews-Bicentennial_Capitol_Mall_State_Park-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cooter\u2019s Museum and Store Nashville",
- "address": "2613 McGavock Pike",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/e9/77/03/cooter-s-garage.jpg"
- ],
- "tags": [
-  "knowledgeable",
-  "walk",
-  "economical",
-  "walk",
-  "free",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d1165693-Reviews-Cooter_s_Museum_and_Store_Nashville-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The George Jones",
- "address": "128 2nd Ave N",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/49/1f/ab/the-george-jones-rooftop.jpg"
- ],
- "tags": [
-  "music",
-  "food",
-  "delicious",
-  "food",
-  "delicious",
-  "music",
-  "music",
-  "walking",
-  "tour",
-  "music",
-  "food",
-  "food",
-  "tasting"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d8042439-Reviews-The_George_Jones-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Patsy Cline Museum",
- "address": "119 3rd Ave S 2nd Level",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/fb/c8/love-the-cowgirl-costumes.jpg"
- ],
- "tags": [
-  "tour",
-  "active",
-  "cheap",
-  "performance",
-  "history",
-  "family",
-  "music",
-  "history",
-  "music",
-  "walk",
-  "music",
-  "family",
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g55229-d12281778-Reviews-Patsy_Cline_Museum-Nashville_Davidson_County_Tennessee.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

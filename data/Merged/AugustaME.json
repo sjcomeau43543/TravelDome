@@ -1,5 +1,3272 @@
 [
 {
+ "name": "Maine State Museum",
+ "address": "230 State St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fcc9914c-932d-11ea-bfea-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/70/27/77/maine-state-museum.jpg"
+ ],
+ "tags": [
+  "field",
+  "kids",
+  "affordable",
+  "history",
+  "affordable",
+  "field",
+  "library",
+  "walk",
+  "free",
+  "family",
+  "learn"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d104045-Reviews-Maine_State_Museum-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=4361433094976593476"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "State Capitol",
+ "address": "State Street",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/fb/d9/99/state-capitol.jpg"
+ ],
+ "tags": [
+  "historic",
+  "art",
+  "tour",
+  "knowledgeable",
+  "free",
+  "free",
+  "tour",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d290343-Reviews-State_Capitol-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Western",
+ "address": "16 Cony St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/94/a5/4f/old-fort-western.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour",
+  "history",
+  "tour",
+  "kids",
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105315-Reviews-Fort_Western-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Viles Arboretum",
+ "address": "153 Hospital St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fd697a1c-932d-11ea-971f-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/6f/f5/01/pine-tree-state-arboretum.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "family",
+  "kids",
+  "walk",
+  "family",
+  "art",
+  "unique",
+  "walking",
+  "unique",
+  "walking",
+  "learn",
+  "field"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d105323-Reviews-Viles_Arboretum-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=15812197159430686551"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Governor Hill Mansion",
+ "address": "136 State St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/bd/ef/64/grand-facility.jpg"
+ ],
+ "tags": [
+  "history",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105318-Reviews-The_Governor_Hill_Mansion-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol Park",
+ "address": "33 Union St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fd1b314c-932d-11ea-a95c-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/4a/ab/f9/sun-and-shade-on-the.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d105321-Reviews-Capitol_Park-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=3060899639855906576"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Augusta Civic Center",
+ "address": "",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105325-Reviews-Augusta_Civic_Center-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "State House",
+ "address": "",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/f1/a8/be/maine-state-capitol-building.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "walk",
+  "tour",
+  "kids",
+  "tour",
+  "library",
+  "knowledgeable",
+  "food",
+  "kids",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105316-Reviews-State_House-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Children's Discovery Museum",
+ "address": "171 Capitol St #2, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.1,
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fe074392-932d-11ea-a494-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/ee/68/0f/inside.jpg"
+ ],
+ "tags": [
+  "learn",
+  "kids",
+  "kids",
+  "learn",
+  "kids",
+  "kids",
+  "art"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d105326-Reviews-Children_s_Discovery_Museum-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=9960810038590303944"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sonny's Museum",
+ "address": "228 Water St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/e6/fe/4b/photo0jpg.jpg"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d3443124-Reviews-Sonny_s_Museum-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Post Office",
+ "address": "295 Water Street",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/1e/b6/arches-and-pillars-closer.jpg"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "historic",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d12537865-Reviews-Old_Post_Office-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Samantha Smith",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/a3/03/the-bear-represents-both.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d105320-Reviews-Samantha_Smith-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Holocaust Human Rights Center of Maine",
+ "address": "46 University Dr University of Maine at Augusta",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "free",
+  "learn",
+  "knowledgeable",
+  "art",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d648849-Reviews-Holocaust_Human_Rights_Center_of_Maine-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Marketplace at Augusta",
+ "address": "197 Civic Center Dr",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d15640152-Reviews-Marketplace_at_Augusta-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bond Brook Trails",
+ "address": "Tall Pines Way Off Bond Brook Road",
+ "avg_visitor_review": [
+  "3.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [
+  "hike",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g29485-d10285794-Reviews-Bond_Brook_Trails-Augusta_Maine.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "First Amendment Museum at the Gannett House",
+ "address": "184 State St #6406, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  5,
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "",
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d20841116-Reviews-First_Amendment_Museum_at_the_Gannett_House-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=11976985848409241196"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Colburn House State Historic Site",
+ "address": "Arnold Rd, Pittston, ME 04345, USA",
+ "avg_visitor_review": [
+  4.7,
+  null
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/02c60986-932e-11ea-b6ff-14b31f159f22.png",
+  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
+ ],
+ "tags": [],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g29485-d13120767-Reviews-Colburn_House_State_Historic_Site-Augusta_Maine.html"
+  ],
+  "https://maps.google.com/?cid=2186835758747921804"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Acadia",
+ "address": "\nPO Box 177\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/acad/crop16_9/E829C391-1DD8-B71B-0B2405E816BE7996.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//acad//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Appalachian",
+ "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//appa//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Katahdin Woods and Waters",
+ "address": "\nPO Box 446\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/kaww/crop16_9/F55CE26A-1DD8-B71B-0B3CE4E4C75A5456.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//kaww//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Maine Acadian Culture",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/maac/crop16_9/540EA35E-1DD8-B71B-0BE7F98115C96A3A.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//maac//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Roosevelt Campobello",
+ "address": null,
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/roca/crop16_9/CE79CC35-1DD8-B71B-0B16B1ACC82FA7BD.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "family",
+  "active"
+ ],
+ "link": [
+  "https://www.nps.gov//roca//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Croix Island",
+ "address": "\nPO Box 247\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sacr/crop16_9/265ACB51-1DD8-B71B-0BCDBE4BE3A30431.jpg?width=307&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//sacr//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Old Fort Western",
+ "address": "16 Cony St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fdad8934-932d-11ea-a7f3-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "history",
+  "field",
+  "learn",
+  "history",
+  "food",
+  "tour",
+  "historic",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4463324670722088308"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Blaine House",
+ "address": "192 State St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/fe69145e-932d-11ea-99fa-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=985620600951819869"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mill Park",
+ "address": "2-32 ME-104, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/LAmms0VnhdF-sLFGd55tUQ/o.jpg",
+  "GoogleMapsPhotoLibrary/feb86e86-932d-11ea-be65-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=6992894351569937216"
+  ],
+  "https://www.yelp.com/biz/mill-park-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Williams Park",
+ "address": "59 Bangor St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ff086482-932d-11ea-8ae7-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12416310379948067588"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "DEW Haven | Maine Zoo and Rescue",
+ "address": "918 Pond Rd, Mt Vernon, ME 04352, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ff64bb4a-932d-11ea-93bb-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "family",
+  "eat",
+  "cheap",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15814472253775381988"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sonny's Museum & Rock Shop",
+ "address": "226 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ffbf243a-932d-11ea-8dd4-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16288245349479506632"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Colby Museum of Art",
+ "address": "5600 Mayflower Hill Dr, Waterville, ME 04901, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/000b70ca-932e-11ea-a40a-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "art",
+  "free",
+  "free",
+  "art",
+  "free",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15839263013311796913"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Swan Island",
+ "address": "314 ME-24, Richmond, ME 04357, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/004e957a-932e-11ea-93b3-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "tour",
+  "food",
+  "learn",
+  "tour",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4596014230150020372"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Two Cent Bridge",
+ "address": "114 Benton Ave, Winslow, ME 04901, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/009eb2cc-932e-11ea-8271-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12193043914876085848"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hidden Valley Nature Center",
+ "address": "131 Egypt Rd, Jefferson, ME 04348, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/00f07dc6-932e-11ea-b04a-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "kids",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17180602394254740675"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Quarry Road Trails",
+ "address": "300 Quarry Rd, Waterville, ME 04901, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/01466786-932e-11ea-9923-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16974725770876908396"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Monkey C Monkey Do",
+ "address": "698 Bath Rd, Wiscasset, ME 04578, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0193777e-932e-11ea-89ec-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=225791564911357833"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Damariscotta Lake State Park",
+ "address": "8 State Park Road, Jefferson, ME 04348, USA",
+ "avg_visitor_review": [
+  5.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "",
+  "GoogleMapsPhotoLibrary/01fa7890-932e-11ea-9dbb-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=4617569511194039305"
+  ],
+  "https://www.yelp.com/biz/damariscotta-lake-state-park-jefferson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Boothbay Railway Village",
+ "address": "586 Wiscasset Rd, Boothbay, ME 04537, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/02623cda-932e-11ea-a7f4-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "historic"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1389181599436199236"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "French Mountain",
+ "address": "139 Watson Pond Rd, Rome, ME 04963, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/03339a64-932e-11ea-b1b4-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "kids",
+  "hike",
+  "kids",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3639378211450570770"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Coastal Maine Botanical Gardens",
+ "address": "132 Botanical Gardens Dr, Boothbay, ME 04537, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0388c0d4-932e-11ea-b29b-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "nature",
+  "walk",
+  "kids",
+  "family",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13901869658567484886"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Halifax State Historic Site",
+ "address": "US-201, Winslow, ME 04901, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/03dde736-932e-11ea-93a9-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "walking",
+  "family",
+  "kids",
+  "kids",
+  "library"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2546070502825694777"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maine State Aquarium",
+ "address": "McKown Point Rd, West Boothbay Harbor, ME 04575, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/042d4136-932e-11ea-b61c-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=13652052423323559185"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Project Puffin Audubon Center",
+ "address": "311 Main St, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/047a9f6e-932e-11ea-ab5a-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18395729787124603960"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wiscasset, Waterville and Farmington Railway Museum",
+ "address": "97 Cross Rd, Alna, ME 04535, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/04c2f43a-932e-11ea-ae11-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "kids",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11089568695762623391"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Coastal Children's Museum",
+ "address": "75 Mechanic St, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0508ff1e-932e-11ea-83eb-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=862880367785607052"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olson House",
+ "address": "384 Hathorne Point Rd, Cushing, ME 04563, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/05528d1e-932e-11ea-ba19-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "tour",
+  "history",
+  "tour",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1547928562614327763"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Edgecomb State Historic Site",
+ "address": "66 Fort Rd, Edgecomb, ME 04556, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/05a20d98-932e-11ea-b8ef-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "history",
+  "walk",
+  "kids",
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17309870546898180386"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Androscoggin Riverlands State Park",
+ "address": "Center Bridge Rd, Turner, ME 04282, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0604539a-932e-11ea-97a6-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2271163274039995065"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Penobscot Marine Museum",
+ "address": "2 Church St, Searsport, ME 04974, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/066e13da-932e-11ea-a6b1-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4119514734760694087"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Norlands Living History Center",
+ "address": "290 Norlands Rd, Livermore, ME 04253, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/06a9be66-932e-11ea-847e-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "history",
+  "unique",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7853713586359335820"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Titcomb Mountain",
+ "address": "180 Ski Slope Rd, Farmington, ME 04938, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/06f98d88-932e-11ea-81c9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4259619246917719230"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hacker's Hill Preserve",
+ "address": "174-238 Quaker Ridge Rd, Casco, ME 04015, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/07520f54-932e-11ea-9a73-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5609399988628725337"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rockland Breakwater Lighthouse",
+ "address": "44.104031, -69.077487, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/07b5b51a-932e-11ea-aaef-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "structure",
+  "walk",
+  "historic",
+  "history",
+  "kids",
+  "structure",
+  "tour",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9783667776509933237"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Knox and Penobscot Narrows Observatory",
+ "address": "740 Ft Knox Rd, Prospect, ME 04981, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08252668-932e-11ea-8a81-14b31f159f22.png"
+ ],
+ "tags": [
+  "active",
+  "walk",
+  "structure",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10867261102254308866"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maine Maritime Museum",
+ "address": "243 Washington St, Bath, ME 04530, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08a6e906-932e-11ea-ac06-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "family",
+  "tour",
+  "history",
+  "kids",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2877796578014114728"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lost Valley",
+ "address": "200 Lost Valley Rd, Auburn, ME 04210, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/08ff3810-932e-11ea-93c9-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "kids",
+  "learn",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1945498660576419472"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Reid State Park",
+ "address": "375 Seguinland Rd, Georgetown, ME 04548, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/094e1ce2-932e-11ea-ad60-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17281910660316716264"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Basilica of Saints Peter and Paul",
+ "address": "122 Ash St, Lewiston, ME 04240, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/09a3b864-932e-11ea-b192-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10107718778682369673"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Hallowell",
+ "address": "1 Winthrop St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0a05b038-932e-11ea-a4b4-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=7342142916304646290"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "South End Park",
+ "address": "347-399 Washington St, Bath, ME 04530, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0a553140-932e-11ea-b967-14b31f159f22.png"
+ ],
+ "tags": [
+  "pets",
+  "field",
+  "pets",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9793792223539752588"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cellardoor Winery",
+ "address": "367 Youngtown Rd, Lincolnville, ME 04849, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0aa96d5a-932e-11ea-afe8-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "winery",
+  "tasting",
+  "food",
+  "tasting",
+  "delicious",
+  "knowledgeable",
+  "tasting",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13569890101783578004"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pemaquid Point Lighthouse",
+ "address": "Bristol, ME 04554, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0aee18a8-932e-11ea-9d72-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14501166405752735470"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Camden Snow Bowl",
+ "address": "20 Barnestown Rd, Camden, ME 04843, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0b3eab14-932e-11ea-b784-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "food",
+  "free",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11774111055469917773"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Harbor Park",
+ "address": "1 Pleasant St, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0b8a0d7e-932e-11ea-9463-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "family",
+  "walk",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6254821591542480756"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Portland Head Lighthouse",
+ "address": "12 Captain Strout Cir, Cape Elizabeth, ME 04107, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0be7232c-932e-11ea-95f7-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "family",
+  "free",
+  "kids",
+  "family",
+  "history",
+  "food",
+  "kids",
+  "family",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12704858849280520255"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Farnsworth Art Museum",
+ "address": "16 Museum St, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0c39b182-932e-11ea-912f-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "walk",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6067560624680803952"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Auburn Recreation Parks Department",
+ "address": "48 Pettengill Park, Auburn, ME 04210, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0c847774-932e-11ea-a7bd-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "pets",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15950919657046986412"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wolfe's Neck Woods State Park",
+ "address": "426 Wolfe's Neck Rd, Freeport, ME 04032, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0ce021b6-932e-11ea-936c-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "organized"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13863618626868660252"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Barrett Park",
+ "address": "131 Lobster Cove Rd, Boothbay Harbor, ME 04538, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0d2e1aba-932e-11ea-9e0a-14b31f159f22.png"
+ ],
+ "tags": [
+  "pets",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17018528352730465012"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Owls Head Transportation Museum",
+ "address": "117 Museum St, Owls Head, ME 04854, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0d805ae4-932e-11ea-af69-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "unique",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1540344842091604918"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pemaquid Beach",
+ "address": "Pemaquid Beach Park, New Harbor, ME 04554, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0dd0173e-932e-11ea-b480-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5640086097984548200"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Colonial Pemaquid State Historic Site",
+ "address": "Colonial Pemaquid Dr, New Harbor, ME 04554, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0e2197d4-932e-11ea-a618-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "knowledgeable",
+  "historic"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1374818143795147993"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Maine Lighthouse Museum",
+ "address": "1 Park Dr, Rockland, ME 04841, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0e8da21c-932e-11ea-8802-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2283584492353370841"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boothbay Harbor Maine Puffin Cruises",
+ "address": "44 Commercial St, Boothbay Harbor, ME 04538, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0ef0361c-932e-11ea-91f4-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "knowledgeable",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10145687734188675846"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sabbathday Lake Shaker Village",
+ "address": "707 Shaker Rd, New Gloucester, ME 04260, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0f41b31a-932e-11ea-8450-14b31f159f22.png"
+ ],
+ "tags": [
+  "active",
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2572601980387692017"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bowdoin College Museum of Art",
+ "address": "245 Maine St, Brunswick, ME 04011, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0f859af8-932e-11ea-be06-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9542893197325339469"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Beaver Park",
+ "address": "Pinewoods Rd, Lisbon, ME 04250, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/0fd3203e-932e-11ea-b90b-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12110330181589048224"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Desert of Maine",
+ "address": "95 Desert Rd, Freeport, ME 04032, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/10300102-932e-11ea-9b4d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "tour",
+  "nature",
+  "tour",
+  "kids",
+  "tour",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14208195128294733185"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Oak Table and Bar",
+ "address": "233 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/107fd030-932e-11ea-9856-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "unique",
+  "approachable",
+  "unique",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15685240608226528108"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Otto's on the River",
+ "address": "287 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/10bc64ec-932e-11ea-958c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16239662218127578061"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Riverfront Barbeque & Grille",
+ "address": "300 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/110e7e0c-932e-11ea-8569-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "food",
+  "music",
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13256140490498920819"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Curry",
+ "address": "179 Mt Vernon Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1162ba2c-932e-11ea-97c4-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "tour",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4398908769920330043"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sandy Point Seafood",
+ "address": "146 Mt Vernon Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/11ac207a-932e-11ea-a604-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11854256864812967958"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "99 Restaurants",
+ "address": "281 Civic Center Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/11f5adf4-932e-11ea-af67-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "affordable",
+  "food",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9144525743548171863"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kume",
+ "address": "19 Stephen King Dr #1, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/123e7810-932e-11ea-b0ea-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "free",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9441273807435118501"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cloud 9 Restaurant",
+ "address": "284 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/128b8802-932e-11ea-b43f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6052748016270317359"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rebecca's Place",
+ "address": "434 Eastern Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/12ea99c2-932e-11ea-a641-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "kids",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13784734380418667226"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sweet Chilli Thai Restaurant",
+ "address": "75 Airport Rd, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/132ef700-932e-11ea-b16d-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17398435549687551649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Margaritas Mexican Restaurant",
+ "address": "390 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  3.0,
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/w-p52flzGEtZbjExUcVGXA/o.jpg",
+  "GoogleMapsPhotoLibrary/138b706c-932e-11ea-8126-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "delicious",
+  "drink",
+  "music"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=8659878154716809085"
+  ],
+  "https://www.yelp.com/biz/margaritas-mexican-restaurant-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Roadhouse",
+ "address": "26 Whitten Rd, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/13ebbaa2-932e-11ea-8b3a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1837843693870512632"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Augusta House of Pancakes",
+ "address": "100 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/14420370-932e-11ea-a2b9-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10721705106370666139"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lisa's Legit Burritos",
+ "address": "185 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/14a4977e-932e-11ea-b9e8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8349448689893352218"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Downtown Diner",
+ "address": "204 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1503f740-932e-11ea-95a8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17124817360456410188"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "LongHorn Steakhouse - Curbside To Go Available",
+ "address": "12 Stephen King Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/15694ac0-932e-11ea-8ff0-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11017302619483056715"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "COLLEGE CARRY-OUT",
+ "address": "126 Mt Vernon Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/15b60c92-932e-11ea-a801-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12310834474647056234"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Applebee's Grill + Bar",
+ "address": "136 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  3.5,
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/uUvadn0S-kB6_d-LpdOR8g/o.jpg",
+  "GoogleMapsPhotoLibrary/160391b4-932e-11ea-8291-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "drink",
+  "free"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=17299751516928092839"
+  ],
+  "https://www.yelp.com/biz/applebees-grill-bar-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Red Robin Gourmet Burgers and Brews",
+ "address": "52 Stephen King Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/164c34c8-932e-11ea-8ef8-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16710125156421799962"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Red Barn",
+ "address": "455 Riverside Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/16996bc2-932e-11ea-a3e6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3084911265510940069"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Whipper's Pizza",
+ "address": "9 Bangor St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/16e2d21e-932e-11ea-a06a-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16852769343270881693"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Antigoni's Pizza Augusta",
+ "address": "23 Bangor St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/173a1b6c-932e-11ea-a0d8-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11889296117255938610"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cushnoc Brewing Co.",
+ "address": "243 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1780264a-932e-11ea-986a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "tasting",
+  "brewery",
+  "food",
+  "brewery"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7578197617184162848"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lisa's Restaurant & Lounge",
+ "address": "15 Bangor St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/17c742d0-932e-11ea-8e54-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13995925235503301927"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Five Guys",
+ "address": "274 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1826f654-932e-11ea-9336-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "free",
+  "eat",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12108680258765235935"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olive Garden Italian Restaurant",
+ "address": "205 Civic Center Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/18784b58-932e-11ea-b4ba-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "delicious",
+  "food",
+  "walk",
+  "family",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12992564719388851707"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Black & Tan",
+ "address": "18 Bridge St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  3.5,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Daq3tP-Fp5lsKDhKJkDdhQ/o.jpg",
+  "GoogleMapsPhotoLibrary/18bb48fe-932e-11ea-b377-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "drink"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=3642290158818289514"
+  ],
+  "https://www.yelp.com/biz/the-black-and-tan-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Damon\u2019s Pizza and Italians",
+ "address": "244 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1903f09e-932e-11ea-8538-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17927473095021680940"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chipotle Mexican Grill",
+ "address": "1 Stephen King Dr Ste 10, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/195e476c-932e-11ea-a85f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13433760036017475279"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eastern Delight",
+ "address": "264 Eastern Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/19bedfac-932e-11ea-8e6c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13510856487699877893"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hott Dogg House",
+ "address": "170 Mt Vernon Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1a334aac-932e-11ea-8c85-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10337153648630107122"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Arby's",
+ "address": "219 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1a8c1a92-932e-11ea-b643-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=685925119529323823"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Amazing Garden",
+ "address": "57 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1ae8bb00-932e-11ea-be21-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10243306230421242245"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Two Maine Guys",
+ "address": "326 State St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1b3d20c2-932e-11ea-8899-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4640491688535162404"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Amato's Sandwich Shops",
+ "address": "34 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1b9d6b3a-932e-11ea-808e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7069346413663241089"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wander Pizza Company",
+ "address": "265 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1bf43f18-932e-11ea-94e4-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "wander",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8551710494184360046"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Tequila",
+ "address": "65 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1c4157cc-932e-11ea-af97-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=525826313092396068"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "End Zone",
+ "address": "315 Eastern Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1c8eb5ee-932e-11ea-88bb-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1575818289359547368"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Panera Bread",
+ "address": "37 Xavier Loop Suite 3, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1cdf6f64-932e-11ea-8e4c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "tasting",
+  "food",
+  "tasting",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15826759220175146450"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cross Cafe",
+ "address": "Burton M. Cross Building, 111 Sewall St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1d2bc548-932e-11ea-b8f4-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8513984308853024561"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chen's",
+ "address": "238 Northern Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1d811324-932e-11ea-b379-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food",
+  "cheap",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3205944953138235085"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Oyster Bar",
+ "address": "284 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1dc1050a-932e-11ea-bda1-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=11554379445768709273"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wrapped Up",
+ "address": "1 Hichborn St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1e0d7976-932e-11ea-9351-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12053274532556189856"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "207 Nutrition",
+ "address": "12 Shuman Ave #1, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1e62d0e8-932e-11ea-a11e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1277098598569817048"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Aunt Gin's Restaurant",
+ "address": "48 Augusta Rd, Whitefield, ME 04353, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1ea51064-932e-11ea-9ef5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "family",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9793901235582300958"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bento Sushi",
+ "address": "118 Cony St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1eecc910-932e-11ea-b40d-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=11935826837078348855"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Subway",
+ "address": "225 Western Ave, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1f3a5718-932e-11ea-9290-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5646458885984803271"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Denny's",
+ "address": "123 Civic Center Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1f97e206-932e-11ea-8631-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15593423239202444903"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Quarry Tap Room",
+ "address": "122 Water St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/1feee18c-932e-11ea-b6a2-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "family",
+  "food",
+  "food",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15523523838304236632"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Slate's",
+ "address": "161 Water St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2048f3ee-932e-11ea-bf06-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13370993790620633557"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Raging Bull Saloon",
+ "address": "228 Water St, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/sX7ZiHCRbgTSpDElNhOvOg/o.jpg",
+  "GoogleMapsPhotoLibrary/2093e21a-932e-11ea-8b5f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "music",
+  "family",
+  "cheap",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=18259091225194894415"
+  ],
+  "https://www.yelp.com/biz/the-raging-bull-saloon-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lucky Garden",
+ "address": "218 Water St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/20e583ac-932e-11ea-8841-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6358537587985302256"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Liberal Cup",
+ "address": "115 Water St #1, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/213579e8-932e-11ea-bdda-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10455623446812152990"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bolley's Famous Franks",
+ "address": "38 Water St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/218c9c48-932e-11ea-a249-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=264589717890386416"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caf\u00e9 De Bangkok",
+ "address": "232 Water St, Hallowell, ME 04347, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/21dce064-932e-11ea-bba5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5988390207907964153"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "AMATO'S",
+ "address": "867 Western Ave, Manchester, ME 04351, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/22225b68-932e-11ea-85d5-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=12518991704981069583"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frye House",
+ "address": "557 Maine Ave, Farmingdale, ME 04344, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/227601b8-932e-11ea-b250-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious",
+  "food",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14468000341876949414"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mughal Palace",
+ "address": "730 River Rd, Chelsea, ME 04330, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/22d07f40-932e-11ea-a1d5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4661173692960415298"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Circle K",
+ "address": "284 Civic Center Dr, Augusta, ME 04330, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/23211252-932e-11ea-9278-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=3643078669413779027"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mulligan's",
+ "address": "926 Western Ave, Manchester, ME 04351, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/237219e8-932e-11ea-bc49-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=940195665620383487"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
  "name": "Colby College Museum of Art",
  "address": "5600 Mayflower Hill Dr",
  "avg_visitor_review": [
@@ -61,24 +3328,6 @@
  ],
  "reviews": []
 },{
- "name": "Mill Park",
- "address": "1 Water St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/LAmms0VnhdF-sLFGd55tUQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/mill-park-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Camp Laurel",
  "address": "1218 Pond Rd",
  "avg_visitor_review": [
@@ -127,27 +3376,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/smiths-true-fitness-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Margaritas Mexican Restaurant",
- "address": "390 Western Ave",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/w-p52flzGEtZbjExUcVGXA/o.jpg"
- ],
- "tags": [
-  "food",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/margaritas-mexican-restaurant-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -464,50 +3692,6 @@
  ],
  "reviews": []
 },{
- "name": "Applebee's Grill + Bar",
- "address": "136 Western Ave",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/uUvadn0S-kB6_d-LpdOR8g/o.jpg"
- ],
- "tags": [
-  "delicious",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/applebees-grill-bar-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Raging Bull Saloon",
- "address": "228 Water St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/sX7ZiHCRbgTSpDElNhOvOg/o.jpg"
- ],
- "tags": [
-  "food",
-  "delicious",
-  "food",
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-raging-bull-saloon-augusta-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Cobbossee Beverage Shop",
  "address": "581 Maine Ave",
  "avg_visitor_review": [
@@ -574,26 +3758,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/richmond-dresden-bridge-richmond?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Damariscotta Lake State Park",
- "address": "8 State Park Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/damariscotta-lake-state-park-jefferson?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -813,24 +3977,6 @@
  ],
  "reviews": []
 },{
- "name": "The Black & Tan",
- "address": "18 Bridge St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/Daq3tP-Fp5lsKDhKJkDdhQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-black-and-tan-augusta?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Maine Boat Rental",
  "address": "1117 China Rd",
  "avg_visitor_review": [
@@ -961,534 +4107,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Acadia",
- "address": "\nPO Box 177\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/acad/crop16_9/E829C391-1DD8-B71B-0B2405E816BE7996.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//acad//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Appalachian",
- "address": "\nAppalachian Trail Park Office\nP.O. Box 50\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/appa/crop16_9/7439728A-1DD8-B71B-0B90C9CA77A75C7E.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//appa//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Katahdin Woods and Waters",
- "address": "\nPO Box 446\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/kaww/crop16_9/F55CE26A-1DD8-B71B-0B3CE4E4C75A5456.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//kaww//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Maine Acadian Culture",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/maac/crop16_9/540EA35E-1DD8-B71B-0BE7F98115C96A3A.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "family",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//maac//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Roosevelt Campobello",
- "address": null,
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/roca/crop16_9/CE79CC35-1DD8-B71B-0B16B1ACC82FA7BD.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "family",
-  "active"
- ],
- "link": [
-  "https://www.nps.gov//roca//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint Croix Island",
- "address": "\nPO Box 247\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sacr/crop16_9/265ACB51-1DD8-B71B-0BCDBE4BE3A30431.jpg?width=307&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//sacr//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Maine State Museum",
- "address": "230 State St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/70/27/77/maine-state-museum.jpg"
- ],
- "tags": [
-  "history",
-  "library",
-  "history",
-  "walk",
-  "history",
-  "free",
-  "family",
-  "learn"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d104045-Reviews-Maine_State_Museum-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "State Capitol",
- "address": "State Street",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/fb/d9/99/state-capitol.jpg"
- ],
- "tags": [
-  "historic",
-  "art",
-  "tour",
-  "knowledgeable",
-  "free",
-  "free",
-  "tour",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d290343-Reviews-State_Capitol-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Fort Western",
- "address": "16 Cony St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/94/a5/4f/old-fort-western.jpg"
- ],
- "tags": [
-  "family",
-  "tour",
-  "history",
-  "tour",
-  "kids",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "knowledgeable",
-  "tour",
-  "tour",
-  "historic"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105315-Reviews-Fort_Western-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Viles Arboretum",
- "address": "153 Hospital St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/6f/f5/01/pine-tree-state-arboretum.jpg"
- ],
- "tags": [
-  "walk",
-  "learn",
-  "field",
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105323-Reviews-Viles_Arboretum-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Governor Hill Mansion",
- "address": "136 State St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/bd/ef/64/grand-facility.jpg"
- ],
- "tags": [
-  "history",
-  "unique",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105318-Reviews-The_Governor_Hill_Mansion-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Capitol Park",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/4a/ab/f9/sun-and-shade-on-the.jpg"
- ],
- "tags": [
-  "walk",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105321-Reviews-Capitol_Park-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Augusta Civic Center",
- "address": "",
- "avg_visitor_review": [
-  "3.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [
-  "food",
-  "food",
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105325-Reviews-Augusta_Civic_Center-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "State House",
- "address": "",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/f1/a8/be/maine-state-capitol-building.jpg"
- ],
- "tags": [
-  "kids",
-  "free",
-  "walk",
-  "tour",
-  "kids",
-  "tour",
-  "library",
-  "knowledgeable",
-  "food",
-  "kids",
-  "historic"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105316-Reviews-State_House-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Children's Discovery Museum",
- "address": "171 Capitol St Ste 2",
- "avg_visitor_review": [
-  "3.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/ee/68/0f/inside.jpg"
- ],
- "tags": [
-  "kids",
-  "learn",
-  "kids",
-  "kids",
-  "learn",
-  "kids",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105326-Reviews-Children_s_Discovery_Museum-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Sonny's Museum",
- "address": "228 Water St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/e6/fe/4b/photo0jpg.jpg"
- ],
- "tags": [
-  "free",
-  "kids",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d3443124-Reviews-Sonny_s_Museum-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Old Post Office",
- "address": "295 Water Street",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/1e/b6/arches-and-pillars-closer.jpg"
- ],
- "tags": [
-  "walking",
-  "tour",
-  "historic",
-  "historic"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d12537865-Reviews-Old_Post_Office-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Samantha Smith",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/a3/03/the-bear-represents-both.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d105320-Reviews-Samantha_Smith-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Holocaust Human Rights Center of Maine",
- "address": "46 University Dr University of Maine at Augusta",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [
-  "knowledgeable",
-  "family",
-  "free",
-  "learn",
-  "knowledgeable",
-  "art",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d648849-Reviews-Holocaust_Human_Rights_Center_of_Maine-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Marketplace at Augusta",
- "address": "197 Civic Center Dr",
- "avg_visitor_review": [
-  "3.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d15640152-Reviews-Marketplace_at_Augusta-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bond Brook Trails",
- "address": "Tall Pines Way Off Bond Brook Road",
- "avg_visitor_review": [
-  "3.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [
-  "hike",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d10285794-Reviews-Bond_Brook_Trails-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "First Amendment Museum at the Gannett House",
- "address": "184 State Street",
- "avg_visitor_review": [
-  null
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d20841116-Reviews-First_Amendment_Museum_at_the_Gannett_House-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Colburn House State Historic Site",
- "address": "Arnold Rd",
- "avg_visitor_review": [
-  null
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x370.png"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g29485-d13120767-Reviews-Colburn_House_State_Historic_Site-Augusta_Maine.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

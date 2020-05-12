@@ -1,5 +1,3699 @@
 [
 {
+ "name": "Minnesota State Fair",
+ "address": "1265 Snelling Ave N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/d0/a0/59/state-fairgrounds-minnesota.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "music",
+  "kids",
+  "free",
+  "music",
+  "free",
+  "music",
+  "family",
+  "walk",
+  "food",
+  "unique",
+  "music",
+  "food",
+  "eat",
+  "food",
+  "art",
+  "walking",
+  "food",
+  "performance",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d2322964-Reviews-Minnesota_State_Fair-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Science Museum of Minnesota",
+ "address": "120 W Kellogg Blvd, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4be793ae-9334-11ea-9496-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/27/84/fc/what-will-you-discover.jpg"
+ ],
+ "tags": [
+  "family",
+  "learn",
+  "kids",
+  "kids",
+  "kids",
+  "unique",
+  "food",
+  "free",
+  "approachable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d134891-Reviews-Science_Museum_of_Minnesota-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=17743329466483604764"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of Saint Paul",
+ "address": "239 Selby Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4afa9ad0-9334-11ea-b963-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/9c/82/ee/view-of-the-cathedral.jpg"
+ ],
+ "tags": [
+  "structure",
+  "free",
+  "walk",
+  "nature",
+  "art",
+  "tour",
+  "walking",
+  "unique",
+  "family"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d144120-Reviews-Cathedral_of_Saint_Paul-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=9197509937754643077"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota History Center",
+ "address": "345 W Kellogg Blvd, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4b926e62-9334-11ea-a59b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/44/28/b6/minnesota-history-center.jpg"
+ ],
+ "tags": [
+  "family",
+  "library",
+  "unique",
+  "family",
+  "kids",
+  "learn",
+  "free",
+  "history",
+  "learn",
+  "history",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d103905-Reviews-Minnesota_History_Center-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=12889467208932015653"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Summit Avenue",
+ "address": "Summit Ave.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/f1/8e/df/summit-avenue.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walking",
+  "walk",
+  "unique",
+  "historic",
+  "unique",
+  "historic",
+  "walk",
+  "walk",
+  "music",
+  "history",
+  "parks",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d142443-Reviews-Summit_Avenue-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "CHS Field",
+ "address": "360 Broadway St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/cc/56/b3/chs-filed-home-of-the.jpg"
+ ],
+ "tags": [
+  "unique",
+  "unique",
+  "free",
+  "walking",
+  "walk",
+  "music",
+  "history",
+  "unique",
+  "field",
+  "affordable",
+  "family",
+  "food",
+  "music",
+  "family",
+  "field",
+  "food",
+  "field"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d8127720-Reviews-CHS_Field-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Historic Fort Snelling",
+ "address": "200 Tower Ave, St Paul, MN 55111, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4c6ef3e6-9334-11ea-b7bb-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/09/b1/historic-fort-snelling.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "hike",
+  "history",
+  "free",
+  "history",
+  "historic",
+  "active",
+  "family"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d4567669-Reviews-Historic_Fort_Snelling-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=8730901671555473110"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota State Capitol",
+ "address": "75 Rev Dr Martin Luther King Jr Boulevard., St Paul, MN 55155, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4b4c3d74-9334-11ea-b24d-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/f9/e3/8b/capitol-building.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "tour",
+  "history",
+  "unique",
+  "free",
+  "walking",
+  "knowledgeable",
+  "food",
+  "learn"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d134850-Reviews-Minnesota_State_Capitol-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=14353601847312204435"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "James J. Hill House",
+ "address": "240 Summit Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/jx04i5opXsgeJsUFUlmW9A/o.jpg",
+  "GoogleMapsPhotoLibrary/4c2e87c6-9334-11ea-9d93-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/2a/cf/8c/james-j-hill-mansion.jpg"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "tour",
+  "kids",
+  "family",
+  "walk",
+  "performance",
+  "free",
+  "library",
+  "art",
+  "music",
+  "learn",
+  "food"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g43501-d134840-Reviews-James_J_Hill_House-Saint_Paul_Minnesota.html"
+   ],
+   "https://maps.google.com/?cid=17778702110211243130"
+  ],
+  "https://www.yelp.com/biz/james-j-hill-house-saint-paul?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Xcel Energy Center",
+ "address": "199 Kellogg Blvd W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/90/05/a1/18.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d616448-Reviews-Xcel_Energy_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Avenue",
+ "address": "",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/ab/cb/aa/photo4jpg.jpg"
+ ],
+ "tags": [
+  "eat",
+  "unique",
+  "walk",
+  "unique",
+  "structure",
+  "historic",
+  "food",
+  "family",
+  "walking",
+  "food",
+  "walking",
+  "food",
+  "eat",
+  "art",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d271846-Reviews-Grand_Avenue-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota Children's Museum",
+ "address": "10 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.3,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4f45ddba-9334-11ea-9f79-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/0a/73/92/exterior-of-minnesota.jpg"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "family",
+  "food",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d134896-Reviews-Minnesota_Children_s_Museum-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=10898485114780361203"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fort Snelling State Park",
+ "address": "101 Snelling Lake Rd, St Paul, MN 55111, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/558ffd8c-9334-11ea-96cb-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/81/9c/visitor-center-with-film.jpg"
+ ],
+ "tags": [
+  "historic",
+  "walk",
+  "walk",
+  "hike",
+  "history",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d147155-Reviews-Fort_Snelling_State_Park-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=2762546645534209240"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Union Depot",
+ "address": "214 4th St E",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/0b/73/union-depot-north-plaza.jpg"
+ ],
+ "tags": [
+  "historic",
+  "unique",
+  "food",
+  "structure",
+  "walking",
+  "food",
+  "family",
+  "historic",
+  "unique",
+  "food",
+  "structure",
+  "hike",
+  "walk",
+  "free",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d6698306-Reviews-Union_Depot-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Twin City Model Railroad Museum",
+ "address": "668 Transfer Rd Ste. 8, St Paul, MN 55114, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/-x9-jzh8AzdDtFBPQzg3cA/o.jpg",
+  "GoogleMapsPhotoLibrary/4e074234-9334-11ea-b4e2-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/8a/37/eb/main-building.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g43501-d2446321-Reviews-Twin_City_Model_Railroad_Museum-Saint_Paul_Minnesota.html"
+   ],
+   "https://maps.google.com/?cid=6689478992631125143"
+  ],
+  "https://www.yelp.com/biz/twin-city-model-railroad-museum-saint-paul-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Palace Theater",
+ "address": "17 7th Pl W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/8d/f0/da/upper-balcony.jpg"
+ ],
+ "tags": [
+  "music",
+  "history",
+  "drink",
+  "performance",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d12393998-Reviews-The_Palace_Theater-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Landmark Center",
+ "address": "75 W 5th St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4cadd1ba-9334-11ea-821a-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/84/d1/ca/landmark-center.jpg"
+ ],
+ "tags": [
+  "wander",
+  "wander",
+  "unique",
+  "tour",
+  "affordable",
+  "history",
+  "music",
+  "art",
+  "walk",
+  "free",
+  "historic",
+  "library",
+  "walking",
+  "family",
+  "food"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d285876-Reviews-Landmark_Center-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=9381654991376986790"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ordway Center for the Performing Arts",
+ "address": "345 Washington St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/7f/3d/42/ordway-mn-opera-set-orchestra.jpg"
+ ],
+ "tags": [
+  "performance",
+  "music",
+  "performance",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d2556227-Reviews-Ordway_Center_for_the_Performing_Arts-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Rice Park",
+ "address": "109 W 4th St, 5th St / Washington St / 4th St / Market St",
+ "avg_visitor_review": [
+  4.4,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4cf959f6-9334-11ea-aaa9-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1c/6a/7b/rice-park.jpg"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "free",
+  "historic",
+  "tour",
+  "library",
+  "walk",
+  "history",
+  "food"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d561654-Reviews-Rice_Park-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=3000469269666412087"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St. Paul Farmers Market",
+ "address": "275 4th St E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/54/00/ae/st-paul-farmers-market.jpg"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "walk",
+  "eat",
+  "food",
+  "delicious",
+  "cheap"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d288196-Reviews-St_Paul_Farmers_Market-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Raptor Center",
+ "address": "1920 Fitch Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/08/34/45/raptores.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "learn",
+  "kids",
+  "tour",
+  "knowledgeable",
+  "family",
+  "walking",
+  "learn"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d560531-Reviews-The_Raptor_Center-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bad Weather Brewing Company",
+ "address": "414 7th St W",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/aa/71/ad/wall-art.jpg"
+ ],
+ "tags": [
+  "brewery",
+  "food",
+  "brewery",
+  "tasting",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d10065560-Reviews-Bad_Weather_Brewing_Company-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Como Lakeside Pavilion",
+ "address": "1360 Lexington Pkwy N",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/5e/f4/fa/como-park-pavilion-at.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "food",
+  "walk",
+  "free",
+  "music",
+  "walking",
+  "food",
+  "free",
+  "music",
+  "free",
+  "music",
+  "walking",
+  "walking",
+  "walk",
+  "food",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d561659-Reviews-Como_Lakeside_Pavilion-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Como Park Zoo & Conservatory",
+ "address": "1225 Estabrook Dr, St Paul, MN 55103, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4ab0d32c-9334-11ea-a94f-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/9b/07/0f/como-park-zoo-conservatory.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "free",
+  "kids",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d12879653-Reviews-Como_Park_Zoo_Conservatory-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=5020327751164321626"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mears Park",
+ "address": "Sibley Street Between 5th and 6th Streets",
+ "avg_visitor_review": [
+  4.5,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4da34ff6-9334-11ea-a761-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/78/8e/ba/jazz-fest.jpg"
+ ],
+ "tags": [
+  "family",
+  "delicious",
+  "free",
+  "art",
+  "music",
+  "food",
+  "walk",
+  "walking",
+  "family",
+  "food",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d561671-Reviews-Mears_Park-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=16109009644293191303"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Keg and Case Market",
+ "address": "928 W 7th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/df/e8/ee/bird-s-eye-view-of-the.jpg"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d15368096-Reviews-Keg_and_Case_Market-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Park Square Theatre",
+ "address": "20 7th Pl W Historic Hamm Building",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/5a/e8/78/stage-set.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "theatre",
+  "drink",
+  "food",
+  "performance",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d183820-Reviews-Park_Square_Theatre-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Hidden Falls Regional Park",
+ "address": "1313 Hidden Falls Dr, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4e52a4ba-9334-11ea-b5f1-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/e3/da/3c/hidden-falls.jpg"
+ ],
+ "tags": [
+  "free",
+  "nature",
+  "walking",
+  "free",
+  "walking",
+  "walk",
+  "hike",
+  "family",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d10686869-Reviews-Hidden_Falls_Regional_Park-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=11340554241393480526"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "History Theater",
+ "address": "30 10th St E",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/0e/cb/78/glensheen127-largejpg.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "history",
+  "history",
+  "kids",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g43501-d3717782-Reviews-History_Theater-Saint_Paul_Minnesota.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Bell Museum",
+ "address": "2088 Larpenteur Ave W, St Paul, MN 55113, USA",
+ "avg_visitor_review": [
+  4.3,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/526cea5a-9334-11ea-adc9-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/b3/bd/10/the-experience-continues.jpg"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "history",
+  "art",
+  "free",
+  "food",
+  "active",
+  "cheap",
+  "family",
+  "historic",
+  "nature"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g43501-d15009064-Reviews-Bell_Museum-Saint_Paul_Minnesota.html"
+  ],
+  "https://maps.google.com/?cid=7194363000997113147"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Portage",
+ "address": "\nP.O. Box 426\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/grpo/crop16_9/6314AE0E-99A7-58C8-4783A52B7760B7F4.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//grpo//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi",
+ "address": "\n111 E. Kellogg Blvd., Suite 105\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/miss/crop16_9/E25608F1-1DD8-B71B-0B393A211DF0126C.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "history"
+ ],
+ "link": [
+  "https://www.nps.gov//miss//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "North Country",
+ "address": "\nPO Box 288\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//noco//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Pipestone",
+ "address": "\n36 Reservation Ave\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/pipe/crop16_9/EBA09598-F0FB-886C-EEA0ED7E91B2100E.jpg?width=465&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks"
+ ],
+ "link": [
+  "https://www.nps.gov//pipe//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Croix",
+ "address": "\n401 North Hamilton Street\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "historic"
+ ],
+ "link": [
+  "https://www.nps.gov//sacn//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Voyageurs",
+ "address": "\nVoyageurs National Park Headquarters\n360 Hwy 11 East\n",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://www.nps.gov//common/uploads/grid_builder/voya/crop16_9/CD8D9E60-EA7C-8F97-C100FBA9D35530C5.jpg?width=950&quality=90&mode=crop"
+ ],
+ "tags": [
+  "adventurous",
+  "parks",
+  "tour"
+ ],
+ "link": [
+  "https://www.nps.gov//voya//index.htm"
+ ],
+ "source": [
+  "NPS"
+ ],
+ "reviews": []
+},{
+ "name": "Wabasha Street Caves",
+ "address": "215 Wabasha St S, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4d45c65e-9334-11ea-8fba-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "music",
+  "unique",
+  "tour",
+  "family",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8528276766257254865"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alexander Ramsey House",
+ "address": "265 Exchange St S, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4ec8e640-9334-11ea-a62d-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "historic",
+  "family",
+  "art",
+  "tour",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12341258549749347114"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mississippi National River and Recreation Area",
+ "address": "120 W Kellogg Blvd, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4f95d290-9334-11ea-935c-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12653529956180785669"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Como Regional Park",
+ "address": "1199 Midway Pkwy, St Paul, MN 55118, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/500a3f78-9334-11ea-b3c0-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "walking",
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3369741566342793590"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota Transportation Museum",
+ "address": "193 Pennsylvania Ave E, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/50853c66-9334-11ea-b135-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
+  "food",
+  "music",
+  "family",
+  "kids",
+  "kids",
+  "family",
+  "knowledgeable",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4566846377428184193"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Indian Mounds Regional Park",
+ "address": "10 Mounds Blvd, St Paul, MN 55106, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/50e8441e-9334-11ea-9aac-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "family",
+  "walk",
+  "history",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8966373505882106339"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Como Town",
+ "address": "1301 Midway Pkwy, St Paul, MN 55103, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5142c046-9334-11ea-8f7f-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "kids",
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15778320194969044240"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Minnesota Museum of American Art",
+ "address": "350 Robert St N, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/51ae53ca-9334-11ea-9f94-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "parks",
+  "creative",
+  "historic",
+  "art",
+  "art",
+  "history",
+  "historic",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6135929382197433081"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Landmark Plaza",
+ "address": "379 St Peter St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/520db1f6-9334-11ea-b0ca-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk",
+  "active"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12239676498142995370"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Phalen Regional Park",
+ "address": "1600 Phalen Dr, St Paul, MN 55106, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/52ca251c-9334-11ea-84e5-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12358580475140570599"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Harriet Island Park",
+ "address": "200 Dr Justus Ohage Blvd, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5322cc6e-9334-11ea-a5d7-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "family",
+  "free",
+  "walk",
+  "walking",
+  "walk",
+  "family",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11513530421593836428"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lilydale Regional Park",
+ "address": "950 Lilydale Rd, St Paul, MN 55118, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/537de4ca-9334-11ea-a6dc-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "nature",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14676380148300745620"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Large Green Chair",
+ "address": "480 Smith Ave S, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/53eef680-9334-11ea-8acf-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1712469726759005651"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crosby Farm Park",
+ "address": "2595 Crosby Farm Rd, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5453fa3a-9334-11ea-82a5-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10585850804104146806"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crosby Farm Regional Park",
+ "address": "2595 Crosby Farm Rd, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/54b442f4-9334-11ea-8154-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1992035359799453142"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafesjian's Carousel",
+ "address": "1245 Midway Pkwy, St Paul, MN 55103, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/551eebcc-9334-11ea-a1da-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "kids",
+  "family",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=512210354001599827"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Battle Creek Regional Park",
+ "address": "2300 Upper Afton Rd, Maplewood, MN 55119, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/a912clzn_Y4dDROC-9Cegg/o.jpg",
+  "GoogleMapsPhotoLibrary/55db5e6e-9334-11ea-8b60-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "parks",
+  "walk",
+  "nature",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=210845758711235064"
+  ],
+  "https://www.yelp.com/biz/battle-creek-regional-park-maplewood?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bruce Vento Nature Sanctuary",
+ "address": "4th St E, St Paul, MN 55106, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/564fcb8a-9334-11ea-94d4-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "history",
+  "walking",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17675345172053154844"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frederick R. Weisman Art Museum",
+ "address": "333 E River Pkwy, Minneapolis, MN 55455, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/56a89a14-9334-11ea-a778-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "unique",
+  "walk",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14767817614084970554"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "St Louis Church",
+ "address": "506 Cedar St, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/56f97962-9334-11ea-91db-14b31f159f22.png"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12728421502292383109"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Church of the Assumption",
+ "address": "51 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/575f4058-9334-11ea-9d78-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=3976213893215225466"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Padelford Riverboats",
+ "address": "205 Dr Justus Ohage Blvd, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/57c8fef4-9334-11ea-ba3a-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "kids",
+  "history",
+  "history",
+  "learn",
+  "family",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=505141641814797849"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Stone Arch Bridge",
+ "address": "100 Portland Ave, Minneapolis, MN 55401, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/581d12cc-9334-11ea-be2d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "pets",
+  "walking",
+  "eat",
+  "walking",
+  "historic",
+  "history",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16373684327107019915"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Thompson County Park",
+ "address": "360 Butler Ave E, West St Paul, MN 55118, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5878eeb4-9334-11ea-ab87-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10977983290093109837"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Northwest Airlines History Center",
+ "address": "Crowne Plaza Aire MSP Hotel, 3 Appletree Square, Bloomington, MN 55425, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/58d8759c-9334-11ea-880c-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=334838075208862559"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "F. Scott Fitzgerald Birthplace",
+ "address": "481 Laurel Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5944f322-9334-11ea-a895-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4520287994966033132"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gibbs Farm",
+ "address": "2097 Larpenteur Ave W, St Paul, MN 55113, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/59ae169e-9334-11ea-b973-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "historic",
+  "knowledgeable",
+  "family",
+  "tour",
+  "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8741666720386548191"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mill City Museum",
+ "address": "704 S 2nd St, Minneapolis, MN 55401, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5a00a3d2-9334-11ea-ae97-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "history",
+  "history",
+  "walking",
+  "field",
+  "knowledgeable",
+  "field"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11052270807054118706"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mill Ruins Park",
+ "address": "102 Portland Ave S, Minneapolis, MN 55401, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ImceWxDALadi6GRTtLUYMA/o.jpg",
+  "GoogleMapsPhotoLibrary/5a5ecae2-9334-11ea-bfb6-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "history",
+  "unique",
+  "parks"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=3203557236263153407"
+  ],
+  "https://www.yelp.com/biz/mill-ruins-park-minneapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mattocks Park",
+ "address": "441 S Macalester St, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5ad6ba62-9334-11ea-a07f-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5322588199029351705"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "U.S. Bank Stadium",
+ "address": "401 Chicago Ave, Minneapolis, MN 55415, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5b7c49c6-9334-11ea-9281-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "food",
+  "food",
+  "family",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16516279991924342739"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "SEA LIFE Centre Minnesota",
+ "address": "Mall of America, 120 East Broadway East Side, Level, One, Bloomington, MN 55425, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5bcc46f6-9334-11ea-99e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "kids",
+  "family",
+  "walk",
+  "tour",
+  "walk",
+  "organized"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10490541390020148913"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Swede Hollow Park",
+ "address": "665 Greenbrier St, St Paul, MN 55106, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5c233e92-9334-11ea-a9fe-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "history",
+  "brewery",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3901503305833548878"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Guthrie Theater",
+ "address": "818 S 2nd St, Minneapolis, MN 55415, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/vod2nabS47UwJTYI6qFCCw/o.jpg",
+  "GoogleMapsPhotoLibrary/5c7fdbdc-9334-11ea-b1f8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=14415037625030132595"
+  ],
+  "https://www.yelp.com/biz/guthrie-theater-minneapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Minneapolis Institute of Art",
+ "address": "2400 3rd Ave S, Minneapolis, MN 55404, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5ccb6464-9334-11ea-a4a1-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "walking",
+  "family",
+  "field",
+  "free",
+  "organized",
+  "art",
+  "food",
+  "theatre",
+  "kids",
+  "family",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14207980514366553254"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "American Swedish Institute",
+ "address": "2600 Park Ave, Minneapolis, MN 55407, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5d17dc1a-9334-11ea-95cd-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "walk",
+  "history",
+  "unique",
+  "food",
+  "tour",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5335361704089780480"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Minneapolis Sculpture Garden",
+ "address": "725 Vineland Pl, Minneapolis, MN 55403, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5d7dc7c2-9334-11ea-a65d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "historic",
+  "free",
+  "walk",
+  "art",
+  "art",
+  "walk",
+  "free",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6037934690900938095"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Walker Art Center",
+ "address": "725 Vineland Pl, Minneapolis, MN 55403, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/AXIce9wgG2vahDO81z330g/o.jpg",
+  "GoogleMapsPhotoLibrary/5dd05654-9334-11ea-8861-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "free",
+  "art",
+  "art",
+  "active",
+  "unique",
+  "family",
+  "walk",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=13983112962245836178"
+  ],
+  "https://www.yelp.com/biz/walker-art-center-minneapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Kellogg Mall Park",
+ "address": "62 W Kellogg Blvd, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5e1bb81c-9334-11ea-85d8-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=6229143733007632450"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lake Nokomis Park",
+ "address": "4955 W Lake Nokomis Pkwy, Minneapolis, MN 55417, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5e82b786-9334-11ea-b3bc-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12022484068953877940"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Escape Game Minneapolis",
+ "address": "300 E Broadway, Bloomington, MN 55425, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5eebf466-9334-11ea-9c73-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4817685680827279821"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Basilica of Saint Mary",
+ "address": "88 17th St N, Minneapolis, MN 55403, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5f47d01c-9334-11ea-9442-14b31f159f22.png"
+ ],
+ "tags": [
+  "active",
+  "walk",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13851519805452360576"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "FlyOver America",
+ "address": "Mall of America, 5120 Center Ct, Bloomington, MN 55425, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5f9e2de2-9334-11ea-adc6-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1235431981467247060"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Western Sculpture Park",
+ "address": "387 Marion St, St Paul, MN 55103, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6035b32c-9334-11ea-b4e1-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=10298421925985981925"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Museum of Russian Art",
+ "address": "5500 Stevens Ave, Minneapolis, MN 55419, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/60bd0c06-9334-11ea-a6ad-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "library",
+  "art",
+  "historic",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11664536413037275390"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The St. Paul Grill",
+ "address": "350 N Market St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/614ec518-9334-11ea-891d-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "history",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14430034510534604604"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Cow",
+ "address": "393 Selby Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/61bc7b46-9334-11ea-b023-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18177481241709735475"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tongue in Cheek",
+ "address": "989 Payne Ave, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6218f352-9334-11ea-bddb-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "delicious",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3160933423180178169"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Meritage",
+ "address": "410 St Peter St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/627fa4ba-9334-11ea-a460-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18029545913706163545"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pazzaluna Urban Italian Restaurant",
+ "address": "360 St Peter St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6306af76-9334-11ea-a337-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "delicious",
+  "drink",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17020476850826668998"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Highland Grill",
+ "address": "771 Cleveland Ave S, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/63654a70-9334-11ea-8374-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4200509911652863286"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pajarito",
+ "address": "605 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/63fecbb8-9334-11ea-b069-14b31f159f22.png"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11051504229226332556"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kincaid's Fish, Chop & Steakhouse",
+ "address": "380 St Peter St Suite 125, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6479c94c-9334-11ea-befd-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1233794598673798412"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Downtowner Woodfire Grill",
+ "address": "253 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/64d57d36-9334-11ea-a554-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "eat",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10945733958386907895"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Grolla",
+ "address": "452 Selby Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6546a81a-9334-11ea-88b3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "free",
+  "food",
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2834873377815355193"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Colossal Cafe",
+ "address": "2315 Como Ave, St Paul, MN 55108, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6597fcb4-9334-11ea-8077-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15862338900976925534"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tavern on Grand",
+ "address": "656 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/65f26780-9334-11ea-8205-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "food",
+  "eat",
+  "drink",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1538022447551990136"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Brasa Premium Rotisserie",
+ "address": "777 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6644d234-9334-11ea-85bf-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "food",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1161087545259177912"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mancinis Char House",
+ "address": "531 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/669367c0-9334-11ea-8975-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2701735148295033639"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Nook",
+ "address": "492 Hamline Ave S, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6703dd18-9334-11ea-b57c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walk",
+  "drink",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4123008262879569819"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Skyva Deli",
+ "address": "55 5th St E #204, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/676161de-9334-11ea-9ca3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10193993718629538460"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Parlour St. Paul",
+ "address": "267 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/67b7e694-9334-11ea-be30-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10647572802941186593"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mama's Pizza",
+ "address": "961 Rice St, St Paul, MN 55117, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/680ee210-9334-11ea-aeb6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17929693307158106404"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "W. A. Frost and Company",
+ "address": "374 Selby Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6863beee-9334-11ea-967d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "unique",
+  "historic",
+  "food",
+  "food",
+  "historic",
+  "adventurous",
+  "food",
+  "drink",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11533782068437831570"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shish",
+ "address": "1668 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/68bb51e8-9334-11ea-98ac-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11764292477834086711"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shamrocks",
+ "address": "995 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/691fbcf8-9334-11ea-ae0d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "cheap",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7543273308577152930"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capitol View Cafe & Catering",
+ "address": "637 Smith Ave S, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/697a8f1e-9334-11ea-9fe2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11476143988371799782"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Dinette",
+ "address": "261 5th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/69d5327e-9334-11ea-bc40-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "delicious",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2954661241447196766"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mucci's Italian",
+ "address": "786 Randolph Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6a23d5d4-9334-11ea-9340-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17800595362693007432"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Revival",
+ "address": "525 Selby Ave, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6a7b44fe-9334-11ea-a6c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16734841051003063663"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Grand Catch",
+ "address": "1672 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6ad39e3a-9334-11ea-82b4-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "delicious",
+  "family",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4995338999148439817"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cossetta",
+ "address": "211 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6b38eff4-9334-11ea-8c1e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "delicious",
+  "cheap",
+  "affordable",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3030088215587166360"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Handsome Hog",
+ "address": "203 6th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6ba51fa4-9334-11ea-bdfd-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9085284867277103898"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ghebre's Restaurant",
+ "address": "512 Snelling Ave, St Paul, MN 55104, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6c110110-9334-11ea-836f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "delicious",
+  "food",
+  "affordable",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5357103282576988658"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Holman's Table",
+ "address": "644 Bayfield St, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6c743024-9334-11ea-b01d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "food",
+  "drink",
+  "food",
+  "active",
+  "cheap",
+  "unique",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15863895734154984329"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Octo fishbar",
+ "address": "289 5th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6cc647ca-9334-11ea-a591-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "hospitable",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15521379900041739783"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Commodore Bar & Restaurant",
+ "address": "79 Western Ave N, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6d2705c8-9334-11ea-a586-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15473069481340864554"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Afro Deli & Grill: St. Paul",
+ "address": "5 W 7th Pl, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6d780ee4-9334-11ea-93ab-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12788709371492658067"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gray Duck Tavern",
+ "address": "345 Wabasha St N, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6dd2c80c-9334-11ea-b056-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "wander",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10102045449293319318"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dark Horse Bar & Eatery",
+ "address": "250 E 7th St, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6e4bf022-9334-11ea-b322-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11954991165298696168"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bar Brigade",
+ "address": "470 Cleveland Ave S, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6ec9369e-9334-11ea-b11e-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "foodie",
+  "affordable",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16707798749043113241"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Babani's Kurdish Restaurant",
+ "address": "32 E Fillmore Ave, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6f278368-9334-11ea-b1f2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8583935093506326196"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Stewart's",
+ "address": "128 Cleveland Ave N, St Paul, MN 55104, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6f85822e-9334-11ea-8e70-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "family",
+  "drink",
+  "unique",
+  "food",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15152793893631636885"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Yarusso Bros Italian Restaurant",
+ "address": "635 Payne Ave, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6fde29f4-9334-11ea-b2d7-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "food",
+  "walk",
+  "brewery",
+  "kids",
+  "free",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15639487639420773322"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "PUBLIC kitchen + bar",
+ "address": "229 6th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7048f9d0-9334-11ea-9ea9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "kids",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "drink",
+  "comforting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3795175233329922512"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Agelgil Ethiopian Restaurant (St. Paul, MN)",
+ "address": "2585 7th St W, St Paul, MN 55116, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70a264ba-9334-11ea-b751-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2227405411691366131"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Herbie's On The Park",
+ "address": "317 Washington St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7105e1ae-9334-11ea-8869-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17455321439420314098"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caffe Biaggio",
+ "address": "2356 University Ave W, St Paul, MN 55114, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/715bf25a-9334-11ea-a098-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "foodie",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2605268710305139060"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Osteria I Nonni",
+ "address": "981 Sibley Memorial Hwy, St Paul, MN 55118, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/71a6dd24-9334-11ea-8e4e-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "cheap",
+  "eat",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10974252040161407538"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hyacinth",
+ "address": "790 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/71fb8e2e-9334-11ea-8b8d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "unique",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5909114292342679181"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Magnolias Restaurant",
+ "address": "1081 Payne Ave, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7256577e-9334-11ea-a426-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=491065601448122491"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Boca Chica | Restaurante Mexicano & Cantina",
+ "address": "11 Cesar Chavez St, St Paul, MN 55107, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/72b36bba-9334-11ea-9080-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6381044654261651800"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "M ST. Cafe",
+ "address": "350 N Market St, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/730c2c38-9334-11ea-8496-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9903485061463826228"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Carmelo's Ristorante",
+ "address": "238 Snelling Ave S, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/73614d00-9334-11ea-b3b5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9522859448111707835"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Black Sheep Coal Fired Pizza",
+ "address": "512 Robert St N, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/73b4281a-9334-11ea-abe2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walking",
+  "family",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14430903716077825990"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fasika Restaurant",
+ "address": "510 Snelling Ave N, St Paul, MN 55104, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/740ccfa6-9334-11ea-a72b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10199463971679775351"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Brunson's Pub",
+ "address": "956 Payne Ave, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/74927adc-9334-11ea-8e5a-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5655987910706736959"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Lexington",
+ "address": "1096 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/74ead480-9334-11ea-98e0-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7545362969696352491"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Bulldog Lowertown",
+ "address": "237 6th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7543c9de-9334-11ea-9c95-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13528608539129420365"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bennett's Chop & Railhouse",
+ "address": "1305 7th St W, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/759df824-9334-11ea-b9c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "eat",
+  "free",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17612738416423146797"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Salut Bar Americain",
+ "address": "917 Grand Ave, St Paul, MN 55105, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/75f1bd9e-9334-11ea-870f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1474098499423829854"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sakura Restaurant & Bar",
+ "address": "350 St Peter St #195, St Paul, MN 55102, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7652f734-9334-11ea-b2ef-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "family",
+  "food",
+  "family",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10198274526864118050"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Little Oven",
+ "address": "1786 Minnehaha Ave E, St Paul, MN 55119, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/76b49f7e-9334-11ea-9038-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15265132714328675271"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "COOK ST PAUL",
+ "address": "1124 Payne Ave, St Paul, MN 55130, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7715098a-9334-11ea-9923-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12165477383573986501"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Big River Pizza",
+ "address": "280 5th St E, St Paul, MN 55101, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7774eb38-9334-11ea-9c47-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "unique",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4983157651840784723"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
  "name": "SEA LIFE at Mall of America",
  "address": "120 E Broadway",
  "avg_visitor_review": [
@@ -120,26 +3814,6 @@
  ],
  "reviews": []
 },{
- "name": "Battle Creek Regional Park",
- "address": "2300 Upper Afton Rd E",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/a912clzn_Y4dDROC-9Cegg/o.jpg"
- ],
- "tags": [
-  "hike"
- ],
- "link": [
-  "https://www.yelp.com/biz/battle-creek-regional-park-maplewood?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Voxel Virtual Reality Parlour",
  "address": "550 Vandalia St",
  "avg_visitor_review": [
@@ -200,38 +3874,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Twin City Model Railroad Museum",
- "address": "668 Transfer Rd Suite 8",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/8a/37/eb/main-building.jpg",
-  "https://s3-media3.fl.yelpcdn.com/bphoto/-x9-jzh8AzdDtFBPQzg3cA/o.jpg"
- ],
- "tags": [
-  "kids",
-  "knowledgeable",
-  "history",
-  "history",
-  "kids"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/twin-city-model-railroad-museum-saint-paul-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d2446321-Reviews-Twin_City_Model_Railroad_Museum-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -349,50 +3991,6 @@
  "tags": [],
  "link": [
   "https://www.yelp.com/biz/blue-door-pub-st-paul-saint-paul-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Walker Art Center",
- "address": "725 Vineland Pl",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/AXIce9wgG2vahDO81z330g/o.jpg"
- ],
- "tags": [
-  "kids",
-  "free",
-  "art",
-  "art"
- ],
- "link": [
-  "https://www.yelp.com/biz/walker-art-center-minneapolis-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Mill Ruins Park",
- "address": "103 Portland Ave S",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/ImceWxDALadi6GRTtLUYMA/o.jpg"
- ],
- "tags": [
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.yelp.com/biz/mill-ruins-park-minneapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   "Yelp"
@@ -663,64 +4261,6 @@
  ],
  "reviews": []
 },{
- "name": "James J. Hill House",
- "address": "240 Summit Ave",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/2a/cf/8c/james-j-hill-mansion.jpg",
-  "https://s3-media4.fl.yelpcdn.com/bphoto/jx04i5opXsgeJsUFUlmW9A/o.jpg"
- ],
- "tags": [
-  "tour",
-  "family",
-  "free",
-  "tour",
-  "library",
-  "art",
-  "music",
-  "history",
-  "tour",
-  "family",
-  "history",
-  "kids",
-  "tour",
-  "family",
-  "history",
-  "tour",
-  "walk",
-  "tour",
-  "history",
-  "free",
-  "tour",
-  "family",
-  "history",
-  "tour",
-  "history",
-  "tour",
-  "learn",
-  "family",
-  "history",
-  "food",
-  "historic"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/james-j-hill-house-saint-paul?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d134840-Reviews-James_J_Hill_House-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
-  "TripAdvisor"
- ],
- "reviews": []
-},{
  "name": "Mission Manor Escape Rooms",
  "address": "861 E Hennepin Ave",
  "avg_visitor_review": [
@@ -921,24 +4461,6 @@
  ],
  "reviews": []
 },{
- "name": "Guthrie Theater",
- "address": "818 S 2nd St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/vod2nabS47UwJTYI6qFCCw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/guthrie-theater-minneapolis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
  "name": "Har Mar Mall",
  "address": "2100 Snelling Ave N",
  "avg_visitor_review": [
@@ -1048,990 +4570,6 @@
  ],
  "source": [
   "Yelp"
- ],
- "reviews": []
-},{
- "name": "Grand Portage",
- "address": "\nP.O. Box 426\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/grpo/crop16_9/6314AE0E-99A7-58C8-4783A52B7760B7F4.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//grpo//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Mississippi",
- "address": "\n111 E. Kellogg Blvd., Suite 105\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/miss/crop16_9/E25608F1-1DD8-B71B-0B393A211DF0126C.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "history"
- ],
- "link": [
-  "https://www.nps.gov//miss//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "North Country",
- "address": "\nPO Box 288\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/noco/crop16_9/82AB9E37-042E-96DB-BF60C61A131BA0D4.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//noco//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Pipestone",
- "address": "\n36 Reservation Ave\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/pipe/crop16_9/EBA09598-F0FB-886C-EEA0ED7E91B2100E.jpg?width=465&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks"
- ],
- "link": [
-  "https://www.nps.gov//pipe//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Saint Croix",
- "address": "\n401 North Hamilton Street\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/sacn/crop16_9/26CC510B-FE62-0849-5B9FE457756FFC5F.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "historic"
- ],
- "link": [
-  "https://www.nps.gov//sacn//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Voyageurs",
- "address": "\nVoyageurs National Park Headquarters\n360 Hwy 11 East\n",
- "avg_visitor_review": [
-  ""
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://www.nps.gov//common/uploads/grid_builder/voya/crop16_9/CD8D9E60-EA7C-8F97-C100FBA9D35530C5.jpg?width=950&quality=90&mode=crop"
- ],
- "tags": [
-  "adventurous",
-  "parks",
-  "tour"
- ],
- "link": [
-  "https://www.nps.gov//voya//index.htm"
- ],
- "source": [
-  "NPS"
- ],
- "reviews": []
-},{
- "name": "Minnesota State Fair",
- "address": "1265 Snelling Ave N",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/d0/a0/59/state-fairgrounds-minnesota.jpg"
- ],
- "tags": [
-  "free",
-  "food",
-  "music",
-  "kids",
-  "free",
-  "music",
-  "free",
-  "music",
-  "family",
-  "walk",
-  "food",
-  "unique",
-  "music",
-  "food",
-  "eat",
-  "food",
-  "art",
-  "walking",
-  "food",
-  "performance",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d2322964-Reviews-Minnesota_State_Fair-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Science Museum of Minnesota",
- "address": "120 Kellogg Blvd W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/27/84/fc/what-will-you-discover.jpg"
- ],
- "tags": [
-  "unique",
-  "kids",
-  "food",
-  "kids",
-  "free",
-  "family",
-  "kids",
-  "approachable",
-  "learn",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d134891-Reviews-Science_Museum_of_Minnesota-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cathedral of Saint Paul",
- "address": "239 Selby Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/9c/82/ee/view-of-the-cathedral.jpg"
- ],
- "tags": [
-  "tour",
-  "free",
-  "art",
-  "walking",
-  "walk",
-  "tour",
-  "structure",
-  "unique",
-  "tour",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d144120-Reviews-Cathedral_of_Saint_Paul-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Minnesota History Center",
- "address": "345 Kellogg Blvd W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/44/28/b6/minnesota-history-center.jpg"
- ],
- "tags": [
-  "kids",
-  "learn",
-  "history",
-  "kids",
-  "kids",
-  "unique",
-  "history",
-  "kids",
-  "walk",
-  "history",
-  "history",
-  "library",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d103905-Reviews-Minnesota_History_Center-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Summit Avenue",
- "address": "Summit Ave.",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/f1/8e/df/summit-avenue.jpg"
- ],
- "tags": [
-  "tour",
-  "walking",
-  "walk",
-  "unique",
-  "historic",
-  "unique",
-  "historic",
-  "walk",
-  "walk",
-  "music",
-  "history",
-  "parks",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d142443-Reviews-Summit_Avenue-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "CHS Field",
- "address": "360 Broadway St",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/cc/56/b3/chs-filed-home-of-the.jpg"
- ],
- "tags": [
-  "unique",
-  "unique",
-  "free",
-  "walking",
-  "walk",
-  "music",
-  "history",
-  "unique",
-  "field",
-  "affordable",
-  "family",
-  "food",
-  "music",
-  "family",
-  "field",
-  "food",
-  "field"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d8127720-Reviews-CHS_Field-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Historic Fort Snelling",
- "address": "200 Tower Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/09/b1/historic-fort-snelling.jpg"
- ],
- "tags": [
-  "historic",
-  "history",
-  "active",
-  "history",
-  "history",
-  "history",
-  "historic",
-  "history",
-  "active",
-  "historic",
-  "history",
-  "history",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d4567669-Reviews-Historic_Fort_Snelling-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Minnesota State Capitol",
- "address": "75 Rev Dr Martin Luther King Jr Blvd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/f9/e3/8b/capitol-building.jpg"
- ],
- "tags": [
-  "tour",
-  "unique",
-  "tour",
-  "tour",
-  "free",
-  "walking",
-  "knowledgeable",
-  "food",
-  "tour",
-  "history",
-  "tour",
-  "learn",
-  "free",
-  "tour",
-  "unique",
-  "tour",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d134850-Reviews-Minnesota_State_Capitol-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Xcel Energy Center",
- "address": "199 Kellogg Blvd W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/90/05/a1/18.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d616448-Reviews-Xcel_Energy_Center-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Grand Avenue",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/ab/cb/aa/photo4jpg.jpg"
- ],
- "tags": [
-  "eat",
-  "unique",
-  "walk",
-  "unique",
-  "structure",
-  "historic",
-  "food",
-  "family",
-  "walking",
-  "food",
-  "walking",
-  "food",
-  "eat",
-  "art",
-  "delicious"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d271846-Reviews-Grand_Avenue-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Minnesota Children's Museum",
- "address": "10 7th St W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/0a/73/92/exterior-of-minnesota.jpg"
- ],
- "tags": [
-  "kids",
-  "family",
-  "food",
-  "family",
-  "kids",
-  "kids",
-  "free",
-  "food",
-  "family",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d134896-Reviews-Minnesota_Children_s_Museum-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Fort Snelling State Park",
- "address": "101 Snelling Lake Rd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/9c/81/9c/visitor-center-with-film.jpg"
- ],
- "tags": [
-  "hike",
-  "history",
-  "history",
-  "parks",
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d147155-Reviews-Fort_Snelling_State_Park-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Union Depot",
- "address": "214 4th St E",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/0b/73/union-depot-north-plaza.jpg"
- ],
- "tags": [
-  "historic",
-  "unique",
-  "food",
-  "structure",
-  "walking",
-  "food",
-  "family",
-  "historic",
-  "unique",
-  "food",
-  "structure",
-  "hike",
-  "walk",
-  "free",
-  "walk",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d6698306-Reviews-Union_Depot-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Palace Theater",
- "address": "17 7th Pl W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/8d/f0/da/upper-balcony.jpg"
- ],
- "tags": [
-  "music",
-  "history",
-  "drink",
-  "performance",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d12393998-Reviews-The_Palace_Theater-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Landmark Center",
- "address": "75 5th St W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/84/d1/ca/landmark-center.jpg"
- ],
- "tags": [
-  "art",
-  "history",
-  "walk",
-  "free",
-  "historic",
-  "free",
-  "library",
-  "history",
-  "tour",
-  "walking",
-  "history",
-  "free",
-  "family",
-  "food",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d285876-Reviews-Landmark_Center-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Ordway Center for the Performing Arts",
- "address": "345 Washington St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/7f/3d/42/ordway-mn-opera-set-orchestra.jpg"
- ],
- "tags": [
-  "performance",
-  "music",
-  "performance",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d2556227-Reviews-Ordway_Center_for_the_Performing_Arts-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Rice Park",
- "address": "109 W 4th St, 5th St / Washington St / 4th St / Market St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/1c/6a/7b/rice-park.jpg"
- ],
- "tags": [
-  "tour",
-  "library",
-  "walk",
-  "history",
-  "food",
-  "library",
-  "tour",
-  "library",
-  "walk",
-  "history",
-  "food",
-  "library",
-  "walk",
-  "library"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d561654-Reviews-Rice_Park-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "St. Paul Farmers Market",
- "address": "275 4th St E",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/54/00/ae/st-paul-farmers-market.jpg"
- ],
- "tags": [
-  "free",
-  "food",
-  "walk",
-  "eat",
-  "food",
-  "delicious",
-  "cheap"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d288196-Reviews-St_Paul_Farmers_Market-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Raptor Center",
- "address": "1920 Fitch Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/08/34/45/raptores.jpg"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "knowledgeable",
-  "tour",
-  "learn",
-  "kids",
-  "tour",
-  "knowledgeable",
-  "family",
-  "walking",
-  "learn"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d560531-Reviews-The_Raptor_Center-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bad Weather Brewing Company",
- "address": "414 7th St W",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/aa/71/ad/wall-art.jpg"
- ],
- "tags": [
-  "brewery",
-  "food",
-  "brewery",
-  "tasting",
-  "delicious",
-  "food",
-  "delicious"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d10065560-Reviews-Bad_Weather_Brewing_Company-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Como Lakeside Pavilion",
- "address": "1360 Lexington Pkwy N",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/5e/f4/fa/como-park-pavilion-at.jpg"
- ],
- "tags": [
-  "family",
-  "walking",
-  "food",
-  "walk",
-  "free",
-  "music",
-  "walking",
-  "food",
-  "free",
-  "music",
-  "free",
-  "music",
-  "walking",
-  "walking",
-  "walk",
-  "food",
-  "walk",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d561659-Reviews-Como_Lakeside_Pavilion-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Como Park Zoo & Conservatory",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/9b/07/0f/como-park-zoo-conservatory.jpg"
- ],
- "tags": [
-  "free",
-  "knowledgeable",
-  "free",
-  "knowledgeable",
-  "free",
-  "knowledgeable",
-  "walking",
-  "free",
-  "walk",
-  "free",
-  "free"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d12879653-Reviews-Como_Park_Zoo_Conservatory-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mears Park",
- "address": "Sibley Street Between 5th and 6th Streets",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/78/8e/ba/jazz-fest.jpg"
- ],
- "tags": [
-  "walk",
-  "music",
-  "walk",
-  "walking",
-  "parks",
-  "walk",
-  "music",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d561671-Reviews-Mears_Park-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Keg and Case Market",
- "address": "928 W 7th St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/16/df/e8/ee/bird-s-eye-view-of-the.jpg"
- ],
- "tags": [
-  "food",
-  "food",
-  "eat",
-  "eat",
-  "food"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d15368096-Reviews-Keg_and_Case_Market-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Park Square Theatre",
- "address": "20 7th Pl W Historic Hamm Building",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/5a/e8/78/stage-set.jpg"
- ],
- "tags": [
-  "theatre",
-  "theatre",
-  "drink",
-  "food",
-  "performance",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d183820-Reviews-Park_Square_Theatre-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Hidden Falls Regional Park",
- "address": "1313 Hidden Falls Dr.",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/e3/da/3c/hidden-falls.jpg"
- ],
- "tags": [
-  "walking",
-  "walk",
-  "hike",
-  "family",
-  "parks",
-  "walk",
-  "hike",
-  "walking",
-  "walk",
-  "walking",
-  "nature",
-  "hike",
-  "walking",
-  "walking",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d10686869-Reviews-Hidden_Falls_Regional_Park-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "History Theater",
- "address": "30 10th St E",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/0e/cb/78/glensheen127-largejpg.jpg"
- ],
- "tags": [
-  "theatre",
-  "history",
-  "history",
-  "kids",
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d3717782-Reviews-History_Theater-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bell Museum",
- "address": "2088 Larpenteur Ave W",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/b3/bd/10/the-experience-continues.jpg"
- ],
- "tags": [
-  "art",
-  "history",
-  "free",
-  "free",
-  "food",
-  "history",
-  "kids",
-  "history",
-  "active",
-  "cheap",
-  "family",
-  "history",
-  "food",
-  "active",
-  "cheap",
-  "family",
-  "history",
-  "food",
-  "free",
-  "active",
-  "cheap",
-  "family",
-  "history",
-  "food",
-  "history",
-  "kids",
-  "art",
-  "historic",
-  "history",
-  "nature"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g43501-d15009064-Reviews-Bell_Museum-Saint_Paul_Minnesota.html"
- ],
- "source": [
-  "TripAdvisor"
  ],
  "reviews": []
 }]

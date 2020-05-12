@@ -1,625 +1,535 @@
 [
 {
- "name": "Zilker Botanical Gardens",
- "address": "2220 Barton Springs Rd",
+ "name": "Texas State Capitol",
+ "address": "1100 S Congress Ave",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Nx5i2YqmmgxPxN0cniUwSA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/ae/41/4e/and-check-out-the-grounds.jpg"
  ],
  "tags": [
-  "free",
-  "affordable",
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/zilker-botanical-gardens-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Texas Hill Country Olive Company",
- "address": "2530 Fitzhugh Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/EqSeHz2R2XQ6TOug3nM4Ig/o.jpg"
- ],
- "tags": [
+  "history",
   "tour",
-  "tasting"
- ],
- "link": [
-  "https://www.yelp.com/biz/texas-hill-country-olive-company-dripping-springs?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Barton Springs Bike Rental & Tours",
- "address": "1707 Barton Springs Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/nyz9ePP1hWAgBdKQVSERxA/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/barton-springs-bike-rental-and-tours-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Maverick Horseback Riding",
- "address": "5766 Balcones Drive",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/wg4Wl-JdoKGWYuf5hq86CQ/o.jpg"
- ],
- "tags": [
-  "walking"
- ],
- "link": [
-  "https://www.yelp.com/biz/maverick-horseback-riding-austin-7?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Enjoy the Mountain ATV Adventures & Tours",
- "address": "787 Mountain Top Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/FE2bLFfHZ4wxPwxlP4Gr6g/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/enjoy-the-mountain-atv-adventures-and-tours-johnson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Hipside Peddler",
- "address": "421 Tillery St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/0kWAueQlx-B6jKFgIWSioQ/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/hipside-peddler-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Texas Farmers' Market",
- "address": "11200 Lakeline Mall Dr",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/TbBe0BVx6xf_lr12Q-Jylg/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/texas-farmers-market-cedar-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Pennybacker Bridge",
- "address": "Loop 360 And Lake Austin",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/AoDhPhQphS0FMwDNTemF-Q/o.jpg"
- ],
- "tags": [
-  "hike",
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/pennybacker-bridge-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dinosaur Park",
- "address": "893 Union Chapel Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/91Gd8i3YAnII-fg-MuVb1g/o.jpg"
- ],
- "tags": [
-  "educate",
-  "cheap"
- ],
- "link": [
-  "https://www.yelp.com/biz/dinosaur-park-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lockout Austin",
- "address": "1700 South Lamar Blvd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/nzKVU9Wk4sh5FsFFUmjeJw/o.jpg"
- ],
- "tags": [
+  "history",
+  "free",
+  "family",
+  "history",
+  "tour",
+  "free",
+  "tour",
+  "free",
+  "history",
+  "walk",
+  "tour",
+  "history",
+  "tour",
+  "history",
   "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/lockout-austin-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d109316-Reviews-Texas_State_Capitol-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Zip Lost Pines",
- "address": "1760 State Highway 71 W",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/zUpXaQeJcLDf4p0m1Ujh7w/o.jpg"
- ],
- "tags": [
-  "family",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/zip-lost-pines-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Casa Neverlandia",
- "address": "305 W Milton",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Th3kWkjeK9JaaHwbzNu2MQ/o.jpg"
- ],
- "tags": [
-  "art",
-  "kids",
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/casa-neverlandia-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "McKinney Falls State Park",
- "address": "5808 McKinney Falls Pkwy",
- "avg_visitor_review": [
-  "4.0",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/cb/78/2c/mckinney-falls-state.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/DyawKxrsIlkrMGSc0tGfwQ/o.jpg"
- ],
- "tags": [
-  "nature",
-  "free",
-  "hike",
-  "music",
-  "food",
-  "pets",
-  "kids",
-  "family",
-  "hike",
-  "pets",
-  "parks",
-  "kids",
-  "food",
-  "nature",
-  "walking",
-  "family",
-  "hike",
-  "history"
- ],
- "link": [
-  [
-   "https://www.yelp.com/biz/mckinney-falls-state-park-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d109512-Reviews-McKinney_Falls_State_Park-Austin_Texas.html"
- ],
- "source": [
-  [
-   "Yelp"
-  ],
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Dead Man's Hole",
- "address": "Cr 401",
+ "name": "Lady Bird Lake Hike-and-Bike Trail",
+ "address": "Lady Bird Lake First Street Bridge at Lady Bird Lake",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/VQV2uTDAj917KrxwQw6Hjg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/dead-mans-hole-spicewood?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Rooftop Over Lake Travis",
- "address": "6550 Comanche Trl",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/33VTgWzd6vhz8oQ-iKRULQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-rooftop-over-lake-travis-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Pinballz Lake Creek",
- "address": "13729 Research Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/XfHHFyYz23f3lxw26Av2ow/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/dc/2f/93/skyline-from-auditorium.jpg"
  ],
  "tags": [
-  "food"
+  "walk",
+  "family",
+  "walk",
+  "free",
+  "walking",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/pinballz-lake-creek-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d184131-Reviews-Lady_Bird_Lake_Hike_and_Bike_Trail-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Peter Pan Mini-Golf",
- "address": "1207 Barton Springs Rd",
+ "name": "Barton Springs Pool",
+ "address": "2201 Barton Springs Rd Zilker Park",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/taP9Y2lmDyhACFz7X5F8jQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/7a/85/e0/20180422-123110-largejpg.jpg"
  ],
  "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/peter-pan-mini-golf-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Austin Nature & Science Center",
- "address": "2389 Stratford Dr",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/XT4McBTtK0yFXq-kLyBZGQ/o.jpg"
- ],
- "tags": [
-  "nature",
-  "free"
- ],
- "link": [
-  "https://www.yelp.com/biz/austin-nature-and-science-center-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "iFLY Indoor Skydiving - Austin",
- "address": "13265 North Us 183",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/xuXCtKlv2i6N0twb0JzvBw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/ifly-indoor-skydiving-austin-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Austin Helicopter Tours",
- "address": "10301 Fm 969",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/17AOsFPine0Zaleqvdon3w/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/austin-helicopter-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bike & Brew ATX",
- "address": "507 Callest St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/pGmyqeLrROZLYFBld1FaAQ/o.jpg"
- ],
- "tags": [
+  "unique",
+  "adventurous",
+  "family",
   "food",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/bike-and-brew-atx-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Greetings From Austin Postcard Mural",
- "address": "1720 S 1st St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/rbdZF-V1Bu-5MnjxgmqhXA/o.jpg"
- ],
- "tags": [
-  "art"
- ],
- "link": [
-  "https://www.yelp.com/biz/greetings-from-austin-postcard-mural-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cedar Rock Railroad",
- "address": "390 Borho",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/JnLCbmb-AVSy79p0CCoJJw/o.jpg"
- ],
- "tags": [
+  "food",
+  "family",
   "kids",
-  "music"
+  "drink",
+  "free",
+  "learn",
+  "walking",
+  "walk",
+  "walk",
+  "unique"
  ],
  "link": [
-  "https://www.yelp.com/biz/cedar-rock-railroad-round-rock-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d116421-Reviews-Barton_Springs_Pool-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "ATXcursions",
- "address": "621 Gunter",
+ "name": "Mount Bonnell",
+ "address": "3800 Bonnell Dr",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/d7GY8z1-Lkrra_NGXsE_uQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/atxcursions-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Great Hills Park Trail",
- "address": "10801 Sierra Oaks",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/2BwTPELufhlsBwpA3ZB0iw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/c5/a1/d6/mount-bonnell.jpg"
  ],
  "tags": [
+  "free",
+  "hike",
+  "walk",
+  "hike",
+  "kids",
   "hike"
  ],
  "link": [
-  "https://www.yelp.com/biz/great-hills-park-trail-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d144295-Reviews-Mount_Bonnell-Austin_Texas.html"
  ],
  "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "LBJ Presidential Library",
+ "address": "2313 Red River St, Austin, TX 78705, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/30wJaBwVizKNna13RIg5PQ/o.jpg",
+  "GoogleMapsPhotoLibrary/28a86462-932e-11ea-83a7-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/aa/6e/8a/lbj-presidential-library.jpg"
+ ],
+ "tags": [
+  "library",
+  "library",
+  "library",
+  "nature",
+  "historic",
+  "family",
+  "learn",
+  "walk",
+  "free",
+  "history",
+  "organized"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g30196-d145840-Reviews-LBJ_Presidential_Library-Austin_Texas.html"
+   ],
+   "https://maps.google.com/?cid=9308350639075832188"
+  ],
+  "https://www.yelp.com/biz/lbj-presidential-library-austin-6?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Play For All Abilities Park",
- "address": "151 N A W Grimes Blvd",
+ "name": "Bullock Texas State History Museum",
+ "address": "1800 Congress Ave, Austin, TX 78701, USA",
  "avg_visitor_review": [
-  4.5
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/K3OrK5FFQgbXQwwaw64AYw/o.jpg"
+  "GoogleMapsPhotoLibrary/24a4d30a-932e-11ea-82ce-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/89/64/e5/bullock-texas-state-history.jpg"
  ],
  "tags": [
+  "history",
+  "history",
   "kids",
+  "theatre",
+  "walk",
+  "family"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d209385-Reviews-Bullock_Texas_State_History_Museum-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=15204639289390306722"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Driskill",
+ "address": "604 Brazos St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/d0/5c/e6/beautiful-dome-ceiling.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "delicious",
+  "delicious",
+  "unique",
+  "drink",
+  "tour",
+  "historic",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d519725-Reviews-The_Driskill-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Congress Avenue Bridge / Austin Bats",
+ "address": "100 Congress Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/dd/aa/a6/congress-avenue-at-dusk.jpg"
+ ],
+ "tags": [
+  "tour",
+  "unique",
+  "free",
   "free"
  ],
  "link": [
-  "https://www.yelp.com/biz/play-for-all-abilities-park-round-rock-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d106309-Reviews-Congress_Avenue_Bridge_Austin_Bats-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Moviehouse & Eatery",
- "address": "8300 N Fm 620",
+ "name": "Lady Bird Johnson Wildflower Center",
+ "address": "4801 La Crosse Ave, Austin, TX 78739, USA",
  "avg_visitor_review": [
-  4.0
+  4.8,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/q5ioJcbleCWPD3LHNRMpsA/o.jpg"
+  "GoogleMapsPhotoLibrary/2656594c-932e-11ea-889b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/eb/09/8e/part-of-the-central-complex.jpg"
  ],
  "tags": [
+  "walk",
+  "kids",
   "food",
   "family",
-  "food"
+  "free",
+  "walking",
+  "walking",
+  "family",
+  "wander",
+  "library",
+  "learn",
+  "nature",
+  "organized",
+  "field"
  ],
  "link": [
-  "https://www.yelp.com/biz/moviehouse-and-eatery-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d106076-Reviews-Lady_Bird_Johnson_Wildflower_Center-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=520851327402436129"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Amazon Adventures",
- "address": "2711 Market Garden Ln",
+ "name": "South Congress Avenue",
+ "address": "South Congress Ave",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/ZybV70PyqofH-YnahQ3jcQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0e/f3/ff/d7/south-congress.jpg"
  ],
- "tags": [],
+ "tags": [
+  "unique",
+  "walking",
+  "food",
+  "walk",
+  "art",
+  "family",
+  "unique"
+ ],
  "link": [
-  "https://www.yelp.com/biz/amazon-adventures-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d184129-Reviews-South_Congress_Avenue-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Sculpture Falls",
- "address": "Barton Creek Greenbelt Trl",
+ "name": "Austin Aquarium",
+ "address": "13530 US-183 #101, Austin, TX 78750, USA",
  "avg_visitor_review": [
-  4.5
+  4.3,
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/nvuBPiFIQ329WbwRg84HpA/o.jpg"
+  "GoogleMapsPhotoLibrary/27c10476-932e-11ea-a4ec-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/6f/ee/60/austin-aquarium.jpg"
+ ],
+ "tags": [
+  "kids",
+  "knowledgeable",
+  "kids",
+  "walk",
+  "active",
+  "kids",
+  "free",
+  "family"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d5932721-Reviews-Austin_Aquarium-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=14266381592025822419"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zilker Metropolitan Park",
+ "address": "2100 Barton Springs Rd",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/38/e8/c6/photo2jpg.jpg"
  ],
  "tags": [
   "hike",
-  "hike"
+  "music",
+  "family",
+  "history",
+  "food",
+  "hike",
+  "music",
+  "family",
+  "walk",
+  "walking",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/sculpture-falls-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d109315-Reviews-Zilker_Metropolitan_Park-Austin_Texas.html"
  ],
  "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "McKinney Falls State Park",
+ "address": "5808 McKinney Falls Pkwy, Austin, TX 78744, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.6,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/DyawKxrsIlkrMGSc0tGfwQ/o.jpg",
+  "GoogleMapsPhotoLibrary/24f194fa-932e-11ea-b271-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/cb/78/2c/mckinney-falls-state.jpg"
+ ],
+ "tags": [
+  "hike",
+  "pets",
+  "hike",
+  "nature",
+  "free",
+  "music",
+  "food",
+  "kids",
+  "family",
+  "parks",
+  "walking",
+  "history"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g30196-d109512-Reviews-McKinney_Falls_State_Park-Austin_Texas.html"
+   ],
+   "https://maps.google.com/?cid=18123339836864710291"
+  ],
+  "https://www.yelp.com/biz/mckinney-falls-state-park-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
   "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SoCo District",
+ "address": "1600 S Congress Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/53/cd/97/neon-galore-soco-district.jpg"
+ ],
+ "tags": [
+  "music",
+  "food",
+  "drink",
+  "art",
+  "eat",
+  "drink",
+  "music",
+  "food",
+  "drink",
+  "unique",
+  "walking",
+  "music",
+  "food",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d304817-Reviews-SoCo_District-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Thinkery",
+ "address": "1830 Simond Ave, Austin, TX 78723, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/26b2369e-932e-11ea-9d19-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/f6/7a/14/main-playroom.jpg"
+ ],
+ "tags": [
+  "kids",
+  "active",
+  "kids",
+  "kids",
+  "family",
+  "learn",
+  "kids",
+  "free",
+  "walking",
+  "creative"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d5826856-Reviews-Thinkery-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=5791177094304251559"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "I Love You So Much Mural",
+ "address": "1300 S Congress Ave",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/61/8e/dc/amusing-mural-october.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d8011919-Reviews-I_Love_You_So_Much_Mural-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "The Domain",
  "address": "11410 Century Oaks Ter",
  "avg_visitor_review": [
-  "4.5",
-  3.5
+  3.5,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/86/21/27/the-domain.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/XCjh8pWY9A82qG-4QN1bVA/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/XCjh8pWY9A82qG-4QN1bVA/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/86/21/27/the-domain.jpg"
  ],
  "tags": [
   "walk",
@@ -630,437 +540,434 @@
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/the-domain-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d1487717-Reviews-The_Domain-Austin_Texas.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d1487717-Reviews-The_Domain-Austin_Texas.html"
+  "https://www.yelp.com/biz/the-domain-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Moody Theater",
+ "address": "310 W 2nd St",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/eb/b5/4e/the-moody-theater.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "music",
+  "performance",
+  "music",
+  "tour",
+  "free",
+  "learn",
+  "history",
+  "unique",
+  "free",
+  "history",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d2477886-Reviews-The_Moody_Theater-Austin_Texas.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Blue Hole Regional Park",
- "address": "100 Blue Hole Ln",
+ "name": "Barton Creek Greenbelt",
+ "address": "3755 S Capital of Texas Hwy B, Austin, TX 78704, USA",
  "avg_visitor_review": [
-  4.0
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/dlGtlwTT6zEvD6xwpQ0Uvw/o.jpg"
+  "GoogleMapsPhotoLibrary/25f91c66-932e-11ea-bc98-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/15/32/28/c1/barton-creek-greenbelt.jpg"
  ],
  "tags": [
+  "hike",
+  "pets",
+  "hike",
+  "walk",
+  "nature",
+  "nature",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d558711-Reviews-Barton_Creek_Greenbelt-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=12826442631111907821"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "University of Texas at Austin",
+ "address": "Guadalupe and I-35 Martin Luther King Jr. Blvd. and 26th St.",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/fc/b6/5d/ut-tower.jpg"
+ ],
+ "tags": [
+  "free",
+  "walk",
+  "eat",
+  "library",
+  "walk",
+  "tour",
+  "art",
+  "tour",
+  "walking",
+  "tour",
+  "unique",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d144288-Reviews-University_of_Texas_at_Austin-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Blanton Museum of Art",
+ "address": "200 E Martin Luther King Jr Blvd at Congress Ave University of Texas at Austin",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/af/05/93/how-to-build-cathedrals.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "food",
+  "kids",
+  "free",
+  "free",
+  "walk",
+  "free",
+  "walk",
+  "art",
+  "art",
+  "music",
+  "art",
+  "art",
+  "free",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d139504-Reviews-The_Blanton_Museum_of_Art-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Zoo",
+ "address": "10808 Rawhide Trail, Austin, TX 78736, USA",
+ "avg_visitor_review": [
+  4.3,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2ad31a12-932e-11ea-bf6f-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/05/02/d8/69/austin-zoo.jpg"
+ ],
+ "tags": [
+  "kids",
+  "knowledgeable",
   "family",
+  "kids",
+  "free",
+  "family",
+  "food",
+  "eat",
+  "walking",
+  "tour",
+  "pets",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/blue-hole-regional-park-wimberley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d108229-Reviews-Austin_Zoo-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=5054540521410942947"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Austin's Boat Tours",
- "address": "16200 E Lakeshore Dr",
+ "name": "Mayfield Park",
+ "address": "3505 W 35th St",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/gsBFJNAxkD5PlhRqwl4Saw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/00/1d/88/11/mayfield-park-cottage.jpg"
  ],
  "tags": [
-  "family"
+  "organized",
+  "walking",
+  "walking",
+  "free",
+  "walking",
+  "wander",
+  "free",
+  "approachable"
  ],
  "link": [
-  "https://www.yelp.com/biz/austins-boat-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d560368-Reviews-Mayfield_Park-Austin_Texas.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Vigilante Gaming Bar",
- "address": "7010 Easy Wind Dr",
+ "name": "Circuit of The Americas",
+ "address": "9201 Circuit of the Americas Blvd",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/vNi9AnpnAwBZbJfCXJmrxg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/6d/71/33/home-of-the-world-championship.jpg"
  ],
  "tags": [
-  "delicious",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/vigilante-gaming-bar-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "K1 Speed",
- "address": "2500 Mchale Ct",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/ibK0npalMv_8qUTxHH8LFg/o.jpg"
- ],
- "tags": [
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/k1-speed-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "LBJ Presidential Library",
- "address": "2313 Red River St.",
- "avg_visitor_review": [
-  "4.5",
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/aa/6e/8a/lbj-presidential-library.jpg",
-  "https://s3-media1.fl.yelpcdn.com/bphoto/30wJaBwVizKNna13RIg5PQ/o.jpg"
- ],
- "tags": [
-  "learn",
+  "food",
+  "food",
+  "food",
+  "drink",
+  "drink",
+  "food",
   "walk",
+  "walking",
+  "food",
+  "active",
+  "walking",
+  "free",
+  "food",
+  "family",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d3645477-Reviews-Circuit_of_The_Americas-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Stevie Ray Vaughan Statue",
+ "address": "Riverside Drive & South First Street Adjacent to Auditorium Shores",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2c620fa4-932e-11ea-981d-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/f7/62/c9/me-and-srv.jpg"
+ ],
+ "tags": [
+  "music",
+  "tour",
+  "history",
+  "hike",
+  "walk",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d144291-Reviews-Stevie_Ray_Vaughan_Statue-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=4863867422637644911"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Military Forces Museum",
+ "address": "2200 W 35th St building 6, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2da743e4-932e-11ea-a411-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/2c/37/58/texas-military-forces.jpg"
+ ],
+ "tags": [
+  "free",
   "free",
   "history",
+  "family",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d1853373-Reviews-Texas_Military_Forces_Museum-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=2891917103710051996"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Austin City Limits Live",
+ "address": "310 W 2nd St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/ec/72/day-3-the-dead-weather.jpg"
+ ],
+ "tags": [
+  "music",
   "organized",
+  "music"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d527369-Reviews-Austin_City_Limits_Live-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "HOPE Outdoor Gallery",
+ "address": "1008 Baylor St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/58/2d/ec/you-can-stand-at-the.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "art",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d3974258-Reviews-HOPE_Outdoor_Gallery-Austin_Texas.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Central Library, Austin Public Library",
+ "address": "701 W. Cesar Chavez Street",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/f9/fa/06/photo0jpg.jpg"
+ ],
+ "tags": [
+  "wander",
   "library",
-  "learn",
+  "free",
+  "tour",
+  "free",
   "library",
-  "history",
+  "art",
+  "family",
+  "unique",
+  "creative",
+  "library",
+  "kids",
+  "walk",
+  "library",
+  "unique",
+  "walking",
+  "library",
+  "art",
+  "library",
+  "library",
+  "tour",
   "library"
  ],
  "link": [
-  [
-   "https://www.yelp.com/biz/lbj-presidential-library-austin-6?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
-  ],
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d145840-Reviews-LBJ_Presidential_Library-Austin_Texas.html"
+  "https://www.tripadvisor.com/Attraction_Review-g30196-d13187126-Reviews-Austin_Central_Library_Austin_Public_Library-Austin_Texas.html"
  ],
  "source": [
-  [
-   "Yelp"
-  ],
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Good Time Tours",
- "address": "17141 Rocky Ridge Rd",
+ "name": "Zilker Botanical Garden",
+ "address": "2220 Barton Springs Rd, Austin, TX 78746, USA",
  "avg_visitor_review": [
-  5.0
+  4.6,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/94-rQHqtf__NBG7cShYm-g/o.jpg"
- ],
- "tags": [
-  "tour",
-  "hospitable"
- ],
- "link": [
-  "https://www.yelp.com/biz/good-time-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "High 5",
- "address": "1502 Ranch Rd 620 S",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/tNs_vQ6Qk2_Tqawwn-LmCg/o.jpg"
- ],
- "tags": [
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/high-5-lakeway-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Austin Duck Adventures",
- "address": "602 E 4th St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/gfpQJcF8sZpFnbB1_hH1gQ/o.jpg"
+  "GoogleMapsPhotoLibrary/2542a1de-932e-11ea-a828-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/fa/36/58/filename-100-5154-jpg.jpg"
  ],
  "tags": [
   "learn",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/austin-duck-adventures-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "J Lorraine TX Ghost Town",
- "address": "14219 Littig Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/375e7_pZeU7yk6wCDomrjQ/o.jpg"
- ],
- "tags": [
+  "kids",
+  "walk",
+  "kids",
+  "kids",
   "family",
-  "food"
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/j-lorraine-tx-ghost-town-manor?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g30196-d519727-Reviews-Zilker_Botanical_Garden-Austin_Texas.html"
+  ],
+  "https://maps.google.com/?cid=3143477211538540205"
  ],
  "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wild Things Zoofari",
- "address": "",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ysqIhF9LHQYDpi4kYQUJXw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wild-things-zoofari-taylor?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Congress Avenue Kayaks",
- "address": "74 Trinity St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/wvFTIWVXeo2CXV40mBvmig/o.jpg"
- ],
- "tags": [
-  "family",
-  "affordable",
-  "cheap"
- ],
- "link": [
-  "https://www.yelp.com/biz/congress-avenue-kayaks-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Capital of Texas Zoo",
- "address": "376 Jenkins Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/OOIBAEC7ggKJVLMNRnzMCw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/capital-of-texas-zoo-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Winter Wonderland at the Circuit of the Americas",
- "address": "9201 Circuit Of The Americas Blvd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Bvz8YSXwqrwK36kWynkIsw/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/winter-wonderland-at-the-circuit-of-the-americas-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Double Decker Austin",
- "address": "602 E 4th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/mK54vU1j6RcLs5ocxIVflg/o.jpg"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/double-decker-austin-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Culinary Dropout",
- "address": "11721 Rock Rose",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/vpWi-8enpc7ScXZOd40DGQ/o.jpg"
- ],
- "tags": [
-  "food",
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/culinary-dropout-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Blue Hole Park",
- "address": "101 S Rock St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/16a5PGJPnZ_6w9-i5My4gQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/blue-hole-park-georgetown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Texas Farmers' Market At Mueller",
- "address": "4550 Mueller Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/CKIx-yibH1AuvZS5V37x3w/o.jpg"
- ],
- "tags": [
-  "family",
-  "food",
-  "unique",
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/texas-farmers-market-at-mueller-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Moonshine Patio Bar & Grill",
- "address": "303 Red River St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/5RcWDbJFBMzTfFdTqZdQ_w/o.jpg"
- ],
- "tags": [
-  "family",
-  "delicious"
- ],
- "link": [
-  "https://www.yelp.com/biz/moonshine-patio-bar-and-grill-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lady Bird Lake",
- "address": "",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/WODl_BJ-HaJ7rSJn8-D4dg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/lady-bird-lake-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Austin City Limits Music Festival",
- "address": "2100 Barton Springs Rd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/1-x75l4GP9N5WhzTWwEMIw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/austin-city-limits-music-festival-austin-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
@@ -1408,781 +1315,3500 @@
  ],
  "reviews": []
 },{
- "name": "Texas State Capitol",
- "address": "1100 S Congress Ave",
+ "name": "Texas Capitol",
+ "address": "1100 Congress Ave, Austin, TX 78701, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.7
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/ae/41/4e/and-check-out-the-grounds.jpg"
+  "GoogleMapsPhotoLibrary/23b20a54-932e-11ea-b3e7-14b31f159f22.png"
  ],
  "tags": [
   "history",
   "tour",
-  "history",
-  "free",
-  "family",
-  "history",
-  "tour",
-  "free",
-  "tour",
-  "free",
-  "history",
-  "walk",
-  "tour",
-  "history",
-  "tour",
-  "history",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d109316-Reviews-Texas_State_Capitol-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Lady Bird Lake Hike-and-Bike Trail",
- "address": "Lady Bird Lake First Street Bridge at Lady Bird Lake",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/dc/2f/93/skyline-from-auditorium.jpg"
- ],
- "tags": [
-  "walk",
-  "family",
-  "walk",
-  "free",
-  "walking",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d184131-Reviews-Lady_Bird_Lake_Hike_and_Bike_Trail-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Barton Springs Pool",
- "address": "2201 Barton Springs Rd Zilker Park",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/7a/85/e0/20180422-123110-largejpg.jpg"
- ],
- "tags": [
-  "unique",
-  "adventurous",
-  "family",
+  "eat",
   "food",
-  "food",
+  "tour",
+  "history",
+  "wander",
+  "history",
+  "structure",
+  "tour",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14659031118466371641"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Escape Game Austin",
+ "address": "405 Red River St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/23fbe5cc-932e-11ea-bce1-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6250885015481600262"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Barton Springs Municipal Pool",
+ "address": "2131 William Barton Dr, Austin, TX 78746, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/244ec236-932e-11ea-81ac-14b31f159f22.png"
+ ],
+ "tags": [
   "family",
-  "kids",
-  "drink",
   "free",
-  "learn",
-  "walking",
-  "walk",
-  "walk",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d116421-Reviews-Barton_Springs_Pool-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mount Bonnell",
- "address": "3800 Bonnell Dr",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/c5/a1/d6/mount-bonnell.jpg"
- ],
- "tags": [
   "free",
-  "hike",
-  "walk",
-  "hike",
   "kids",
-  "hike"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d144295-Reviews-Mount_Bonnell-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Bullock Texas State History Museum",
- "address": "1800 Congress Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/89/64/e5/bullock-texas-state-history.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "kids",
-  "history",
-  "history",
-  "theatre",
-  "history",
-  "history",
-  "walk",
-  "family"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d209385-Reviews-Bullock_Texas_State_History_Museum-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Driskill",
- "address": "604 Brazos St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/d0/5c/e6/beautiful-dome-ceiling.jpg"
- ],
- "tags": [
-  "historic",
-  "history",
-  "delicious",
-  "delicious",
-  "unique",
-  "drink",
-  "tour",
-  "historic",
-  "historic"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d519725-Reviews-The_Driskill-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Congress Avenue Bridge / Austin Bats",
- "address": "100 Congress Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/dd/aa/a6/congress-avenue-at-dusk.jpg"
- ],
- "tags": [
-  "tour",
-  "unique",
-  "free",
   "free"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d106309-Reviews-Congress_Avenue_Bridge_Austin_Bats-Austin_Texas.html"
+  "https://maps.google.com/?cid=16474565573952186553"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Lady Bird Johnson Wildflower Center",
- "address": "4801 La Crosse Ave",
+ "name": "Circuit of the Americas",
+ "address": "9201 Circuit of the Americas Blvd, Austin, TX 78617, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/eb/09/8e/part-of-the-central-complex.jpg"
+  "GoogleMapsPhotoLibrary/25948c6c-932e-11ea-9ff4-14b31f159f22.png"
  ],
  "tags": [
-  "family",
-  "walking",
-  "wander",
-  "library",
-  "family",
-  "family",
-  "kids",
-  "learn",
-  "nature",
-  "walking",
-  "organized",
-  "learn",
-  "walking",
-  "walking",
-  "free",
-  "field",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d106076-Reviews-Lady_Bird_Johnson_Wildflower_Center-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "South Congress Avenue",
- "address": "South Congress Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0e/f3/ff/d7/south-congress.jpg"
- ],
- "tags": [
-  "unique",
+  "walk",
+  "food",
   "walking",
   "food",
-  "walk",
-  "art",
   "family",
-  "unique"
+  "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d184129-Reviews-South_Congress_Avenue-Austin_Texas.html"
+  "https://maps.google.com/?cid=10009294002508390637"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Austin Aquarium",
- "address": "13530 N Highway 183 Suite #101",
+ "name": "Mayfield Park and Nature Preserve",
+ "address": "3505 W 35th St, Austin, TX 78703, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.7
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/6f/ee/60/austin-aquarium.jpg"
+  "GoogleMapsPhotoLibrary/270d47c0-932e-11ea-a15c-14b31f159f22.png"
  ],
  "tags": [
+  "walk",
   "kids",
+  "free",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16810831707813911808"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ann W. Richards Congress Avenue Bridge",
+ "address": "Congress Ave, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/276888be-932e-11ea-ab73-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "parks",
+  "walk",
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14341732068178455807"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Covert Park at Mount Bonnell",
+ "address": "3800 Mt Bonnell Rd, Austin, TX 78731, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2803952e-932e-11ea-a40a-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12535247186597342205"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Blanton Museum of Art",
+ "address": "200 E Martin Luther King Jr Blvd, Austin, TX 78712, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/284b4e7e-932e-11ea-b230-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "organized",
+  "walk",
+  "free",
+  "art",
+  "free",
+  "art",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13749455008237930349"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Walking Tours of Austin",
+ "address": "242 W 2nd St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/28e6f4f8-932e-11ea-a2f3-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "learn",
+  "history",
+  "walking",
+  "tour",
+  "tour",
+  "walk",
+  "knowledgeable",
+  "family",
+  "tour",
+  "learn",
+  "tour",
+  "walk",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7529027348005530976"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Greetings From Austin Mural",
+ "address": "1720 S 1st St, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/292f3452-932e-11ea-8f0c-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=18260568494574457353"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pennybacker Bridge",
+ "address": "5300 N Capital of Texas Hwy, Austin, TX 78730, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/AoDhPhQphS0FMwDNTemF-Q/o.jpg",
+  "GoogleMapsPhotoLibrary/297a2174-932e-11ea-b3b3-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "walk",
   "kids",
   "free",
   "family"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d5932721-Reviews-Austin_Aquarium-Austin_Texas.html"
+  [
+   "https://maps.google.com/?cid=15822908396058364497"
+  ],
+  "https://www.yelp.com/biz/pennybacker-bridge-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
- "name": "Zilker Metropolitan Park",
- "address": "2100 Barton Springs Rd",
+ "name": "Peter Pan Mini-Golf",
+ "address": "1207 Barton Springs Rd, Austin, TX 78704, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.0,
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/38/e8/c6/photo2jpg.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/taP9Y2lmDyhACFz7X5F8jQ/o.jpg",
+  "GoogleMapsPhotoLibrary/29d541ae-932e-11ea-bde1-14b31f159f22.png"
  ],
  "tags": [
-  "hike",
-  "music",
-  "family",
-  "history",
-  "food",
-  "hike",
-  "music",
-  "family",
-  "walk",
-  "walking",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d109315-Reviews-Zilker_Metropolitan_Park-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "SoCo District",
- "address": "1600 S Congress Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/53/cd/97/neon-galore-soco-district.jpg"
- ],
- "tags": [
-  "music",
-  "food",
-  "drink",
+  "kids",
   "art",
-  "eat",
-  "drink",
-  "music",
-  "food",
-  "drink",
-  "unique",
-  "walking",
-  "music",
-  "food",
-  "food",
-  "walk"
+  "history"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d304817-Reviews-SoCo_District-Austin_Texas.html"
+  [
+   "https://maps.google.com/?cid=4546098976964668771"
+  ],
+  "https://www.yelp.com/biz/peter-pan-mini-golf-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
- "name": "Thinkery",
- "address": "1830 Simond Ave",
+ "name": "Museum of the Weird",
+ "address": "412 E 6th St, Austin, TX 78701, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.2
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/f6/7a/14/main-playroom.jpg"
+  "GoogleMapsPhotoLibrary/2a28c9cc-932e-11ea-844f-14b31f159f22.png"
  ],
  "tags": [
   "kids",
-  "learn",
-  "free",
-  "family",
-  "walking",
-  "kids",
-  "creative",
-  "kids",
-  "kids",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d5826856-Reviews-Thinkery-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "I Love You So Much Mural",
- "address": "1300 S Congress Ave",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/61/8e/dc/amusing-mural-october.jpg"
- ],
- "tags": [
-  "family",
   "tour"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d8011919-Reviews-I_Love_You_So_Much_Mural-Austin_Texas.html"
+  "https://maps.google.com/?cid=10430403330259199010"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "The Moody Theater",
- "address": "310 W 2nd St",
+ "name": "Umlauf Sculpture Garden & Museum",
+ "address": "605 Azie Morton Rd, Austin, TX 78704, USA",
  "avg_visitor_review": [
-  "5.0"
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/eb/b5/4e/the-moody-theater.jpg"
+  "GoogleMapsPhotoLibrary/2a731a9a-932e-11ea-91d8-14b31f159f22.png"
  ],
  "tags": [
-  "theatre",
-  "music",
-  "performance",
-  "music",
-  "tour",
+  "family",
   "free",
-  "learn",
-  "history",
-  "unique",
-  "free",
-  "history",
-  "tour",
+  "art",
+  "nature",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d2477886-Reviews-The_Moody_Theater-Austin_Texas.html"
+  "https://maps.google.com/?cid=4128896571516237611"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Barton Creek Greenbelt",
- "address": "200 S Lamar Blvd",
+ "name": "Lake Travis Zipline Adventures",
+ "address": "14529 Pocohontas Trail, Volente, TX 78641, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.9
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/15/32/28/c1/barton-creek-greenbelt.jpg"
+  "GoogleMapsPhotoLibrary/2b17c59a-932e-11ea-b818-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13077092507426058584"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Nature & Science Center",
+ "address": "2389 Stratford Dr, Austin, TX 78746, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/XT4McBTtK0yFXq-kLyBZGQ/o.jpg",
+  "GoogleMapsPhotoLibrary/2b653040-932e-11ea-8bf7-14b31f159f22.png"
  ],
  "tags": [
   "nature",
-  "walking",
+  "free",
+  "learn",
+  "kids",
+  "wander",
+  "family",
+  "hike",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d558711-Reviews-Barton_Creek_Greenbelt-Austin_Texas.html"
+  [
+   "https://maps.google.com/?cid=6972521043423707181"
+  ],
+  "https://www.yelp.com/biz/austin-nature-and-science-center-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
- "name": "University of Texas at Austin",
- "address": "Guadalupe and I-35 Martin Luther King Jr. Blvd. and 26th St.",
+ "name": "Hippie Hollow Park",
+ "address": "7000 Comanche Trail, Austin, TX 78732, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/fc/b6/5d/ut-tower.jpg"
+  "GoogleMapsPhotoLibrary/2bb5c69e-932e-11ea-a27c-14b31f159f22.png"
  ],
  "tags": [
-  "free",
-  "walk",
-  "eat",
-  "library",
-  "walk",
-  "tour",
-  "art",
-  "tour",
-  "walking",
-  "tour",
-  "unique",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d144288-Reviews-University_of_Texas_at_Austin-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Blanton Museum of Art",
- "address": "200 E Martin Luther King Jr Blvd at Congress Ave University of Texas at Austin",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/af/05/93/how-to-build-cathedrals.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "art",
   "food",
-  "kids",
-  "free",
-  "free",
-  "walk",
-  "free",
-  "walk",
-  "art",
-  "art",
-  "music",
-  "art",
-  "art",
-  "free",
+  "walking",
   "free"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d139504-Reviews-The_Blanton_Museum_of_Art-Austin_Texas.html"
+  "https://maps.google.com/?cid=6245484632170711332"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Austin Zoo",
- "address": "10808 Rawhide Trl",
+ "name": "Auditorium Shores at Town Lake Metropolitan Park",
+ "address": "900 W Riverside Dr, Austin, TX 78704, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.7
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/05/02/d8/69/austin-zoo.jpg"
+  "GoogleMapsPhotoLibrary/2c143b7e-932e-11ea-98c6-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6276687789387309616"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of Junk",
+ "address": "4422 Lareina Dr, Austin, TX 78745, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2cbc3f54-932e-11ea-b364-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "unique",
+  "tour",
+  "art",
+  "structure",
+  "family",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12821393960957175584"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lockout Austin",
+ "address": "1700 S Lamar Blvd Suite 327, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  5.0,
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/nzKVU9Wk4sh5FsFFUmjeJw/o.jpg",
+  "GoogleMapsPhotoLibrary/2d13f8e8-932e-11ea-a62d-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=17389939075199082394"
+  ],
+  "https://www.yelp.com/biz/lockout-austin-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Mexic-Arte Museum",
+ "address": "419 Congress Ave, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2d5ebba4-932e-11ea-8ec1-14b31f159f22.png"
+ ],
+ "tags": [
+  "educate",
+  "walk",
+  "art",
+  "art",
+  "free",
+  "art",
+  "walk",
+  "art",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17718997533140222831"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Elisabet Ney Museum",
+ "address": "304 E 44th St, Austin, TX 78751, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2dfc6aee-932e-11ea-b147-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "kids",
+  "art",
+  "kids",
+  "art",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7738470496051917648"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mueller Lake Park",
+ "address": "4550 Mueller Blvd, Austin, TX 78723, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2e4fbc66-932e-11ea-955e-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "walk",
+  "kids",
+  "family",
+  "music",
+  "kids",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14315970095901078493"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Memorial Museum",
+ "address": "2400 Trinity St, Austin, TX 78705, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2e95c95e-932e-11ea-aea2-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "history",
+  "kids",
+  "kids",
+  "cheap",
+  "family",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3432920704519923478"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Allens Boots",
+ "address": "1522 S Congress Ave, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2eda9fc6-932e-11ea-89bf-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=10758570619703789610"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sculpture Falls",
+ "address": "Barton Creek Greenbelt Trail, Austin, TX 78746, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/nvuBPiFIQ329WbwRg84HpA/o.jpg",
+  "GoogleMapsPhotoLibrary/2f1f7214-932e-11ea-a32a-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "hike"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=1951849506294715484"
+  ],
+  "https://www.yelp.com/biz/sculpture-falls-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "UT Tower",
+ "address": "110 Inner Campus Drive, Austin, TX 78705, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2f797aa4-932e-11ea-9166-14b31f159f22.png"
+ ],
+ "tags": [
+  "library",
+  "historic",
+  "historic",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15208178884767857649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Visitor Center",
+ "address": "602 E 4th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/2fbdfef6-932e-11ea-a75a-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "drink",
+  "knowledgeable",
+  "tour",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13728048775468674139"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Harry Ransom Center",
+ "address": "300 W 21st St, Austin, TX 78712, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/300605ba-932e-11ea-a894-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2120310770481742037"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Contemporary Austin - Laguna Gloria",
+ "address": "3809 W 35th St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/305a0226-932e-11ea-9b93-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "nature",
+  "free",
+  "unique",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18166194945307176024"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Contemporary Austin - Jones Center",
+ "address": "700 Congress Ave, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/30a84ab6-932e-11ea-a480-14b31f159f22.png"
+ ],
+ "tags": [
+  "affordable",
+  "art",
+  "art",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13336695189358342550"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jourdan-Bachman Pioneer Farms",
+ "address": "10621 Pioneer Farms Dr, Austin, TX 78754, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/30fa15a2-932e-11ea-8b8d-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "food",
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8733940930740036104"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Willie Nelson Statue",
+ "address": "310 W 2nd St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3143f142-932e-11ea-a31d-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11270736958746284011"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Capitol Visitors Center",
+ "address": "112 E 11th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/319cea26-932e-11ea-8acd-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "free",
+  "tour",
+  "free",
+  "history",
+  "drink",
+  "history",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16999015886122381305"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Twin Falls",
+ "address": "3918 MoPac Expy, Austin, TX 78746, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/31f321e6-932e-11ea-8af7-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12931726311197197370"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Statesman Bat Observation Center",
+ "address": "305 S Congress Ave, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3246e8e4-932e-11ea-afd1-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10755031983697065841"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Haunted ATX",
+ "address": "501 N Interstate Hwy 35, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/329cfa58-932e-11ea-aeed-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "tour",
+  "history",
+  "family",
+  "knowledgeable",
+  "tour",
+  "history",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14496764632509931195"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Bud Isle",
+ "address": "3401 Redbud Trail, Austin, TX 78746, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/32e619fa-932e-11ea-9fbe-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14172216614050782431"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Before I Die Wall Austin TX",
+ "address": "206 E Elizabeth St, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3336d36e-932e-11ea-91a2-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4518486115452345578"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Cruises",
+ "address": "208 Barton Springs Rd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/338d8080-932e-11ea-865b-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15391392047702082198"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Escapology Escape Rooms Austin",
+ "address": "2000 S, I-35 Ste E2, Round Rock, TX 78681, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/33ea6f3a-932e-11ea-83b9-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "knowledgeable",
+  "family",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=507473259122034522"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Visit Austin",
+ "address": "111 Congress Ave Suite 700, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/343017fa-932e-11ea-98d2-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15173645697666008755"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "You're My Butter Half Mural",
+ "address": "2000 E Martin Luther King Jr Blvd, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/347e6c9c-932e-11ea-bd41-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=10188880700273085128"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Live Love Paddle",
+ "address": "1610 E Riverside Dr, Austin, TX 78741, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/34d2826c-932e-11ea-8a11-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "free",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11217537932921000007"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Emma Long Metropolitan Park",
+ "address": "1600 City Park Rd, Austin, TX 78730, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/35192864-932e-11ea-ab48-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14781686213575077032"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Republic Square",
+ "address": "422 Guadalupe St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/355fa46c-932e-11ea-8612-14b31f159f22.png"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12852208163527475367"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gus Fruh",
+ "address": "2642 Barton Hills Dr, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/35ad2964-932e-11ea-8a50-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "walking",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2296503899046439822"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Butler Metro Park",
+ "address": "1000 Barton Springs Rd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/360096f6-932e-11ea-aa72-14b31f159f22.png"
+ ],
+ "tags": [
+  "art",
+  "nature",
+  "sightseeing"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9143100201009943774"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pease District Park",
+ "address": "1100 Kingsbury St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/36489d9a-932e-11ea-97b0-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "walk",
+  "kids",
+  "parks",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18357554210300390233"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Uchi",
+ "address": "801 S Lamar Blvd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/36a0d16c-932e-11ea-8f27-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "unique",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7800725174736543982"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Odd Duck",
+ "address": "1201 S Lamar Blvd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/36e7edda-932e-11ea-b337-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12766655180848736231"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Franklin Barbecue",
+ "address": "900 E 11th St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3739d50c-932e-11ea-9672-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "family",
+  "eat",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3579139785445756036"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Uchiko",
+ "address": "4200 N Lamar Blvd, Austin, TX 78756, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/37875a40-932e-11ea-8339-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4397274347057868509"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jeffrey's",
+ "address": "1204 W Lynn St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/37d3cdd2-932e-11ea-9f73-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15676038141914699544"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Moonshine Grill",
+ "address": "303 Red River St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3837c19c-932e-11ea-93a5-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4403592168116976372"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Launderette",
+ "address": "2115 Holly St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/38a3ba06-932e-11ea-97fd-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3857902619508366330"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Barley Swine",
+ "address": "6555 Burnet Rd #400, Austin, TX 78757, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3900a8a4-932e-11ea-b289-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "delicious",
+  "drink",
+  "tasting",
+  "drink",
+  "tasting",
+  "food",
+  "tasting",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5174943467783230460"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Suerte",
+ "address": "1800 E 6th St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3950027a-932e-11ea-a745-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "unique",
+  "unique",
+  "food",
+  "food",
+  "family",
+  "food",
+  "creative",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5197602663932924785"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fonda San Miguel",
+ "address": "2330 W N Loop Blvd, Austin, TX 78756, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/399a5350-932e-11ea-8b32-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8904233960722141259"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Salty Sow",
+ "address": "1917 Manor Rd, Austin, TX 78722, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/39f59474-932e-11ea-a42e-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8030984187829816362"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Olamaie",
+ "address": "1610 San Antonio St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3a390738-932e-11ea-95b2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5468639644178705957"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bouldin Creek Cafe",
+ "address": "1900 S 1st St, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3a779818-932e-11ea-9210-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "creative",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15682172389234257804"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "LENOIR",
+ "address": "1807 S 1st St, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ad5981a-932e-11ea-b133-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "foodie",
+  "knowledgeable",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12405965875814844894"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Foreign & Domestic",
+ "address": "306 E 53rd St, Austin, TX 78751, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3b1e1422-932e-11ea-8237-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "tasting",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2080247999671460506"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Truluck's",
+ "address": "400 Colorado St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3b6270ca-932e-11ea-bfed-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "drink",
+  "food",
+  "music",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13514735727124765649"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kemuri Tatsu-Ya",
+ "address": "2713 E 2nd St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3bab3aa8-932e-11ea-93f5-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3553143944041219506"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lonesome Dove Austin",
+ "address": "419 Colorado St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3bf0d150-932e-11ea-9be8-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14523804670143904167"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "True Food Kitchen",
+ "address": "222 West Ave Ste HR100, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3c38ff40-932e-11ea-94e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "eat",
+  "food",
+  "creative",
+  "food",
+  "delicious",
+  "food",
+  "drink",
+  "food",
+  "family",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15979877724592806828"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Perry's Steakhouse & Grille",
+ "address": "114 W 7th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3c8265c0-932e-11ea-8e09-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4620661984350240395"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Veracruz All Natural Food Truck",
+ "address": "2505 Webberville Rd, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3cca539a-932e-11ea-a932-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8028204683900683477"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Justine's",
+ "address": "4710 E 5th St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3d16eb8c-932e-11ea-b481-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "music",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12020484857284367043"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Ash",
+ "address": "Colorado Tower, 303 Colorado St #200, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3d7788de-932e-11ea-9b67-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=781942648408772286"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Emmer & Rye",
+ "address": "SkyHouse, 51 Rainey St UNIT 110, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ddc1ae2-932e-11ea-ab3b-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "knowledgeable",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18092359907513002252"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Terry Black's Barbecue",
+ "address": "1003 Barton Springs Rd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3e38f2fe-932e-11ea-9974-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "eat",
+  "delicious",
+  "art",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13851597096564644039"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dai Due",
+ "address": "2406 Manor Rd, Austin, TX 78722, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ec7ad86-932e-11ea-913a-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "knowledgeable",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15015697098925794981"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wink",
+ "address": "1014 N Lamar Blvd, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3f1ad8ac-932e-11ea-9f15-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "drink",
+  "eat",
+  "tasting",
+  "food",
+  "tasting",
+  "food",
+  "foodie"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2432580875027835006"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Contigo",
+ "address": "2027 Anchor Ln, Austin, TX 78723, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3f5ec024-932e-11ea-baf3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "foodie",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17627320090670369131"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Botticelli's",
+ "address": "1321 S Congress Ave, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3fab0cd2-932e-11ea-8c80-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "music",
+  "unique",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15251155985323929193"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "III Forks",
+ "address": "111 Lavaca St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/3ff1df86-932e-11ea-a707-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10923781143488940167"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cypress Grill",
+ "address": "4404 W William Cannon Dr, Austin, TX 78749, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/40379c76-932e-11ea-a4c0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "drink",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=444434188960911195"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "la Barbecue",
+ "address": "2027 E Cesar Chavez St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/407d3224-932e-11ea-9d75-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18254912055511811922"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eddie V's Prime Seafood",
+ "address": "301 E 5th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/40d2f4dc-932e-11ea-9c13-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "unique",
+  "food",
+  "delicious",
+  "knowledgeable",
+  "food",
+  "drink",
+  "food",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2555005985271487131"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hillside Farmacy",
+ "address": "1209 E 11th St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/411ecc4a-932e-11ea-81d7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10564411408943372096"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+ "address": "309 E 3rd St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4177660a-932e-11ea-a952-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "eat",
+  "eat",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3662433321807993520"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Comedor",
+ "address": "501 Colorado St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/41c03022-932e-11ea-a5d1-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6958240678106455106"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hoover's Cooking",
+ "address": "2002 Manor Rd, Austin, TX 78722, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/42115ed8-932e-11ea-a134-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11242317709971741295"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Clark's Oyster Bar",
+ "address": "1200 W 6th St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/42551fd2-932e-11ea-95c4-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "knowledgeable",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7769812336814339815"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Corner Restaurant & Bar",
+ "address": "110 E 2nd St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/42a78708-932e-11ea-8489-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "knowledgeable",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2814634074907806452"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Roaring Fork",
+ "address": "701 Congress Ave, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4307a0e4-932e-11ea-8521-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "drink",
+  "eat",
+  "food",
+  "knowledgeable",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14874993945797901026"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bufalina Pizza",
+ "address": "1519 E Cesar Chavez St #200, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4357e568-932e-11ea-86a8-14b31f159f22.png"
  ],
  "tags": [
   "food",
   "eat",
-  "walking",
-  "kids",
-  "tour",
-  "pets",
-  "kids",
-  "kids",
-  "kids",
-  "kids",
-  "walking",
-  "food",
-  "walk",
-  "free",
-  "family",
-  "kids"
+  "foodie"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d108229-Reviews-Austin_Zoo-Austin_Texas.html"
+  "https://maps.google.com/?cid=15594052442158171729"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Mayfield Park",
- "address": "3505 W 35th St",
+ "name": "Rosewood",
+ "address": "1209 Rosewood Ave, Austin, TX 78702, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.7
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/00/1d/88/11/mayfield-park-cottage.jpg"
+  "GoogleMapsPhotoLibrary/43b71ddc-932e-11ea-8911-14b31f159f22.png"
  ],
  "tags": [
-  "organized",
-  "walking",
-  "walking",
-  "free",
-  "walking",
-  "wander",
-  "free",
-  "approachable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d560368-Reviews-Mayfield_Park-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Circuit of The Americas",
- "address": "9201 Circuit of the Americas Blvd",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/6d/71/33/home-of-the-world-championship.jpg"
- ],
- "tags": [
+  "delicious",
+  "unique",
   "food",
   "food",
+  "delicious",
+  "unique",
   "food",
-  "drink",
-  "drink",
-  "food",
-  "walk",
-  "walking",
-  "food",
-  "active",
-  "walking",
-  "free",
-  "food",
-  "family",
-  "walking",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d3645477-Reviews-Circuit_of_The_Americas-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Stevie Ray Vaughan Statue",
- "address": "Riverside Drive & South First Street Adjacent to Auditorium Shores",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/f7/62/c9/me-and-srv.jpg"
- ],
- "tags": [
-  "tour",
-  "history",
-  "hike",
-  "music",
-  "walk",
-  "tour",
-  "walking",
-  "hike",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d144291-Reviews-Stevie_Ray_Vaughan_Statue-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Texas Military Forces Museum",
- "address": "2200 W 35th St Building 6 Camp Mabry",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/2c/37/58/texas-military-forces.jpg"
- ],
- "tags": [
-  "history",
-  "kids",
-  "free",
-  "history",
+  "tasting",
   "history"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d1853373-Reviews-Texas_Military_Forces_Museum-Austin_Texas.html"
+  "https://maps.google.com/?cid=11164874465239479489"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Austin City Limits Live",
- "address": "310 W 2nd St",
+ "name": "P\u00e9ch\u00e9",
+ "address": "208 W 4th St, Austin, TX 78701, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/ec/72/day-3-the-dead-weather.jpg"
+  "GoogleMapsPhotoLibrary/442ee81e-932e-11ea-a714-14b31f159f22.png"
  ],
  "tags": [
-  "music",
-  "organized",
-  "music"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d527369-Reviews-Austin_City_Limits_Live-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "HOPE Outdoor Gallery",
- "address": "1008 Baylor St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/58/2d/ec/you-can-stand-at-the.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "art",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d3974258-Reviews-HOPE_Outdoor_Gallery-Austin_Texas.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Austin Central Library, Austin Public Library",
- "address": "701 W. Cesar Chavez Street",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/f9/fa/06/photo0jpg.jpg"
- ],
- "tags": [
-  "wander",
-  "library",
-  "free",
-  "tour",
-  "free",
-  "library",
-  "art",
-  "family",
   "unique",
-  "creative",
-  "library",
+  "food",
+  "delicious",
+  "drink",
+  "eat",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=991668141432350343"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chez Nous",
+ "address": "510 Neches St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4492095a-932e-11ea-a8c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1898130549471281605"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caroline Restaurant",
+ "address": "621 Congress Ave Suite 101, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/44d6e026-932e-11ea-b002-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "free",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4093074264320094839"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Swift's Attic",
+ "address": "315 Congress Ave, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/4529e392-932e-11ea-90ec-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7686845846754392187"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Koriente",
+ "address": "621 E 7th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/456ae564-932e-11ea-b42a-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "free",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13268314626462974099"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fabi + Rosi",
+ "address": "509 Hearn St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/45b3b30c-932e-11ea-b457-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6621090568173783163"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caf\u00e9 Josie",
+ "address": "1200 B W 6th St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/45f88002-932e-11ea-b2f8-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14386090397241319353"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Home Slice Pizza",
+ "address": "1415 S Congress Ave, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/463ff5be-932e-11ea-bb3f-14b31f159f22.png"
+ ],
+ "tags": [
   "kids",
-  "walk",
-  "library",
-  "unique",
-  "walking",
-  "library",
-  "art",
-  "library",
-  "library",
-  "tour",
-  "library"
+  "food",
+  "delicious",
+  "family"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d13187126-Reviews-Austin_Central_Library_Austin_Public_Library-Austin_Texas.html"
+  "https://maps.google.com/?cid=12299280573550492680"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Zilker Botanical Garden",
+ "name": "DeSano Pizzeria Napoletana - Downtown Austin",
+ "address": "301 Lavaca St Suite 200, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/468c8dba-932e-11ea-b353-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3865327066180748277"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Z'Tejas",
+ "address": "1110 W 6th St, Austin, TX 78703, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/46d7a7ee-932e-11ea-bddd-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "delicious",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3482349314898839457"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juan in a Million",
+ "address": "2300 E Cesar Chavez St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/471d16cc-932e-11ea-919d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9725571444559478307"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Intero Restaurant",
+ "address": "2612 E Cesar Chavez St, Austin, TX 78702, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47657424-932e-11ea-983d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "approachable",
+  "food",
+  "art",
+  "drink",
+  "food",
+  "drink",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6058362839333934542"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Andiamo Ristorante",
+ "address": "2521 Rutland Dr #325, Austin, TX 78758, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47a8bffe-932e-11ea-a6d1-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11260116493209775777"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Elizabeth Street Cafe",
+ "address": "1501 S 1st St, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/47e6185e-932e-11ea-a342-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "creative",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5132560538989797291"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Carillon",
+ "address": "1900 University Ave, Austin, TX 78705, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/483460b6-932e-11ea-b3d4-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4202049172984800307"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Loro",
+ "address": "2115 S Lamar Blvd, Austin, TX 78704, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/48793424-932e-11ea-9068-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "delicious",
+  "food",
+  "drink",
+  "unique",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13539345899590166404"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Siena Restaurant",
+ "address": "6203 N Capital of Texas Hwy, Austin, TX 78731, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/48c84a4a-932e-11ea-8696-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3341999042700581687"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eureka!",
+ "address": "200 E 6th St, Austin, TX 78701, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/492315f8-932e-11ea-b70e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "food",
+  "walking",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6298259428620781736"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zilker Botanical Gardens",
  "address": "2220 Barton Springs Rd",
  "avg_visitor_review": [
-  "4.5"
+  4.0
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/fa/36/58/filename-100-5154-jpg.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Nx5i2YqmmgxPxN0cniUwSA/o.jpg"
  ],
  "tags": [
-  "family",
-  "family",
-  "walk",
-  "walk",
+  "free",
+  "affordable",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/zilker-botanical-gardens-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Hill Country Olive Company",
+ "address": "2530 Fitzhugh Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/EqSeHz2R2XQ6TOug3nM4Ig/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/texas-hill-country-olive-company-dripping-springs?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Barton Springs Bike Rental & Tours",
+ "address": "1707 Barton Springs Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/nyz9ePP1hWAgBdKQVSERxA/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/barton-springs-bike-rental-and-tours-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Maverick Horseback Riding",
+ "address": "5766 Balcones Drive",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/wg4Wl-JdoKGWYuf5hq86CQ/o.jpg"
+ ],
+ "tags": [
   "walking"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g30196-d519727-Reviews-Zilker_Botanical_Garden-Austin_Texas.html"
+  "https://www.yelp.com/biz/maverick-horseback-riding-austin-7?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Enjoy the Mountain ATV Adventures & Tours",
+ "address": "787 Mountain Top Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/FE2bLFfHZ4wxPwxlP4Gr6g/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/enjoy-the-mountain-atv-adventures-and-tours-johnson-city?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Hipside Peddler",
+ "address": "421 Tillery St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/0kWAueQlx-B6jKFgIWSioQ/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/hipside-peddler-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Farmers' Market",
+ "address": "11200 Lakeline Mall Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/TbBe0BVx6xf_lr12Q-Jylg/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/texas-farmers-market-cedar-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dinosaur Park",
+ "address": "893 Union Chapel Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/91Gd8i3YAnII-fg-MuVb1g/o.jpg"
+ ],
+ "tags": [
+  "educate",
+  "cheap"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/dinosaur-park-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Zip Lost Pines",
+ "address": "1760 State Highway 71 W",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/zUpXaQeJcLDf4p0m1Ujh7w/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/zip-lost-pines-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Casa Neverlandia",
+ "address": "305 W Milton",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Th3kWkjeK9JaaHwbzNu2MQ/o.jpg"
+ ],
+ "tags": [
+  "art",
+  "kids",
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/casa-neverlandia-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dead Man's Hole",
+ "address": "Cr 401",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/VQV2uTDAj917KrxwQw6Hjg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/dead-mans-hole-spicewood?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Rooftop Over Lake Travis",
+ "address": "6550 Comanche Trl",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/33VTgWzd6vhz8oQ-iKRULQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-rooftop-over-lake-travis-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Pinballz Lake Creek",
+ "address": "13729 Research Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/XfHHFyYz23f3lxw26Av2ow/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/pinballz-lake-creek-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "iFLY Indoor Skydiving - Austin",
+ "address": "13265 North Us 183",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/xuXCtKlv2i6N0twb0JzvBw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/ifly-indoor-skydiving-austin-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Helicopter Tours",
+ "address": "10301 Fm 969",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/17AOsFPine0Zaleqvdon3w/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/austin-helicopter-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bike & Brew ATX",
+ "address": "507 Callest St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/pGmyqeLrROZLYFBld1FaAQ/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/bike-and-brew-atx-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Greetings From Austin Postcard Mural",
+ "address": "1720 S 1st St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/rbdZF-V1Bu-5MnjxgmqhXA/o.jpg"
+ ],
+ "tags": [
+  "art"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/greetings-from-austin-postcard-mural-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cedar Rock Railroad",
+ "address": "390 Borho",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/JnLCbmb-AVSy79p0CCoJJw/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/cedar-rock-railroad-round-rock-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "ATXcursions",
+ "address": "621 Gunter",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/d7GY8z1-Lkrra_NGXsE_uQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/atxcursions-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Great Hills Park Trail",
+ "address": "10801 Sierra Oaks",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/2BwTPELufhlsBwpA3ZB0iw/o.jpg"
+ ],
+ "tags": [
+  "hike"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/great-hills-park-trail-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Play For All Abilities Park",
+ "address": "151 N A W Grimes Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/K3OrK5FFQgbXQwwaw64AYw/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/play-for-all-abilities-park-round-rock-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Moviehouse & Eatery",
+ "address": "8300 N Fm 620",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/q5ioJcbleCWPD3LHNRMpsA/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/moviehouse-and-eatery-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Amazon Adventures",
+ "address": "2711 Market Garden Ln",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ZybV70PyqofH-YnahQ3jcQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/amazon-adventures-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Blue Hole Regional Park",
+ "address": "100 Blue Hole Ln",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/dlGtlwTT6zEvD6xwpQ0Uvw/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/blue-hole-regional-park-wimberley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Austin's Boat Tours",
+ "address": "16200 E Lakeshore Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/gsBFJNAxkD5PlhRqwl4Saw/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/austins-boat-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Vigilante Gaming Bar",
+ "address": "7010 Easy Wind Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/vNi9AnpnAwBZbJfCXJmrxg/o.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/vigilante-gaming-bar-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "K1 Speed",
+ "address": "2500 Mchale Ct",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ibK0npalMv_8qUTxHH8LFg/o.jpg"
+ ],
+ "tags": [
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/k1-speed-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Good Time Tours",
+ "address": "17141 Rocky Ridge Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/94-rQHqtf__NBG7cShYm-g/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "hospitable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/good-time-tours-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "High 5",
+ "address": "1502 Ranch Rd 620 S",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/tNs_vQ6Qk2_Tqawwn-LmCg/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/high-5-lakeway-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Austin Duck Adventures",
+ "address": "602 E 4th St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/gfpQJcF8sZpFnbB1_hH1gQ/o.jpg"
+ ],
+ "tags": [
+  "learn",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/austin-duck-adventures-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "J Lorraine TX Ghost Town",
+ "address": "14219 Littig Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/375e7_pZeU7yk6wCDomrjQ/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/j-lorraine-tx-ghost-town-manor?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wild Things Zoofari",
+ "address": "",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ysqIhF9LHQYDpi4kYQUJXw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wild-things-zoofari-taylor?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Congress Avenue Kayaks",
+ "address": "74 Trinity St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/wvFTIWVXeo2CXV40mBvmig/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "affordable",
+  "cheap"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/congress-avenue-kayaks-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Capital of Texas Zoo",
+ "address": "376 Jenkins Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/OOIBAEC7ggKJVLMNRnzMCw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/capital-of-texas-zoo-cedar-creek?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Winter Wonderland at the Circuit of the Americas",
+ "address": "9201 Circuit Of The Americas Blvd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Bvz8YSXwqrwK36kWynkIsw/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/winter-wonderland-at-the-circuit-of-the-americas-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Double Decker Austin",
+ "address": "602 E 4th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/mK54vU1j6RcLs5ocxIVflg/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/double-decker-austin-austin-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Culinary Dropout",
+ "address": "11721 Rock Rose",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/vpWi-8enpc7ScXZOd40DGQ/o.jpg"
+ ],
+ "tags": [
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/culinary-dropout-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Blue Hole Park",
+ "address": "101 S Rock St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/16a5PGJPnZ_6w9-i5My4gQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/blue-hole-park-georgetown?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Texas Farmers' Market At Mueller",
+ "address": "4550 Mueller Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/CKIx-yibH1AuvZS5V37x3w/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "unique",
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/texas-farmers-market-at-mueller-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Moonshine Patio Bar & Grill",
+ "address": "303 Red River St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/5RcWDbJFBMzTfFdTqZdQ_w/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "delicious"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/moonshine-patio-bar-and-grill-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lady Bird Lake",
+ "address": "",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/WODl_BJ-HaJ7rSJn8-D4dg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/lady-bird-lake-austin?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Austin City Limits Music Festival",
+ "address": "2100 Barton Springs Rd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/1-x75l4GP9N5WhzTWwEMIw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/austin-city-limits-music-festival-austin-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
  ],
  "reviews": []
 }]

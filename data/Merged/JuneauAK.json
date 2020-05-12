@@ -1,1012 +1,871 @@
 [
 {
- "name": "Shrine of St Therese",
- "address": "21425 Glacier Hwy",
+ "name": "Mendenhall Glacier Visitor Center",
+ "address": "8150 Mendenhall Loop Rd Tongass National Forest",
  "avg_visitor_review": [
-  5.0
+  4.8,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/h1opelkmAflT_M-QeBUG3A/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/shrine-of-st-therese-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Limousine Services",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/fWHd3JgoDTST6rErpBCJjA/o.jpg"
+  "GoogleMapsPhotoLibrary/57773528-9331-11ea-85d6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/1e/1f/af/mendenhall-glacier.jpg"
  ],
  "tags": [
-  "family",
-  "tour",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/juneau-limousine-services-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Humpback Adventures",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/HdCALE0JMQvdG4nMk9idJg/o.jpg"
- ],
- "tags": [
-  "family",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-humpback-adventures-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Douglas Island Zipline Tour",
- "address": "Douglas Island",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "family",
-  "kids",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/douglas-island-zipline-tour-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Tales",
- "address": "Marine Park",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/p73YCq2WK4dmMOTP5Vpw2A/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-tales-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Perseverance Trail",
- "address": "1050 Harbor Way",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Y3EKEYAmBj32AcWR3K7Zmw/o.jpg"
- ],
- "tags": [
-  "hike"
- ],
- "link": [
-  "https://www.yelp.com/biz/perseverance-trail-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Fish & Chips Company",
- "address": "2 Marine Way",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/I4yB42UALTfxfsSl3bE4sw/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-fish-and-chips-company-juneau-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska State Capitol",
- "address": "120 4th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/8-itJND1rzF2du8K3dqZlw/o.jpg"
- ],
- "tags": [
-  "family",
-  "tour",
-  "walking"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-state-capitol-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Adventures",
- "address": "9482 Riverbend Ct",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/cWYg1OIGCYmu-i-oetMZgw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/juneau-adventures-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Glacier Cinemas",
- "address": "9091 Cinema Dr",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/b3pExgU4Mf43itJPMEaf4g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/glacier-cinemas-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Pedicab",
- "address": "3251 Douglas Hwy",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/mQum_llGENwxxuua4yrdHw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/juneau-pedicab-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Port",
- "address": "356 S Franklin St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/7GyG5du_seUZRfQboBN1Mw/o.jpg"
- ],
- "tags": [
-  "delicious"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-port-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Capital Cab",
- "address": "",
- "avg_visitor_review": [
-  2.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/l8idpuBFnzIZGl40B6q5MQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/capital-cab-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Jazz and Classics",
- "address": "350 Whittier St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/rRWMKGpZIdfZWnyDY4nnIA/o.jpg"
- ],
- "tags": [
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/juneau-jazz-and-classics-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau",
- "address": null,
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/siAK8kw8olvIa8SauSpn-g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/juneau-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "20th Century Theatre",
- "address": "222 Front St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/o1A4_LZTPDR9iwqpSeM17g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/20th-century-theatre-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Sea to Shore",
- "address": "176 Behrends Ave",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "family",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-sea-to-shore-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau-Douglas City Museum",
- "address": "114 W 4th St",
- "avg_visitor_review": [
-  "4.0",
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/65/48/e6/the-four-story-totem.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/MGWruG32GTjs6rZJKrDGsA/o.jpg"
- ],
- "tags": [
-  "walk",
-  "history",
-  "walk",
-  "tour",
+  "hike",
+  "hike",
   "walking",
-  "history",
-  "unique",
+  "tour",
   "walk",
-  "history",
-  "walk",
-  "history",
-  "walking",
-  "history",
-  "history",
-  "history",
-  "walk"
+  "learn",
+  "theatre"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/juneau-douglas-city-museum-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d105339-Reviews-Mendenhall_Glacier_Visitor_Center-Juneau_Alaska.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144193-Reviews-Juneau_Douglas_City_Museum-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=1364429193881011916"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tracy Arm Fjord",
+ "address": "Tongass National Forest",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/56/3c/0d/photo6jpg.jpg"
+ ],
+ "tags": [
+  "field",
+  "food",
+  "kids"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d630993-Reviews-Tracy_Arm_Fjord-Juneau_Alaska.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Alaskan Hotel & Bar",
- "address": "167 S Franklin St",
+ "name": "Nugget Falls",
+ "address": "Photo Point Trail",
  "avg_visitor_review": [
-  3.5
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/-R2Z5ZpRnoeDc2nJ2VJg0g/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/07/50/85/20190607-114227-largejpg.jpg"
  ],
  "tags": [
-  "music",
-  "historic"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaskan-hotel-and-bar-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dimond Park Aquatic Center",
- "address": "3045 Riverside Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/D_1CwPZvK12_5M5VTkz0CQ/o.jpg"
- ],
- "tags": [
-  "family",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/dimond-park-aquatic-center-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Seaplanes",
- "address": "1873 Shell Simmons Dr",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/HdyXh9XB0tCoLMdNwtShCg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/alaska-seaplanes-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Sightseeing Tours",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "tour",
-  "sightseeing"
- ],
- "link": [
-  "https://www.yelp.com/biz/juneau-sightseeing-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Perseverance Theatre",
- "address": "914 3rd St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/u_OS0q5jgm3HHyiLIlCa_w/o.jpg"
- ],
- "tags": [
-  "theatre",
-  "theatre"
- ],
- "link": [
-  "https://www.yelp.com/biz/perseverance-theatre-douglas?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Chum Fun Charters",
- "address": "2571 Channel Dr",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/F9lZckOCZDGflRM8onMvYQ/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/chum-fun-charters-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Tracy's King Crab Shack",
- "address": "300 Whittier St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/CBBPU0gr50XqEZ-t-xIFRQ/o.jpg"
- ],
- "tags": [
-  "delicious",
-  "food",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/tracys-king-crab-shack-juneau-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Patsy Ann",
- "address": "254 AK-7",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/FQpMknrMLHnafCLcAZob3A/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/patsy-ann-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Narrows Bar",
- "address": "148 S Franklin St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/CjmecrPHUZ5AB5rbFz0Wpg/o.jpg"
- ],
- "tags": [
-  "music"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-narrows-bar-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Annie Kaill's",
- "address": "124 Seward St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/hXqgWWFZBWQk5WN1_q18NA/o.jpg"
- ],
- "tags": [
-  "art",
-  "family",
-  "art"
- ],
- "link": [
-  "https://www.yelp.com/biz/annie-kaills-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Tour Center",
- "address": "4021 Mendenhall Loop Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/gwIwd_tV4ZBflhaqR3Wbhg/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-tour-center-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Rainforest Tours",
- "address": "1873 Shell Simmons Dr",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-rainforest-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Weather Permitting Alaska",
- "address": "3835 Lee Ct",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/W0P7zXTb5O2K7IkmnSraxw/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/weather-permitting-alaska-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Stone Cut Bodies",
- "address": null,
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/qkBSLctAQZpDWd7doildQQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/stone-cut-bodies-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Twin Lakes",
- "address": "3401-3499 Glacier Hwy",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/GnrGOBpckdLiu3YzfSqDGw/o.jpg"
- ],
- "tags": [
-  "walk",
-  "kids",
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/twin-lakes-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Mercantile & Armory",
- "address": "1720 Crest St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/3ZMNphX15pk7LoYjQ81Y0w/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/juneau-mercantile-and-armory-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Observatory",
- "address": "299 N Franklin St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  ""
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/observatory-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Savikko Park",
- "address": "504 St Anns Ave",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/d7QuuP_Hsk5d6DBiGnOUKQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/savikko-park-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Skagway Tours",
- "address": "",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/B58kQ1LHhnuAhJpljXwurg/o.jpg"
- ],
- "tags": [
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/skagway-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Juneau Artists Gallery",
- "address": "175 S Franklin St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/UzKoEe2qZwzgB_INpX7Evg/o.jpg"
- ],
- "tags": [
-  "unique",
-  "art",
-  "art",
-  "learn"
- ],
- "link": [
-  "https://www.yelp.com/biz/juneau-artists-gallery-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Lucky Lady Pub",
- "address": "211 Shattuck Way",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/uEYjCqc326jeZybmgH8yQQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/lucky-lady-pub-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Big Jim's Charters",
- "address": "11957 Glacier Hwy",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/bvQNx9qlIDLbtWIMql-Kpg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/big-jims-charters-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Whale Watch & Wildlife Tours",
- "address": "2 Marine Way",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/Kvs0Nu3duG61BWMEEmBRRg/o.jpg"
- ],
- "tags": [
-  "tour",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/whale-watch-and-wildlife-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Alaska Governor's Mansion",
- "address": "716 Calhoun Ave",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/2WuJHrXqgNJfs16QLNBnEA/o.jpg"
- ],
- "tags": [
-  "historic",
-  "history",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/alaska-governors-mansion-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Goals Gym",
- "address": "1248 Glacier Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/-sRN8_6di4MFqMSiz4xLYA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/goals-gym-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Salmon Creek",
- "address": "2000 Salmon Creek Ln",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/GKDyhHzJtTT1TgeWGDYkZQ/o.jpg"
- ],
- "tags": [
+  "walking",
+  "free",
   "hike",
+  "walk",
+  "eat",
   "hike"
  ],
  "link": [
-  "https://www.yelp.com/biz/salmon-creek-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d4071203-Reviews-Nugget_Falls-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "BestDamnCharters",
- "address": "9158 Skywood Ln",
+ "name": "Mendenhall Glacier",
+ "address": "Mendenhall Valley",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/dmcIsDTOgDcSdHe7ZYnF8g/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/09/70/8e/mendenhall-glacier-viewed.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "walking",
+  "history"
+ ],
  "link": [
-  "https://www.yelp.com/biz/bestdamncharters-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d14078618-Reviews-Mendenhall_Glacier-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Medal of Honor - Colonel Archie Van Winkle",
+ "name": "Mount Roberts Trail",
+ "address": "1/2 Mile From Cruise Ship Dock",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/1c/fa/1f/mount-roberts-trail.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "free",
+  "walk",
+  "hike",
+  "history",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d105338-Reviews-Mount_Roberts_Trail-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Goldbelt Mount Roberts Tramway",
  "address": "490 S Franklin St",
  "avg_visitor_review": [
-  5.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/Zn17-et9g8JYUSmRVUu7Tw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/6f/e5/90/photo0jpg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "nature",
+  "tasting",
+  "walking",
+  "hike",
+  "tour",
+  "history",
+  "nature",
+  "walking",
+  "history",
+  "walk",
+  "history"
+ ],
  "link": [
-  "https://www.yelp.com/biz/medal-of-honor-colonel-archie-van-winkle-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d144194-Reviews-Goldbelt_Mount_Roberts_Tramway-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Saffron",
- "address": "112 N Franklin St",
+ "name": "Shrine of St. Therese",
+ "address": "Mile 23 Glacier Hhwy 21425 Glacier Hwy",
  "avg_visitor_review": [
-  3.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/5hpypuk_A2sCfMsXCX_W4Q/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/17/e1/69/95/img-20190609-160354045.jpg"
  ],
  "tags": [
-  "food"
+  "nature",
+  "tour"
  ],
  "link": [
-  "https://www.yelp.com/biz/saffron-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d665891-Reviews-Shrine_of_St_Therese-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Juneau City Of Borough",
- "address": "3406 Glacier Hwy",
+ "name": "Alaska State Museum",
+ "address": "395 Whittier St, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  3.0
+  4.7,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/0X_rchdKXgKQUEC2U2jkBA/o.jpg"
+  "GoogleMapsPhotoLibrary/585d51d0-9331-11ea-b321-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e3/36/f3/interesting-displays.jpg"
  ],
  "tags": [
+  "unique",
+  "history",
+  "history",
+  "learn",
+  "history",
+  "art",
+  "library",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d105041-Reviews-Alaska_State_Museum-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=3685768648498809745"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glacier Gardens Rainforest Adventure",
+ "address": "7600 Glacier Hwy 7 Mi From Downtown Cruise Docks, 1 Mi From the Airport",
+ "avg_visitor_review": [
+  4.6,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/58cb164c-9331-11ea-8276-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/35/13/ee/juneau-rainforest-garden.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "unique",
+  "knowledgeable",
+  "tour",
+  "history",
+  "creative",
   "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/juneau-city-of-borough-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d144195-Reviews-Glacier_Gardens_Rainforest_Adventure-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=1726611403407061256"
  ],
  "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "DIPAC's Macaulay Salmon Hatchery",
+ "address": "2697 Channel Dr",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/98/94/15/dipac.jpg"
+ ],
+ "tags": [
+  "free",
+  "tour",
+  "tour",
+  "tour",
+  "walking",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d144196-Reviews-DIPAC_s_Macaulay_Salmon_Hatchery-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Alaskan Brewery and Bottling Company",
+ "address": "5429 Shaune Dr",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/cd/54/alaskan-brewery-and-bottling.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tasting",
+  "history",
+  "brewery",
+  "history",
+  "brewery",
+  "tour",
+  "brewery",
+  "art",
+  "brewery",
+  "sampling",
+  "tasting",
+  "knowledgeable",
+  "tour",
+  "history",
+  "brewery",
+  "tour",
+  "history",
+  "brewery",
+  "drink",
+  "tour",
+  "brewery",
+  "tour",
+  "tasting",
+  "history",
+  "brewery"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d144197-Reviews-Alaskan_Brewery_and_Bottling_Company-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "AJ Mine Gastineau Mill Tour",
+ "address": "151 Mill St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0c/77/a7/4b/alaska-gastineau-mill.jpg"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "tour",
+  "learn",
+  "tour",
+  "tour",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d538178-Reviews-AJ_Mine_Gastineau_Mill_Tour-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The Whale Project",
+ "address": "350 Whittier St #101",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/14/1b/bb/55/se-ve-impresionante-la.jpg"
+ ],
+ "tags": [
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d14976478-Reviews-The_Whale_Project-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Eagle Beach",
+ "address": "Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5c176088-9331-11ea-849b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/65/f8/4c/eagle-beach.jpg"
+ ],
+ "tags": [
+  "free",
+  "walking",
+  "walk",
+  "walk",
+  "nature",
+  "food",
+  "tour"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d7112814-Reviews-Eagle_Beach-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=14386075104028307561"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Amalga Distillery",
+ "address": "134 N Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9,
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/69e53dae-9331-11ea-9fb3-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/12/cf/43/8d/the-tasting-room-at-amalga.jpg"
+ ],
+ "tags": [
+  "drink",
+  "tasting",
+  "unique",
+  "tasting",
+  "walk",
+  "delicious",
+  "food",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d12439172-Reviews-Amalga_Distillery-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=13081147107049994254"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Perseverance National Recreation Trail",
+ "address": "Gold Creek Valley",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/d7/29/05/wide-trail-good-also.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "hike",
+  "walk",
+  "walk",
+  "hike",
+  "walk",
+  "family",
+  "hike",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d4071872-Reviews-Perseverance_National_Recreation_Trail-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Rainforest Garden",
+ "address": "10445 Glacier Hwy",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/33/d8/7c/sphinx-moth-on-fireweed.jpg"
+ ],
+ "tags": [
+  "tour",
+  "walk",
+  "history",
+  "delicious",
+  "tour",
+  "walk",
+  "learn",
+  "walk",
+  "learn",
+  "history",
+  "tour",
+  "walk",
+  "history",
+  "delicious"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d247671-Reviews-Juneau_Rainforest_Garden-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Statue of Patsy Ann, the Dog",
+ "address": "Dock at Marine Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/7f/ae/d3/her-statue.jpg"
+ ],
+ "tags": [
+  "history",
+  "walking"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d12866714-Reviews-Statue_of_Patsy_Ann_the_Dog-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Sealaska Heritage - Walter Soboleff Building",
+ "address": "105 S Seward St Suite 201",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/7a/5e/0b/sealaska-heritage-institute.jpg"
+ ],
+ "tags": [
+  "art",
+  "art",
+  "history",
+  "art"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d8403677-Reviews-Sealaska_Heritage_Walter_Soboleff_Building-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Gold Creek Flume Trail",
+ "address": "Off Basin Road trail",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/ef/37/c9/the-trail-is-built-on.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "pets",
+  "walk",
+  "walking",
+  "hike",
+  "walk",
+  "hike",
+  "pets",
+  "walk",
+  "walk",
+  "hike",
+  "walk",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d10523990-Reviews-Gold_Creek_Flume_Trail-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The State Capitol Building",
+ "address": "5th Avenue",
+ "avg_visitor_review": [
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/04/7b/6d/state-capital-building.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour",
+  "history",
+  "walk",
+  "tour",
+  "tour",
+  "art",
+  "tour",
+  "unique",
+  "tour"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d1466951-Reviews-The_State_Capitol_Building-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Steep Creek",
+ "address": "Glacier Spur Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/60d5af18-9331-11ea-9e14-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/25/6b/07/the-mouth-of-steep-creek.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d8862894-Reviews-Steep_Creek-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=6627463788084044944"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chichagof Island",
+ "address": "Icy Strait",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/8e/ba/d7/a-remote-beach-we-stopped.jpg"
+ ],
+ "tags": [
+  "nature",
+  "tour",
+  "walk",
+  "tour",
+  "history",
+  "family"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d677184-Reviews-Chichagof_Island-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "St. Nicholas",
+ "address": "326 5th St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/0a/a1/02/st-nicholas.jpg"
+ ],
+ "tags": [
+  "walk",
+  "hike",
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d2290084-Reviews-St_Nicholas-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau-Douglas City Museum",
+ "address": "114 W 4th St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.4,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/MGWruG32GTjs6rZJKrDGsA/o.jpg",
+  "GoogleMapsPhotoLibrary/59f31140-9331-11ea-a264-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/65/48/e6/the-four-story-totem.jpg"
+ ],
+ "tags": [
+  "history",
+  "tour",
+  "walking",
+  "history",
+  "knowledgeable",
+  "family",
+  "art",
+  "walk",
+  "unique"
+ ],
+ "link": [
+  [
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g31020-d144193-Reviews-Juneau_Douglas_City_Museum-Juneau_Alaska.html"
+   ],
+   "https://maps.google.com/?cid=13946863849189608512"
+  ],
+  "https://www.yelp.com/biz/juneau-douglas-city-museum-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
+  ],
   "Yelp"
  ],
  "reviews": []
 },{
- "name": "Juneau Cabaret",
- "address": "109 S Franklin St",
+ "name": "Last Chance Mining Museum",
+ "address": "1001 Basin Rd, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  4.0
+  4.4,
+  "3.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  ""
+  "GoogleMapsPhotoLibrary/5ba8bfbe-9331-11ea-a28d-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/f1/47/c5/mine-d-or-abandonnee.jpg"
  ],
  "tags": [
+  "walk",
+  "history",
+  "kids",
+  "walk",
+  "historic",
+  "nature",
+  "knowledgeable",
+  "free",
+  "tour",
+  "walking",
+  "hike"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d144192-Reviews-Last_Chance_Mining_Museum-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=2898756723364087391"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jensen-Olson Arboretum",
+ "address": "23035 Glacier Hwy",
+ "avg_visitor_review": [
+  "5.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c2/89/dc/so-lovely-along-the-fence.jpg"
+ ],
+ "tags": [
+  "tour",
+  "free",
+  "wander",
+  "free",
+  "tour",
   "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/juneau-cabaret-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d10365412-Reviews-Jensen_Olson_Arboretum-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Triangle Club",
- "address": "251 Front St",
+ "name": "Alaska Governor\u2019s Mansion",
+ "address": "716 Calhoun Ave",
  "avg_visitor_review": [
-  4.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/M-o-AXtMo054eopRnQBVbw/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/aa/75/c2/alaska-governor-s-mansion.jpg"
  ],
- "tags": [],
+ "tags": [
+  "walk",
+  "walk",
+  "tour",
+  "walk",
+  "walking",
+  "tour",
+  "walking",
+  "walk"
+ ],
  "link": [
-  "https://www.yelp.com/biz/triangle-club-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d8617045-Reviews-Alaska_Governor_s_Mansion-Juneau_Alaska.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+ "address": "416 5th St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6bace462-9331-11ea-8779-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/0e/7d/9e/outside-of-church-shot.jpg"
+ ],
+ "tags": [
+  "family",
+  "walking",
+  "free"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g31020-d8134447-Reviews-Cathedral_of_the_Nativity_of_the_Blessed_Virgin_Mary-Juneau_Alaska.html"
+  ],
+  "https://maps.google.com/?cid=10673281581838512730"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Empty Chair Memorial",
+ "address": "521 Seward St Capital School Park",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b3/49/1a/empty-chair-memorial.jpg"
+ ],
+ "tags": [
+  "walk",
+  "historic"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g31020-d12580386-Reviews-Empty_Chair_Memorial-Juneau_Alaska.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1415,801 +1274,3405 @@
  ],
  "reviews": []
 },{
- "name": "Mendenhall Glacier Visitor Center",
- "address": "8150 Mendenhall Loop Rd Tongass National Forest",
+ "name": "Alaska Zipline Adventures",
+ "address": "76 Egan Dr UNIT 100, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "4.5"
+  5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/1e/1f/af/mendenhall-glacier.jpg"
+  "GoogleMapsPhotoLibrary/57e2e602-9331-11ea-a210-14b31f159f22.png"
  ],
  "tags": [
-  "tour",
-  "hike",
-  "tour",
-  "hike",
-  "tour",
-  "hike",
   "walk",
-  "learn",
-  "tour",
-  "hike",
-  "hike",
-  "walk",
-  "walking",
-  "walking",
-  "walk",
-  "tour",
-  "theatre"
+  "knowledgeable"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d105339-Reviews-Mendenhall_Glacier_Visitor_Center-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=6648845768540759093"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Tracy Arm Fjord",
- "address": "Tongass National Forest",
+ "name": "Tongass National Forest",
+ "address": "Juneau, AK, USA",
  "avg_visitor_review": [
-  "5.0"
+  4.8
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/56/3c/0d/photo6jpg.jpg"
+  "GoogleMapsPhotoLibrary/592cb4f8-9331-11ea-b28b-14b31f159f22.png"
  ],
  "tags": [
-  "field",
-  "food",
-  "kids"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d630993-Reviews-Tracy_Arm_Fjord-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Nugget Falls",
- "address": "Photo Point Trail",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/07/50/85/20190607-114227-largejpg.jpg"
- ],
- "tags": [
-  "walking",
-  "free",
-  "hike",
-  "walk",
-  "eat",
-  "hike"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d4071203-Reviews-Nugget_Falls-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mendenhall Glacier",
- "address": "Mendenhall Valley",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/09/70/8e/mendenhall-glacier-viewed.jpg"
- ],
- "tags": [
-  "walk",
-  "walking",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d14078618-Reviews-Mendenhall_Glacier-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Mount Roberts Trail",
- "address": "1/2 Mile From Cruise Ship Dock",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/1c/fa/1f/mount-roberts-trail.jpg"
- ],
- "tags": [
-  "walk",
-  "walking",
-  "free",
-  "walk",
-  "hike",
-  "history",
-  "hike",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d105338-Reviews-Mount_Roberts_Trail-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=9379582080267153963"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Goldbelt Mount Roberts Tramway",
- "address": "490 S Franklin St",
+ "name": "National Shrine of St. Therese",
+ "address": "21425 Glacier Hwy, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.8
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/6f/e5/90/photo0jpg.jpg"
+  "GoogleMapsPhotoLibrary/599ba20c-9331-11ea-8a84-14b31f159f22.png"
  ],
  "tags": [
-  "walk",
-  "nature",
-  "tasting",
-  "walking",
-  "hike",
-  "tour",
-  "history",
-  "nature",
-  "walking",
-  "history",
-  "walk",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144194-Reviews-Goldbelt_Mount_Roberts_Tramway-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Shrine of St. Therese",
- "address": "Mile 23 Glacier Hhwy 21425 Glacier Hwy",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/17/e1/69/95/img-20190609-160354045.jpg"
- ],
- "tags": [
-  "nature",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d665891-Reviews-Shrine_of_St_Therese-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Alaska State Museum",
- "address": "395 Whittier St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/e3/36/f3/interesting-displays.jpg"
- ],
- "tags": [
-  "history",
-  "art",
-  "history",
-  "art",
-  "history",
-  "library",
-  "free",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d105041-Reviews-Alaska_State_Museum-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Glacier Gardens Rainforest Adventure",
- "address": "7600 Glacier Hwy 7 Mi From Downtown Cruise Docks, 1 Mi From the Airport",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/35/13/ee/juneau-rainforest-garden.jpg"
- ],
- "tags": [
-  "history",
-  "tour",
-  "tour",
-  "tour",
-  "tour",
-  "creative",
-  "tour",
-  "tour",
-  "history",
-  "history",
-  "walk",
-  "tour",
-  "walking",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144195-Reviews-Glacier_Gardens_Rainforest_Adventure-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "DIPAC's Macaulay Salmon Hatchery",
- "address": "2697 Channel Dr",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/98/94/15/dipac.jpg"
- ],
- "tags": [
-  "free",
-  "tour",
-  "tour",
-  "tour",
-  "walking",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144196-Reviews-DIPAC_s_Macaulay_Salmon_Hatchery-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Alaskan Brewery and Bottling Company",
- "address": "5429 Shaune Dr",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/cd/54/alaskan-brewery-and-bottling.jpg"
- ],
- "tags": [
-  "tour",
-  "tasting",
-  "history",
-  "brewery",
-  "history",
-  "brewery",
-  "tour",
-  "brewery",
-  "art",
-  "brewery",
-  "sampling",
-  "tasting",
-  "knowledgeable",
-  "tour",
-  "history",
-  "brewery",
-  "tour",
-  "history",
-  "brewery",
-  "drink",
-  "tour",
-  "brewery",
-  "tour",
-  "tasting",
-  "history",
-  "brewery"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144197-Reviews-Alaskan_Brewery_and_Bottling_Company-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "AJ Mine Gastineau Mill Tour",
- "address": "151 Mill St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0c/77/a7/4b/alaska-gastineau-mill.jpg"
- ],
- "tags": [
-  "walk",
-  "tour",
-  "tour",
-  "learn",
-  "tour",
-  "tour",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d538178-Reviews-AJ_Mine_Gastineau_Mill_Tour-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The Whale Project",
- "address": "350 Whittier St #101",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/14/1b/bb/55/se-ve-impresionante-la.jpg"
- ],
- "tags": [
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d14976478-Reviews-The_Whale_Project-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Eagle Beach",
- "address": "26 Glacier Highway",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/65/f8/4c/eagle-beach.jpg"
- ],
- "tags": [
-  "nature",
-  "walking",
-  "food",
-  "nature",
-  "walking",
-  "food",
-  "walking",
-  "walk",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d7112814-Reviews-Eagle_Beach-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Amalga Distillery",
- "address": "134 N Franklin St",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/12/cf/43/8d/the-tasting-room-at-amalga.jpg"
- ],
- "tags": [
-  "walk",
-  "drink",
-  "delicious",
-  "delicious",
-  "unique",
-  "delicious",
-  "drink",
-  "food",
-  "knowledgeable",
-  "tasting",
-  "drink",
-  "delicious",
-  "tasting",
-  "drink",
-  "tasting"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d12439172-Reviews-Amalga_Distillery-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Perseverance National Recreation Trail",
- "address": "Gold Creek Valley",
- "avg_visitor_review": [
-  "5.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/d7/29/05/wide-trail-good-also.jpg"
- ],
- "tags": [
-  "delicious",
-  "delicious",
-  "hike",
-  "walk",
-  "walk",
-  "hike",
-  "walk",
-  "family",
-  "hike",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d4071872-Reviews-Perseverance_National_Recreation_Trail-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Juneau Rainforest Garden",
- "address": "10445 Glacier Hwy",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/33/d8/7c/sphinx-moth-on-fireweed.jpg"
- ],
- "tags": [
-  "tour",
-  "walk",
-  "history",
-  "delicious",
-  "tour",
-  "walk",
-  "learn",
-  "walk",
-  "learn",
-  "history",
-  "tour",
-  "walk",
-  "history",
-  "delicious"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d247671-Reviews-Juneau_Rainforest_Garden-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Statue of Patsy Ann, the Dog",
- "address": "Dock at Marine Park",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/7f/ae/d3/her-statue.jpg"
- ],
- "tags": [
-  "history",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d12866714-Reviews-Statue_of_Patsy_Ann_the_Dog-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Sealaska Heritage - Walter Soboleff Building",
- "address": "105 S Seward St Suite 201",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/7a/5e/0b/sealaska-heritage-institute.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "history",
-  "art"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d8403677-Reviews-Sealaska_Heritage_Walter_Soboleff_Building-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Gold Creek Flume Trail",
- "address": "Off Basin Road trail",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/ef/37/c9/the-trail-is-built-on.jpg"
- ],
- "tags": [
-  "walk",
-  "hike",
-  "pets",
-  "walk",
-  "walking",
-  "hike",
-  "walk",
-  "hike",
-  "pets",
-  "walk",
-  "walk",
-  "hike",
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d10523990-Reviews-Gold_Creek_Flume_Trail-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The State Capitol Building",
- "address": "5th Avenue",
- "avg_visitor_review": [
-  "3.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/04/7b/6d/state-capital-building.jpg"
- ],
- "tags": [
-  "tour",
-  "tour",
-  "history",
-  "walk",
-  "tour",
-  "tour",
-  "art",
-  "tour",
-  "unique",
-  "tour"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d1466951-Reviews-The_State_Capitol_Building-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Steep Creek",
- "address": "Glacier Spur Road Mendenhall Valley",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/25/6b/07/the-mouth-of-steep-creek.jpg"
- ],
- "tags": [
-  "walk",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d8862894-Reviews-Steep_Creek-Juneau_Alaska.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Chichagof Island",
- "address": "Icy Strait",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/8e/ba/d7/a-remote-beach-we-stopped.jpg"
- ],
- "tags": [
-  "nature",
-  "tour",
-  "walk",
-  "tour",
-  "history",
   "family"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d677184-Reviews-Chichagof_Island-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=2683886745619494545"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "St. Nicholas",
- "address": "326 5th St",
+ "name": "Point Bridget State Park",
+ "address": "Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "4.0"
+  5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/0a/a1/02/st-nicholas.jpg"
+  "GoogleMapsPhotoLibrary/5a60744a-9331-11ea-bb56-14b31f159f22.png"
  ],
  "tags": [
-  "walk",
-  "hike",
-  "history",
-  "free"
+  "walking",
+  "hike"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d2290084-Reviews-St_Nicholas-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=8308007664569825079"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Last Chance Mining Museum",
- "address": "1001 Basin Rd",
+ "name": "Juneau's Best Tours",
+ "address": "230 S Franklin St #906, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "3.5"
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/f1/47/c5/mine-d-or-abandonnee.jpg"
+  "GoogleMapsPhotoLibrary/5add31dc-9331-11ea-a8bb-14b31f159f22.png"
  ],
  "tags": [
-  "walk",
-  "history",
-  "history",
-  "walk",
-  "nature",
-  "knowledgeable",
-  "free",
-  "kids",
+  "delicious",
   "tour",
-  "walk",
-  "nature",
-  "walking",
-  "knowledgeable",
-  "walk",
+  "food",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15408090713996072990"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Aj Mine Gasteneau Mill Tours",
+ "address": "500 Sheep Creek Mine Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5c711980-9331-11ea-aada-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
   "history",
-  "walk",
-  "history",
-  "walk",
-  "walking",
-  "history",
-  "history",
-  "walk",
-  "kids",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4352226991343849551"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wings Airways & the Taku Glacier Lodge",
+ "address": "2 Marine Way #175, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5ce0a45e-9331-11ea-bfe0-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
   "hike",
+  "eat",
+  "food",
+  "walk",
+  "tour",
+  "food",
+  "nature",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d144192-Reviews-Last_Chance_Mining_Museum-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=10990242134610053375"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Jensen-Olson Arboretum",
- "address": "23035 Glacier Hwy",
+ "name": "Capitol Building",
+ "address": "120 4th St, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "5.0"
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/c2/89/dc/so-lovely-along-the-fence.jpg"
+  "GoogleMapsPhotoLibrary/5d363eb6-9331-11ea-a543-14b31f159f22.png"
  ],
  "tags": [
   "tour",
+  "art",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3044098133364785636"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Saint Nicholas Russian Orthodox Church",
+ "address": "326 5th Street Stairs, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5da22012-9331-11ea-8cab-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "tour",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3601572368564209454"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eaglecrest Ski Area",
+ "address": "3000 Fish Creek Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5df65aba-9331-11ea-9609-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12122449719610948238"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mendenhall Wetlands State Game Refuge",
+ "address": "Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5e4abcc0-9331-11ea-9ab0-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11652217955602782061"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Treadwell Mine Historic Trail Walking Tour",
+ "address": "Treadwell Trail, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5eafe850-9331-11ea-8a13-14b31f159f22.png"
+ ],
+ "tags": [
+  "historic",
+  "walk",
+  "walk",
+  "hike",
+  "walk",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1477263914162229029"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Patsy Ann Statue",
+ "address": "Harbor Way, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5f15ae3e-9331-11ea-ae98-14b31f159f22.png"
+ ],
+ "tags": [
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10560144563931075634"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Liquid Alaska Tours",
+ "address": "212 Admiral Way #4, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5f93df90-9331-11ea-ae02-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "hike",
+  "knowledgeable",
+  "tour",
+  "walking",
+  "walk",
+  "tour",
+  "walking",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5399857194681036402"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "West Glacier Trailhead",
+ "address": "Skaters Cabin Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/5fe42290-9331-11ea-9d3c-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "walking",
+  "hike",
+  "hike",
+  "walking",
+  "hike",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14196447721025830837"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shrine of Saint Therese",
+ "address": "21425 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/60566c90-9331-11ea-97bd-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8216044508208870330"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cope Park",
+ "address": "Cope Park Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/61299bae-9331-11ea-956f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1758791035384255521"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Savikko Park",
+ "address": "101 Savikko Rd, Douglas, AK 99824, USA",
+ "avg_visitor_review": [
+  3.5,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/d7QuuP_Hsk5d6DBiGnOUKQ/o.jpg",
+  "GoogleMapsPhotoLibrary/61879a62-9331-11ea-abd9-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "history",
+  "walk"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=3850870098119881265"
+  ],
+  "https://www.yelp.com/biz/savikko-park-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska State Capitol",
+ "address": "120 4th St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5,
+  3.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/8-itJND1rzF2du8K3dqZlw/o.jpg",
+  "GoogleMapsPhotoLibrary/620d4564-9331-11ea-ab10-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "tour",
+  "walking",
+  "knowledgeable",
   "free",
-  "wander",
-  "free",
+  "art"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=16245751141505312900"
+  ],
+  "https://www.yelp.com/biz/alaska-state-capitol-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Twin Lakes",
+ "address": "4431-4499 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/GnrGOBpckdLiu3YzfSqDGw/o.jpg",
+  "GoogleMapsPhotoLibrary/629b5910-9331-11ea-a094-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "kids",
+  "kids",
+  "family",
+  "pets"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=3438065428818542795"
+  ],
+  "https://www.yelp.com/biz/twin-lakes-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Eagle Beach State Recreation Area",
+ "address": "The Tongass National Forest, 28955 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/62fa20b4-9331-11ea-af31-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "nature",
+  "cheap"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9226952001960119726"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wickersham State Historic Site",
+ "address": "213 7th St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/636f02dc-9331-11ea-b965-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "tour",
+  "historic",
+  "knowledgeable",
+  "history",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14094556538243807976"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chilkat State Park",
+ "address": "Haines, AK 99827, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/63c9584a-9331-11ea-ab33-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3906432435845576955"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Shore Excursions",
+ "address": "212 Admiral Way #5, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/64307e9e-9331-11ea-a74a-14b31f159f22.png"
+ ],
+ "tags": [
+  "nature",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=981925977853978521"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "JUNEAU FOOD TOURS",
+ "address": "2 Marine Way #203, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/64995162-9331-11ea-b07f-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "walking",
+  "tour",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=755827191801556466"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "White Pass & Yukon Route Railroad",
+ "address": "201 2nd Ave, Skagway, AK 99840, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/65155fcc-9331-11ea-93c1-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "tour",
+  "food",
   "tour",
   "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d10365412-Reviews-Jensen_Olson_Arboretum-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=10958213556590599152"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Alaska Governor\u2019s Mansion",
- "address": "716 Calhoun Ave",
+ "name": "Icy Strait Point",
+ "address": "108 Cannery Rd, Hoonah, AK 99829, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/aa/75/c2/alaska-governor-s-mansion.jpg"
+  "GoogleMapsPhotoLibrary/657a14fe-9331-11ea-ad7f-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9631176011783739715"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mount Roberts Tramway",
+ "address": "490 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/65d1ddfe-9331-11ea-bd5f-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "hike",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15354244568965903164"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Red Dog Saloon",
+ "address": "278 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/661de824-9331-11ea-9764-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7576558346096278066"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Above and Beyond Alaska (ABAK) Wilderness Adventures",
+ "address": "2767 Sherwood Ln, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6687b68a-9331-11ea-a67d-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "kids",
+  "knowledgeable",
+  "hike",
+  "walk",
+  "hike"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10345463696888678072"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bear Creek Outfitters",
+ "address": "8991 Yandukin Dr, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/66f0c6ca-9331-11ea-83f5-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=15638145210605841150"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Tours",
+ "address": "76 Egan Dr STE 300, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/67510ba4-9331-11ea-95be-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15622047400954594745"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Klondike Gold Rush National Historical Park Visitor Center",
+ "address": "291 Broadway, Skagway, AK 99840, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/67bcba0c-9331-11ea-b2c4-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "learn",
+  "parks",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2242214847921207232"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glacier Bay National Park and Preserve",
+ "address": "Alaska, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/682330f8-9331-11ea-9106-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=16326574390281387360"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tracy\u2019s King Crab Shack",
+ "address": "432 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6884a774-9331-11ea-ba40-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2130754094144547576"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "DIPAC Macaulay Salmon Hatchery",
+ "address": "2697 Channel Dr, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/68dbacc6-9331-11ea-acbd-14b31f159f22.png"
  ],
  "tags": [
   "walk",
-  "walk",
+  "learn",
+  "history",
+  "tour",
+  "learn"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1322290103779699099"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gastineau Guiding Company",
+ "address": "1330 Eastaugh Way #2, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6939058a-9331-11ea-913b-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
   "tour",
   "walk",
-  "walking",
   "tour",
+  "active",
+  "knowledgeable",
+  "tour",
+  "knowledgeable",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7921954859360580944"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska 360",
+ "address": "Klondike Hwy, Skagway, AK 99840, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/69885e80-9331-11ea-8420-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "food",
+  "learn",
+  "knowledgeable",
+  "tour",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3915468774180614845"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kootznoowoo Wilderness",
+ "address": "Angoon, AK 99820, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=6659973076756775242"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Rookery Cafe",
+ "address": "111 Seward St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6a3d21da-9331-11ea-9c15-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13007161187043948931"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glacier Muffler-Mechanical Inc",
+ "address": "2450 Industrial Blvd UNIT A, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10916956101820841585"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sitka National Historical Park",
+ "address": "103 Monastery St, Sitka, AK 99835, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6aa080f4-9331-11ea-8c62-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
   "walking",
+  "walk",
+  "walk",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5392006896022536534"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Raptor Center",
+ "address": "1000 Raptor Way, Sitka, AK 99835, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6b01d592-9331-11ea-80f5-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "learn",
+  "knowledgeable",
+  "educate",
+  "learn",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2339206465434596245"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Eldred Rock Lighthouse",
+ "address": "Alaska, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6b5f605c-9331-11ea-a1ef-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=7030110033504596277"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frenchie's Floral Studio",
+ "address": "1200 Glacier Ave #102, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6c10886c-9331-11ea-bcdf-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "walk",
+  "art",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12629797203065648227"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Unplugged Adventure",
+ "address": "549 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6c7993a2-9331-11ea-8608-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8350024173068472447"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Gold Creek Salmon Bake",
+ "address": "1061 Salmon Creek Ln, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6cee009c-9331-11ea-930c-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk",
+  "eat",
+  "eat",
+  "sampling",
+  "food",
+  "nature",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12690140394458456665"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fortress of the Bear",
+ "address": "4639 Sawmill Creek Rd, Sitka, AK 99835, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6d578a62-9331-11ea-af37-14b31f159f22.png"
+ ],
+ "tags": [
+  "pets"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14134752308069305680"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chilkat Bald Eagle Preserve",
+ "address": "Haines Hwy, Haines, AK 99827, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6daed234-9331-11ea-b548-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1660565747703470816"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sealaska Heritage Institute",
+ "address": "105 S Seward St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6e0f9030-9331-11ea-9761-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "art",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10103354388118686322"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Local Guy Charters & Sightseeing",
+ "address": "11957 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6e648e36-9331-11ea-81df-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11716515928373977882"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zerelda's Bistro",
+ "address": "9351 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6eb5949a-9331-11ea-8a97-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1018400370291430686"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "V's Cellar Door",
+ "address": "222 Seward St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6f14cbf8-9331-11ea-a6a5-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "unique",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7141269537895140958"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Deckhand Dave's Fish Tacos",
+ "address": "139 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6f678476-9331-11ea-a78f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8433081132382976641"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Seong's Sushi Bar",
+ "address": "740 W 9th St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/6fd234f0-9331-11ea-9547-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2298384948732346452"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McGivney's Sports Bar & Grill Downtown",
+ "address": "51 Egan Dr #1708, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70231448-9331-11ea-ae81-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food",
+  "food",
+  "tour",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4545964382616112955"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "TK Maguire's",
+ "address": "375 Whittier St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/708c01ae-9331-11ea-b128-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=546549993775008088"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "gonZo CULT AK",
+ "address": "11806 Glacier Hwy #1f, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/70e2fccc-9331-11ea-963e-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "art",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2997335647335786443"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Salmon Spot",
+ "address": "210 Admiral Way, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/714aa9ae-9331-11ea-b13a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7377019692835683591"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Donna's Restaurant",
+ "address": "9131 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/71afdddc-9331-11ea-88bf-14b31f159f22.png"
+ ],
+ "tags": [
+  "tour",
+  "family",
+  "eat",
+  "eat",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10719654771583237304"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Wild Alaskan",
+ "address": "5346 Commercial Blvd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/72146ecc-9331-11ea-af08-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3946734442783883002"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McGivney's Sports Bar & Grill",
+ "address": "9105 Mendenhall Mall Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/726a932c-9331-11ea-b3fa-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=272742438321020796"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Island Pub",
+ "address": "1102 2nd St, Douglas, AK 99824, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/72d451ca-9331-11ea-b7e8-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5986178292203056039"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pel'meni",
+ "address": "2 Marine Way, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/73378230-9331-11ea-8de3-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17854882284906126506"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "In Bocca al Lupo",
+ "address": "120 2nd St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/738d452e-9331-11ea-bbd0-14b31f159f22.png"
+ ],
+ "tags": [
+  "creative",
+  "food",
+  "food",
+  "family",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10260031407758961251"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pier 49",
+ "address": "406 S Franklin St Suite 102, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/73dfbefa-9331-11ea-9e5a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "tour",
+  "food",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9166874868767222319"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kitchen of Thai Curries",
+ "address": "224 Seward St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/74619994-9331-11ea-b109-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "unique",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6628174324026229887"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Suwanna Thai Cafe",
+ "address": "8800 Glacier Hwy #100, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/74d78d34-9331-11ea-b383-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11266638648483131820"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pucker Wilson's",
+ "address": "311 Whittier St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/753df24a-9331-11ea-8a1f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "walk",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16014044111389742952"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Four Plates Cocina Peruana",
+ "address": "10002 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7598f5ae-9331-11ea-9c41-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "walk",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15368801635075766848"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Canton Asian Bistro",
+ "address": "8585 Old Dairy Rd #105, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/75fea0d0-9331-11ea-b087-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "walking",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11541992193743484410"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Pizza",
+ "address": "9342 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/76608180-9331-11ea-a90f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12510735951322170178"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Sombrero",
+ "address": "157 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/775fad5e-9331-11ea-ac71-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6571379327820465046"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Salsa Mexican Food",
+ "address": "8745 Glacier Hwy #32a, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/77b9db90-9331-11ea-ad83-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "family",
+  "eat",
+  "food",
+  "eat",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17509264862923578790"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Alaskan Crepe Escape",
+ "address": "356 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7814d9a4-9331-11ea-8006-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7518705161823511113"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Saffron Indian Comfort Cuisine",
+ "address": "112 N Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7870b57a-9331-11ea-ac94-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "delicious",
+  "economical",
+  "food",
+  "free",
+  "food",
+  "music",
+  "kids",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16903648800484835824"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Asiana Gardens",
+ "address": "9116 Mendenhall Mall Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/78d1bc9a-9331-11ea-ad9c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6953661049756675110"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tracy's King Crab Shack 2",
+ "address": "300 Whittier St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/79281a40-9331-11ea-9e94-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "delicious",
+  "walk",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d8617045-Reviews-Alaska_Governor_s_Mansion-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=7713513863015779768"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
- "address": "416 5th St",
+ "name": "Valley Restaurant",
+ "address": "9320 Glacier Hwy, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.2
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/0e/7d/9e/outside-of-church-shot.jpg"
+  "GoogleMapsPhotoLibrary/798e0d74-9331-11ea-867b-14b31f159f22.png"
  ],
  "tags": [
-  "walking",
-  "free",
-  "free"
+  "eat",
+  "food",
+  "eat",
+  "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d8134447-Reviews-Cathedral_of_the_Nativity_of_the_Blessed_Virgin_Mary-Juneau_Alaska.html"
+  "https://maps.google.com/?cid=3275991287761775896"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Empty Chair Memorial",
- "address": "521 Seward St Capital School Park",
+ "name": "Grumpy's Delicatessen",
+ "address": "175 S Franklin St, Juneau, AK 99801, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/b3/49/1a/empty-chair-memorial.jpg"
+  "GoogleMapsPhotoLibrary/79ea8bb8-9331-11ea-94fd-14b31f159f22.png"
  ],
  "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1004808158321033425"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Poki Poki",
+ "address": "172 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7a4a8658-9331-11ea-959f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7873879239218044153"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Devil's Club Brewing Company",
+ "address": "100 N Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7aaff7d8-9331-11ea-b5e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "brewery",
+  "knowledgeable",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16572796311108016503"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Little Tokyo Juneau",
+ "address": "140 Seward St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7b1780c6-9331-11ea-a3bd-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17530105137901118887"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lemon Tree Caf\u00e9",
+ "address": "230 2nd St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7b7ee402-9331-11ea-b49f-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "family",
+  "cheap"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=568171349351789799"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mar y Sol Mexican Food",
+ "address": "617 W Willoughby Ave, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7c153122-9331-11ea-b5cb-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "eat",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16695074252830294515"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bernadette's Fast Food",
+ "address": "225 Front St STE 101, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7c6ec310-9331-11ea-b416-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "eat",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17413191432346007227"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Douglas Cafe",
+ "address": "916 3rd St, Douglas, AK 99824, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7cbd33d8-9331-11ea-91b3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "family",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11481256411726466156"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Korea Garden",
+ "address": "124 Front St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7d1c6b06-9331-11ea-b079-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16704993963048409631"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Raven Cafe",
+ "address": "395 Whittier St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7d795850-9331-11ea-83f8-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5922959623024035610"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Chan's Thai Kitchen",
+ "address": "11820 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7de10894-9331-11ea-a1d3-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "family",
+  "eat",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12343976354963158092"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Zarape",
+ "address": "1961 Anka St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7e3bd30a-9331-11ea-bc0c-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1445025466528745077"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hot Bite",
+ "address": "11445 Auke Bay Harbor Rd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7e969ea4-9331-11ea-8613-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8940887134410523831"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bowl of Pho",
+ "address": "9121 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7f07d734-9331-11ea-92f9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12642755692494246509"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Udder Culture featuring Aurora Sweets",
+ "address": "9105 Mendenhall Mall Rd # 146, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7f5a7f92-9331-11ea-a7ba-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2023749830472414352"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Juno Froyo",
+ "address": "8585 Old Dairy Rd #103, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/7fbaef66-9331-11ea-90b8-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2283640584071104749"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Timberline Bar & Grill Atop Mount Roberts",
+ "address": "3M0000MSU010, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/803cc9ee-9331-11ea-9817-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "nature",
+  "walking",
+  "theatre",
+  "tour",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6372639171654457934"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Grind Coffee",
+ "address": "5461 Shaune Dr, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/80965bc0-9331-11ea-b384-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11680847793304739205"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Subway",
+ "address": "8777 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/81023d64-9331-11ea-9c86-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7689968381242021167"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Buoy Deck",
+ "address": "345 Egan Dr, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/818eed6e-9331-11ea-a419-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "cheap",
+  "kids",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13004458984743228189"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Hangar On The Wharf",
+ "address": "2 Marine Way Ste 106, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/81e9698c-9331-11ea-aa06-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "delicious",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11282324149351877967"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Twisted Fish Company Alaskan Grill",
+ "address": "550 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/823cb9de-9331-11ea-bb27-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "tour",
+  "delicious",
+  "food",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6762552573929095279"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Forno Rosso",
+ "address": "356 S Franklin St, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/82a9d3ec-9331-11ea-ac63-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5390664278068953766"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Devils Hideaway",
+ "address": "11806 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/830f9af4-9331-11ea-aa57-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "history",
+  "music",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8389492162065760810"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Northern Cuisine",
+ "address": "9400 Glacier Hwy, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/840ebc0c-9331-11ea-a521-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8089212498745944255"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Costco Food Court",
+ "address": "5225 Commercial Blvd, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9801635367424919427"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sacred Grounds",
+ "address": "320 Willoughby Ave, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/847916e6-9331-11ea-b65d-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
   "walk",
+  "drink",
+  "drink",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13451953473747792690"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Manila Bay Cafe",
+ "address": "310 S Franklin St STE 300, Juneau, AK 99801, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/8563ecc2-9331-11ea-9009-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11998518780865835717"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shrine of St Therese",
+ "address": "21425 Glacier Hwy",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/h1opelkmAflT_M-QeBUG3A/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/shrine-of-st-therese-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Limousine Services",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/fWHd3JgoDTST6rErpBCJjA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-limousine-services-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Humpback Adventures",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/HdCALE0JMQvdG4nMk9idJg/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-humpback-adventures-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Douglas Island Zipline Tour",
+ "address": "Douglas Island",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/douglas-island-zipline-tour-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Tales",
+ "address": "Marine Park",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/p73YCq2WK4dmMOTP5Vpw2A/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-tales-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Perseverance Trail",
+ "address": "1050 Harbor Way",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Y3EKEYAmBj32AcWR3K7Zmw/o.jpg"
+ ],
+ "tags": [
+  "hike"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/perseverance-trail-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Fish & Chips Company",
+ "address": "2 Marine Way",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/I4yB42UALTfxfsSl3bE4sw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-fish-and-chips-company-juneau-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Adventures",
+ "address": "9482 Riverbend Ct",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/cWYg1OIGCYmu-i-oetMZgw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/juneau-adventures-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Glacier Cinemas",
+ "address": "9091 Cinema Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/b3pExgU4Mf43itJPMEaf4g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/glacier-cinemas-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Pedicab",
+ "address": "3251 Douglas Hwy",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/mQum_llGENwxxuua4yrdHw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/juneau-pedicab-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Port",
+ "address": "356 S Franklin St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/7GyG5du_seUZRfQboBN1Mw/o.jpg"
+ ],
+ "tags": [
+  "delicious"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-port-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Capital Cab",
+ "address": "",
+ "avg_visitor_review": [
+  2.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/l8idpuBFnzIZGl40B6q5MQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/capital-cab-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Jazz and Classics",
+ "address": "350 Whittier St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/rRWMKGpZIdfZWnyDY4nnIA/o.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-jazz-and-classics-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau",
+ "address": null,
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/siAK8kw8olvIa8SauSpn-g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/juneau-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "20th Century Theatre",
+ "address": "222 Front St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/o1A4_LZTPDR9iwqpSeM17g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/20th-century-theatre-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Sea to Shore",
+ "address": "176 Behrends Ave",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "family",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-sea-to-shore-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaskan Hotel & Bar",
+ "address": "167 S Franklin St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/-R2Z5ZpRnoeDc2nJ2VJg0g/o.jpg"
+ ],
+ "tags": [
+  "music",
   "historic"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g31020-d12580386-Reviews-Empty_Chair_Memorial-Juneau_Alaska.html"
+  "https://www.yelp.com/biz/alaskan-hotel-and-bar-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dimond Park Aquatic Center",
+ "address": "3045 Riverside Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/D_1CwPZvK12_5M5VTkz0CQ/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/dimond-park-aquatic-center-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Seaplanes",
+ "address": "1873 Shell Simmons Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/HdyXh9XB0tCoLMdNwtShCg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/alaska-seaplanes-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Sightseeing Tours",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "tour",
+  "sightseeing"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-sightseeing-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Perseverance Theatre",
+ "address": "914 3rd St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/u_OS0q5jgm3HHyiLIlCa_w/o.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "theatre"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/perseverance-theatre-douglas?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Chum Fun Charters",
+ "address": "2571 Channel Dr",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/F9lZckOCZDGflRM8onMvYQ/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/chum-fun-charters-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Tracy's King Crab Shack",
+ "address": "300 Whittier St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/CBBPU0gr50XqEZ-t-xIFRQ/o.jpg"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/tracys-king-crab-shack-juneau-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Patsy Ann",
+ "address": "254 AK-7",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/FQpMknrMLHnafCLcAZob3A/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/patsy-ann-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Narrows Bar",
+ "address": "148 S Franklin St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/CjmecrPHUZ5AB5rbFz0Wpg/o.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-narrows-bar-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Annie Kaill's",
+ "address": "124 Seward St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/hXqgWWFZBWQk5WN1_q18NA/o.jpg"
+ ],
+ "tags": [
+  "art",
+  "family",
+  "art"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/annie-kaills-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Tour Center",
+ "address": "4021 Mendenhall Loop Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/gwIwd_tV4ZBflhaqR3Wbhg/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-tour-center-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Rainforest Tours",
+ "address": "1873 Shell Simmons Dr",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-rainforest-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Weather Permitting Alaska",
+ "address": "3835 Lee Ct",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/W0P7zXTb5O2K7IkmnSraxw/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/weather-permitting-alaska-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Stone Cut Bodies",
+ "address": null,
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/qkBSLctAQZpDWd7doildQQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/stone-cut-bodies-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Mercantile & Armory",
+ "address": "1720 Crest St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/3ZMNphX15pk7LoYjQ81Y0w/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/juneau-mercantile-and-armory-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Observatory",
+ "address": "299 N Franklin St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/observatory-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Skagway Tours",
+ "address": "",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/B58kQ1LHhnuAhJpljXwurg/o.jpg"
+ ],
+ "tags": [
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/skagway-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Artists Gallery",
+ "address": "175 S Franklin St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/UzKoEe2qZwzgB_INpX7Evg/o.jpg"
+ ],
+ "tags": [
+  "unique",
+  "art",
+  "art",
+  "learn"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-artists-gallery-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lucky Lady Pub",
+ "address": "211 Shattuck Way",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/uEYjCqc326jeZybmgH8yQQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/lucky-lady-pub-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Big Jim's Charters",
+ "address": "11957 Glacier Hwy",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/bvQNx9qlIDLbtWIMql-Kpg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/big-jims-charters-juneau-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Whale Watch & Wildlife Tours",
+ "address": "2 Marine Way",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/Kvs0Nu3duG61BWMEEmBRRg/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/whale-watch-and-wildlife-tours-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Alaska Governor's Mansion",
+ "address": "716 Calhoun Ave",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/2WuJHrXqgNJfs16QLNBnEA/o.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/alaska-governors-mansion-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Goals Gym",
+ "address": "1248 Glacier Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/-sRN8_6di4MFqMSiz4xLYA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/goals-gym-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Salmon Creek",
+ "address": "2000 Salmon Creek Ln",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/GKDyhHzJtTT1TgeWGDYkZQ/o.jpg"
+ ],
+ "tags": [
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/salmon-creek-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "BestDamnCharters",
+ "address": "9158 Skywood Ln",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/dmcIsDTOgDcSdHe7ZYnF8g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/bestdamncharters-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Medal of Honor - Colonel Archie Van Winkle",
+ "address": "490 S Franklin St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Zn17-et9g8JYUSmRVUu7Tw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/medal-of-honor-colonel-archie-van-winkle-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Saffron",
+ "address": "112 N Franklin St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/5hpypuk_A2sCfMsXCX_W4Q/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/saffron-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau City Of Borough",
+ "address": "3406 Glacier Hwy",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/0X_rchdKXgKQUEC2U2jkBA/o.jpg"
+ ],
+ "tags": [
+  "walking"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-city-of-borough-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Juneau Cabaret",
+ "address": "109 S Franklin St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/juneau-cabaret-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Triangle Club",
+ "address": "251 Front St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/M-o-AXtMo054eopRnQBVbw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/triangle-club-juneau?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
  ],
  "reviews": []
 }]

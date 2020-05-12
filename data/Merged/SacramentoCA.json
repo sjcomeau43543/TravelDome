@@ -1,1018 +1,951 @@
 [
 {
- "name": "Skeleton Key Rooms",
- "address": "5322 Auburn Blvd",
+ "name": "California State Railroad Museum",
+ "address": "125 I St, Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  4.5
+  4.8,
+  "5.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/x9VXtyT3n3Wk9mKwUd01Kg/o.jpg"
+  "GoogleMapsPhotoLibrary/94ecfb78-9333-11ea-bd16-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/2f/65/68/a-large-attractive-bldg.jpg"
  ],
- "tags": [],
+ "tags": [
+  "knowledgeable",
+  "history",
+  "family",
+  "history",
+  "walk",
+  "learn",
+  "kids",
+  "history",
+  "historic",
+  "field",
+  "tour",
+  "unique"
+ ],
  "link": [
-  "https://www.yelp.com/biz/skeleton-key-rooms-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d102772-Reviews-California_State_Railroad_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=13064911033240821480"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "SeaQuest Folsom",
- "address": "430 Palladio Pkwy",
+ "name": "Crocker Art Museum",
+ "address": "216 O St, Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  3.5
+  4.8,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/RtWvRvD7nfurDgnvkW2pZw/o.jpg"
+  "GoogleMapsPhotoLibrary/9547c5d8-9333-11ea-ac77-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/47/71/16/historic-crocker-mansion.jpg"
+ ],
+ "tags": [
+  "drink",
+  "learn",
+  "art",
+  "family",
+  "free",
+  "structure",
+  "music",
+  "history",
+  "historic",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d105182-Reviews-Crocker_Art_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=15651045380592154937"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "California State Capitol Museum",
+ "address": "1315 10th St room b-27, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/94738666-9333-11ea-a422-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/03/82/44/8a/california-capitol.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "free",
+  "tour",
+  "kids",
+  "field",
+  "learn",
+  "free",
+  "walk",
+  "history",
+  "free",
+  "history",
+  "historic",
+  "walking",
+  "family",
+  "art",
+  "wander"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d219610-Reviews-California_State_Capitol_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=378875291323442389"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Old Sacramento",
+ "address": "1002 2nd St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/84/fa/82/main-street-of-old-sacramento.jpg"
  ],
  "tags": [
   "kids",
-  "learn"
- ],
- "link": [
-  "https://www.yelp.com/biz/seaquest-folsom-folsom?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Scandia Family Fun Center",
- "address": "5070 Hillsdale Blvd",
- "avg_visitor_review": [
-  2.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Ytl1pJPlnpOPYMpLvwZGaA/o.jpg"
- ],
- "tags": [
+  "walking",
+  "walk",
+  "walk",
+  "eat",
   "family",
-  "free",
-  "food"
+  "kids",
+  "walking",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/scandia-family-fun-center-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d102771-Reviews-Old_Sacramento-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "California State Escape: Sacramento Escape Room",
- "address": "5400 Power Inn Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/3zqml4kODWMzrKfBxnVVFw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/california-state-escape-sacramento-escape-room-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Thunder Valley Casino Resort",
- "address": "1200 Athens Ave",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/SJBedgrPO8Nq2dpCIyEEWg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/thunder-valley-casino-resort-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Bungee Adventures",
+ "name": "American River Bicycle Trail",
  "address": "",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/GU7Wox-3mFrb8NGxF4ln1Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/bungee-adventures-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Food Truck Cinema",
- "address": "5880 Woodcreek Oak Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/PpKd0skV8O6JmNVACZA0AQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/food-truck-cinema-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wacky Tacky",
- "address": "7351 Galilee Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/OSYw4Q2Ke5uKaD1UUJMrGw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wacky-tacky-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "International World Peace Rose Gardens",
- "address": "1317 15th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/R8vM8HA3XWtc7azsCdM8HQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/68/1b/7d/filename-img-1666-jpg.jpg"
  ],
  "tags": [
+  "nature",
+  "walking",
+  "unique",
+  "parks",
   "walk",
-  "free"
+  "parks"
  ],
  "link": [
-  "https://www.yelp.com/biz/international-world-peace-rose-gardens-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142861-Reviews-American_River_Bicycle_Trail-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Jensen Botanical Gardens",
- "address": "8520 Fair Oaks Blvd",
+ "name": "Cathedral of the Blessed Sacrament",
+ "address": "1017 11th St, Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  4.0
+  4.8,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/rALapWKcbNZ6ZQrI4emUMA/o.jpg"
+  "GoogleMapsPhotoLibrary/97fdf110-9333-11ea-97d6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/f3/ac/amazing.jpg"
  ],
  "tags": [
-  "walk"
+  "learn",
+  "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/jensen-botanical-gardens-carmichael?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d564705-Reviews-Cathedral_of_the_Blessed_Sacrament-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=9564782502343456227"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sutter\u2019s Fort State Historic Park",
+ "address": "2701 L St",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/fb/26/5c/photo1jpg.jpg"
+ ],
+ "tags": [
+  "historic",
+  "history",
+  "history",
+  "historic",
+  "eat",
+  "history",
+  "kids",
+  "history",
+  "learn",
+  "history",
+  "kids",
+  "history"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d102770-Reviews-Sutter_s_Fort_State_Historic_Park-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
  ],
  "reviews": []
 },{
  "name": "Capitol Park",
  "address": "Capitol Ave & 15th St",
  "avg_visitor_review": [
-  "4.5",
-  4.5
+  4.5,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/42/40/plenty-of-wonderful-shade.jpg",
-  "https://s3-media2.fl.yelpcdn.com/bphoto/1Ke-JJvUsvv6JPaTUEYHyQ/o.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/1Ke-JJvUsvv6JPaTUEYHyQ/o.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/c4/42/40/plenty-of-wonderful-shade.jpg"
  ],
  "tags": [
+  "free",
   "walk",
   "walking",
   "comforting",
-  "historic",
-  "historic",
+  "historic"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d142866-Reviews-Capitol_Park-Sacramento_California.html"
+  ],
+  "https://www.yelp.com/biz/capitol-park-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sacramento Zoo",
+ "address": "3930 W Land Park Dr, Sacramento, CA 95822, USA",
+ "avg_visitor_review": [
+  4.3,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/95af4470-9333-11ea-b6e5-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/01/e2/31/d5/tiger-1-he-was-far-enough.jpg"
+ ],
+ "tags": [
+  "learn",
+  "family",
+  "food",
+  "knowledgeable",
+  "family",
+  "active",
+  "learn",
+  "nature",
+  "kids",
+  "educate",
+  "food",
+  "knowledgeable",
+  "kids",
+  "affordable",
+  "unique",
   "walk",
-  "walking",
+  "eat",
   "free"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/capitol-park-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d127615-Reviews-Sacramento_Zoo-Sacramento_California.html"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142866-Reviews-Capitol_Park-Sacramento_California.html"
+  "https://maps.google.com/?cid=6430915052866730629"
  ],
  "source": [
   [
-   "Yelp"
+   "TripAdvisor"
   ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Leland Stanford Mansion State Historic Park",
+ "address": "cnr of 8th and 'N' Sts cnr of 8th and 'N' Sts, Sacramento, California",
+ "avg_visitor_review": [
+  4.7,
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/992f4622-9333-11ea-a69c-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/64/37/46/leland-stanford-mansion.jpg"
+ ],
+ "tags": [
+  "tour",
+  "history",
+  "structure",
+  "tour",
+  "history",
+  "structure",
+  "walk",
+  "parks",
+  "tour",
+  "free",
+  "free",
+  "knowledgeable"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d531943-Reviews-Leland_Stanford_Mansion_State_Historic_Park-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=9698962424916610549"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "California Automobile Museum",
+ "address": "2200 Front St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/42/7b/a5/early-elegance.jpg"
+ ],
+ "tags": [
+  "knowledgeable",
+  "unique",
+  "walk",
+  "knowledgeable",
+  "eat",
+  "walking",
+  "unique",
+  "tour",
+  "tour",
+  "history",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127612-Reviews-California_Automobile_Museum-Sacramento_California.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Lazer X At Country Club Lanes",
- "address": "2600 Watt Ave",
+ "name": "William Land Park",
+ "address": "1702 Sutterville Rd",
  "avg_visitor_review": [
-  4.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/Lcym-EcurYdDZRQX7JghfQ/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/16/0a/35/fb/william-land-park.jpg"
  ],
  "tags": [
-  "family",
   "kids",
+  "theatre",
+  "learn",
+  "walking",
+  "kids",
+  "walking",
   "kids"
  ],
  "link": [
-  "https://www.yelp.com/biz/lazer-x-at-country-club-lanes-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d128260-Reviews-William_Land_Park-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Handle District",
- "address": "18th & L St",
+ "name": "Tower Bridge",
+ "address": "Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  4.5
+  4.6,
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/PMW7vknQ1OefvM71aRS-2Q/o.jpg"
+  "GoogleMapsPhotoLibrary/96563380-9333-11ea-9f59-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0b/3f/2d/08/tower-bridge-sacramento.jpg"
  ],
  "tags": [
-  "food"
+  "walk",
+  "walk",
+  "walking",
+  "tour",
+  "historic",
+  "history",
+  "learn",
+  "structure",
+  "eat",
+  "unique"
  ],
  "link": [
-  "https://www.yelp.com/biz/handle-district-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d6394988-Reviews-Tower_Bridge-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=13769130253514038132"
  ],
  "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Country Club Cinema",
- "address": "2405 Butano Dr",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/EHNjVlWHgXO5AMlwyepuSw/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/country-club-cinema-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
  "name": "McKinley Park",
- "address": "3330 McKinley Blvd",
+ "address": "601 Alhambra Blvd, Sacramento, CA 95816, USA",
  "avg_visitor_review": [
-  "4.5",
-  4.5
+  4.5,
+  4.6,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/d3/5c/60/photo2jpg.jpg",
-  "https://s3-media3.fl.yelpcdn.com/bphoto/yYOqvkNbUEa4z3MDftXCmg/o.jpg"
+  "https://s3-media3.fl.yelpcdn.com/bphoto/yYOqvkNbUEa4z3MDftXCmg/o.jpg",
+  "GoogleMapsPhotoLibrary/979a9b10-9333-11ea-be45-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/07/d3/5c/60/photo2jpg.jpg"
  ],
  "tags": [
-  "food",
-  "library",
-  "free",
-  "kids",
-  "family",
   "walk",
+  "kids",
+  "structure",
+  "parks",
+  "library",
+  "walking",
+  "food",
+  "free",
+  "family",
   "art",
-  "drink",
-  "walking"
+  "drink"
  ],
  "link": [
   [
-   "https://www.yelp.com/biz/mckinley-park-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+   [
+    "https://www.tripadvisor.com/Attraction_Review-g32999-d128384-Reviews-McKinley_Park-Sacramento_California.html"
+   ],
+   "https://maps.google.com/?cid=9817515343663866372"
   ],
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d128384-Reviews-McKinley_Park-Sacramento_California.html"
+  "https://www.yelp.com/biz/mckinley-park-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
   [
-   "Yelp"
+   [
+    "TripAdvisor"
+   ],
+   "GoogleMaps"
   ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Funderland Park",
+ "address": "1350 17th Ave",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a4/d1/f5/park-entrance.jpg"
+ ],
+ "tags": [
+  "kids",
+  "food",
+  "walk",
+  "kids",
+  "kids",
+  "walk",
+  "kids",
+  "kids",
+  "free",
+  "kids",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d630581-Reviews-Funderland_Park-Sacramento_California.html"
+ ],
+ "source": [
   "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Sutter's Fort State Historic Park",
- "address": "2701 L St",
+ "name": "Golden 1 Center",
+ "address": "500 David J Stern Walk",
  "avg_visitor_review": [
-  4.5
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/x0w6cYm4emp4LY3lzL2kTg/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/10/f6/67/3d/this-is-the-picture-of.jpg"
  ],
  "tags": [
-  "history"
+  "eat",
+  "drink",
+  "eat",
+  "drink",
+  "walking",
+  "food",
+  "food",
+  "drink",
+  "delicious"
  ],
  "link": [
-  "https://www.yelp.com/biz/sutters-fort-state-historic-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d11662834-Reviews-Golden_1_Center-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Escape Sacramento",
- "address": "1831 I St",
+ "name": "American River Parkway",
+ "address": "Discovery Park to Hazel Avenue 4,800-acres of Public Park Along 23 Miles of River",
  "avg_visitor_review": [
-  4.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/DCAcCnbZ1_x6noorQLFLoQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/escape-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Corbett's House of Horror",
- "address": "46500 County Road 32B",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ldqwYFYsLfgS6Optbzbfzw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/corbetts-house-of-horror-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Golfland Sunsplash Roseville",
- "address": "1893 Taylor Rd",
- "avg_visitor_review": [
-  3.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/xcWBKOpn4bfESfbWsnmW0A/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/0a/01/34/96/photo1jpg.jpg"
  ],
  "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/golfland-sunsplash-roseville-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "SACTOWN Bike Bus Tours",
- "address": "1111 J St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/mbqlrdhT9IRPXp2WbbzA8g/o.jpg"
- ],
- "tags": [
-  "tour",
-  "tour"
- ],
- "link": [
-  "https://www.yelp.com/biz/sactown-bike-bus-tours-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sauced BBQ & Spirits - Sacramento",
- "address": "1028 7th St",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/7MmyWmbg4qo46JX15j96Bg/o.jpg"
- ],
- "tags": [
-  "eat"
- ],
- "link": [
-  "https://www.yelp.com/biz/sauced-bbq-and-spirits-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Davis Farmers Market",
- "address": "301 C St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/X19VauzGBASPjXE9oCG0Dw/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/davis-farmers-market-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Denio's Roseville Farmers Market & Swap Meet",
- "address": "1551 Vineyard Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/4fqudQoPaDqzAIKWgBQ7jQ/o.jpg"
- ],
- "tags": [
-  "family"
- ],
- "link": [
-  "https://www.yelp.com/biz/denios-roseville-farmers-market-and-swap-meet-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "East Sacramento's Fab 40s Christmas Lights",
- "address": "1232 43rd St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/wONjedpbVrQZQf5i3AQc_w/o.jpg"
- ],
- "tags": [
-  "unique"
- ],
- "link": [
-  "https://www.yelp.com/biz/east-sacramentos-fab-40s-christmas-lights-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The California Museum",
- "address": "1020 O St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/_x53F8LVxF858BBevC3fcQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-california-museum-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Naked Lounge Coffee House",
- "address": "1111 H St",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/yydW-0JLMl6QzNTFCFj70g/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/the-naked-lounge-coffee-house-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Southside Park",
- "address": "2115 6th St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/8KZUGmQZTiWRGvQ3IgcXBw/o.jpg"
- ],
- "tags": [
+  "family",
+  "parks",
+  "nature",
+  "free",
+  "nature",
+  "walking",
+  "parks",
+  "walking",
   "walk",
   "walking"
  ],
  "link": [
-  "https://www.yelp.com/biz/southside-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d128282-Reviews-American_River_Parkway-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "The Underground Tasting Room",
- "address": "900 2nd St",
+ "name": "Sacramento History Museum",
+ "address": "101 I St, Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  4.5
+  4.5,
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/U1iGg02tzKOeUv6Z2L5W_w/o.jpg"
+  "GoogleMapsPhotoLibrary/98dba76c-9333-11ea-bcc6-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/05/70/02/sacramento-history-museum.jpg"
  ],
  "tags": [
-  "tasting",
+  "tour",
+  "tour",
+  "history",
+  "tour",
+  "kids",
   "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/the-underground-tasting-room-sacramento-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d3539208-Reviews-Sacramento_History_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=10840619245750513748"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Aj's Outdoor Adventures",
- "address": null,
+ "name": "Loch Leven Lakes Trail",
+ "address": "",
  "avg_visitor_review": [
-  5.0
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/POyFKaqU3IwdGwb1XQhbrw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/ajs-outdoor-adventures-rio-linda?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Wake Island Waterpark",
- "address": "7633 Locust Rd",
- "avg_visitor_review": [
-  3.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/cKpHX7wlkyIP7nivhIs5tQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/wake-island-waterpark-pleasant-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Aerospace Museum of California",
- "address": "3200 Freedom Park Dr",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/47rQouDiR6F3KW6Mr6V51g/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/5f/be/56/loch-leven-lakes-trail.jpg"
  ],
  "tags": [
+  "hike",
+  "hike",
+  "hike",
+  "hike"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142481-Reviews-Loch_Leven_Lakes_Trail-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "Old Sacramento Schoolhouse Museum",
+ "address": "1200 Front St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6,
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9aaa4e3e-9333-11ea-b64b-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/06/dd/cf/3f/old-sacramento-schoolhouse.jpg"
+ ],
+ "tags": [
+  "learn",
   "history",
-  "free"
+  "history",
+  "history",
+  "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/aerospace-museum-of-california-mcclellan-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d6740457-Reviews-Old_Sacramento_Schoolhouse_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=3990039449381827264"
  ],
  "source": [
-  "Yelp"
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Old Sugar Mill",
- "address": "35266 Willow Ave",
+ "name": "California State Indian Museum",
+ "address": "2618 K St",
  "avg_visitor_review": [
-  4.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/XwlCcpHxZ1tIKbd_5JpQFQ/o.jpg"
- ],
- "tags": [
-  "family",
-  "winery"
- ],
- "link": [
-  "https://www.yelp.com/biz/old-sugar-mill-clarksburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Cosumnes River Preserve",
- "address": "13501 Franklin Blvd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/YJC6LfT20UGJt8LTU50I8A/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/13/56/43/de/20180617-170935-largejpg.jpg"
  ],
  "tags": [
   "walk",
-  "walking",
-  "nature"
+  "history",
+  "historic",
+  "kids",
+  "eat",
+  "learn",
+  "knowledgeable",
+  "walk",
+  "history",
+  "historic",
+  "kids",
+  "eat",
+  "learn",
+  "knowledgeable"
  ],
  "link": [
-  "https://www.yelp.com/biz/cosumnes-river-preserve-galt-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127632-Reviews-California_State_Indian_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Sac Brew Bike",
- "address": "1519 19th St",
+ "name": "Governor's Mansion",
+ "address": "1526 H St",
  "avg_visitor_review": [
-  5.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/7PmLgoeeCWo6aMQbaqvYdA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/04/24/6c/c1/governor-s-mansion.jpg"
  ],
  "tags": [
+  "tour",
+  "free",
+  "walk",
+  "tour",
+  "history",
+  "tour",
+  "parks",
+  "walk",
+  "history",
+  "tour",
+  "parks",
+  "tour",
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127626-Reviews-Governor_s_Mansion-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California Exposition & State Fair",
+ "address": "1600 Exposition Blvd",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/b1/ea/0d/from-far.jpg"
+ ],
+ "tags": [
+  "free",
+  "cheap",
+  "nature",
+  "walk",
+  "food",
+  "parks",
+  "art",
+  "history",
+  "food",
+  "kids",
+  "food",
+  "kids",
+  "tasting"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d1418614-Reviews-California_Exposition_State_Fair-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "The B Street Theatre",
+ "address": "2711 B St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f5/3f/the-b-street-theatre.jpg"
+ ],
+ "tags": [
+  "theatre",
+  "theatre",
+  "music",
+  "theatre",
+  "theatre",
+  "theatre",
+  "music",
+  "theatre",
+  "unique"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142815-Reviews-The_B_Street_Theatre-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California Musical Theatre",
+ "address": "1419 H St",
+ "avg_visitor_review": [
+  "4.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/18/c0/67/20/photo1jpg.jpg"
+ ],
+ "tags": [
+  "performance",
+  "theatre",
+  "performance",
+  "theatre",
+  "creative",
   "music"
  ],
  "link": [
-  "https://www.yelp.com/biz/sac-brew-bike-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d4460158-Reviews-California_Musical_Theatre-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Kikkoman Foods, Inc.",
- "address": "1000 Glenn Dr",
+ "name": "Old City Cemetery",
+ "address": "1000 Broadway",
  "avg_visitor_review": [
-  3.5
+  "4.5"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/Mg6elHg3Z-oFiDL9rNLkJQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/kikkoman-foods-inc-folsom-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Northstar Park",
- "address": "3434 Anderson Rd",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/IOQW7f9XjW6_7MYhdru9gA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/62/c1/95/una-esperiencia-inolvidable.jpg"
  ],
  "tags": [
-  "free",
-  "walking",
   "walk",
-  "field"
- ],
- "link": [
-  "https://www.yelp.com/biz/northstar-park-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Sand Cove Beach",
- "address": "2005 Garden Hwy",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/baK8rfYlS2AMFxT7sLOs9w/o.jpg"
- ],
- "tags": [
-  "kids"
- ],
- "link": [
-  "https://www.yelp.com/biz/sand-cove-beach-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Flatstick Pub",
- "address": "630 K St",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/CVFOiAlP3qIMXk38dJxOBQ/o.jpg"
- ],
- "tags": [
-  "walk"
- ],
- "link": [
-  "https://www.yelp.com/biz/flatstick-pub-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Dolphin Scuba Center",
- "address": "1530 El Camino Ave",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/-oT5JemQNzyuBpXOfeKceA/o.jpg"
- ],
- "tags": [
-  "family",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.yelp.com/biz/dolphin-scuba-center-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Elk Grove Giant Pumpkin Festival",
- "address": "9950 Elk Grove Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/TK6vgkV10ZERJImCrwoipg/o.jpg"
- ],
- "tags": [
-  "family",
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/elk-grove-giant-pumpkin-festival-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Topgolf",
- "address": "1700 Freedom Way",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/52eBqbwdbWsEeOjyULNYLw/o.jpg"
- ],
- "tags": [
-  "food"
- ],
- "link": [
-  "https://www.yelp.com/biz/topgolf-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Napa Valley Aloft Balloon Rides",
- "address": "6525 Washington St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/_EcajgaGoe2WABXlgIWuZw/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/napa-valley-aloft-balloon-rides-yountville-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "The Tower Theatre",
- "address": "2508 Land Park Dr.",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/eN12Sd7yGYQxbeeWAmkg8A/o.jpg"
- ],
- "tags": [
-  "theatre"
- ],
- "link": [
-  "https://www.yelp.com/biz/the-tower-theatre-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Color Me Mine",
- "address": "7440 Laguna Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media3.fl.yelpcdn.com/bphoto/2ugFadoNf8symzCAOJzZMg/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/color-me-mine-elk-grove-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Animal Place",
- "address": "17314 McCourtney Rd",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/xYOjdbrgEMiCd4oiD50HJg/o.jpg"
- ],
- "tags": [
-  "free",
+  "walking",
+  "history",
   "tour",
-  "tour"
+  "walk",
+  "family",
+  "walk",
+  "historic",
+  "parks"
  ],
  "link": [
-  "https://www.yelp.com/biz/animal-place-grass-valley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142512-Reviews-Old_City_Cemetery-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Root Of Happiness",
- "address": "211 F St",
+ "name": "Sacramento Convention Center",
+ "address": "1400 J St",
  "avg_visitor_review": [
-  4.5
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/ghOFKwc_7QPsECMoOJnFmA/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/root-of-happiness-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fountains at Roseville",
- "address": "1013 Galleria Blvd",
- "avg_visitor_review": [
-  4.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media1.fl.yelpcdn.com/bphoto/xjbd11rGVypY-nVpqJ3ypA/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f7/44/sacramento-convention.jpg"
  ],
  "tags": [
+  "drink",
+  "food",
+  "eat",
   "family",
+  "food"
+ ],
+ "link": [
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d1419963-Reviews-Sacramento_Convention_Center-Sacramento_California.html"
+ ],
+ "source": [
+  "TripAdvisor"
+ ],
+ "reviews": []
+},{
+ "name": "California Museum",
+ "address": "1020 O St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.4,
+  "3.5"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9991ff98-9333-11ea-8af3-14b31f159f22.png",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0f/62/61/3b/california-museum-at.jpg"
+ ],
+ "tags": [
+  "history",
+  "family",
+  "kids",
+  "family",
+  "walk",
+  "historic",
+  "walking"
+ ],
+ "link": [
+  [
+   "https://www.tripadvisor.com/Attraction_Review-g32999-d127643-Reviews-California_Museum-Sacramento_California.html"
+  ],
+  "https://maps.google.com/?cid=11483930431888689310"
+ ],
+ "source": [
+  [
+   "TripAdvisor"
+  ],
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Wells Fargo Museum",
+ "address": "1000 2nd St Old Sacramento",
+ "avg_visitor_review": [
+  "4.0"
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://media-cdn.tripadvisor.com/media/photo-s/08/94/58/c9/wells-fargo-history-museum.jpg"
+ ],
+ "tags": [
+  "history",
+  "free",
+  "history",
+  "free",
+  "learn",
+  "history",
+  "history",
   "walk"
  ],
  "link": [
-  "https://www.yelp.com/biz/fountains-at-roseville-roseville-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d127636-Reviews-Wells_Fargo_Museum-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
- "name": "Laguna Shooting Center",
- "address": "2220 Kausen Dr",
+ "name": "Arden Fair",
+ "address": "",
  "avg_visitor_review": [
-  4.0
+  "4.0"
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://s3-media4.fl.yelpcdn.com/bphoto/m7HZY_8b7q34Di19lVzs9Q/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/laguna-shooting-center-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Fizz",
- "address": "615 David J Stern Walk",
- "avg_visitor_review": [
-  4.5
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/6W7ifE7B8CPuC8gRbbKjHQ/o.jpg"
- ],
- "tags": [],
- "link": [
-  "https://www.yelp.com/biz/fizz-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
- ],
- "source": [
-  "Yelp"
- ],
- "reviews": []
-},{
- "name": "Psychic Universe",
- "address": "3104 O St",
- "avg_visitor_review": [
-  5.0
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://s3-media2.fl.yelpcdn.com/bphoto/ENpOXGWIxDLlrxwgmFcU5A/o.jpg"
+  "https://media-cdn.tripadvisor.com/media/photo-s/02/90/3e/3d/filename-411217-10150994202616.jpg"
  ],
  "tags": [
-  "free"
+  "food",
+  "eat",
+  "history",
+  "food"
  ],
  "link": [
-  "https://www.yelp.com/biz/psychic-universe-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+  "https://www.tripadvisor.com/Attraction_Review-g32999-d142924-Reviews-Arden_Fair-Sacramento_California.html"
  ],
  "source": [
-  "Yelp"
+  "TripAdvisor"
  ],
  "reviews": []
 },{
@@ -1742,794 +1675,3548 @@
  ],
  "reviews": []
 },{
- "name": "California State Railroad Museum",
- "address": "125 I St",
+ "name": "Old Sacramento Waterfront District",
+ "address": "1014 2nd St #200, Sacramento, CA 95814, USA",
  "avg_visitor_review": [
-  "5.0"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/2f/65/68/a-large-attractive-bldg.jpg"
+  "GoogleMapsPhotoLibrary/94197e50-9333-11ea-a36a-14b31f159f22.png"
  ],
  "tags": [
-  "history",
-  "kids",
+  "walk",
   "family",
-  "historic",
-  "history",
-  "field",
-  "history",
-  "kids",
   "tour",
   "history",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d102772-Reviews-California_State_Railroad_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Crocker Art Museum",
- "address": "216 O St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/47/71/16/historic-crocker-mansion.jpg"
- ],
- "tags": [
-  "art",
-  "art",
-  "family",
+  "kids",
+  "eat",
+  "walk",
+  "eat",
+  "history",
+  "eat",
   "structure",
-  "art",
-  "music",
-  "art",
-  "music",
-  "free",
-  "art",
-  "art",
-  "family",
-  "free",
-  "history",
-  "art",
-  "historic",
-  "art",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d105182-Reviews-Crocker_Art_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "California State Capitol Museum",
- "address": "1315 10th St Room B-27",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/03/82/44/8a/california-capitol.jpg"
- ],
- "tags": [
   "walk",
-  "historic",
-  "free",
-  "tour",
-  "free",
-  "walking",
-  "family",
-  "tour",
-  "art",
-  "history",
-  "history",
-  "field",
-  "tour",
-  "tour",
-  "walk",
-  "historic",
-  "free",
-  "tour",
-  "free",
-  "wander",
-  "tour",
-  "tour"
+  "kids"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d219610-Reviews-California_State_Capitol_Museum-Sacramento_California.html"
+  "https://maps.google.com/?cid=15253741825792373872"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Old Sacramento",
- "address": "1002 2nd St",
+ "name": "Sutter's Fort State Historic Park",
+ "address": "2701 L St, Sacramento, CA 95816, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.5,
+  4.5
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/84/fa/82/main-street-of-old-sacramento.jpg"
+  "https://s3-media2.fl.yelpcdn.com/bphoto/x0w6cYm4emp4LY3lzL2kTg/o.jpg",
+  "GoogleMapsPhotoLibrary/9603f59e-9333-11ea-80f4-14b31f159f22.png"
  ],
  "tags": [
-  "kids",
-  "walking",
-  "walk",
-  "walk",
-  "eat",
-  "family",
-  "kids",
-  "walking",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d102771-Reviews-Old_Sacramento-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "American River Bicycle Trail",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/68/1b/7d/filename-img-1666-jpg.jpg"
- ],
- "tags": [
-  "nature",
-  "walking",
-  "unique",
-  "parks",
-  "walk",
-  "parks"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142861-Reviews-American_River_Bicycle_Trail-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Cathedral of the Blessed Sacrament",
- "address": "1019 11th St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/07/1b/f3/ac/amazing.jpg"
- ],
- "tags": [
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d564705-Reviews-Cathedral_of_the_Blessed_Sacrament-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Sutter\u2019s Fort State Historic Park",
- "address": "2701 L St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/16/fb/26/5c/photo1jpg.jpg"
- ],
- "tags": [
-  "historic",
   "history",
-  "history",
-  "historic",
-  "eat",
-  "history",
-  "kids",
-  "history",
-  "learn",
-  "history",
-  "kids",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d102770-Reviews-Sutter_s_Fort_State_Historic_Park-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Sacramento Zoo",
- "address": "3930 W Land Park Dr",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/01/e2/31/d5/tiger-1-he-was-far-enough.jpg"
- ],
- "tags": [
-  "unique",
-  "family",
-  "kids",
+  "tour",
   "knowledgeable",
-  "affordable",
+  "historic",
+  "unique",
+  "kids"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=17280317289212065050"
+  ],
+  "https://www.yelp.com/biz/sutters-fort-state-historic-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "William Land Regional Park",
+ "address": "3800 W Land Park Dr, Sacramento, CA 95822, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/96c0400a-9333-11ea-814d-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "walking",
+  "field",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16981455694722865729"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fairytale Town",
+ "address": "3901 Land Park Dr, Sacramento, CA 95822, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/97394292-9333-11ea-8ab6-14b31f159f22.png"
+ ],
+ "tags": [
   "walk",
-  "eat",
-  "free",
+  "kids",
+  "creative",
+  "kids",
+  "walk",
+  "kids",
+  "affordable",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1554805342647957096"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "California State Capitol Park",
+ "address": "1300 L St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/98714c92-9333-11ea-87ec-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "family",
   "walk"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127615-Reviews-Sacramento_Zoo-Sacramento_California.html"
+  "https://maps.google.com/?cid=5243745298811035407"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Leland Stanford Mansion State Historic Park",
- "address": "cnr of 8th and 'N' Sts cnr of 8th and 'N' Sts, Sacramento, California",
+ "name": "State Indian Museum",
+ "address": "2618 K St, Sacramento, CA 95816, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/64/37/46/leland-stanford-mansion.jpg"
+  "GoogleMapsPhotoLibrary/99e1316e-9333-11ea-9888-14b31f159f22.png"
  ],
  "tags": [
-  "tour",
-  "knowledgeable",
-  "tour",
-  "tour",
   "history",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12160493566533878444"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Discovery Park",
+ "address": "1600 Garden Hwy, Sacramento, CA 95833, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9a49b8a4-9333-11ea-86e9-14b31f159f22.png"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6608359273538838528"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Powerhouse Science Center",
+ "address": "3615 Auburn Blvd, Sacramento, CA 95821, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b06a192-9333-11ea-8890-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7410459183606639728"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "River Walk Park",
+ "address": "651 2nd St, West Sacramento, CA 95605, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9b5d2582-9333-11ea-bc1b-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "free",
+  "walk",
+  "walking",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10897376119093369278"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fredrick N. Evans Rose Garden | McKinley Park",
+ "address": "3255 H St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9bb8ca28-9333-11ea-beb8-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10004303626528593950"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Old Sugar Mill",
+ "address": "35265 Willow Ave, Clarksburg, CA 95612, USA",
+ "avg_visitor_review": [
+  4.0,
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/XwlCcpHxZ1tIKbd_5JpQFQ/o.jpg",
+  "GoogleMapsPhotoLibrary/9c1606c6-9333-11ea-b313-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "winery",
+  "tasting",
+  "kids",
+  "food",
+  "eat"
+ ],
+ "link": [
+  [
+   "https://maps.google.com/?cid=822544920457326505"
+  ],
+  "https://www.yelp.com/biz/old-sugar-mill-clarksburg?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sacramento RiverTrain",
+ "address": "400 N Harbor Blvd, West Sacramento, CA 95605, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9c85c3e8-9333-11ea-ade8-14b31f159f22.png"
+ ],
+ "tags": [
+  "tasting",
+  "music",
+  "food",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12629213574916730842"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Scandia Fun Center",
+ "address": "5070 Hillsdale Blvd, Sacramento, CA 95842, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9d44ef52-9333-11ea-93e0-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "kids",
+  "family",
+  "kids",
+  "free",
+  "food",
   "free"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d531943-Reviews-Leland_Stanford_Mansion_State_Historic_Park-Sacramento_California.html"
+  "https://maps.google.com/?cid=11134347639740409132"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "California Automobile Museum",
- "address": "2200 Front St",
+ "name": "Swanston Splash Park",
+ "address": "2350 Northrop Ave, Sacramento, CA 95825, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/42/7b/a5/early-elegance.jpg"
+  "GoogleMapsPhotoLibrary/9db564dc-9333-11ea-a001-14b31f159f22.png"
  ],
  "tags": [
-  "knowledgeable",
-  "unique",
-  "walk",
-  "knowledgeable",
-  "eat",
-  "walking",
-  "unique",
-  "tour",
-  "tour",
-  "history",
-  "knowledgeable"
+  "field",
+  "kids",
+  "structure",
+  "kids",
+  "family",
+  "pets"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127612-Reviews-California_Automobile_Museum-Sacramento_California.html"
+  "https://maps.google.com/?cid=2692970662869892358"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "William Land Park",
- "address": "1702 Sutterville Rd",
+ "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+ "address": "3130 Bradshaw Rd, Sacramento, CA 95827, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.3
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/16/0a/35/fb/william-land-park.jpg"
+  "GoogleMapsPhotoLibrary/9e1eae28-9333-11ea-a935-14b31f159f22.png"
  ],
  "tags": [
-  "kids",
-  "theatre",
-  "learn",
-  "walking",
-  "kids",
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18088301146301519307"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "John C. Fremont Park",
+ "address": "1515 Q St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/9e6b95f4-9333-11ea-a899-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
   "walking",
   "kids"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d128260-Reviews-William_Land_Park-Sacramento_California.html"
+  "https://maps.google.com/?cid=8683370967494108768"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Tower Bridge",
- "address": "342 L Street",
+ "name": "Raging Waters Sacramento",
+ "address": "1600 Exposition Blvd, Sacramento, CA 95815, USA",
  "avg_visitor_review": [
-  "4.0"
+  3.8
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0b/3f/2d/08/tower-bridge-sacramento.jpg"
- ],
- "tags": [
-  "walk",
-  "walking",
-  "tour",
-  "historic",
-  "history",
-  "walk",
-  "learn",
-  "structure",
-  "eat",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d6394988-Reviews-Tower_Bridge-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Funderland Park",
- "address": "1350 17th Ave",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/a4/d1/f5/park-entrance.jpg"
+  "GoogleMapsPhotoLibrary/9f4ca7a8-9333-11ea-b149-14b31f159f22.png"
  ],
  "tags": [
   "kids",
   "food",
-  "walk",
+  "cheap",
+  "family",
+  "food",
   "kids",
-  "kids",
-  "walk",
-  "kids",
-  "kids",
-  "free",
-  "kids",
+  "cheap",
   "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d630581-Reviews-Funderland_Park-Sacramento_California.html"
+  "https://maps.google.com/?cid=1161378912808127314"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Golden 1 Center",
- "address": "500 David J Stern Walk",
+ "name": "East Portal Park",
+ "address": "1120 Rodeo Way, Sacramento, CA 95819, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.6
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/10/f6/67/3d/this-is-the-picture-of.jpg"
+  "GoogleMapsPhotoLibrary/9f99684a-9333-11ea-abea-14b31f159f22.png"
  ],
  "tags": [
-  "eat",
-  "drink",
-  "eat",
-  "drink",
-  "walking",
-  "food",
-  "food",
-  "drink",
-  "delicious"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d11662834-Reviews-Golden_1_Center-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "American River Parkway",
- "address": "Discovery Park to Hazel Avenue 4,800-acres of Public Park Along 23 Miles of River",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0a/01/34/96/photo1jpg.jpg"
- ],
- "tags": [
+  "kids",
   "family",
-  "parks",
-  "nature",
-  "free",
-  "nature",
-  "walking",
-  "parks",
-  "walking",
-  "walk",
-  "walking"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d128282-Reviews-American_River_Parkway-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Sacramento History Museum",
- "address": "101 I St Open Seven Days A Week",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0d/05/70/02/sacramento-history-museum.jpg"
- ],
- "tags": [
-  "history",
-  "history",
-  "kids",
-  "tour",
-  "knowledgeable",
-  "tour",
-  "history",
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d3539208-Reviews-Sacramento_History_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Loch Leven Lakes Trail",
- "address": "",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/5f/be/56/loch-leven-lakes-trail.jpg"
- ],
- "tags": [
-  "hike",
-  "hike",
-  "hike",
-  "hike"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142481-Reviews-Loch_Leven_Lakes_Trail-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Old Sacramento Schoolhouse Museum",
- "address": "1200 Front St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/06/dd/cf/3f/old-sacramento-schoolhouse.jpg"
- ],
- "tags": [
-  "walk",
-  "history",
-  "history",
-  "history"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d6740457-Reviews-Old_Sacramento_Schoolhouse_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "California State Indian Museum",
- "address": "2618 K St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/13/56/43/de/20180617-170935-largejpg.jpg"
- ],
- "tags": [
-  "walk",
-  "history",
-  "historic",
-  "kids",
-  "eat",
-  "learn",
-  "knowledgeable",
-  "walk",
-  "history",
-  "historic",
-  "kids",
-  "eat",
-  "learn",
-  "knowledgeable"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127632-Reviews-California_State_Indian_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Governor's Mansion",
- "address": "1526 H St",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/04/24/6c/c1/governor-s-mansion.jpg"
- ],
- "tags": [
-  "tour",
-  "free",
-  "walk",
-  "tour",
-  "history",
-  "tour",
-  "parks",
-  "walk",
-  "history",
-  "tour",
-  "parks",
-  "tour",
-  "family",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127626-Reviews-Governor_s_Mansion-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "California Exposition & State Fair",
- "address": "1600 Exposition Blvd",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/b1/ea/0d/from-far.jpg"
- ],
- "tags": [
-  "free",
-  "cheap",
-  "nature",
-  "walk",
-  "food",
-  "parks",
-  "art",
-  "history",
-  "food",
-  "kids",
-  "food",
-  "kids",
-  "tasting"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d1418614-Reviews-California_Exposition_State_Fair-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "The B Street Theatre",
- "address": "2711 B St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f5/3f/the-b-street-theatre.jpg"
- ],
- "tags": [
-  "theatre",
-  "theatre",
-  "music",
-  "theatre",
-  "theatre",
-  "theatre",
-  "music",
-  "theatre",
-  "unique"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142815-Reviews-The_B_Street_Theatre-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "California Musical Theatre",
- "address": "1419 H St",
- "avg_visitor_review": [
-  "4.5"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/18/c0/67/20/photo1jpg.jpg"
- ],
- "tags": [
-  "performance",
-  "theatre",
-  "performance",
-  "theatre",
-  "creative",
   "music"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d4460158-Reviews-California_Musical_Theatre-Sacramento_California.html"
+  "https://maps.google.com/?cid=6232221424537422510"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Old City Cemetery",
- "address": "1000 Broadway",
+ "name": "Sutter's Landing Dog Park",
+ "address": "20 28th St, Sacramento, CA 95816, USA",
  "avg_visitor_review": [
-  "4.5"
+  4.3
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/62/c1/95/una-esperiencia-inolvidable.jpg"
+  "GoogleMapsPhotoLibrary/9fe58ca4-9333-11ea-83c3-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3616968734830525883"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Southside Park",
+ "address": "2115 6th St, Sacramento, CA 95818, USA",
+ "avg_visitor_review": [
+  4.5,
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/8KZUGmQZTiWRGvQ3IgcXBw/o.jpg",
+  "GoogleMapsPhotoLibrary/a036e122-9333-11ea-986c-14b31f159f22.png"
  ],
  "tags": [
   "walk",
   "walking",
-  "history",
-  "tour",
-  "walk",
+  "kids",
   "family",
-  "walk",
-  "historic",
-  "parks"
+  "parks",
+  "delicious"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142512-Reviews-Old_City_Cemetery-Sacramento_California.html"
+  [
+   "https://maps.google.com/?cid=13270338647500460689"
+  ],
+  "https://www.yelp.com/biz/southside-park-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
  ],
  "source": [
-  "TripAdvisor"
+  [
+   "GoogleMaps"
+  ],
+  "Yelp"
  ],
  "reviews": []
 },{
- "name": "Sacramento Convention Center",
- "address": "1400 J St",
+ "name": "Truitt Bark Park",
+ "address": "1818 Q St, Sacramento, CA 95811, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/f7/44/sacramento-convention.jpg"
+  "GoogleMapsPhotoLibrary/a07cc41e-9333-11ea-b963-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=1033400233903595356"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Museum of Medical History of the Sierra Sacramento Valley Medical Society",
+ "address": "5380 Elvas Ave, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a0da9c4c-9333-11ea-9278-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "learn",
+  "history",
+  "field"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3420595281311531569"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cesar Chavez Plaza",
+ "address": "910 I St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a1153412-9333-11ea-b773-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "library",
+  "walking",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11965970014328975112"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "North Natomas Regional Park",
+ "address": "4989 Natomas Blvd, Sacramento, CA 95835, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a17862ca-9333-11ea-950b-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "walking",
+  "kids",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6600637697089665875"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "California State Archives",
+ "address": "1020 O St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a1bff33a-9333-11ea-86b4-14b31f159f22.png"
+ ],
+ "tags": [
+  "history",
+  "learn",
+  "history"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6217981684959366623"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Shasta Community Park",
+ "address": "7407 Imagination Pkwy, Sacramento, CA 95823, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a20efdd0-9333-11ea-946c-14b31f159f22.png"
+ ],
+ "tags": [
+  "library",
+  "structure",
+  "field",
+  "library",
+  "field"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9256175901176920998"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Garcia Bend Park",
+ "address": "7654 Pocket Rd, Sacramento, CA 95831, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a260c79c-9333-11ea-97ea-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "family",
+  "kids",
+  "family",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1541911654827959529"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Effie Yeaw Nature Center",
+ "address": "2850 San Lorenzo Way, Carmichael, CA 95608, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a2afc118-9333-11ea-8b6f-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "walk",
+  "family",
+  "free",
+  "hike",
+  "kids",
+  "nature",
+  "walk",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=789343853855929792"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sacramento Children's Museum",
+ "address": "2701 Prospect Park Dr, Rancho Cordova, CA 95670, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a2fb372e-9333-11ea-a308-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15104424772155538293"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Crocker Museum Parking",
+ "address": "2nd St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3485c9c-9333-11ea-b1ce-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "unique",
+  "art"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5297468138705250332"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Glenn Hall Park",
+ "address": "5415 Sandburg Dr, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a39236e4-9333-11ea-b93b-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "kids",
+  "food",
+  "walk",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8961910427815339717"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "McClatchy Park",
+ "address": "3500 5th Ave, Sacramento, CA 95817, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a3e33d8a-9333-11ea-b04c-14b31f159f22.png"
+ ],
+ "tags": [
+  "walking",
+  "family",
+  "food",
+  "music",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16181549773739951775"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Exit Strategy Games",
+ "address": "9833 Kent St, Elk Grove, CA 95624, USA",
+ "avg_visitor_review": [
+  4.9
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4429ba6-9333-11ea-af63-14b31f159f22.png"
+ ],
+ "tags": [
+  "pets"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6923543728477114692"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Miller Regional Park",
+ "address": "2701 Marina View Dr, Sacramento, CA 95818, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4880946-9333-11ea-9e98-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11976131073669494559"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "South Natomas Community Park",
+ "address": "2881 Truxel Rd, Sacramento, CA 95833, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a4dedc1e-9333-11ea-80db-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4032954067309391745"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Granite Regional Park",
+ "address": "8200 Ramona Ave, Sacramento, CA 95826, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a521d8cc-9333-11ea-ad56-14b31f159f22.png"
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=14335333687345977325"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jacinto Creek Park",
+ "address": "8600 W Stockton Blvd, Elk Grove, CA 95758, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a576baae-9333-11ea-8a0b-14b31f159f22.png"
+ ],
+ "tags": [
+  "parks",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2898956831812656186"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Franklin D. Roosevelt Park",
+ "address": "1615 9th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.2
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a5d0256c-9333-11ea-8f8e-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13188058692473487980"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "River Bend Park",
+ "address": "2300 Rod Beaudry Dr, Sacramento, CA 95827, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a6291c38-9333-11ea-832d-14b31f159f22.png"
+ ],
+ "tags": [
+  "hike",
+  "field",
+  "family",
+  "walking",
+  "kids",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13299131916403720630"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Jensen Garden Park",
+ "address": "8520 Fair Oaks Blvd #2504, Carmichael, CA 95608, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a67d7cc8-9333-11ea-aa84-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "walking",
+  "walk"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16892941792940698414"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bertha Henschel Park",
+ "address": "160 45th St, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a6c9c862-9333-11ea-86d1-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "kids",
+  "structure",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2520282942102896956"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "North Natomas Community Park",
+ "address": "1839 N Bend Dr, Sacramento, CA 95835, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a71a80b4-9333-11ea-bacc-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "walk",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11036858702759218556"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Sand Cove Park",
+ "address": "2005 Garden Hwy, Sacramento, CA 95833, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a793cf90-9333-11ea-92c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "cheap",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=18418416716734933467"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tanzanite Community Park",
+ "address": "2220 Tanzanite Avenue, Sacramento, CA 95834, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a7e37666-9333-11ea-adcc-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "nature",
+  "walking",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=629470903424847191"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Howe River Access",
+ "address": "7971 La Riviera Dr, Sacramento, CA 95826, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a83b81b6-9333-11ea-851d-14b31f159f22.png"
+ ],
+ "tags": [
+  "kids",
+  "kids",
+  "parks",
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8552954561972950516"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Kokomo Park",
+ "address": "4901 Kokomo Dr, Sacramento, CA 95835, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a89a43f0-9333-11ea-90fd-14b31f159f22.png"
+ ],
+ "tags": [
+  "field",
+  "family",
+  "walking"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3905020757990526479"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Oki Park",
+ "address": "2715 Wissemann Dr, Sacramento, CA 95826, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a8e35af6-9333-11ea-bd7a-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "kids",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16480946097406757310"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Underground Tours",
+ "address": "101 I St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  ""
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  ""
+ ],
+ "tags": [],
+ "link": [
+  "https://maps.google.com/?cid=5587770366607390174"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ancil Hoffman Park",
+ "address": "6700 Tarshes Dr, Carmichael, CA 95608, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a93c50a2-9333-11ea-9637-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "nature",
+  "food",
+  "walk",
+  "nature",
+  "family",
+  "nature"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14936912369318475925"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Firehouse",
+ "address": "1112 2nd St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a98c93a2-9333-11ea-a741-14b31f159f22.png"
  ],
  "tags": [
   "drink",
   "food",
   "eat",
+  "food",
+  "delicious",
+  "food",
+  "affordable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4308825681509741004"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Localis",
+ "address": "2031 S St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/a9d90650-9333-11ea-b9e1-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "tasting",
+  "food",
+  "delicious",
+  "knowledgeable",
+  "tasting",
+  "delicious",
+  "tasting",
+  "food",
+  "tasting"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=3414495589440294193"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mulvaney's B&L",
+ "address": "1215 19th St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aa2b6c5c-9333-11ea-994a-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "tasting",
+  "food",
+  "creative",
+  "delicious",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7899576876787695894"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Kitchen Restaurant",
+ "address": "2225 Hurley Way, Sacramento, CA 95825, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aa7ce7ba-9333-11ea-81dd-14b31f159f22.png"
+ ],
+ "tags": [
+  "eat",
+  "food",
+  "food",
+  "drink",
+  "food",
+  "unique",
+  "food",
+  "tasting",
+  "walking",
+  "eat",
+  "unique",
+  "food",
+  "foodie",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14106886741384964200"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Lucca",
+ "address": "1615 J St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aac0809e-9333-11ea-84a0-14b31f159f22.png"
+ ],
+ "tags": [
+  "music",
+  "delicious",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17258455834806891267"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bacon & Butter",
+ "address": "5913 Broadway, Sacramento, CA 95820, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ab127194-9333-11ea-9518-14b31f159f22.png"
+ ],
+ "tags": [
+  "organized",
+  "food",
+  "food",
+  "food",
+  "eat",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16334098121250348844"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Biba Restaurant",
+ "address": "2801 Capitol Ave, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ab571e86-9333-11ea-87b2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
   "family",
   "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d1419963-Reviews-Sacramento_Convention_Center-Sacramento_California.html"
+  "https://maps.google.com/?cid=17984189045659692349"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "California Museum",
- "address": "1020 O St",
+ "name": "Kru Contemporary Japanese Cuisine",
+ "address": "3135 Folsom Blvd, Sacramento, CA 95816, USA",
  "avg_visitor_review": [
-  "3.5"
+  4.7
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/0f/62/61/3b/california-museum-at.jpg"
+  "GoogleMapsPhotoLibrary/ab96bfca-9333-11ea-a0ca-14b31f159f22.png"
  ],
  "tags": [
-  "history",
-  "history",
-  "history",
-  "walk",
-  "history",
-  "historic",
-  "walking",
-  "history"
+  "food",
+  "knowledgeable",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "walking"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127643-Reviews-California_Museum-Sacramento_California.html"
+  "https://maps.google.com/?cid=11811366522740469602"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
  ],
  "reviews": []
 },{
- "name": "Wells Fargo Museum",
- "address": "1000 2nd St Old Sacramento",
+ "name": "South",
+ "address": "2005 11th St, Sacramento, CA 95818, USA",
  "avg_visitor_review": [
-  "4.0"
+  4.4
  ],
  "avg_time_spent": null,
  "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/08/94/58/c9/wells-fargo-history-museum.jpg"
- ],
- "tags": [
-  "history",
-  "free",
-  "history",
-  "free",
-  "learn",
-  "history",
-  "history",
-  "walk"
- ],
- "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d127636-Reviews-Wells_Fargo_Museum-Sacramento_California.html"
- ],
- "source": [
-  "TripAdvisor"
- ],
- "reviews": []
-},{
- "name": "Arden Fair",
- "address": "",
- "avg_visitor_review": [
-  "4.0"
- ],
- "avg_time_spent": null,
- "photo_location": [
-  "https://media-cdn.tripadvisor.com/media/photo-s/02/90/3e/3d/filename-411217-10150994202616.jpg"
+  "GoogleMapsPhotoLibrary/abe0e84a-9333-11ea-8149-14b31f159f22.png"
  ],
  "tags": [
   "food",
   "eat",
-  "history",
+  "food",
+  "food",
+  "food",
+  "family",
   "food"
  ],
  "link": [
-  "https://www.tripadvisor.com/Attraction_Review-g32999-d142924-Reviews-Arden_Fair-Sacramento_California.html"
+  "https://maps.google.com/?cid=11976946661895372883"
  ],
  "source": [
-  "TripAdvisor"
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tower Caf\u00e9",
+ "address": "1518 Broadway, Sacramento, CA 95818, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac2bad54-9333-11ea-b9c0-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17467647007537499128"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ella Dining Room & Bar",
+ "address": "1131 K St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ac7d01be-9333-11ea-801d-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "food",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17300120321353988894"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Cafeteria 15L",
+ "address": "1116 15th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/acbffe4c-9333-11ea-bdd9-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "family",
+  "eat",
+  "food",
+  "delicious",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15700142467618480941"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Il Fornaio",
+ "address": "Wells Fargo Center, 400 Capitol Mall, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad17949c-9333-11ea-9206-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "family",
+  "food",
+  "knowledgeable",
+  "food",
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16108666349360360117"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mayahuel",
+ "address": "1200 K St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ad5f9a36-9333-11ea-808c-14b31f159f22.png"
+ ],
+ "tags": [
+  "learn",
+  "knowledgeable",
+  "food",
+  "food",
+  "delicious",
+  "drink",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6722228718714225425"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Seasons 52 - Takeout & Delivery Available",
+ "address": "1689 Arden Way, Sacramento, CA 95815, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/adb9ea24-9333-11ea-807a-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "tour",
+  "free",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13133964754178194356"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ryujin Ramen House",
+ "address": "1831 S St #100, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae0bebf4-9333-11ea-80aa-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5120187166616658433"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mikuni | Midtown Sacramento",
+ "address": "1530 J St STE 150, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ae537b80-9333-11ea-8008-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "affordable",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=546996793465807736"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Tres Hermanas",
+ "address": "2416 K St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aea3e9ec-9333-11ea-8eb2-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "drink",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7964327952740155632"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Bangkok@12 Thai",
+ "address": "900 12th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/aeeeaec6-9333-11ea-9455-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7636942438402523213"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "A\u00efoli | Bodega Espa\u00f1ola",
+ "address": "1800 L St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/af3554e8-9333-11ea-8ae8-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "eat",
+  "food",
+  "music",
+  "delicious",
+  "food",
+  "eat",
+  "food",
+  "affordable",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4141554459402315687"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Rio City Cafe",
+ "address": "1110 Front St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/af8a555a-9333-11ea-90d6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "performance",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=2429984542036846162"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Dawson's Steakhouse",
+ "address": "1209 L St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/afed72ca-9333-11ea-9b09-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13669076535829048301"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Burgers and Brew",
+ "address": "1409 R St #105, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b0441fc6-9333-11ea-b9d1-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "structure",
+  "food",
+  "food",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7789769035650669353"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Canon | East Sacramento",
+ "address": "1719 34th St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b08f3198-9333-11ea-a999-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "delicious",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13486606481910076035"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Pilothouse",
+ "address": "1000 Front St #3231, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b0dba41c-9333-11ea-96fd-14b31f159f22.png"
+ ],
+ "tags": [
+  "walk",
+  "historic",
+  "music",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14085433736997093987"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Magpie Caf\u00e9",
+ "address": "1601 16th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b1283d9a-9333-11ea-8ecc-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "delicious",
+  "eat"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10249005004272975796"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frank Fat's",
+ "address": "806 L St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b17154be-9333-11ea-8178-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "delicious",
+  "history",
+  "art",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8222084348643122330"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Pushkin's Restaurant",
+ "address": "1813 Capitol Ave, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b1bf74ec-9333-11ea-856b-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "free",
+  "food",
+  "free",
+  "food",
+  "free"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=4968278957176335691"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Caf\u00e9 Rolle",
+ "address": "5357 H St, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b2061b0c-9333-11ea-87ed-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "delicious",
+  "walk",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14749383308921464942"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Paesanos Midtown",
+ "address": "1806 Capitol Ave, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b252dbca-9333-11ea-a91d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "free",
+  "food",
+  "music",
+  "delicious",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=12471758481082505616"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Mamma Susanna's Ristorante Italiano",
+ "address": "5487 Carlson Dr, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b2914474-9333-11ea-b54e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17156688979861896042"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Porch Restaurant & Bar",
+ "address": "1815 K St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b2d308ca-9333-11ea-8898-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "sampling",
+  "tasting",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11112432521410577067"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Fixins Soul Kitchen",
+ "address": "3428 3rd Ave, Sacramento, CA 95817, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b32f0b7a-9333-11ea-81c7-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=706499510659611245"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Empress Tavern",
+ "address": "1013 K St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b3b32ff8-9333-11ea-a7b5-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8676758340953247458"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Allora - Italian Restaurant",
+ "address": "5215 Folsom Blvd, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.8
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b4045d90-9333-11ea-beed-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walking",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=13172056962919010503"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Public House Downtown",
+ "address": "1132 16th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.3
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b4545274-9333-11ea-9654-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16853232613450279244"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Melting Pot - Sacramento",
+ "address": "814 15th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b49c3140-9333-11ea-b6e6-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food",
+  "delicious",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15176463785022977326"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Scott's Seafood on the River",
+ "address": "4800 Riverside Blvd, Sacramento, CA 95822, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b4dedf9e-9333-11ea-a76f-14b31f159f22.png"
+ ],
+ "tags": [
+  "frugal",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=1001237714312084911"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Zocalo Restaurant Midtown",
+ "address": "1801 Capitol Ave, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b5244d4a-9333-11ea-9de9-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "unique",
+  "eat",
+  "food",
+  "drink",
+  "food",
+  "food",
+  "delicious"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=10634976273381356455"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Hook and Ladder Manufacturing Company",
+ "address": "1630 S St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b56acc48-9333-11ea-a6b8-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "walk",
+  "eat",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7999967063206118367"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Selland's Market-Cafe East Sacramento",
+ "address": "5340 H St, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b5b283c0-9333-11ea-aa3b-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "delicious",
+  "eat",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=16536943771662239674"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Petra Greek",
+ "address": "1122 16th St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b5f95114-9333-11ea-b608-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "delicious",
+  "food",
+  "family",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17382637796955879687"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Rind",
+ "address": "1801 L St #40, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b63d168c-9333-11ea-ade7-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "sampling",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=191724803962776993"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Beast + Bounty",
+ "address": "1701 R St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b688ecc8-9333-11ea-8bcc-14b31f159f22.png"
+ ],
+ "tags": [
+  "unique",
+  "food",
+  "food",
+  "eat",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8088116232466330338"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Frankenwaffle",
+ "address": "1119 Alhambra Blvd, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b6dcb236-9333-11ea-a3b3-14b31f159f22.png"
+ ],
+ "tags": [
+  "knowledgeable",
+  "adventurous",
+  "food",
+  "food",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=17301783022190900781"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Plan B Restaurant",
+ "address": "555 La Sierra Dr, Sacramento, CA 95864, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b7230b6c-9333-11ea-a3c4-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=9873554848907085351"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Iron Horse Tavern",
+ "address": "1800 15th St, Sacramento, CA 95811, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b76ff318-9333-11ea-b38d-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8268656273988749765"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Binchoyaki",
+ "address": "2226 10th St, Sacramento, CA 95818, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b7c89986-9333-11ea-892e-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "eat",
+  "unique"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=6210665144539574572"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Ruth's Chris Steak House",
+ "address": "501 Pavilions Ln, Sacramento, CA 95825, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b8100d74-9333-11ea-9062-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8761612271716306543"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Yue Huang Restaurant",
+ "address": "3860 Truxel Rd, Sacramento, CA 95834, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b85aa9f6-9333-11ea-87c9-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "food",
+  "food",
+  "tasting",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11201680395126058971"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Claim Jumper Restaurants",
+ "address": "1111 J St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.1
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b8ae2164-9333-11ea-bd8e-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "drink",
+  "drink",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=8550487617887574972"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "El Novillero Restaurant",
+ "address": "4216 Franklin Blvd, Sacramento, CA 95820, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b907da36-9333-11ea-94a2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "family",
+  "food",
+  "food",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=7024779659322439060"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Espa\u00f1ol | Italian Restaurant",
+ "address": "5723 Folsom Blvd, Sacramento, CA 95819, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b94f43b4-9333-11ea-9a12-14b31f159f22.png"
+ ],
+ "tags": [
+  "family",
+  "eat",
+  "food",
+  "family",
+  "historic",
+  "food",
+  "food",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14016122678623749138"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Veg",
+ "address": "2431 J St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b9988238-9333-11ea-8efa-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "food",
+  "food",
+  "delicious",
+  "music"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11596873541539107259"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "La Trattoria Bohemia",
+ "address": "3649 J St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.7
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/b9e01292-9333-11ea-8ef2-14b31f159f22.png"
+ ],
+ "tags": [
+  "free",
+  "food",
+  "delicious",
+  "food",
+  "family"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5210646223740466303"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "PARAGARY\u2019S",
+ "address": "1401 28th St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ba3f70b6-9333-11ea-b365-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "music",
+  "delicious",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14688789438092656079"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Morton's The Steakhouse",
+ "address": "621 Capitol Mall, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/ba9224d0-9333-11ea-9983-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "food",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=15563778445890099694"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "The Red Rabbit Kitchen and Bar",
+ "address": "2718 J St, Sacramento, CA 95816, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/bb08668a-9333-11ea-87d6-14b31f159f22.png"
+ ],
+ "tags": [
+  "drink",
+  "food",
+  "eat",
+  "music",
+  "drink"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=14175224407522235114"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Foundation Restaurant & Bar",
+ "address": "400 L St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.4
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/bb5c2c12-9333-11ea-88b2-14b31f159f22.png"
+ ],
+ "tags": [
+  "food",
+  "delicious",
+  "food",
+  "knowledgeable",
+  "food",
+  "delicious",
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=5677275065133499595"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Backbone Caf\u00e9 | Organic Health Food Sacramento",
+ "address": "729 J St, Sacramento, CA 95814, USA",
+ "avg_visitor_review": [
+  4.6
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "GoogleMapsPhotoLibrary/bba2a046-9333-11ea-bc7f-14b31f159f22.png"
+ ],
+ "tags": [
+  "delicious",
+  "food",
+  "delicious",
+  "sampling",
+  "food",
+  "eat",
+  "food"
+ ],
+ "link": [
+  "https://maps.google.com/?cid=11669446604837847690"
+ ],
+ "source": [
+  "GoogleMaps"
+ ],
+ "reviews": []
+},{
+ "name": "Skeleton Key Rooms",
+ "address": "5322 Auburn Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/x9VXtyT3n3Wk9mKwUd01Kg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/skeleton-key-rooms-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SeaQuest Folsom",
+ "address": "430 Palladio Pkwy",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/RtWvRvD7nfurDgnvkW2pZw/o.jpg"
+ ],
+ "tags": [
+  "kids",
+  "learn"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/seaquest-folsom-folsom?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Scandia Family Fun Center",
+ "address": "5070 Hillsdale Blvd",
+ "avg_visitor_review": [
+  2.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Ytl1pJPlnpOPYMpLvwZGaA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "free",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/scandia-family-fun-center-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "California State Escape: Sacramento Escape Room",
+ "address": "5400 Power Inn Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/3zqml4kODWMzrKfBxnVVFw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/california-state-escape-sacramento-escape-room-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Thunder Valley Casino Resort",
+ "address": "1200 Athens Ave",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/SJBedgrPO8Nq2dpCIyEEWg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/thunder-valley-casino-resort-lincoln?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Bungee Adventures",
+ "address": "",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/GU7Wox-3mFrb8NGxF4ln1Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/bungee-adventures-sacramento-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Food Truck Cinema",
+ "address": "5880 Woodcreek Oak Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PpKd0skV8O6JmNVACZA0AQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/food-truck-cinema-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wacky Tacky",
+ "address": "7351 Galilee Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/OSYw4Q2Ke5uKaD1UUJMrGw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wacky-tacky-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "International World Peace Rose Gardens",
+ "address": "1317 15th St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/R8vM8HA3XWtc7azsCdM8HQ/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/international-world-peace-rose-gardens-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Jensen Botanical Gardens",
+ "address": "8520 Fair Oaks Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/rALapWKcbNZ6ZQrI4emUMA/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/jensen-botanical-gardens-carmichael?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Lazer X At Country Club Lanes",
+ "address": "2600 Watt Ave",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/Lcym-EcurYdDZRQX7JghfQ/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "kids",
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/lazer-x-at-country-club-lanes-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Handle District",
+ "address": "18th & L St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/PMW7vknQ1OefvM71aRS-2Q/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/handle-district-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Country Club Cinema",
+ "address": "2405 Butano Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/EHNjVlWHgXO5AMlwyepuSw/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/country-club-cinema-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Escape Sacramento",
+ "address": "1831 I St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/DCAcCnbZ1_x6noorQLFLoQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/escape-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Corbett's House of Horror",
+ "address": "46500 County Road 32B",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ldqwYFYsLfgS6Optbzbfzw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/corbetts-house-of-horror-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Golfland Sunsplash Roseville",
+ "address": "1893 Taylor Rd",
+ "avg_visitor_review": [
+  3.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/xcWBKOpn4bfESfbWsnmW0A/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/golfland-sunsplash-roseville-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "SACTOWN Bike Bus Tours",
+ "address": "1111 J St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/mbqlrdhT9IRPXp2WbbzA8g/o.jpg"
+ ],
+ "tags": [
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sactown-bike-bus-tours-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sauced BBQ & Spirits - Sacramento",
+ "address": "1028 7th St",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/7MmyWmbg4qo46JX15j96Bg/o.jpg"
+ ],
+ "tags": [
+  "eat"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sauced-bbq-and-spirits-sacramento-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Davis Farmers Market",
+ "address": "301 C St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/X19VauzGBASPjXE9oCG0Dw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/davis-farmers-market-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Denio's Roseville Farmers Market & Swap Meet",
+ "address": "1551 Vineyard Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/4fqudQoPaDqzAIKWgBQ7jQ/o.jpg"
+ ],
+ "tags": [
+  "family"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/denios-roseville-farmers-market-and-swap-meet-roseville?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "East Sacramento's Fab 40s Christmas Lights",
+ "address": "1232 43rd St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/wONjedpbVrQZQf5i3AQc_w/o.jpg"
+ ],
+ "tags": [
+  "unique"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/east-sacramentos-fab-40s-christmas-lights-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The California Museum",
+ "address": "1020 O St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/_x53F8LVxF858BBevC3fcQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-california-museum-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Naked Lounge Coffee House",
+ "address": "1111 H St",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/yydW-0JLMl6QzNTFCFj70g/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/the-naked-lounge-coffee-house-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Underground Tasting Room",
+ "address": "900 2nd St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/U1iGg02tzKOeUv6Z2L5W_w/o.jpg"
+ ],
+ "tags": [
+  "tasting",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-underground-tasting-room-sacramento-4?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Aj's Outdoor Adventures",
+ "address": null,
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/POyFKaqU3IwdGwb1XQhbrw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/ajs-outdoor-adventures-rio-linda?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Wake Island Waterpark",
+ "address": "7633 Locust Rd",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/cKpHX7wlkyIP7nivhIs5tQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/wake-island-waterpark-pleasant-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Aerospace Museum of California",
+ "address": "3200 Freedom Park Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/47rQouDiR6F3KW6Mr6V51g/o.jpg"
+ ],
+ "tags": [
+  "history",
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/aerospace-museum-of-california-mcclellan-park?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Cosumnes River Preserve",
+ "address": "13501 Franklin Blvd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/YJC6LfT20UGJt8LTU50I8A/o.jpg"
+ ],
+ "tags": [
+  "walk",
+  "walking",
+  "nature"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/cosumnes-river-preserve-galt-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sac Brew Bike",
+ "address": "1519 19th St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/7PmLgoeeCWo6aMQbaqvYdA/o.jpg"
+ ],
+ "tags": [
+  "music"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sac-brew-bike-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Kikkoman Foods, Inc.",
+ "address": "1000 Glenn Dr",
+ "avg_visitor_review": [
+  3.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/Mg6elHg3Z-oFiDL9rNLkJQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/kikkoman-foods-inc-folsom-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Northstar Park",
+ "address": "3434 Anderson Rd",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/IOQW7f9XjW6_7MYhdru9gA/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "walking",
+  "walk",
+  "field"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/northstar-park-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Sand Cove Beach",
+ "address": "2005 Garden Hwy",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/baK8rfYlS2AMFxT7sLOs9w/o.jpg"
+ ],
+ "tags": [
+  "kids"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/sand-cove-beach-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Flatstick Pub",
+ "address": "630 K St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/CVFOiAlP3qIMXk38dJxOBQ/o.jpg"
+ ],
+ "tags": [
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/flatstick-pub-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Dolphin Scuba Center",
+ "address": "1530 El Camino Ave",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/-oT5JemQNzyuBpXOfeKceA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "knowledgeable"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/dolphin-scuba-center-sacramento-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Elk Grove Giant Pumpkin Festival",
+ "address": "9950 Elk Grove Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/TK6vgkV10ZERJImCrwoipg/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/elk-grove-giant-pumpkin-festival-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Topgolf",
+ "address": "1700 Freedom Way",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/52eBqbwdbWsEeOjyULNYLw/o.jpg"
+ ],
+ "tags": [
+  "food"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/topgolf-roseville-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Napa Valley Aloft Balloon Rides",
+ "address": "6525 Washington St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/_EcajgaGoe2WABXlgIWuZw/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/napa-valley-aloft-balloon-rides-yountville-5?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "The Tower Theatre",
+ "address": "2508 Land Park Dr.",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/eN12Sd7yGYQxbeeWAmkg8A/o.jpg"
+ ],
+ "tags": [
+  "theatre"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/the-tower-theatre-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Color Me Mine",
+ "address": "7440 Laguna Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media3.fl.yelpcdn.com/bphoto/2ugFadoNf8symzCAOJzZMg/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/color-me-mine-elk-grove-2?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Animal Place",
+ "address": "17314 McCourtney Rd",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/xYOjdbrgEMiCd4oiD50HJg/o.jpg"
+ ],
+ "tags": [
+  "free",
+  "tour",
+  "tour"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/animal-place-grass-valley?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Root Of Happiness",
+ "address": "211 F St",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/ghOFKwc_7QPsECMoOJnFmA/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/root-of-happiness-davis?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fountains at Roseville",
+ "address": "1013 Galleria Blvd",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media1.fl.yelpcdn.com/bphoto/xjbd11rGVypY-nVpqJ3ypA/o.jpg"
+ ],
+ "tags": [
+  "family",
+  "walk"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/fountains-at-roseville-roseville-3?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Laguna Shooting Center",
+ "address": "2220 Kausen Dr",
+ "avg_visitor_review": [
+  4.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media4.fl.yelpcdn.com/bphoto/m7HZY_8b7q34Di19lVzs9Q/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/laguna-shooting-center-elk-grove?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Fizz",
+ "address": "615 David J Stern Walk",
+ "avg_visitor_review": [
+  4.5
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/6W7ifE7B8CPuC8gRbbKjHQ/o.jpg"
+ ],
+ "tags": [],
+ "link": [
+  "https://www.yelp.com/biz/fizz-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
+ ],
+ "reviews": []
+},{
+ "name": "Psychic Universe",
+ "address": "3104 O St",
+ "avg_visitor_review": [
+  5.0
+ ],
+ "avg_time_spent": null,
+ "photo_location": [
+  "https://s3-media2.fl.yelpcdn.com/bphoto/ENpOXGWIxDLlrxwgmFcU5A/o.jpg"
+ ],
+ "tags": [
+  "free"
+ ],
+ "link": [
+  "https://www.yelp.com/biz/psychic-universe-sacramento?adjust_creative=Fev0Mtz4wa95EV0r5wnFlg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Fev0Mtz4wa95EV0r5wnFlg"
+ ],
+ "source": [
+  "Yelp"
  ],
  "reviews": []
 }]
