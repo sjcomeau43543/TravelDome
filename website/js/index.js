@@ -223,10 +223,16 @@ function loadData() {
         for(var i=0; i<comma_response.length; i++){
             locations.push(comma_response[i].replace(/ /g, "").replace(/,/g, ""));
         }
+        var times = 0;
         var timeout = setInterval(function(){
-            clearInterval(timeout);
-            done_locations=1;
-        }, 500);
+            if(times === 5){
+                clearInterval(timeout);
+                done_locations=1;
+            } else {
+                times = times + 1;
+                console.log(times);
+            }
+        }, 100);
     });
 
 
@@ -237,19 +243,21 @@ function loadData() {
             clearInterval(timeout);
 
             // get data
+            console.log("merged", locations);
             for(var i=0; i<locations.length; i++){
                 loadFile("data/Merged/"+locations[i].replace(/,/g, "")+".json", function(response) {
                     merged_location_data.push(JSON.parse(response));
                 });
             }
-            // get data
-            for(var i=0; i<locations.length; i++){
-                loadFile("data/InvertedIndex/invertedindex_"+locations[i].replace(/,/g, "")+".json", function(response) {
-                    inverted_index.push(JSON.parse(response));
-                });
-            }
+
+        }
+    }, );
+    var timeout = setInterval(function(){
+        if(done_locations){
+            clearInterval(timeout);
 
             // get data
+            console.log("cluster", locations);
             for(var i=0; i<locations.length; i++){
                 loadFile("data/Cluster/neighbors"+locations[i].replace(/,/g, "")+".json", function(response) {
                     cluster_recommendations.push(JSON.parse(response));
@@ -257,7 +265,20 @@ function loadData() {
             }
 
         }
-    }, 100); 
+    }, 500);
+    var timeout = setInterval(function(){
+        if(done_locations){
+            clearInterval(timeout);
+
+            // get data
+            console.log("ii", locations);
+            for(var i=0; i<locations.length; i++){
+                loadFile("data/InvertedIndex/invertedindex_"+locations[i].replace(/,/g, "")+".json", function(response) {
+                    inverted_index.push(JSON.parse(response));
+                });
+            }
+        }
+    }, 500);
 
 }
 
@@ -470,6 +491,7 @@ function queryCluster(originalActivity){
     var recommendations = [];
 
     // get recommendation names
+    console.log(USERdestination, index, cluster_recommendations);
     for(var i=0; i<recommendations_scored.length; i++){
         for(var j=0; j<merged_location_data[index].length; j++){
             if (recommendations_scored[i][0] == merged_location_data[index][j].name){
@@ -503,7 +525,7 @@ function queryII(destination, personality) {
     }
 
     // get inverted index recommendations
-    var index = locations.indexOf(USERdestination);
+    var index = locations.indexOf(destination);
     var activities_ii = [];
     var temp = {};
     for(var k=0; k<query_terms.length; k++){
@@ -513,8 +535,7 @@ function queryII(destination, personality) {
         }
     }
 
-    // filter on location
-    var index = locations.indexOf(destination);
+    // get data for location
     var activities_results = [];
     for(var i=0; i<activities_ii.length; i++){
         for(var j=0; j<merged_location_data[index].length; j++){
@@ -524,6 +545,7 @@ function queryII(destination, personality) {
             }
         }
     }
+    console.log(activities_results);
 
     // remove duplicates
     // location.tags: fun, funny, this would return this location twice
@@ -534,6 +556,7 @@ function queryII(destination, personality) {
             activities_results_cleaned.push(activities_results[i]);
         }
     }
+    console.log(activities_results_cleaned);
 
     return activities_results_cleaned;
 }
@@ -793,6 +816,7 @@ function generateRecommendations(){
     var recommendations = queryII(USERdestination, USERadjectives);
 
     // rank the recommendations
+    console.log(recommendations);
     recommendations = rank(recommendations);
 
     // return top 10 at a time
