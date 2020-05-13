@@ -4,6 +4,22 @@ Welcome to TravelDome, a multi-activity itinerary generator with personality mat
 
 Created by: Samantha Comeau, Eda Zhou and Gordon Zhang.
 
+## Structure
+
+| directory | purpose |
+|-----------|---------|
+| ./data    | store the activity, cluster, inverted index data|
+| ./data_manipulation | scripts to manipulate the raw data scraped |
+| ./GoogleMapsPhotoLibrary | the images from google maps |
+| ./quality | output of the quality script to be analyzed manually |
+| ./scrapers | all the information for the scraping scripts |
+| ./visualizations | some intermediate visualizations used to analyze the frequency of our adjectives |
+| ./website | the design and backend for the website |
+| .gitignore | the gitignore |
+| index.html | the main file loaded as the bones of the website |
+| README.md | this readme |
+| requirements.txt | the required python packages for running the scripts. We used Python3.6 |
+
 ## Setup virtual environment
 Create a python virtualenvironment using the following commands.
 
@@ -31,6 +47,10 @@ python3 ../secure_server/secure_server.py -d .
 ```
 
 Then you can access the website at 127.0.0.1:7001 by default.
+
+## Data
+
+You can find all of our integral data in the `data` directory. Each directory is clearly labelled as the source / meaning of the data. The `GoogleMapsPhotoLibrary` are the photos from GoogleMaps. Yelp, TripAdvisor, and NPS provided image urls which were used to display those images.
 
 ## Data Collection
 
