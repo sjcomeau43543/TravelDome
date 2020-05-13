@@ -4,6 +4,16 @@ Welcome to TravelDome, a multi-activity itinerary generator with personality mat
 
 Created by: Samantha Comeau, Eda Zhou and Gordon Zhang.
 
+## Key takeaways
+There were two main goals to this project.
+
+1. to create a place to store multiple activities
+2. to match a user's personality to the activities that they would like most
+
+We consider the first a success. We successfully created a place for users to easily see and change their itinerary for a trip with no sponsored ads, and a simple UI that focuses on the activities themselves. We didn't bog the UI with reviews, and other data, but provided a link to multiple sources where the user can find more information instead. We maintained our simplistic UI but accomplished this goal at the same time.
+
+We consider the second a success as well. Using reviews to match the user's personality was a success because we believe that due to the adjectives success in describing the locations we were able to recommend lesser known activities to the user. Rather than seeing the UI bogged with chains like Taco Bell, the user rather gets a better recommendation and the opportunity to support a smaller business in most cases. The main area of improvement in this section would be to quality test the results better. Comparing these results to an existing engine does not do it justice, since many engines do not handle adjectives well. For example, compared to Google we successfully recommended 1/5 of the places that Google would have recommended to the user.
+
 ## Structure
 
 | directory | purpose |
