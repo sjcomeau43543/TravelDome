@@ -1,5 +1,37 @@
 # TravelDome
 
+Welcome to TravelDome, a multi-activity itinerary generator with personality matching.
+
+Created by: Samantha Comeau, Eda Zhou and Gordon Zhang.
+
+## Setup virtual environment
+Create a python virtualenvironment using the following commands.
+
+```
+python3 -m pip install virtualenv
+mkdir TravelDome/venv
+python3 -m venv TravelDome/venv
+cd TravelDome
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+This will install the required packages for running the scrapers and the rest of the data.
+
+### Optional
+To run a local instance of the website you can do the following.
+
+1. Change the flag for production in website/js/index.js to false.
+2. Run the following
+
+```
+git clone https://github.com/sjcomeau43543/secure_server
+cd TravelDome
+python3 ../secure_server/secure_server.py -d .
+```
+
+Then you can access the website at 127.0.0.1:7001 by default.
+
 ## Data Collection
 
 ### Scrape data
@@ -13,7 +45,7 @@ python3 scrape.py -y -c YELPCONFIG -n -g -t -l locations.txt -o
 ```
 
 The yelp configuration for the REST API is not provided on github, since this is a public repository. 
-
+To gain your own Yelp credentials apply for an application on the Fusion developers website.
 
 ## Data Manipulation
 
@@ -49,7 +81,7 @@ The inverted index is only used for the first round of results to the user. Usin
 
 This script will vectorize the activities in the `data/Merged` folder as vectors of the adjectives with 1 if the activity has that adjective as a tag and 0 otherwise. Then the euclidean distances are calculated between all of the activities and pre-recorded so that this does not have to be calculated during query time. The results are stored in `data/Cluster`. A sample run looks like 
 ```
-python3 clustering.py -e ../scrapers/adjectives_extended.txt -n 5
+python3 clustering.py -l ../scrapers/locations.txt -e ../scrapers/adjectives_extended.txt -n 5
 ```
 
 ## Website 
